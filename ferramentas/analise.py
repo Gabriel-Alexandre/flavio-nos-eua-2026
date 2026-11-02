@@ -173,7 +173,7 @@ def e5():
     return {"n": len(f), "por_tipo": dict(Counter(x["tipo"] for x in f)), "maior_alvo_sem_aval": {"pais": maior["pais"], "ano": maior["ano"], "pop_mi": maior["populacao_alvo_mi"]},
             "brasil_pop_mi": 214, "razao_brasil_maior_alvo": round(214 / maior["populacao_alvo_mi"], 1), "sinais_antes_venezuela": len(s["sinais_antes_da_captura"]),
             "tipos_de_sinal": len(s["tipos_de_sinal"]), "sinais_brasil": dict(tipos),
-            "dias_antes_da_captura": {x["tipo"]: (date(2026, 1, 3) - date.fromisoformat(x["data"] if len(x["data"]) == 10 else x["data"] + "-01")).days for x in reversed(s["sinais_antes_da_captura"])},
+            "dias_antes_da_captura": {x["tipo"]: (date(2026, 1, 3) - date.fromisoformat(x["data"] if len(x["data"]) == 10 else x["data"] + "-01")).days for x in reversed(s["sinais_antes_da_captura"]) if "abre caminho" not in x["sinal"]},
             "tabela_sinais": [{"tipo": t["tipo"], "brasil": t["brasil_hoje"]} for t in s["tipos_de_sinal"]],
             "tabela_forca": [{"ano": x["ano"], "pais": x["pais"], "tipo": x["tipo"], "pop": x.get("populacao_alvo_mi"), "aval": x.get("aval_local")} for x in f]}
 

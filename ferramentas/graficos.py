@@ -61,7 +61,7 @@ def g02_quem_fez_o_que():
     linhas = [("A entrada nos EUA", "Trump decidiu. Rubio disse em público:\n\"he would be paroled\"", "dito pelo governo", VERDE),
               ("O jato da Argentina", "Assessor da Casa Branca, segundo\nReuters, NYT e WSJ. Pago por conta americana", "apuração da imprensa", OURO),
               ("A passagem pela Argentina", "Escolta e veículo oficial vistos por repórter.\nGoverno diz: \"entrou por Migraciones\"", "agentes argentinos no local", OURO),
-              ("A saída do Brasil", "Sem registro na PF.\nNenhuma prova de americano nesse trecho", "sem prova", CINZA)]
+              ("A saída do Brasil", "Sem registro na PF. Reuters: contato com funcionários dos EUA.\nAjuda do governo americano nesse trecho, sem prova", "sem prova de ajuda", CINZA)]
     ax.axis("off")
     for i, (a, b, c, cor) in enumerate(linhas):
         y = 0.86 - i * 0.26
@@ -98,7 +98,7 @@ def g03_exilados():
                     ("Em até 12 anos, entre quem já teve esse tempo", h12["voltaram"], h12["observados"], OURO),
                     ("Por eleição, em até 12 anos", 0, h12["observados"], VERM)],
                    "Quem chegou ao poder saindo do exílio", f"{e['n_casos']} líderes e candidatos desde 1945; {len(e['ainda_abertos'])} casos seguem abertos", "g03_exilados",
-                   "duas passadas independentes, com fontes conferidas; base deste projeto")
+                   "uma saída por pessoa; Bhutto, 1984 a 1988, fica fora da conta. Duas passadas com fontes conferidas; base deste projeto")
 
 
 def g04_como_voltaram():
@@ -268,16 +268,16 @@ def g11_previsoes():
 def g13_relogio():
     fig, ax = nova("O relógio da Venezuela", "Dias antes da captura de Maduro; o Brasil está a 5 meses da designação de PCC e CV")
     fig.subplots_adjust(left=0.05, right=0.97, bottom=0.14)
-    marcos = [(348, "1ª designação", 0.55), (149, "recompensa", -0.35), (137, "navios na região", 0.35), (123, "ataque a barcos", -0.85), (80, "CIA autorizada", 0.85), (64, "Trump nega ataque", -0.35), (43, "FAA e ultimato", 0.35), (4, "ataque em terra", -0.85)]
+    marcos = [(R["e5"]["dias_antes_da_captura"]["designacao"], "designação", 0.55), (149, "recompensa", -0.35), (137, "navios na região", 0.35), (123, "ataque a barcos", -0.85), (80, "CIA autorizada", 0.85), (64, "Trump nega ataque", -0.35), (43, "FAA e ultimato", 0.35), (4, "ataque em terra", -0.85)]
     ax.axhline(0, color="#222222", lw=3)
     for d, t, lado in marcos:
         ax.plot([d, d], [0, lado], color=CINZA, lw=2)
         ax.scatter(d, 0, s=200, color=VERM, zorder=3)
         ax.text(d, lado + (0.04 if lado > 0 else -0.04), f"{t}\n{d} dias", ha="center", va="bottom" if lado > 0 else "top", fontsize=19)
-    hoje = 348 - (date(2026, 11, 2) - date(2026, 5, 28)).days
+    hoje = R["e5"]["dias_antes_da_captura"]["designacao"] - (date(2026, 11, 2) - date(2026, 5, 28)).days
     ax.axvline(hoje, color=AZUL, lw=5)
     ax.text(hoje, 1.28, "Brasil hoje, no mesmo relógio", color=AZUL, fontsize=23, fontweight="bold", ha="center")
-    ax.set_xlim(370, -15)
+    ax.set_xlim(340, -15)
     ax.set_ylim(-1.3, 1.45)
     ax.axis("off")
     salvar(fig, "g13_relogio", "base deste projeto; alinhar pela designação é uma escolha, e os mesmos sinais apareceram em países sem captura")

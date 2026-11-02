@@ -25,9 +25,13 @@ Mudou porque a revisão por 3 leitores achou erro meu. O que entrou:
 | Texto das previsões | PF "não é foragido"; dois inquéritos | a frase exata da PF, três inquéritos pela Lupa, art. 53 e ADI 5526, argumento dele, soma das tarifas disputada | o texto favorecia uma leitura |
 | Citações | 744 de 850 | situação por trecho: achado, diferença, API, recusa, não achado | PDF não era lido e nota de rodapé atrapalhava |
 
-Nota: o texto da rodada 2 diz que o Irã tem "cerca de 90 milhões"; a estimativa capturada depois é de 87 milhões. Não muda a conta e o texto ficou como os modelos leram.
+Nota: o texto da rodada 2 diz 348 dias para a designação, contando da ordem executiva de 20/01/2025; o relatório usa 317, a designação formal de 20/02/2025. A ordem de grandeza que os modelos leram é a mesma, e o texto ficou como eles leram. Também diz que o Irã tem "cerca de 90 milhões"; a estimativa capturada depois é de 87 milhões. Não muda a conta e o texto ficou como os modelos leram.
 
 Da rodada 1 para a 2, os cenários foram para 56,6 / 18,7 / 21,7 / 3,0 e os números pequenos ficaram onde estavam. O que os modelos dizem de invasão não mudou com nenhuma correção, então não é sensível ao texto, e isso também é um limite.
+
+## Depois da conferência do roteiro (02/nov)
+
+A leitura frase a frase do roteiro (`VIDEO_022/CONFERENCIA_DO_ROTEIRO.md`, na documentação) voltou para cá: Benazir Bhutto fica fora da conta de uma saída por pessoa e isso passa a ser dito; o relógio da Venezuela vale só para a designação; a Reuters relata contato com funcionários americanos no caminho. As previsões não mudaram.
 
 ## O que falta olhar
 

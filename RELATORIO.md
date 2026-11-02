@@ -14,12 +14,12 @@
 
 | Pergunta | Resposta |
 |---|---|
-| Os EUA ajudaram? | Os EUA permitiram a entrada: Rubio disse que o presidente decidiu deixar entrar e que ele seria *"paroled into the country, and he was"*. O motivo oficial da parole não foi dito. O jato liga a um assessor de Trump pela Reuters, e por resumos pelo NYT e pelo WSJ. A saída do Brasil não tem prova de participação do governo americano. A Argentina aparece mais na parte física |
+| Os EUA ajudaram? | Os EUA permitiram a entrada: Rubio disse que o presidente decidiu deixar entrar e que ele seria *"paroled into the country, and he was"*. O motivo oficial da parole não foi dito. O jato liga a um assessor de Trump pela Reuters, e por resumos pelo NYT e pelo WSJ. Na saída do Brasil, a Reuters relata, por um funcionário americano, que ele falou com vários funcionários dos EUA no caminho; ajuda do governo americano nesse trecho não tem prova. A Argentina aparece mais na parte física |
 | Ele pediu asilo? | Não há registro. Entrou por parole humanitária. O NYT diz que ele deve pedir residência |
 | Trump apoia? | Abriu a porta e disse *"I won't get involved"*. Sem planos de encontrá-lo, e a Reuters diz que sem planos de apoiar a pretensão dele |
 | Trump falou em fraude de novo? | Sim, várias vezes até 31/10, sem apresentar prova |
 | Volta ao poder por esse caminho? | Dos 22 abrigados nos EUA, 3 chegaram ao poder: um com tropas americanas, um nomeado com apoio americano e um eleito depois de 15 anos. Em até 12 anos, 2 de 25 entre todos, e nenhum por eleição. Flávio fala em voltar antes de 2030 |
-| Os EUA vão invadir? | Tropas sem autorização até 2030: 1,75%. Ataque contra PCC ou CV sem aval: 2,5% até 2027 e 4% até o fim do governo Trump. Dos 16 tipos de sinal que vieram antes da captura de Maduro, 3 existem hoje, 5 em parte e 8 não, e os que existem são os mais antigos da sequência |
+| Os EUA vão invadir? | Tropas sem autorização até 2030: 1,75%. Ataque contra PCC ou CV sem aval: 2,5% até 2027 e 4% até o fim do governo Trump. Dos 16 tipos de sinal que vieram antes da captura de Maduro, 3 existem hoje, 5 em parte e 8 não, e, do começo da sequência, o Brasil tem a designação |
 | O que é mais provável? | **A pressão longa** (57%), e alguma medida americana nova até junho de 2027 (70%); sanção nominal a autoridade, 14,5%; banco brasileiro atingido, 11% |
 
 ## 2. As 72 horas
@@ -58,9 +58,9 @@ Fontes em `dados/casos/e1_originais.json`, com trechos conferidos, e na pasta do
 
 Só entre quem saiu até 2016, que já teve 10 anos: 6 de 27 no total e 3 de 15 nos EUA. Sem Somoza e o xá, que não foram abrigados de fato: 3 de 20. Seguem abertos 12 casos, entre eles Alejandro Toledo, Juan Guaidó, María Corina Machado, Jair Bolsonaro, Eduardo Bolsonaro, Alexandre Ramagem.
 
-**O grupo volta mais que a pessoa.** Sem o próprio exilado, o grupo político chegou ao poder em Benigno Aquino Jr. (1986), Benazir Bhutto (2008), Thaksin Shinawatra (2011), Evo Morales (2020), Ferdinand Marcos (2022), Manuel Zelaya (2022), Alberto Fujimori (2026). Esses casos não aparecem como volta ao poder porque a pergunta é sobre o exilado.
+**O grupo pode seguir sem a pessoa.** Sem o próprio exilado, o grupo político chegou ao poder em Benigno Aquino Jr. (1986), Benazir Bhutto (2008), Thaksin Shinawatra (2011), Evo Morales (2020), Ferdinand Marcos (2022), Manuel Zelaya (2022), Alberto Fujimori (2026). Esses casos não aparecem como volta ao poder porque a pergunta é sobre o exilado.
 
-**O que a regra escrita antes derrubou.** O plano dizia que a hipótese cairia se aparecessem abrigados nos EUA que voltaram ao poder sem força americana nem colapso. Apareceram: Kim Dae-jung, eleito, e Diem, nomeado. A frase inicial, *"abrigo americano não leva ao poder"*, caiu. Fica uma mais estreita: a porta aberta sozinha não foi caminho em prazo curto. Em até 4 anos só voltaram quem teve tropas americanas ou nomeação com apoio americano; por eleição, levou de 13 a 18 anos.
+**O que a regra escrita antes derrubou.** O plano dizia que a hipótese cairia se aparecessem abrigados nos EUA que voltaram ao poder sem força americana nem colapso. Apareceram: Kim Dae-jung, eleito, e Diem, nomeado. A frase inicial, *"abrigo americano não leva ao poder"*, caiu. Fica uma mais estreita: a porta aberta sozinha não foi caminho em prazo curto. Em até 4 anos só voltaram quem teve tropas americanas ou nomeação com apoio americano; por eleição, levou de 13 a 18 anos, contando uma saída por pessoa. O caso que fica fora dessa conta é o de Benazir Bhutto, que saiu em 1984 e foi eleita em 1988, porque a base codifica o exílio posterior dela.
 
 **A classe "mais parecidos" foi definida depois de ver os casos.** Dá 0 de 7. Tirando Jair, Eduardo e Ramagem, que são do mesmo grupo e estão abertos, 0 de 4, com margem de 0% a 49,0%. Ricardo Anaya voltou e é senador: contando cargo nacional, 1 de 4. Serve de ilustração e não entra como conclusão.
 
@@ -109,7 +109,7 @@ Só entre quem saiu até 2016, que já teve 10 anos: 6 de 27 no total e 3 de 15 
 
 **Tamanho:** no hemisfério, o maior alvo sem aval foi Venezuela, 28,52 milhões; o Brasil tem 214 milhões. Fora do hemisfério a comparação encurta: os EUA estão em guerra com o Irã desde fev/2026, com 87 milhões de habitantes pela estimativa da Wikipedia, e o Brasil tem 2,5 vezes isso. O tamanho foi escolhido depois de ver os casos e não é teto: é uma razão de custo.
 
-**O tempo dos sinais.** A designação veio 348 dias antes da captura de Maduro, a mobilização naval 137, o ataque a barcos 123, a FAA e o ultimato 43. O Brasil tem a designação há 5 meses. Comparado no mesmo relógio, parece a Venezuela do 1º semestre de 2025, e os sinais ausentes são os que vieram depois. Isso diz o que olhar, sem virar probabilidade: México, Colômbia e Cuba têm parte desses sinais sem captura, e a taxa de falso alarme não é conhecida.
+**O tempo dos sinais.** A designação veio 317 dias antes da captura de Maduro, a mobilização naval 137, o ataque a barcos 123, a FAA e o ultimato 43. O Brasil tem a designação há 5 meses, e esse é o único sinal do começo da fila que ele tem: a negativa americana veio 64 dias antes, e as sanções do caso Venezuela, em dez/2025. Comparado no mesmo relógio, fica onde a Venezuela estava em julho de 2025, antes dos navios, e os sinais ausentes são os que vieram depois. Isso diz o que olhar, sem virar probabilidade: México, Colômbia e Cuba têm parte desses sinais sem captura, e a taxa de falso alarme não é conhecida.
 
 **Sinais, um por um** (*"não"* é ausência nas páginas abertas, e não prova):
 
