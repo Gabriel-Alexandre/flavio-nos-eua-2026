@@ -19,7 +19,7 @@ e4 = json.loads((RAIZ / "dados" / "casos" / "e4_escada.json").read_text(encoding
 e5 = json.loads((RAIZ / "dados" / "casos" / "e5_forca.json").read_text(encoding="utf-8"))
 e5 = e5 if isinstance(e5, list) else e5["casos"]
 s = json.loads((RAIZ / "dados" / "casos" / "e5_sinais.json").read_text(encoding="utf-8"))["tipos_de_sinal"]
-prev = [json.loads(p.read_text(encoding="utf-8")) for p in (RAIZ / "dados" / "previsoes" / "rodada1").glob("*.json")]
+prev = [json.loads(p.read_text(encoding="utf-8")) for p in (RAIZ / "dados" / "previsoes" / "rodada2").glob("*.json")]
 
 
 def s_(v):

@@ -1,12 +1,12 @@
 # Flávio nos EUA: o que esperar
 
-**Lido até 2026-11-02.** Análise feita pelo Claude (Anthropic), a pedido de Gabriel Alexandre. As previsões entraram em commit em 02/nov/2026, antes das eleições americanas de 03/nov.
+**Lido até 2026-11-02.** Análise feita pelo Claude (Anthropic), a pedido de Gabriel Alexandre. As previsões entraram em commit em 02/nov/2026, antes das eleições americanas de 03/nov. A rodada 1 fica congelada em `dados/previsoes/rodada1/`; este relatório usa a rodada 2, feita depois da revisão adversarial, com o texto corrigido.
 
 ## O que este projeto não consegue dizer
 
 - Quem pagou o jato, quando a saída foi decidida, e por onde exatamente ele saiu do Brasil.
-- A intenção de ninguém. Os motivos abaixo são o que as evidências sustentam mais, em julgamento declarado da IA.
-- Se os inquéritos têm fundamento. Flávio nega as acusações, e a PF diz que ele não é foragido.
+- A intenção de ninguém. Os motivos abaixo são hipóteses comparadas, em julgamento declarado da IA, sem vencedor.
+- Se os inquéritos têm fundamento. Flávio nega as acusações. A PF diz que as restrições, por si só, não fazem dele foragido.
 - O que Trump decide amanhã. A própria Reuters registra que ele pode mudar de ideia.
 - A base de casos é pequena e foi escolhida por critério, e não é um censo. As previsões são dos modelos da Anthropic, que não são uma multidão diversa, e modelos ainda perdem de previsores humanos treinados.
 
@@ -14,13 +14,13 @@
 
 | Pergunta | Resposta |
 |---|---|
-| Os EUA ajudaram? | A entrada, sim: Rubio disse em público que Trump deixou claro que ele seria *"paroled"*. O jato liga a um assessor de Trump, segundo Reuters, NYT e WSJ. A saída do Brasil não tem prova de participação americana. A Argentina aparece mais na parte física |
+| Os EUA ajudaram? | Os EUA permitiram a entrada: Rubio disse que o presidente decidiu deixar entrar e que ele seria *"paroled into the country, and he was"*. O motivo oficial da parole não foi dito. O jato liga a um assessor de Trump pela Reuters, e por resumos pelo NYT e pelo WSJ. A saída do Brasil não tem prova de participação do governo americano. A Argentina aparece mais na parte física |
 | Ele pediu asilo? | Não há registro. Entrou por parole humanitária. O NYT diz que ele deve pedir residência |
 | Trump apoia? | Abriu a porta e disse *"I won't get involved"*. Sem planos de encontrá-lo, e a Reuters diz que sem planos de apoiar a pretensão dele |
-| Trump falou em fraude de novo? | Sim, várias vezes até 31/10, sem prova |
-| Volta ao poder por esse caminho? | Dos 22 abrigados nos EUA, 3 voltaram; dos 7 mais parecidos com ele, 0 |
-| Os EUA vão invadir? | 2% até 2030, a faixa mais baixa da escala. Dos 16 tipos de sinal que vieram antes da captura de Maduro, 3 existem hoje em relação ao Brasil, 5 em parte e 8 não aparecem |
-| O que é mais provável? | **A pressão longa** (54%), e nova medida americana até junho de 2027 (72%) |
+| Trump falou em fraude de novo? | Sim, várias vezes até 31/10, sem apresentar prova |
+| Volta ao poder por esse caminho? | Dos 22 abrigados nos EUA, 3 chegaram ao poder: um com tropas americanas, um nomeado com apoio americano e um eleito depois de 15 anos. Em até 12 anos, 2 de 25 entre todos, e nenhum por eleição. Flávio fala em voltar antes de 2030 |
+| Os EUA vão invadir? | Tropas sem autorização até 2030: 1,75%. Ataque contra PCC ou CV sem aval: 2,5% até 2027 e 4% até o fim do governo Trump. Dos 16 tipos de sinal que vieram antes da captura de Maduro, 3 existem hoje, 5 em parte e 8 não, e os que existem são os mais antigos da sequência |
+| O que é mais provável? | **A pressão longa** (57%), e alguma medida americana nova até junho de 2027 (70%); sanção nominal a autoridade, 14,5%; banco brasileiro atingido, 11% |
 
 ## 2. As 72 horas
 
@@ -28,13 +28,13 @@ Fontes em `dados/casos/e1_originais.json`, com trechos conferidos, e na pasta do
 
 | Parte | O que sustenta | Situação |
 |---|---|---|
-| Ordem de entregar passaportes | nota da PF: representação em 25/10, intimação em 26/10, prazo de 24 horas não cumprido | confirmado. A PF pediu 7 minutos depois da confirmação do TSE; a hora da decisão de Moraes não foi divulgada |
+| Ordem de entregar passaportes | nota da PF: representação em 25/10, intimação em 26/10, prazo de 24 horas não cumprido. A decisão não é pública: o conteúdo vem da nota. Flávio tinha imunidade até 31/01/2027 (art. 53), e a ADI 5526 do STF manda à Casa, em 24 horas, a medida que atrapalhe o mandato; se passaporte entra nisso é questão aberta | a ordem está descrita pela PF. A PF pediu 7 minutos depois da confirmação do TSE; a hora da decisão de Moraes não foi divulgada |
 | A ponte | Migraciones: 22h50 e embarque às 23h30. Fantástico: 3 registros na van, 22h37, 22h40 e 23h11, com só o 1º válido | a passagem está confirmada; o horário tem conflito entre as fontes |
 | Brasília até a ponte | Fantástico: linha de investigação com voo às 5h05 por Buenos Aires. Assessoria de Willer Tomaz nega | não resolvido |
 | O jato | Baires Fly, LV-JQW, Guayaquil, Opa-locka. Dono à AFP: US$ 150 mil, de conta empresarial nos EUA, por corretor. Clarín, 28/10: empresas ligadas à embaixada americana contrataram | confirmado o voo; quem pagou, não |
-| Jason Miller | Reuters, NYT, WSJ. Correio da Manhã, citando o Metrópoles, diz que ele confirmou; outra versão diz que não comentou | apurado por três veículos; a confirmação dele tem conflito |
-| Argentina | Migraciones e o chefe de Gabinete Santilli: entrada legal. Repórter da C5N viu escolta e placa diplomática. Clarín coloca Caputo no local. Ordem de Milei, jato-isca e SIDE em campo aparecem no Río Negro, e não no texto do Clarín de 28/10 | participação oficial provável; os detalhes têm uma fonte |
-| Ex-agente do Mossad | Fantástico nomeia Menachem Booky Halevy; CNN Brasil sem nome | a presença tem duas fontes; não prova ação do Mossad |
+| Jason Miller | Reuters; NYT e WSJ por resumos. Correio da Manhã, citando o Metrópoles, diz que ele confirmou; outra versão diz que não comentou | apurado pela Reuters e citado por outros; a confirmação dele tem conflito |
+| Argentina | Migraciones e o chefe de Gabinete Santilli: entrada legal. Repórter da C5N viu escolta e placa diplomática. Clarín coloca Caputo no local. Ordem de Milei, jato-isca e SIDE em campo aparecem no Río Negro, e não no texto do Clarín de 28/10 | agentes argentinos estavam lá, por mais de uma fonte; quem ordenou tem uma fonte só |
+| Homem apontado como ex-agente do Mossad | Fantástico e CNN Brasil | a presença tem duas fontes; não prova ação do Mossad |
 | Entrada nos EUA | transcript do Departamento de Estado: *"He had previously held a visa"* e *"paroled"*. Registro DT, até 27/10/2027, obtido pela imprensa. Passaporte diplomático cancelado | parole confirmada; a data, só pelo registro |
 
 ## 3. O que aconteceu com quem esteve nesse lugar
@@ -43,20 +43,32 @@ Fontes em `dados/casos/e1_originais.json`, com trechos conferidos, e na pasta do
 
 | Grupo | Casos | Voltaram ao país | Voltaram ao poder | Margem de 95% | Entregues |
 |---|---|---|---|---|---|
-| Abrigados nos EUA | 22 | 11 | **3** | 4.7% a 33.3% | 3 |
-| Abrigados em outro país | 17 | 10 | **3** | 6.2% a 41.0% | 1 |
-| Nos EUA, com apoio declarado de Washington | 6 | 4 | **2** | 9.7% a 70.0% | 0 |
-| Mais parecidos: nos EUA, vindos de democracia, processados ou derrotados | 7 | 4 | **0** | 0% a 35.4% | 2 |
+| Abrigados nos EUA | 22 | 11 | **3** | 4,7% a 33,3% | 3 |
+| Abrigados em outro país | 17 | 10 | **3** | 6,2% a 41,0% | 1 |
+| Nos EUA, com apoio declarado de Washington | 6 | 4 | **2** | 9,7% a 70,0% | 0 |
+| Mais parecidos: nos EUA, vindos de democracia, processados ou derrotados | 7 | 4 | **0** | 0% a 35,4% | 2 |
 
-**Quem voltou ao poder:** Ngo Dinh Diem (acordo); Kim Dae-jung (eleicao); Jean-Bertrand Aristide (forca_estrangeira); Juan Domingo Perón (eleicao); Ruhollah Khomeini (colapso_revolucao); Nawaz Sharif (eleicao). Mediana de 5,5 anos até voltar ao país.
+**Quanto tempo levou:** Jean-Bertrand Aristide em 3, Ngo Dinh Diem em 4, Nawaz Sharif em 13, Kim Dae-jung em 15, Ruhollah Khomeini em 15, Juan Domingo Perón em 18 anos. Os casos ainda abertos pesam no denominador, então a taxa bruta subestima. A conta certa é por prazo, só com quem já teve aquele tempo de observação:
 
-**Os mais parecidos:** Alejandro Toledo, Ricardo Martinelli, Jair Bolsonaro, Eduardo Bolsonaro, Alexandre Ramagem, Ricardo Anaya, Carlos Andrés Pérez. Alejandro Toledo, Ricardo Martinelli foram entregues.
+| Em até | Todos | Margem de 95% | Abrigados nos EUA |
+|---|---|---|---|
+| 4 anos | 2 de 34 | 1,6% a 19,1% | 2 de 18 |
+| 8 anos | 2 de 29 | 1,9% a 22,0% | 2 de 16 |
+| 12 anos | 2 de 25 | 2,2% a 25,0% | 2 de 14 |
 
-**Leitura.** Estar nos EUA não aparece como vantagem nem como desvantagem para voltar ao poder: as taxas são parecidas e as margens se sobrepõem. O que muda é como se volta. Entre os apoiados por Washington, Aristide voltou com tropas americanas e Diem por nomeação com apoio americano. Guaidó, Machado e Chalabi tiveram apoio e não chegaram à chefia; na Venezuela, os EUA capturaram Maduro e passaram a tratar Delcy Rodríguez como presidente. Os dois casos que o abrigo americano ajudou a colocar no poder eram de país pequeno ou em guerra, com presença militar americana.
+Só entre quem saiu até 2016, que já teve 10 anos: 6 de 27 no total e 3 de 15 nos EUA. Sem Somoza e o xá, que não foram abrigados de fato: 3 de 20. Seguem abertos 12 casos, entre eles Alejandro Toledo, Juan Guaidó, María Corina Machado, Jair Bolsonaro, Eduardo Bolsonaro, Alexandre Ramagem.
 
-**O que contraria a leitura:** Hidaka, Kubota e Yukawa (2025) dizem que a maioria dos líderes exilados volta e retoma o poder. Lemos o resumo. A base deles é de líderes que perderam o cargo, em geral sob regime fechado; a nossa inclui candidatos e opositores, e casos ainda abertos. Exílio não é o fim da carreira, e Perón levou 17 anos. Por isso a conclusão é sobre o caminho, e não sobre o destino dele.
+**O grupo volta mais que a pessoa.** Sem o próprio exilado, o grupo político chegou ao poder em Benigno Aquino Jr. (1986), Benazir Bhutto (2008), Thaksin Shinawatra (2011), Evo Morales (2020), Ferdinand Marcos (2022), Manuel Zelaya (2022), Alberto Fujimori (2026). Esses casos não aparecem como volta ao poder porque a pergunta é sobre o exilado.
 
-**Teste do passado:** prever o desfecho de cada caso com a taxa dos outros do mesmo grupo dá nota de Brier 0.144, contra 0.25 do chute de meio a meio. Boa parte disso é só porque voltar ao poder é raro; não mede a capacidade de prever Flávio.
+**O que a regra escrita antes derrubou.** O plano dizia que a hipótese cairia se aparecessem abrigados nos EUA que voltaram ao poder sem força americana nem colapso. Apareceram: Kim Dae-jung, eleito, e Diem, nomeado. A frase inicial, *"abrigo americano não leva ao poder"*, caiu. Fica uma mais estreita: a porta aberta sozinha não foi caminho em prazo curto. Em até 4 anos só voltaram quem teve tropas americanas ou nomeação com apoio americano; por eleição, levou de 13 a 18 anos.
+
+**A classe "mais parecidos" foi definida depois de ver os casos.** Dá 0 de 7. Tirando Jair, Eduardo e Ramagem, que são do mesmo grupo e estão abertos, 0 de 4, com margem de 0% a 49,0%. Ricardo Anaya voltou e é senador: contando cargo nacional, 1 de 4. Serve de ilustração e não entra como conclusão.
+
+**Apoio declarado muda com a codificação:** 2 de 6 como codificado; 3 de 6 com Kim Dae-jung e sem Eduardo; 4 de 6 se Chalabi, que presidiu por um mês o Conselho de Governo do Iraque, contar.
+
+**Comparando com outro estudo:** Hidaka, Kubota e Yukawa olharam 91 líderes de 1970 a 2014: 58% voltaram ao país, e cerca de 11% do total voltou a chefiar o Estado, ordem parecida com os 15% daqui. Lemos a versão de trabalho de 2022; o artigo de 2025 diz que a maioria volta e retoma o poder, e a diferença é o que cada um chama de poder.
+
+**Teste do passado:** nota de Brier de 0.144 usando a taxa do grupo, 0.137 com a taxa geral e 0.13 com uma taxa única. Separar por grupo não ajudou: o que esse teste diz é que voltar ao poder é raro, e não que o abrigo muda alguma coisa.
 
 ## 4. Quando o preferido de Washington perde
 
@@ -74,26 +86,32 @@ Fontes em `dados/casos/e1_originais.json`, com trechos conferidos, e na pasta do
 | alemanha-2025 | sim | nao | nao | nao | fria |
 | hungria-2026 | sim | nao | nao | nao | normal |
 
-**Leitura:** o reconhecimento é a regra (8 de 9), e força militar nos 12 meses, 0 de 9. As duas rupturas foram Palestina 2006 e Venezuela 2024. Chile 1970 mostra que a pressão pode durar anos: o golpe veio em 1973, fora da janela.
+**Brasil 2026, em aberto:** os governos falam, e Trump não felicitou Lula até aqui.
+
+**Leitura:** o reconhecimento é a regra (8 de 9; na Hungria não localizamos felicitação formal). Força militar nos 12 meses seguintes: nenhuma nas fontes lidas, em 9 de 9; muitos "não" são ausência de fonte. As duas rupturas foram Palestina 2006 e Venezuela 2024, e na Venezuela a captura de Maduro veio 17 meses depois da eleição, fora da janela. Chile 1970 mostra o mesmo: o golpe veio em 1973.
 
 ## 5. A escada contra o Brasil
 
-33 medidas de jan/2025 a nov/2026: 26 para cima, 7 para baixo, 0 militares. Para comparar, Colômbia 7 e 5, México 5 e 5, Canadá 6 e 4, África do Sul 8 e 2.
+33 registros de jan/2025 a nov/2026. Medidas do governo americano dirigidas ao Brasil, para cima: **11**, e a última é de 04/08/2026. Para baixo: **7**. Militares: 0. Os outros registros que subiam a tensão ficam fora dessa conta: 3 medidas globais, 4 atos do próprio Brasil, 2 nomeações, 5 falas ou relatos e 1 repetida. A comparação com outros países não usa essa mesma regra e por isso não entra aqui.
+
+**A conta da nova medida.** Em 250 períodos de 240 dias desde jul/2025, 97,2% tiveram ao menos uma medida dirigida; mas houve 248 dias seguidos sem nenhuma, de set/2025 a mai/2026, e elas vêm em surtos. A pergunta P08 é a mesma janela. Os modelos deram 70%.
 
 - **Sobe e desce:** a Magnitsky de Moraes durou de 30/07 a 12/12/2025. A tarifa de 40% caiu em 20/02/2026 pela Suprema Corte americana, e não por acordo.
-- **Hoje:** 25% pela Seção 301 desde 22/07/2026, mais 12,5% da ação global sobre cerca de 60 economias. Dos US$ 39.6 bi que os EUA compraram do Brasil em 2024, US$ 8.5 bi pagam os 25% cheios, pelas medidas lidas.
+- **Hoje:** 25% pela Seção 301 desde 22/07/2026, mais 12,5% da ação global sobre cerca de 60 economias. Dos US$ 39,6 bi que os EUA compraram do Brasil em 2024, US$ 8,5 bi pagam os 25% cheios, pelas medidas lidas.
 - **Literatura:** sanções dão certo em cerca de um terço dos casos (Hufbauer et al.), e Pape conta 5 de 115. Mudar regime: 29 de 90. EUA sozinhos, de 1970 a 2014: 11 de 54. Metas limitadas e alvos democráticos rendem mais.
 - **O efeito aqui:** a Reuters diz que analistas veem várias das medidas como contraproducentes, e parte ajudou a popularidade de Lula.
 
 ## 6. Os EUA vão usar a força?
 
-**Base do medo, tudo real:** captura de Maduro; Trump na ONU em 22/09; vídeo da Doutrina Monroe; PCC e CV designados; ofício do Itamaraty de 01/07 falando em *"possibilidade do uso da força militar"*; ministro Múcio, *"abrir o portão"*, em 04/08; 1964 e a Brother Sam, navios prontos e nunca usados.
+**Base do medo, tudo real:** captura de Maduro; Trump na ONU em 22/09; vídeo da Doutrina Monroe; PCC e CV designados; ofício do Itamaraty de 01/07 falando em *"possibilidade do uso da força militar"*; ministro Múcio em 04/08, em tom de brincadeira; 1964 e a Brother Sam, navios prontos e nunca usados.
 
 **Negativa:** o Departamento de Estado disse que a lei da designação não contempla ação militar. ⚠️ Trump negou ataque à Venezuela 64 dias antes da captura, então negativa sozinha não encerra.
 
-**Tamanho:** o maior alvo sem aval foi Venezuela, 28,52 milhões. O Brasil tem 214 milhões, 7,5 vezes mais. Tropas em 2026 só aparecem em países que aceitaram, ou em treinamento.
+**Tamanho:** no hemisfério, o maior alvo sem aval foi Venezuela, 28,52 milhões; o Brasil tem 214 milhões. Fora do hemisfério a comparação encurta: os EUA estão em guerra com o Irã desde fev/2026, com 87 milhões de habitantes pela estimativa da Wikipedia, e o Brasil tem 2,5 vezes isso. O tamanho foi escolhido depois de ver os casos e não é teto: é uma razão de custo.
 
-**Sinais, um por um** (*"nao"* é ausência nas páginas abertas, e não prova):
+**O tempo dos sinais.** A designação veio 348 dias antes da captura de Maduro, a mobilização naval 137, o ataque a barcos 123, a FAA e o ultimato 43. O Brasil tem a designação há 5 meses. Comparado no mesmo relógio, parece a Venezuela do começo de 2025, e os sinais ausentes são os que vieram depois. Isso diz o que olhar, sem virar probabilidade: México, Colômbia e Cuba têm parte desses sinais sem captura, e a taxa de falso alarme não é conhecida.
+
+**Sinais, um por um** (*"não"* é ausência nas páginas abertas, e não prova):
 
 | Tipo de sinal antes de Maduro | Brasil hoje |
 |---|---|
@@ -145,17 +163,20 @@ Fontes em `dados/casos/e1_originais.json`, com trechos conferidos, e na pasta do
 
 ## 7. Por que receber o Flávio
 
-Matriz de hipóteses concorrentes (Heuer), `dados/e6_hipoteses.csv`. É julgamento da IA, e não medida; 17 evidências.
+Matriz de hipóteses concorrentes (Heuer), `dados/e6_hipoteses.csv`. É julgamento, não medida, e não aponta vencedor: motivo é intenção, e intenção não se lê de fora. São 21 evidências, separadas em duas perguntas, porque explicar a entrada e explicar a fala de Trump não são a mesma coisa. Cada célula traz a favor e contra.
 
-| Hipótese | Evidências contra | A favor |
-|---|---|---|
-| Narrativa política e eleições nos EUA | 1 | 4 |
-| China e influência no hemisfério | 1 | 3 |
-| Terras raras | 3 | 2 |
-| Lealdade aos Bolsonaro | 4 | 3 |
-| Aposta pessoal de Rubio e entorno | 4 | 2 |
+| Hipótese | Sobre a entrada | Sobre a fala de Trump | Soma na 2ª codificação, feita às cegas |
+|---|---|---|---|
+| Narrativa política e eleições nos EUA | 1 e 1 | 3 e 0 | 3 e 1 |
+| China e influência no hemisfério | 3 e 1 | 0 e 0 | 1 e 1 |
+| Terras raras | 2 e 3 | 0 e 0 | 1 e 3 |
+| Lealdade aos Bolsonaro | 3 e 2 | 2 e 2 | 3 e 4 |
+| Aposta pessoal de Rubio e entorno | 2 e 2 | 0 e 2 | 3 e 0 |
+| Convicção declarada de perseguição e proteção | 3 e 3 | 2 e 1 | 3 e 1 |
 
-**Leitura:** a que menos sofre com as evidências é a narrativa política, com as eleições americanas no meio: Trump ligou o Brasil à fraude dos democratas no comício do Texas, na semana da votação. Os minerais explicam o interesse no Brasil, e os EUA já têm posição com Lula no governo. Nenhuma fala oficial sobre a entrada cita minerais; mas Dino abriu inquérito em 27/10, a pedido do PT, sobre suspeita de troca de apoio por terras raras, e isso não prova irregularidade.
+Concordância entre as duas codificações: 85,7% das células, a maioria delas zeros.
+
+**Leitura:** a retórica de fraude conversa com as eleições americanas: Trump ligou o Brasil à fraude dos democratas no comício do Texas, na semana da votação. A entrada não se resolve assim: lealdade, convicção declarada de perseguição e a aposta de quem recomendou estão misturadas, e nas falas oficiais a palavra usada para justificar é tratamento injusto. Minerais e China explicam o interesse no Brasil, e os EUA já têm posição com Lula no governo. Nenhuma fala oficial sobre a entrada cita minerais; Dino abriu inquérito em 27/10, a pedido do PT, sobre suspeita de troca de apoio por terras raras, e inquérito não prova irregularidade.
 
 ## 8. O que muda no Brasil
 
@@ -164,7 +185,7 @@ Matriz de hipóteses concorrentes (Heuer), `dados/e6_hipoteses.csv`. É julgamen
 | Exportações aos EUA, jan a set/2026 | US$ 27.46 bi, -6,5% | ComexStat |
 | Exportações à China, jan a set/2026 | US$ 84.68 bi, +12% | ComexStat |
 | Dólar PTAX, 23/10 e 30/10 | R$ 5,0377 e R$ 5,4212, +7,6% | Banco Central |
-| Ibovespa na semana | 18,12% de queda | imprensa |
+| Ibovespa na semana | 18,12% de queda | imprensa, ver `dados/casos/e8_brasil.json` |
 
 ⚠️ O mercado reagiu à reeleição e ao quadro fiscal, e não dá para atribuir isso ao caso Flávio.
 
@@ -176,40 +197,47 @@ Matriz de hipóteses concorrentes (Heuer), `dados/e6_hipoteses.csv`. É julgamen
 
 ## 9. O que esperar
 
+**Como ler:** são modelos da mesma empresa, com o mesmo texto, e a concordância entre eles não é confirmação independente. Abaixo de 5%, o número é mais o piso que eles usam do que uma medida: a invasão fica entre 1% e 2% com ou sem a história. A condição "com a história" é a mesma IA depois de ler o levantamento, e não um segundo olhar.
+
 **Cenários até o fim de 2027** (mediana de 4 modelos, depois de ver a história; somados a 100):
 
 | Cenário | O que é | Chance | Menor a maior |
 |---|---|---|---|
-| **A pressão longa** | Flávio nos EUA sem poder; posse normal; tarifa e visto como moeda; conversa intermitente; sem ruptura e sem acordo amplo até o fim de 2027 | **54%** | 42 a 58 |
-| **O acordo** | Trump e Lula negociam: tarifa e minerais em troca do embaixador e de cooperação; Flávio perde importância para Washington | **23%** | 20 a 28 |
-| **A escalada** | Nova sanção forte, bancos ou Pix atingidos pela designação, autoridades de volta à lista, prisão decretada com recusa americana; sem ação militar | **20%** | 18 a 28 |
-| **A força** | Ação militar americana em território brasileiro sem aval do Brasil | **2%** | 1 a 3 |
+| **A pressão longa** | Flávio nos EUA sem poder; posse normal; tarifa e visto como moeda; conversa intermitente; sem ruptura e sem acordo amplo até o fim de 2027 | **57%** | 48 a 60 |
+| **O acordo** | Trump e Lula negociam: tarifa e minerais em troca do embaixador e de cooperação; Flávio perde importância para Washington | **19%** | 18 a 25 |
+| **A escalada** | Nova sanção forte, bancos atingidos pela designação ou ação sobre o Pix na linha da Seção 301, autoridades de volta à lista, prisão decretada com recusa americana; sem ação militar | **22%** | 20 a 24 |
+| **A força** | Ação militar americana em território brasileiro sem aval do Brasil | **3%** | 2 a 5 |
 
 **As perguntas, para conferir na data** (`dados/previsoes/`):
 
 | # | Pergunta | Prazo | Com a história | Entre modelos | Sem a história |
 |---|---|---|---|---|---|
-| P08 | O governo dos EUA anuncia nova medida contra autoridade setor ou economia do Brasil | 2027-06-30 | **72%** (provável) | 70 a 72 | 57,5% |
-| P15 | Flávio segue nos EUA com autorização renovada residência ou asilo depois da parole | 2027-10-27 | **67,5%** (provável) | 45 a 83 | 62,5% |
-| P07 | Lula toma posse e os EUA mandam representante à cerimônia | 2027-01-05 | **66,5%** (provável) | 40 a 80 | 74% |
-| P06 | Lula participa presencialmente da cúpula do G20 em Doral | 2026-12-15 | **55%** (chance parecida) | 45 a 68 | 52,5% |
-| P05 | Trump e Lula conversam por telefone ou se encontram | 2026-12-15 | **50%** (chance parecida) | 35 a 55 | 50% |
-| P12 | O STF decreta a prisão de Flávio Bolsonaro | 2027-06-30 | **37,5%** (improvável) | 22 a 42 | 37,5% |
-| P17 | Flávio lidera entre os nomes da direita numa pesquisa nacional para 2030 | 2027-12-31 | **35%** (improvável) | 25 a 45 | 35% |
-| P10 | O Brasil concede agrément a Danny Perez como embaixador dos EUA | 2027-06-30 | **30%** (improvável) | 20 a 33 | 25% |
-| P18 | Câmara dos EUA faz audiência pública com o caso Flávio Bolsonaro entre os temas | 2027-06-30 | **30%** (improvável) | 20 a 40 | 30% |
-| P09 | Os EUA reduzem a tarifa de 25% da Seção 301 contra o Brasil | 2027-06-30 | **23%** (improvável) | 14 a 30 | 29% |
-| P13 | O Brasil pede formalmente a extradição de Flávio Bolsonaro | 2027-12-31 | **22,5%** (improvável) | 12 a 30 | 23,5% |
-| P16 | Flávio volta ao Brasil | 2028-12-31 | **21,5%** (improvável) | 9 a 25 | 17,5% |
-| P11 | Brasil e EUA assinam acordo governamental sobre minerais críticos | 2027-12-31 | **16,5%** (muito improvável) | 14 a 25 | 20% |
-| P19 | Departamento de Estado responde publicamente às 15 perguntas dos 25 democratas | 2026-12-31 | **16%** (muito improvável) | 10 a 35 | 22,5% |
-| P04 | Trump se reúne em público com Flávio Bolsonaro | 2027-03-31 | **13,5%** (muito improvável) | 6 a 25 | 12,5% |
-| P02 | Os EUA fazem ataque militar em solo ou águas territoriais brasileiras contra PCC ou Comando Vermelho sem aval do Brasil | 2027-12-31 | **3,5%** (quase nenhuma chance) | 2 a 5 | 4% |
-| P14 | Os EUA entregam Flávio Bolsonaro ao Brasil | 2027-12-31 | **3%** (quase nenhuma chance) | 2 a 4 | 2% |
-| P01 | Tropas americanas entram em território brasileiro sem autorização do governo do Brasil | 2030-12-31 | **2%** (quase nenhuma chance) | 2 a 3 | 2% |
-| P03 | O governo dos EUA reconhece Flávio Bolsonaro como presidente ou líder legítimo do Brasil | 2027-01-05 | **2%** (quase nenhuma chance) | 2 a 4 | 2,5% |
+| P24 | O STF toma medida nova contra cidadão, empresa ou plataforma americana | 2027-06-30 | **78,5%** (provável) | 50 a 88 | 66% |
+| P07 | Lula toma posse e os EUA mandam representante à cerimônia | 2027-01-05 | **76,5%** (provável) | 55 a 78 | 70% |
+| P08 | O governo dos EUA anuncia nova medida contra autoridade setor ou economia do Brasil | 2027-06-30 | **70%** (provável) | 62 a 80 | 62,5% |
+| P15 | Flávio segue nos EUA com autorização renovada residência ou asilo depois da parole | 2027-10-27 | **64%** (provável) | 45 a 72 | 65% |
+| P06 | Lula participa presencialmente da cúpula do G20 em Doral | 2026-12-15 | **56%** (provável) | 45 a 65 | 55% |
+| P05 | Trump e Lula conversam por telefone ou se encontram | 2026-12-15 | **44%** (improvável) | 25 a 50 | 40% |
+| P17 | Flávio lidera entre os nomes da direita numa pesquisa nacional para 2030 | 2027-12-31 | **40%** (improvável) | 17 a 55 | 39% |
+| P12 | O STF decreta a prisão de Flávio Bolsonaro | 2027-06-30 | **39%** (improvável) | 25 a 55 | 37,5% |
+| P10 | O Brasil concede agrément a Danny Perez como embaixador dos EUA | 2027-06-30 | **34%** (improvável) | 30 a 35 | 32,5% |
+| P18 | Câmara dos EUA faz audiência pública com o caso Flávio Bolsonaro entre os temas | 2027-06-30 | **28,5%** (improvável) | 22 a 45 | 18,5% |
+| P13 | O Brasil pede formalmente a extradição de Flávio Bolsonaro | 2027-12-31 | **26%** (improvável) | 20 a 35 | 19,5% |
+| P09 | Os EUA reduzem a tarifa de 25% da Seção 301 contra o Brasil | 2027-06-30 | **22,5%** (improvável) | 18 a 30 | 26% |
+| P16 | Flávio volta ao Brasil | 2028-12-31 | **16%** (muito improvável) | 6 a 30 | 18,5% |
+| P11 | Brasil e EUA assinam acordo governamental sobre minerais críticos | 2027-12-31 | **15%** (muito improvável) | 13 a 17 | 17% |
+| P21 | Os EUA aplicam sanção nominal nova (Magnitsky ou parecida) a autoridade brasileira | 2027-06-30 | **14,5%** (muito improvável) | 12 a 30 | 17% |
+| P22 | Banco brasileiro é sancionado pelos EUA ou punido por ligação com PCC ou CV | 2027-06-30 | **11%** (muito improvável) | 7 a 25 | 9% |
+| P04 | Trump se reúne em público com Flávio Bolsonaro | 2027-03-31 | **10%** (muito improvável) | 6 a 22 | 15% |
+| P19 | Departamento de Estado responde publicamente às 15 perguntas dos 25 democratas | 2026-12-31 | **9,5%** (muito improvável) | 6 a 25 | 11% |
+| P23 | O Brasil aplica medida concreta com base na Lei da Reciprocidade contra os EUA | 2027-06-30 | **7%** (muito improvável) | 6 a 15 | 7,5% |
+| P20 | Os EUA fazem ataque militar em solo ou águas territoriais brasileiras contra PCC ou Comando Vermelho sem aval do Brasil | 2029-01-20 | **4%** (quase nenhuma chance) | 3 a 8 | 5% |
+| P02 | Os EUA fazem ataque militar em solo ou águas territoriais brasileiras contra PCC ou Comando Vermelho sem aval do Brasil | 2027-12-31 | **2,5%** (quase nenhuma chance) | 1,5 a 5 | 2,75% |
+| P01 | Tropas americanas entram em território brasileiro sem autorização do governo do Brasil | 2030-12-31 | **1,75%** (quase nenhuma chance) | 1 a 3,5 | 1% |
+| P03 | O governo dos EUA reconhece Flávio Bolsonaro como presidente ou líder legítimo do Brasil | 2027-01-05 | **1,5%** (quase nenhuma chance) | 0,7 a 4 | 1,5% |
+| P14 | Os EUA entregam Flávio Bolsonaro ao Brasil | 2027-12-31 | **1,25%** (quase nenhuma chance) | 0,6 a 2 | 1% |
 
-**O que a história mudou nas IAs:** em média, 3,1 pontos. A mudança maior foi na nova medida contra o Brasil, de 57,5% para 72%. Na invasão, nada: já estava no piso. Discordância média entre modelos: 16,3 pontos.
+**O que a história mudou nas IAs:** em média, 3,1 pontos. Nova medida contra o Brasil: de 62,5% para 70%. Na invasão: de 1% para 1,75%. Discordância média entre modelos: 16,6 pontos. Da rodada 1 para a 2, com o texto corrigido: P07 de 66,5% para 76,5%, P19 de 16% para 9,5%, P05 de 50% para 44%.
 
 **Datas:** 03/nov midterms · 13/nov prazo de Rubio · nov G7 · 14 e 15/dez G20 · até 18/dez diplomação · 05/jan posse · 31/jan fim do mandato · 27/out/2027 fim da parole.
 
@@ -219,11 +247,14 @@ Matriz de hipóteses concorrentes (Heuer), `dados/e6_hipoteses.csv`. É julgamen
 - **Trump manda 600 soldados para a porta do Brasil** (Milson Alves - Brasil): NYT: cerca de 600 em treino no Panamá, Colômbia e Honduras; Task & Purpose: 500; embaixada no Panamá nega os 600 e diz 120.
 - **Flávio recebe aviso de deportação e Trump vira as costas** (Análise Política): Fala de candidato democrata do Texas, não ordem; Trump disse que pode ficar; sem planos de encontrar é real.
 - **Casa Branca assume comando da operação** (Jovem Pan 3 em 1): Apuração de um correspondente; Rubio e Trump decidiram a entrada; comando da saída sem segunda fonte.
+- **A PF pediu a medida 7 minutos depois da confirmação do TSE** (Cartas e falas do Flávio): Real pela nota e pelos horários: pedido assinado às 21h16, 7 minutos depois da confirmação matemática; a hora da decisão de Moraes não foi divulgada.
+- **Os números do TSE são matematicamente impossíveis** (Cartas e falas do Flávio): Alegação sem prova apresentada até aqui; a contagem foi testada nos vídeos da Investigação Aberta.
+- **Saiu porque é perseguido pelo Judiciário** (Cartas e falas do Flávio): A entrevista é dele e a acusação de perseguição é opinião; há inquéritos e ele nega; art. 53 e ADI 5526 dão base para questionar a medida, sem decisão sobre isso.
 
 ## 11. Validação
 
-- Citações: 744 de 850 trechos achados na página capturada por este projeto (466 de 494 páginas abriram para o robô). Página que recusa o robô fica registrada; o trecho dela segue da leitura do agente.
-- Números: 33 de 33 refeitos por outro caminho, em `resultados/validacao_independente.csv`, com os exilados recontados sobre a 2ª passada.
+- Citações: 850 trechos: 766 achados na página capturada, 19 com diferença pequena de redação, 23 são respostas de API, 38 em páginas que recusam o robô (quase todas da Britannica, usada na 2ª passada) e 4 não achados, listados em `resultados/citacoes.csv`.
+- Aritmética: 38 de 38 contas refeitas por outro caminho, em `resultados/validacao_independente.csv`, com os exilados recontados sobre a 2ª passada. Isso confere a conta, e não o julgamento de quem entrou em cada grupo.
 - Revisão por 3 leitores: `docs/REVISAO_ADVERSARIAL.md`.
 
 Refazer: `docs/REPLICAR.md`.

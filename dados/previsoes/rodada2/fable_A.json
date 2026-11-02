@@ -1,0 +1,36 @@
+{
+  "modelo": "fable",
+  "condicao": "A",
+  "perguntas": {
+    "P01": {"p": 2.5, "porque": "Operação terrestre dos EUA num país grande, com governo reconhecido pela OEA e pelo próprio Trump dizendo que não vai se envolver, é raríssima; o caso venezuelano é a exceção que não se parece com o Brasil."},
+    "P02": {"p": 7, "porque": "A designação de PCC e CV como terroristas e os ataques a barcos no Caribe abrem a porta, mas o Brasil fica longe do teatro atual e um ataque em águas brasileiras romperia com um governo que Trump diz gostar."},
+    "P03": {"p": 3, "porque": "Reconhecer um candidato derrotado em eleição validada pela OEA e reconhecida pelo próprio partido dele não tem precedente útil, e Trump já disse que não vai se envolver."},
+    "P04": {"p": 22, "porque": "Trump diz não ter planos, mas Flávio mora a poucos quilômetros de Mar-a-Lago, e em cinco meses uma foto num evento é o tipo de coisa que acontece sem planejamento."},
+    "P05": {"p": 50, "porque": "Os dois já se falaram antes, Trump repete que gosta do Lula e o G20 em Doral cria a ocasião natural, mas o abrigo ao Flávio e a tarifa esfriam a vontade de ligar."},
+    "P06": {"p": 55, "porque": "O Brasil foi o anfitrião anterior e Lula raramente falta a cúpula, mas ir a Miami com Flávio instalado na mesma cidade e sem acordo comercial é um custo político real."},
+    "P07": {"p": 78, "porque": "Os EUA mandam alguém a quase toda posse de governo que reconhecem, mesmo em relação tensa, e um encarregado de negócios já resolve a pergunta."},
+    "P08": {"p": 70, "porque": "No último ano e meio saíram tarifa, sanção, vistos revogados e designações em sequência, e oito meses com o caso Flávio aberto tendem a produzir pelo menos uma medida nova."},
+    "P09": {"p": 35, "porque": "Trump já recuou de tarifas sobre o Brasil quando o preço interno subiu e há negociação aberta, mas o momento político torna um acordo formal mais difícil do que foi em 2025."},
+    "P10": {"p": 35, "porque": "O Brasil segura o agrément há meses como moeda de troca, e só o libera dentro de um acordo mais amplo, que é possível mas não é o caminho mais provável até junho."},
+    "P11": {"p": 20, "porque": "Os EUA assinam memorandos de minerais com muitos países, mas o inquérito sobre terras raras em troca de apoio torna assinar isso agora tóxico para o Lula."},
+    "P12": {"p": 48, "porque": "Ele descumpriu ordem judicial e a imunidade acaba em 31/01/2027, o que para o STF costuma bastar para preventiva, mas prender o protegido de Trump tem custo diplomático que pode adiar a decisão."},
+    "P13": {"p": 30, "porque": "O pedido formal depende da prisão decretada antes e tende a vir como sinal político mesmo sabendo que os EUA não vão entregar."},
+    "P14": {"p": 1, "porque": "Com parole assinada por Trump e Rubio dizendo que ele pode ficar quanto quiser, entregar o Flávio em 2027 contradiz tudo o que o governo americano fez até aqui."},
+    "P15": {"p": 62, "porque": "Quem recebe parole política nos EUA normalmente pede asilo ou green card e fica com status pendente ou renovado, e a chance de ele sair do país antes disso é pequena."},
+    "P16": {"p": 15, "porque": "Exilado com inquéritos abertos e risco de prisão só volta com acordo político ou mudança no STF, e dois anos é pouco para isso."},
+    "P17": {"p": 45, "porque": "Ele teve 48% dos votos e é o nome mais conhecido da direita, mas a fuga desgasta, Tarcísio se posiciona e os institutos podem nem incluí-lo nos cenários de 2030."},
+    "P18": {"p": 45, "porque": "Se os democratas tomarem a Câmara em janeiro, audiência sobre o jato e a parole é quase certa, e mesmo com os republicanos o tema pode entrar numa sessão sobre o Brasil."},
+    "P19": {"p": 15, "porque": "Carta de parlamentares da minoria raramente recebe resposta pública do Departamento de Estado, e o prazo é curto."},
+    "P20": {"p": 11, "porque": "Mesma lógica de P02 com janela maior e resolução mais frouxa, e dois anos de governo Trump com PCC e CV na lista de terroristas somam risco."},
+    "P21": {"p": 35, "porque": "Moraes já entrou na lista uma vez e a ordem contra o aliado de Trump dá pretexto, mas Trump diz que não vai se envolver e o Tesouro só age quando a Casa Branca quer escalar."},
+    "P22": {"p": 20, "porque": "Com PCC e CV designados, ação do FinCEN contra fintech ou banco ligado a eles é possível, mas em geral demora mais que oito meses e mira primeiro o México."},
+    "P23": {"p": 12, "porque": "O governo Lula ameaça com a Lei da Reciprocidade desde 2025 e nunca aplicou, preferindo negociar."},
+    "P24": {"p": 82, "porque": "O STF multa, ordena e bloqueia plataformas americanas com frequência, e oito meses com o caso Jason Miller e as redes de Flávio ativas quase garantem uma decisão nova."}
+  },
+  "cenarios": {
+    "C1": 48,
+    "C2": 25,
+    "C3": 20,
+    "C4": 7
+  }
+}

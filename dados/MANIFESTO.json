@@ -5380,5 +5380,93 @@
     "sha256_texto": "bf1f22a2f5a9ee61ecbf1354fe3cf403d174ac8aa1d70cad1e3c8fbafc54e60d",
     "caracteres_texto": 10934,
     "ok": true
+  },
+  "0849a8768ff2032b": {
+    "url": "https://en.wikipedia.org/wiki/Demographics_of_Iran",
+    "capturado_em_utc": "2026-11-02T17:10:46+00:00",
+    "metodo": "pedido direto (requests)",
+    "status_http": 200,
+    "bytes_html": 974201,
+    "sha256_html": "5d55519b960935f982085c06e817c041a2cbc7654bf7a81fd6a5ae491b08821d",
+    "sha256_texto": "45a98e06e1c1a88cbe54d161742ce2104d46613883477cc132aaab640d547c3b",
+    "caracteres_texto": 61604,
+    "ok": true
+  },
+  "d2caf23de2ab2c1f": {
+    "url": "https://en.wikipedia.org/wiki/2026_Iran_war",
+    "capturado_em_utc": "2026-11-02T17:10:48+00:00",
+    "metodo": "pedido direto (requests)",
+    "status_http": 200,
+    "bytes_html": 3230888,
+    "sha256_html": "3188d4a2ff12946ef0e987c48861a56475f2b9e8eb793751eaf3652f3b4e042e",
+    "sha256_texto": "7b3ddfe597491620ca1e7a6b24ace695793fd2fb2dc8c60d758aafe7200aff0b",
+    "caracteres_texto": 284881,
+    "ok": true
+  },
+  "76a8adc31ef1736e": {
+    "url": "https://en.wikipedia.org/wiki/2026_Peruvian_general_election",
+    "capturado_em_utc": "2026-11-02T17:15:43+00:00",
+    "metodo": "pedido direto (requests)",
+    "status_http": 200,
+    "bytes_html": 1217560,
+    "sha256_html": "e44d4259ca05b958baff1275e5d100897c16b029e301d54910c1b3390971b773",
+    "sha256_texto": "d0bfe2a769b29a27187d945674e57fb2c2b8c72d4f5000883f8dab1f006265d8",
+    "caracteres_texto": 94319,
+    "ok": true
+  },
+  "523f514dfdea6521": {
+    "url": "https://en.wikipedia.org/wiki/Keiko_Fujimori",
+    "capturado_em_utc": "2026-11-02T17:15:45+00:00",
+    "metodo": "pedido direto (requests)",
+    "status_http": 200,
+    "bytes_html": 756949,
+    "sha256_html": "4de5b3c0538da50207bff8d930512df9186e15f83eab637995f6e5ea301fa50b",
+    "sha256_texto": "f2143ef001bcaaf7f5b134efa8128c097bff25ead5447a4110e1270eb33c868b",
+    "caracteres_texto": 64650,
+    "ok": true
+  },
+  "3a8c58031042e0d1": {
+    "url": "https://en.wikipedia.org/wiki/Xiomara_Castro",
+    "capturado_em_utc": "2026-11-02T17:15:47+00:00",
+    "metodo": "pedido direto (requests)",
+    "status_http": 200,
+    "bytes_html": 469386,
+    "sha256_html": "af451e2ecfb72ca8bbcde819f76b9a945a9932161612c65c66c20b59511f18a2",
+    "sha256_texto": "df26337c9840639ab88c0ce5297c500b6c9e8c58ca7b98f44a6e2adda3f658cc",
+    "caracteres_texto": 48296,
+    "ok": true
+  },
+  "bf045f2e83ce163a": {
+    "url": "https://en.wikipedia.org/wiki/Bongbong_Marcos",
+    "capturado_em_utc": "2026-11-02T17:15:49+00:00",
+    "metodo": "pedido direto (requests)",
+    "status_http": 200,
+    "bytes_html": 1883184,
+    "sha256_html": "a1557b893f8ea86468c21f675c664218314744e8b521e7757ed9cdd8558c5494",
+    "sha256_texto": "1a1d28b324ac1931c6fd9dbd614bdc30f33fc9612d667788902a7f08461a627e",
+    "caracteres_texto": 178304,
+    "ok": true
+  },
+  "0293ddd0882f3941": {
+    "url": "https://en.wikipedia.org/wiki/Luis_Arce",
+    "capturado_em_utc": "2026-11-02T17:15:52+00:00",
+    "metodo": "pedido direto (requests)",
+    "status_http": 200,
+    "bytes_html": 1252872,
+    "sha256_html": "c86565a8eef16fc429d2b76ad14819060ed729220947aa7089714330a62be2a4",
+    "sha256_texto": "838fea69ed77ca4fd1b003957ed089e0b75a64bb4d49bbd7563cbc39da643b36",
+    "caracteres_texto": 154665,
+    "ok": true
+  },
+  "4ec954ad6c87bb5d": {
+    "url": "https://en.wikipedia.org/wiki/Yingluck_Shinawatra",
+    "capturado_em_utc": "2026-11-02T17:15:54+00:00",
+    "metodo": "pedido direto (requests)",
+    "status_http": 200,
+    "bytes_html": 458669,
+    "sha256_html": "81304bf6dd0066043f176deb2996a00a845308c942bc7457a547fd7cde674b6a",
+    "sha256_texto": "dbffef23b4c61cf26d599e5d225f930bbe0886203667c250424e3e337dcf4109",
+    "caracteres_texto": 41868,
+    "ok": true
   }
 }

@@ -1,0 +1,25 @@
+id,pergunta,prazo,resolve_sim_se
+P01,Tropas americanas entram em território brasileiro sem autorização do governo do Brasil,2030-12-31,"operação militar terrestre confirmada por pelo menos dois de Reuters, AP, AFP"
+P02,Os EUA fazem ataque militar em solo ou águas territoriais brasileiras contra PCC ou Comando Vermelho sem aval do Brasil,2027-12-31,ataque confirmado pelo Pentágono ou por duas agências
+P03,O governo dos EUA reconhece Flávio Bolsonaro como presidente ou líder legítimo do Brasil,2027-01-05,declaração formal da Casa Branca ou do Departamento de Estado
+P04,Trump se reúne em público com Flávio Bolsonaro,2027-03-31,encontro presencial com foto ou confirmação da Casa Branca
+P05,Trump e Lula conversam por telefone ou se encontram,2026-12-15,confirmação de qualquer um dos dois governos
+P06,Lula participa presencialmente da cúpula do G20 em Doral,2026-12-15,presença confirmada na cúpula
+P07,Lula toma posse e os EUA mandam representante à cerimônia,2027-01-05,representante do governo americano presente na posse
+P08,O governo dos EUA anuncia nova medida contra autoridade setor ou economia do Brasil,2027-06-30,"sanção, tarifa adicional, revogação coletiva de vistos ou designação publicada, excluindo o que já está em vigor"
+P09,Os EUA reduzem a tarifa de 25% da Seção 301 contra o Brasil,2027-06-30,ato do USTR ou da Casa Branca reduzindo a taxa ou ampliando isenção relevante por acordo
+P10,O Brasil concede agrément a Danny Perez como embaixador dos EUA,2027-06-30,anúncio de qualquer um dos governos
+P11,Brasil e EUA assinam acordo governamental sobre minerais críticos,2027-12-31,texto assinado pelos dois governos
+P12,O STF decreta a prisão de Flávio Bolsonaro,2027-06-30,"decisão de ministro ou turma, tornada pública"
+P13,O Brasil pede formalmente a extradição de Flávio Bolsonaro,2027-12-31,pedido confirmado pelo Ministério da Justiça ou pelo STF
+P14,Os EUA entregam Flávio Bolsonaro ao Brasil,2027-12-31,extradição ou deportação executada
+P15,Flávio segue nos EUA com autorização renovada residência ou asilo depois da parole,2027-10-27,"status confirmado por governo, advogado ou duas agências"
+P16,Flávio volta ao Brasil,2028-12-31,retorno confirmado
+P17,Flávio lidera entre os nomes da direita numa pesquisa nacional para 2030,2027-12-31,Datafolha ou Quaest com Flávio à frente dos demais nomes da direita
+P18,Câmara dos EUA faz audiência pública com o caso Flávio Bolsonaro entre os temas,2027-06-30,audiência registrada em comissão
+P19,Departamento de Estado responde publicamente às 15 perguntas dos 25 democratas,2026-12-31,resposta escrita pública ou divulgada pelos autores
+P20,Os EUA fazem ataque militar em solo ou águas territoriais brasileiras contra PCC ou Comando Vermelho sem aval do Brasil,2029-01-20,ataque confirmado por um dos governos
+P21,Os EUA aplicam sanção nominal nova (Magnitsky ou parecida) a autoridade brasileira,2027-06-30,ato do Tesouro ou do Departamento de Estado publicado; revogação de visto não conta
+P22,Banco brasileiro é sancionado pelos EUA ou punido por ligação com PCC ou CV,2027-06-30,ato do Tesouro ou do FinCEN citando banco brasileiro
+P23,O Brasil aplica medida concreta com base na Lei da Reciprocidade contra os EUA,2027-06-30,ato do governo brasileiro em vigor; abrir exame não conta
+P24,"O STF toma medida nova contra cidadão, empresa ou plataforma americana",2027-06-30,"decisão pública de ministro ou turma com ordem, multa ou bloqueio"

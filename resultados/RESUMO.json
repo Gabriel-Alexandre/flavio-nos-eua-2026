@@ -170,7 +170,212 @@
    7
   ],
   "brier_leave_one_out": 0.144,
-  "brier_chute": 0.25
+  "brier_chute": 0.25,
+  "brier_taxa_unica": 0.13,
+  "brier_taxa_global_fora_um": 0.137,
+  "horizontes_todos": [
+   {
+    "anos": 4,
+    "observados": 34,
+    "voltaram": 2,
+    "ic95": [
+     1.6,
+     19.1
+    ],
+    "quem": [
+     "Ngo Dinh Diem",
+     "Jean-Bertrand Aristide"
+    ]
+   },
+   {
+    "anos": 8,
+    "observados": 29,
+    "voltaram": 2,
+    "ic95": [
+     1.9,
+     22.0
+    ],
+    "quem": [
+     "Ngo Dinh Diem",
+     "Jean-Bertrand Aristide"
+    ]
+   },
+   {
+    "anos": 12,
+    "observados": 25,
+    "voltaram": 2,
+    "ic95": [
+     2.2,
+     25.0
+    ],
+    "quem": [
+     "Ngo Dinh Diem",
+     "Jean-Bertrand Aristide"
+    ]
+   }
+  ],
+  "horizontes_eua": [
+   {
+    "anos": 4,
+    "observados": 18,
+    "voltaram": 2,
+    "ic95": [
+     3.1,
+     32.8
+    ],
+    "quem": [
+     "Ngo Dinh Diem",
+     "Jean-Bertrand Aristide"
+    ]
+   },
+   {
+    "anos": 8,
+    "observados": 16,
+    "voltaram": 2,
+    "ic95": [
+     3.5,
+     36.0
+    ],
+    "quem": [
+     "Ngo Dinh Diem",
+     "Jean-Bertrand Aristide"
+    ]
+   },
+   {
+    "anos": 12,
+    "observados": 14,
+    "voltaram": 2,
+    "ic95": [
+     4.0,
+     39.9
+    ],
+    "quem": [
+     "Ngo Dinh Diem",
+     "Jean-Bertrand Aristide"
+    ]
+   }
+  ],
+  "anos_ate_o_poder": {
+   "Ngo Dinh Diem": 4,
+   "Kim Dae-jung": 15,
+   "Jean-Bertrand Aristide": 3,
+   "Juan Domingo Perón": 18,
+   "Ruhollah Khomeini": 15,
+   "Nawaz Sharif": 13
+  },
+  "maduros": {
+   "grupo": "saíram até 2016",
+   "n": 27,
+   "voltou_ao_pais": 16,
+   "voltou_ao_poder": 6,
+   "ic95_poder": [
+    10.6,
+    40.8
+   ],
+   "entregue": 3,
+   "quem_voltou_ao_poder": [
+    "Ngo Dinh Diem (acordo)",
+    "Kim Dae-jung (eleicao)",
+    "Jean-Bertrand Aristide (forca_estrangeira)",
+    "Juan Domingo Perón (eleicao)",
+    "Ruhollah Khomeini (colapso_revolucao)",
+    "Nawaz Sharif (eleicao)"
+   ],
+   "quem_foi_entregue": [
+    "Marcos Pérez Jiménez",
+    "Ricardo Martinelli",
+    "Alberto Fujimori"
+   ]
+  },
+  "maduros_eua": {
+   "grupo": "saíram até 2016, nos EUA",
+   "n": 15,
+   "voltou_ao_pais": 7,
+   "voltou_ao_poder": 3,
+   "ic95_poder": [
+    7.0,
+    45.2
+   ],
+   "entregue": 2,
+   "quem_voltou_ao_poder": [
+    "Ngo Dinh Diem (acordo)",
+    "Kim Dae-jung (eleicao)",
+    "Jean-Bertrand Aristide (forca_estrangeira)"
+   ],
+   "quem_foi_entregue": [
+    "Marcos Pérez Jiménez",
+    "Ricardo Martinelli"
+   ]
+  },
+  "ainda_abertos": [
+   "Alejandro Toledo",
+   "Juan Guaidó",
+   "María Corina Machado",
+   "Jair Bolsonaro",
+   "Eduardo Bolsonaro",
+   "Alexandre Ramagem",
+   "Ricardo Anaya",
+   "Edmundo González Urrutia",
+   "Sviatlana Tsikhanouskaya",
+   "Evo Morales",
+   "Rafael Correa",
+   "Leopoldo López"
+  ],
+  "eua_sem_nao_abrigados": {
+   "grupo": "EUA, sem Somoza e o xá",
+   "n": 20,
+   "voltou_ao_pais": 11,
+   "voltou_ao_poder": 3,
+   "ic95_poder": [
+    5.2,
+    36.0
+   ],
+   "entregue": 3,
+   "quem_voltou_ao_poder": [
+    "Ngo Dinh Diem (acordo)",
+    "Kim Dae-jung (eleicao)",
+    "Jean-Bertrand Aristide (forca_estrangeira)"
+   ],
+   "quem_foi_entregue": [
+    "Marcos Pérez Jiménez",
+    "Alejandro Toledo",
+    "Ricardo Martinelli"
+   ]
+  },
+  "parecidos_fora_do_grupo": {
+   "grupo": "parecidos, sem Jair, Eduardo e Ramagem",
+   "n": 4,
+   "voltou_ao_pais": 3,
+   "voltou_ao_poder": 0,
+   "ic95_poder": [
+    0,
+    49.0
+   ],
+   "entregue": 2,
+   "quem_voltou_ao_poder": [],
+   "quem_foi_entregue": [
+    "Alejandro Toledo",
+    "Ricardo Martinelli"
+   ]
+  },
+  "grupo_politico_voltou": {
+   "Ferdinand Marcos": "2022",
+   "Benigno Aquino Jr.": "1986",
+   "Benazir Bhutto": "2008",
+   "Thaksin Shinawatra": "2011",
+   "Evo Morales": "2020",
+   "Manuel Zelaya": "2022",
+   "Alberto Fujimori": "2026"
+  },
+  "cargo_nacional_depois": {
+   "Ahmed Chalabi": "vice-primeiro-ministro",
+   "Ricardo Anaya": "senador"
+  },
+  "apoio_sensibilidade": {
+   "como_codificado": "2 de 6",
+   "kim_entra_eduardo_sai": "3 de 6",
+   "e_chalabi_conta": "4 de 6"
+  }
  },
  "e2_concordancia": {
   "tipo": {
@@ -337,7 +542,31 @@
     "sobe": 8,
     "desce": 2
    }
-  }
+  },
+  "dirigidas_ao_brasil": 11,
+  "ids_dirigidas": [
+   "br-003",
+   "br-004",
+   "br-005",
+   "br-006",
+   "br-007",
+   "br-009",
+   "br-011",
+   "br-019",
+   "br-020",
+   "br-023",
+   "br-026"
+  ],
+  "outras_que_subiam": {
+   "global": 3,
+   "ato_do_brasil": 4,
+   "duplicata": 1,
+   "nomeacao": 2,
+   "fala_ou_evento": 5
+  },
+  "ultima_dirigida": "2026-08-04",
+  "janelas_240d_com_medida_pct": 97.2,
+  "janelas_240d": 250
  },
  "e5": {
   "n": 18,
@@ -362,6 +591,26 @@
    "existe": 3,
    "nao": 8,
    "parcial": 5
+  },
+  "dias_antes_da_captura": {
+   "captura": 0,
+   "ataque_em_terra": 4,
+   "bloqueio": 24,
+   "fechamento_espaco_aereo": 35,
+   "ultimato": 43,
+   "aviso_aviacao": 43,
+   "designacao": 348,
+   "mobilizacao_naval": 137,
+   "operacao_nomeada": 51,
+   "negativa": 64,
+   "fala_presidente": 72,
+   "comando": 79,
+   "operacao_encoberta": 80,
+   "base_juridica": 93,
+   "ataque_barcos": 123,
+   "mobilizacao_aerea": 124,
+   "diretiva_militar": 148,
+   "recompensa_acusacao": 149
   },
   "tabela_sinais": [
    {
@@ -559,11 +808,11 @@
   ]
  },
  "e6": {
-  "n_evidencias": 17,
+  "n_evidencias": 21,
   "placar": {
    "H1_lealdade": {
     "contra": 4,
-    "a_favor": 3
+    "a_favor": 5
    },
    "H2_narrativa_e_midterms": {
     "contra": 1,
@@ -580,6 +829,64 @@
    "H5_aposta_de_rubio": {
     "contra": 4,
     "a_favor": 2
+   },
+   "H6_conviccao_de_perseguicao": {
+    "contra": 4,
+    "a_favor": 5
+   }
+  },
+  "por_alvo": {
+   "entrada": {
+    "H1_lealdade": {
+     "contra": 2,
+     "a_favor": 3
+    },
+    "H2_narrativa_e_midterms": {
+     "contra": 1,
+     "a_favor": 1
+    },
+    "H3_china_e_influencia": {
+     "contra": 1,
+     "a_favor": 3
+    },
+    "H4_minerais": {
+     "contra": 3,
+     "a_favor": 2
+    },
+    "H5_aposta_de_rubio": {
+     "contra": 2,
+     "a_favor": 2
+    },
+    "H6_conviccao_de_perseguicao": {
+     "contra": 3,
+     "a_favor": 3
+    }
+   },
+   "retorica": {
+    "H1_lealdade": {
+     "contra": 2,
+     "a_favor": 2
+    },
+    "H2_narrativa_e_midterms": {
+     "contra": 0,
+     "a_favor": 3
+    },
+    "H3_china_e_influencia": {
+     "contra": 0,
+     "a_favor": 0
+    },
+    "H4_minerais": {
+     "contra": 0,
+     "a_favor": 0
+    },
+    "H5_aposta_de_rubio": {
+     "contra": 2,
+     "a_favor": 0
+    },
+    "H6_conviccao_de_perseguicao": {
+     "contra": 1,
+     "a_favor": 2
+    }
    }
   },
   "ordem": [
@@ -587,14 +894,49 @@
    "H3_china_e_influencia",
    "H4_minerais",
    "H1_lealdade",
+   "H6_conviccao_de_perseguicao",
    "H5_aposta_de_rubio"
-  ]
+  ],
+  "concordancia_segunda_codificacao_pct": 85.7,
+  "placar_segunda_codificacao": {
+   "H1_lealdade": {
+    "contra": 4,
+    "a_favor": 3
+   },
+   "H2_narrativa_e_midterms": {
+    "contra": 1,
+    "a_favor": 3
+   },
+   "H3_china_e_influencia": {
+    "contra": 1,
+    "a_favor": 1
+   },
+   "H4_minerais": {
+    "contra": 3,
+    "a_favor": 1
+   },
+   "H5_aposta_de_rubio": {
+    "contra": 0,
+    "a_favor": 3
+   },
+   "H6_conviccao_de_perseguicao": {
+    "contra": 1,
+    "a_favor": 3
+   }
+  }
  },
  "citacoes": {
   "trechos": 850,
-  "achados": 744,
+  "achados": 766,
   "paginas": 494,
-  "paginas_capturadas": 466
+  "paginas_capturadas": 469,
+  "por_situacao": {
+   "achado": 766,
+   "achado_com_diferenca": 19,
+   "pagina_recusou": 38,
+   "nao_achado": 4,
+   "resposta_de_api": 23
+  }
  },
  "e7": {
   "modelos": [
@@ -610,198 +952,220 @@
     "pergunta": "Tropas americanas entram em território brasileiro sem autorização do governo do Brasil",
     "prazo": "2030-12-31",
     "resolve_sim_se": "operação militar terrestre confirmada por pelo menos dois de Reuters, AP, AFP",
-    "sem_historia": 2.0,
-    "com_historia": 2.0,
-    "mudanca": 0.0,
-    "menor": 2,
-    "maior": 3,
+    "sem_historia": 1.0,
+    "com_historia": 1.75,
+    "mudanca": 0.8,
+    "menor": 1.0,
+    "maior": 3.5,
+    "media": 2.0,
     "faixa": "quase nenhuma chance",
     "por_modelo": {
-     "fable": 3,
-     "haiku": 2,
-     "opus": 2,
+     "fable": 3.5,
+     "haiku": 1.5,
+     "opus": 1.0,
      "sonnet": 2
-    }
+    },
+    "rodada1": 2.0
    },
    {
     "id": "P02",
     "pergunta": "Os EUA fazem ataque militar em solo ou águas territoriais brasileiras contra PCC ou Comando Vermelho sem aval do Brasil",
     "prazo": "2027-12-31",
     "resolve_sim_se": "ataque confirmado pelo Pentágono ou por duas agências",
-    "sem_historia": 4.0,
-    "com_historia": 3.5,
-    "mudanca": -0.5,
-    "menor": 2,
+    "sem_historia": 2.75,
+    "com_historia": 2.5,
+    "mudanca": -0.2,
+    "menor": 1.5,
     "maior": 5,
+    "media": 2.9,
     "faixa": "quase nenhuma chance",
     "por_modelo": {
      "fable": 5,
-     "haiku": 3,
-     "opus": 2,
-     "sonnet": 4
-    }
+     "haiku": 2.5,
+     "opus": 1.5,
+     "sonnet": 2.5
+    },
+    "rodada1": 3.5
    },
    {
     "id": "P03",
     "pergunta": "O governo dos EUA reconhece Flávio Bolsonaro como presidente ou líder legítimo do Brasil",
     "prazo": "2027-01-05",
     "resolve_sim_se": "declaração formal da Casa Branca ou do Departamento de Estado",
-    "sem_historia": 2.5,
-    "com_historia": 2.0,
-    "mudanca": -0.5,
-    "menor": 2,
+    "sem_historia": 1.5,
+    "com_historia": 1.5,
+    "mudanca": 0.0,
+    "menor": 0.7,
     "maior": 4,
+    "media": 1.9,
     "faixa": "quase nenhuma chance",
     "por_modelo": {
      "fable": 4,
      "haiku": 2,
-     "opus": 2,
-     "sonnet": 2
-    }
+     "opus": 0.7,
+     "sonnet": 1
+    },
+    "rodada1": 2.0
    },
    {
     "id": "P04",
     "pergunta": "Trump se reúne em público com Flávio Bolsonaro",
     "prazo": "2027-03-31",
     "resolve_sim_se": "encontro presencial com foto ou confirmação da Casa Branca",
-    "sem_historia": 12.5,
-    "com_historia": 13.5,
-    "mudanca": 1.0,
+    "sem_historia": 15.0,
+    "com_historia": 10.0,
+    "mudanca": -5.0,
     "menor": 6,
-    "maior": 25,
+    "maior": 22,
+    "media": 12,
     "faixa": "muito improvável",
     "por_modelo": {
-     "fable": 25,
+     "fable": 22,
      "haiku": 6,
-     "opus": 12,
-     "sonnet": 15
-    }
+     "opus": 10,
+     "sonnet": 10
+    },
+    "rodada1": 13.5
    },
    {
     "id": "P05",
     "pergunta": "Trump e Lula conversam por telefone ou se encontram",
     "prazo": "2026-12-15",
     "resolve_sim_se": "confirmação de qualquer um dos dois governos",
-    "sem_historia": 50.0,
-    "com_historia": 50.0,
-    "mudanca": 0.0,
-    "menor": 35,
-    "maior": 55,
-    "faixa": "chance parecida",
+    "sem_historia": 40.0,
+    "com_historia": 44.0,
+    "mudanca": 4.0,
+    "menor": 25,
+    "maior": 50,
+    "media": 40.8,
+    "faixa": "improvável",
     "por_modelo": {
-     "fable": 50,
-     "haiku": 35,
-     "opus": 55,
+     "fable": 40,
+     "haiku": 25,
+     "opus": 48,
      "sonnet": 50
-    }
+    },
+    "rodada1": 50.0
    },
    {
     "id": "P06",
     "pergunta": "Lula participa presencialmente da cúpula do G20 em Doral",
     "prazo": "2026-12-15",
     "resolve_sim_se": "presença confirmada na cúpula",
-    "sem_historia": 52.5,
-    "com_historia": 55.0,
-    "mudanca": 2.5,
+    "sem_historia": 55.0,
+    "com_historia": 56.0,
+    "mudanca": 1.0,
     "menor": 45,
-    "maior": 68,
-    "faixa": "chance parecida",
+    "maior": 65,
+    "media": 55.5,
+    "faixa": "provável",
     "por_modelo": {
      "fable": 50,
-     "haiku": 68,
+     "haiku": 65,
      "opus": 45,
-     "sonnet": 60
-    }
+     "sonnet": 62
+    },
+    "rodada1": 55.0
    },
    {
     "id": "P07",
     "pergunta": "Lula toma posse e os EUA mandam representante à cerimônia",
     "prazo": "2027-01-05",
     "resolve_sim_se": "representante do governo americano presente na posse",
-    "sem_historia": 74.0,
-    "com_historia": 66.5,
-    "mudanca": -7.5,
-    "menor": 40,
-    "maior": 80,
+    "sem_historia": 70.0,
+    "com_historia": 76.5,
+    "mudanca": 6.5,
+    "menor": 55,
+    "maior": 78,
+    "media": 71.5,
     "faixa": "provável",
     "por_modelo": {
-     "fable": 65,
-     "haiku": 40,
-     "opus": 80,
-     "sonnet": 68
-    }
+     "fable": 75,
+     "haiku": 55,
+     "opus": 78,
+     "sonnet": 78
+    },
+    "rodada1": 66.5
    },
    {
     "id": "P08",
     "pergunta": "O governo dos EUA anuncia nova medida contra autoridade setor ou economia do Brasil",
     "prazo": "2027-06-30",
     "resolve_sim_se": "sanção, tarifa adicional, revogação coletiva de vistos ou designação publicada, excluindo o que já está em vigor",
-    "sem_historia": 57.5,
-    "com_historia": 72.0,
-    "mudanca": 14.5,
-    "menor": 70,
-    "maior": 72,
+    "sem_historia": 62.5,
+    "com_historia": 70.0,
+    "mudanca": 7.5,
+    "menor": 62,
+    "maior": 80,
+    "media": 70.5,
     "faixa": "provável",
     "por_modelo": {
-     "fable": 70,
-     "haiku": 72,
-     "opus": 72,
-     "sonnet": 72
-    }
+     "fable": 80,
+     "haiku": 70,
+     "opus": 62,
+     "sonnet": 70
+    },
+    "rodada1": 72.0
    },
    {
     "id": "P09",
     "pergunta": "Os EUA reduzem a tarifa de 25% da Seção 301 contra o Brasil",
     "prazo": "2027-06-30",
     "resolve_sim_se": "ato do USTR ou da Casa Branca reduzindo a taxa ou ampliando isenção relevante por acordo",
-    "sem_historia": 29.0,
-    "com_historia": 23.0,
-    "mudanca": -6.0,
-    "menor": 14,
+    "sem_historia": 26.0,
+    "com_historia": 22.5,
+    "mudanca": -3.5,
+    "menor": 18,
     "maior": 30,
+    "media": 23.2,
     "faixa": "improvável",
     "por_modelo": {
      "fable": 30,
      "haiku": 18,
-     "opus": 28,
-     "sonnet": 14
-    }
+     "opus": 27,
+     "sonnet": 18
+    },
+    "rodada1": 23.0
    },
    {
     "id": "P10",
     "pergunta": "O Brasil concede agrément a Danny Perez como embaixador dos EUA",
     "prazo": "2027-06-30",
     "resolve_sim_se": "anúncio de qualquer um dos governos",
-    "sem_historia": 25.0,
-    "com_historia": 30.0,
-    "mudanca": 5.0,
-    "menor": 20,
-    "maior": 33,
+    "sem_historia": 32.5,
+    "com_historia": 34.0,
+    "mudanca": 1.5,
+    "menor": 30,
+    "maior": 35,
+    "media": 33.2,
     "faixa": "improvável",
     "por_modelo": {
-     "fable": 30,
-     "haiku": 30,
-     "opus": 33,
-     "sonnet": 20
-    }
+     "fable": 35,
+     "haiku": 35,
+     "opus": 30,
+     "sonnet": 33
+    },
+    "rodada1": 30.0
    },
    {
     "id": "P11",
     "pergunta": "Brasil e EUA assinam acordo governamental sobre minerais críticos",
     "prazo": "2027-12-31",
     "resolve_sim_se": "texto assinado pelos dois governos",
-    "sem_historia": 20.0,
-    "com_historia": 16.5,
-    "mudanca": -3.5,
-    "menor": 14,
-    "maior": 25,
+    "sem_historia": 17.0,
+    "com_historia": 15.0,
+    "mudanca": -2.0,
+    "menor": 13,
+    "maior": 17,
+    "media": 15,
     "faixa": "muito improvável",
     "por_modelo": {
-     "fable": 18,
-     "haiku": 25,
-     "opus": 15,
-     "sonnet": 14
-    }
+     "fable": 15,
+     "haiku": 15,
+     "opus": 13,
+     "sonnet": 17
+    },
+    "rodada1": 16.5
    },
    {
     "id": "P12",
@@ -809,143 +1173,259 @@
     "prazo": "2027-06-30",
     "resolve_sim_se": "decisão de ministro ou turma, tornada pública",
     "sem_historia": 37.5,
-    "com_historia": 37.5,
-    "mudanca": 0.0,
-    "menor": 22,
-    "maior": 42,
+    "com_historia": 39.0,
+    "mudanca": 1.5,
+    "menor": 25,
+    "maior": 55,
+    "media": 39.5,
     "faixa": "improvável",
     "por_modelo": {
-     "fable": 40,
-     "haiku": 35,
-     "opus": 42,
-     "sonnet": 22
-    }
+     "fable": 55,
+     "haiku": 25,
+     "opus": 40,
+     "sonnet": 38
+    },
+    "rodada1": 37.5
    },
    {
     "id": "P13",
     "pergunta": "O Brasil pede formalmente a extradição de Flávio Bolsonaro",
     "prazo": "2027-12-31",
     "resolve_sim_se": "pedido confirmado pelo Ministério da Justiça ou pelo STF",
-    "sem_historia": 23.5,
-    "com_historia": 22.5,
-    "mudanca": -1.0,
-    "menor": 12,
-    "maior": 30,
+    "sem_historia": 19.5,
+    "com_historia": 26.0,
+    "mudanca": 6.5,
+    "menor": 20,
+    "maior": 35,
+    "media": 26.8,
     "faixa": "improvável",
     "por_modelo": {
-     "fable": 30,
-     "haiku": 20,
-     "opus": 25,
-     "sonnet": 12
-    }
+     "fable": 35,
+     "haiku": 22,
+     "opus": 20,
+     "sonnet": 30
+    },
+    "rodada1": 22.5
    },
    {
     "id": "P14",
     "pergunta": "Os EUA entregam Flávio Bolsonaro ao Brasil",
     "prazo": "2027-12-31",
     "resolve_sim_se": "extradição ou deportação executada",
-    "sem_historia": 2.0,
-    "com_historia": 3.0,
-    "mudanca": 1.0,
-    "menor": 2,
-    "maior": 4,
+    "sem_historia": 1.0,
+    "com_historia": 1.25,
+    "mudanca": 0.2,
+    "menor": 0.6,
+    "maior": 2,
+    "media": 1.3,
     "faixa": "quase nenhuma chance",
     "por_modelo": {
-     "fable": 4,
-     "haiku": 3,
-     "opus": 2,
-     "sonnet": 3
-    }
+     "fable": 2,
+     "haiku": 1,
+     "opus": 0.6,
+     "sonnet": 1.5
+    },
+    "rodada1": 3.0
    },
    {
     "id": "P15",
     "pergunta": "Flávio segue nos EUA com autorização renovada residência ou asilo depois da parole",
     "prazo": "2027-10-27",
     "resolve_sim_se": "status confirmado por governo, advogado ou duas agências",
-    "sem_historia": 62.5,
-    "com_historia": 67.5,
-    "mudanca": 5.0,
+    "sem_historia": 65.0,
+    "com_historia": 64.0,
+    "mudanca": -1.0,
     "menor": 45,
-    "maior": 83,
+    "maior": 72,
+    "media": 61.2,
     "faixa": "provável",
     "por_modelo": {
-     "fable": 80,
+     "fable": 70,
      "haiku": 45,
-     "opus": 83,
-     "sonnet": 55
-    }
+     "opus": 72,
+     "sonnet": 58
+    },
+    "rodada1": 67.5
    },
    {
     "id": "P16",
     "pergunta": "Flávio volta ao Brasil",
     "prazo": "2028-12-31",
     "resolve_sim_se": "retorno confirmado",
-    "sem_historia": 17.5,
-    "com_historia": 21.5,
-    "mudanca": 4.0,
-    "menor": 9,
-    "maior": 25,
-    "faixa": "improvável",
+    "sem_historia": 18.5,
+    "com_historia": 16.0,
+    "mudanca": -2.5,
+    "menor": 6,
+    "maior": 30,
+    "media": 17,
+    "faixa": "muito improvável",
     "por_modelo": {
      "fable": 18,
-     "haiku": 25,
-     "opus": 9,
-     "sonnet": 25
-    }
+     "haiku": 30,
+     "opus": 6,
+     "sonnet": 14
+    },
+    "rodada1": 21.5
    },
    {
     "id": "P17",
     "pergunta": "Flávio lidera entre os nomes da direita numa pesquisa nacional para 2030",
     "prazo": "2027-12-31",
     "resolve_sim_se": "Datafolha ou Quaest com Flávio à frente dos demais nomes da direita",
-    "sem_historia": 35.0,
-    "com_historia": 35.0,
-    "mudanca": 0.0,
-    "menor": 25,
-    "maior": 45,
+    "sem_historia": 39.0,
+    "com_historia": 40.0,
+    "mudanca": 1.0,
+    "menor": 17,
+    "maior": 55,
+    "media": 38,
     "faixa": "improvável",
     "por_modelo": {
-     "fable": 45,
-     "haiku": 25,
-     "opus": 30,
-     "sonnet": 40
-    }
+     "fable": 55,
+     "haiku": 35,
+     "opus": 17,
+     "sonnet": 45
+    },
+    "rodada1": 35.0
    },
    {
     "id": "P18",
     "pergunta": "Câmara dos EUA faz audiência pública com o caso Flávio Bolsonaro entre os temas",
     "prazo": "2027-06-30",
     "resolve_sim_se": "audiência registrada em comissão",
-    "sem_historia": 30.0,
-    "com_historia": 30.0,
-    "mudanca": 0.0,
-    "menor": 20,
-    "maior": 40,
+    "sem_historia": 18.5,
+    "com_historia": 28.5,
+    "mudanca": 10.0,
+    "menor": 22,
+    "maior": 45,
+    "media": 31,
     "faixa": "improvável",
     "por_modelo": {
-     "fable": 40,
+     "fable": 45,
      "haiku": 22,
-     "opus": 20,
-     "sonnet": 38
-    }
+     "opus": 24,
+     "sonnet": 33
+    },
+    "rodada1": 30.0
    },
    {
     "id": "P19",
     "pergunta": "Departamento de Estado responde publicamente às 15 perguntas dos 25 democratas",
     "prazo": "2026-12-31",
     "resolve_sim_se": "resposta escrita pública ou divulgada pelos autores",
-    "sem_historia": 22.5,
-    "com_historia": 16.0,
-    "mudanca": -6.5,
-    "menor": 10,
-    "maior": 35,
+    "sem_historia": 11.0,
+    "com_historia": 9.5,
+    "mudanca": -1.5,
+    "menor": 6,
+    "maior": 25,
+    "media": 12.5,
     "faixa": "muito improvável",
     "por_modelo": {
-     "fable": 35,
-     "haiku": 22,
-     "opus": 10,
-     "sonnet": 10
-    }
+     "fable": 25,
+     "haiku": 12,
+     "opus": 6,
+     "sonnet": 7
+    },
+    "rodada1": 16.0
+   },
+   {
+    "id": "P20",
+    "pergunta": "Os EUA fazem ataque militar em solo ou águas territoriais brasileiras contra PCC ou Comando Vermelho sem aval do Brasil",
+    "prazo": "2029-01-20",
+    "resolve_sim_se": "ataque confirmado por um dos governos",
+    "sem_historia": 5.0,
+    "com_historia": 4.0,
+    "mudanca": -1.0,
+    "menor": 3,
+    "maior": 8,
+    "media": 4.8,
+    "faixa": "quase nenhuma chance",
+    "por_modelo": {
+     "fable": 8,
+     "haiku": 4,
+     "opus": 3,
+     "sonnet": 4
+    },
+    "rodada1": null
+   },
+   {
+    "id": "P21",
+    "pergunta": "Os EUA aplicam sanção nominal nova (Magnitsky ou parecida) a autoridade brasileira",
+    "prazo": "2027-06-30",
+    "resolve_sim_se": "ato do Tesouro ou do Departamento de Estado publicado; revogação de visto não conta",
+    "sem_historia": 17.0,
+    "com_historia": 14.5,
+    "mudanca": -2.5,
+    "menor": 12,
+    "maior": 30,
+    "media": 17.8,
+    "faixa": "muito improvável",
+    "por_modelo": {
+     "fable": 30,
+     "haiku": 15,
+     "opus": 12,
+     "sonnet": 14
+    },
+    "rodada1": null
+   },
+   {
+    "id": "P22",
+    "pergunta": "Banco brasileiro é sancionado pelos EUA ou punido por ligação com PCC ou CV",
+    "prazo": "2027-06-30",
+    "resolve_sim_se": "ato do Tesouro ou do FinCEN citando banco brasileiro",
+    "sem_historia": 9.0,
+    "com_historia": 11.0,
+    "mudanca": 2.0,
+    "menor": 7,
+    "maior": 25,
+    "media": 13.5,
+    "faixa": "muito improvável",
+    "por_modelo": {
+     "fable": 25,
+     "haiku": 8,
+     "opus": 7,
+     "sonnet": 14
+    },
+    "rodada1": null
+   },
+   {
+    "id": "P23",
+    "pergunta": "O Brasil aplica medida concreta com base na Lei da Reciprocidade contra os EUA",
+    "prazo": "2027-06-30",
+    "resolve_sim_se": "ato do governo brasileiro em vigor; abrir exame não conta",
+    "sem_historia": 7.5,
+    "com_historia": 7.0,
+    "mudanca": -0.5,
+    "menor": 6,
+    "maior": 15,
+    "media": 8.8,
+    "faixa": "muito improvável",
+    "por_modelo": {
+     "fable": 15,
+     "haiku": 8,
+     "opus": 6,
+     "sonnet": 6
+    },
+    "rodada1": null
+   },
+   {
+    "id": "P24",
+    "pergunta": "O STF toma medida nova contra cidadão, empresa ou plataforma americana",
+    "prazo": "2027-06-30",
+    "resolve_sim_se": "decisão pública de ministro ou turma com ordem, multa ou bloqueio",
+    "sem_historia": 66.0,
+    "com_historia": 78.5,
+    "mudanca": 12.5,
+    "menor": 50,
+    "maior": 88,
+    "media": 73.8,
+    "faixa": "provável",
+    "por_modelo": {
+     "fable": 85,
+     "haiku": 50,
+     "opus": 88,
+     "sonnet": 72
+    },
+    "rodada1": null
    }
   ],
   "cenarios": [
@@ -954,43 +1434,44 @@
     "cenario": "A pressão longa",
     "descricao": "Flávio nos EUA sem poder; posse normal; tarifa e visto como moeda; conversa intermitente; sem ruptura e sem acordo amplo até o fim de 2027",
     "sem_historia": 55.0,
-    "com_historia": 55.0,
-    "menor": 42,
-    "maior": 58,
-    "com_historia_normalizado": 54.5
+    "com_historia": 56.0,
+    "menor": 48,
+    "maior": 60,
+    "com_historia_normalizado": 56.6
    },
    {
     "id": "C2",
     "cenario": "O acordo",
     "descricao": "Trump e Lula negociam: tarifa e minerais em troca do embaixador e de cooperação; Flávio perde importância para Washington",
-    "sem_historia": 22.0,
-    "com_historia": 23.0,
-    "menor": 20,
-    "maior": 28,
-    "com_historia_normalizado": 22.8
+    "sem_historia": 21.0,
+    "com_historia": 18.5,
+    "menor": 18,
+    "maior": 25,
+    "com_historia_normalizado": 18.7
    },
    {
     "id": "C3",
     "cenario": "A escalada",
-    "descricao": "Nova sanção forte, bancos ou Pix atingidos pela designação, autoridades de volta à lista, prisão decretada com recusa americana; sem ação militar",
-    "sem_historia": 20.0,
-    "com_historia": 20.5,
-    "menor": 18,
-    "maior": 28,
-    "com_historia_normalizado": 20.3
+    "descricao": "Nova sanção forte, bancos atingidos pela designação ou ação sobre o Pix na linha da Seção 301, autoridades de volta à lista, prisão decretada com recusa americana; sem ação militar",
+    "sem_historia": 21.0,
+    "com_historia": 21.5,
+    "menor": 20,
+    "maior": 24,
+    "com_historia_normalizado": 21.7
    },
    {
     "id": "C4",
     "cenario": "A força",
     "descricao": "Ação militar americana em território brasileiro sem aval do Brasil",
     "sem_historia": 3.0,
-    "com_historia": 2.5,
-    "menor": 1,
-    "maior": 3,
-    "com_historia_normalizado": 2.5
+    "com_historia": 3.0,
+    "menor": 2,
+    "maior": 5,
+    "com_historia_normalizado": 3.0
    }
   ],
   "mudanca_media_absoluta": 3.1,
-  "discordancia_media_entre_modelos": 16.3
+  "discordancia_media_entre_modelos": 16.6,
+  "mudancas_rodada1": "P07 de 66,5% para 76,5%, P19 de 16% para 9,5%, P05 de 50% para 44%"
  }
 }

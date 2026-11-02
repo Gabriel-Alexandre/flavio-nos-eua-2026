@@ -1,0 +1,36 @@
+{
+  "modelo": "fable",
+  "condicao": "B",
+  "perguntas": {
+    "P01": {"p": 3.5, "porque": "Em 70 anos os EUA nunca puseram tropas num país do tamanho do Brasil sem aval, e dos 16 sinais que antecederam a Venezuela só 3 existem hoje, os mais antigos e com falso alarme conhecido no México e na Colômbia."},
+    "P02": {"p": 5, "porque": "A designação do PCC e do CV abre a porta jurídica, mas ataque em território brasileiro em 14 meses seria o primeiro contra um aliado grande e sem os sinais navais e de ultimato que vieram antes na Venezuela."},
+    "P03": {"p": 4, "porque": "Trump disse 'I like Lula' e 'I won't get involved', Reuters diz que não há plano de apoiar a pretensão, e OEA, Carter Center, PL e vice reconheceram o resultado; reconhecimento formal de perdedor validado é raríssimo."},
+    "P04": {"p": 22, "porque": "Trump diz não ter planos, mas Flávio está em Miami com a ponte de Jason Miller, e uma foto num evento em Mar-a-Lago bastaria para resolver 'sim'."},
+    "P05": {"p": 40, "porque": "Os dois já se falaram em 2025 e o G20 em Doral cria a ocasião natural, mas Trump ainda não felicitou Lula e chamou a eleição de fraudada, e são só seis semanas."},
+    "P06": {"p": 50, "porque": "A imprensa diz que ele vai e a cúpula é oportunidade de destravar a tarifa, mas com Flávio abrigado em Miami e sem felicitação de Trump mandar Alckmin é saída fácil."},
+    "P07": {"p": 75, "porque": "Os EUA mandam alguém a quase toda posse, inclusive de governos hostis, e um encarregado de negócios já resolve 'sim'; o risco é Trump tratar como eleição 'fraudada' e boicotar."},
+    "P08": {"p": 80, "porque": "Foram 11 medidas dirigidas em 22 meses e 97% das janelas de 240 dias tiveram ao menos uma; a definição é larga e a fuga de Flávio esquenta o assunto."},
+    "P09": {"p": 30, "porque": "Trump já recuou em parte das tarifas ao Brasil em 2025 e usa tarifa como moeda, mas reduzir exige acordo em 8 meses enquanto Flávio está em Miami e o embaixador não foi aceito."},
+    "P10": {"p": 35, "porque": "Depende do degelo: Brasil segura o agrément desde agosto como moeda, e um acordo de tarifa provavelmente libera; sem acordo, fica travado."},
+    "P11": {"p": 15, "porque": "O tema virou inquérito no STF contra Flávio por suposta troca de apoio por terras raras, o que torna um acordo governamental assinado politicamente caro para Lula em 2027."},
+    "P12": {"p": 55, "porque": "Ele saiu do país contra ordem de entregar passaporte, perde a imunidade em 31/01/2027 e tem três inquéritos com pedido de preventiva pelo PT; Moraes já decretou prisão do pai por bem menos risco de fuga."},
+    "P13": {"p": 35, "porque": "Precisa de prisão decretada antes e o Brasil já pediu extradição de bolsonaristas aos EUA em outros casos, mas o governo pode preferir não expor uma recusa americana certa."},
+    "P14": {"p": 2, "porque": "Trump deu a parole e disse que ele pode ficar o quanto quiser; dos 22 abrigados nos EUA só 3 foram entregues, nenhum sob presidente que o apoiava."},
+    "P15": {"p": 70, "porque": "Exilados em regra ficam, o NYT diz que ele vai pedir green card e um pedido de asilo pendente já garante status; o 'não' vem de ele voltar ou mudar de país antes de outubro."},
+    "P16": {"p": 18, "porque": "58% dos exilados voltam, mas quase nunca em 2 anos, e com prisão provável e o STF ativo o retorno antes de 2029 só sai se o cenário jurídico mudar muito."},
+    "P17": {"p": 55, "porque": "Acabou de ter 48% dos votos e é o herdeiro do nome, então ao menos uma pesquisa de 2030 em 2027 tende a mostrá-lo na frente; Tarcísio reconhecendo Lula pode dividir e os institutos podem nem listá-lo."},
+    "P18": {"p": 45, "porque": "Democratas à frente nas midterms abrem supervisão sobre o jato e a parole a partir de janeiro, e republicanos também usam o Brasil em audiências de censura; 'entre os temas' é critério largo."},
+    "P19": {"p": 25, "porque": "Cartas de minoria recebem resposta tardia ou nenhuma neste governo, e o prazo de 13/11 não tem força; os autores divulgariam qualquer resposta, o que ajuda um pouco."},
+    "P20": {"p": 8, "porque": "Janela de 26 meses e critério mais frouxo que a P02, com os EUA já em guerra fora do hemisfério e mirando cartéis; ainda assim o Brasil é 7 vezes a Venezuela e sem os sinais de mobilização."},
+    "P21": {"p": 30, "porque": "A Magnitsky de Moraes já foi usada e revogada, então o instrumento está testado; uma prisão decretada contra Flávio seria o gatilho, mas Trump hoje parece mais em modo 'I like Lula' que de escalada."},
+    "P22": {"p": 25, "porque": "Com PCC e CV designados, o FinCEN tem o mesmo caminho que usou contra bancos mexicanos em 2025 e a investigação da Seção 301 já mira o Pix; em 8 meses é possível, não provável."},
+    "P23": {"p": 15, "porque": "Lula só abriu exame até hoje, mesmo com 25% de tarifa há 16 meses, e retaliar em plena abertura de mandato e com o G20 em jogo contraria o padrão dele."},
+    "P24": {"p": 85, "porque": "O STF ordena, multa e bloqueia plataformas americanas com frequência, e o caso Flávio soma lives e redes a esse ritmo; em 8 meses seria estranho não haver ordem nova."}
+  },
+  "cenarios": {
+    "C1": 48,
+    "C2": 25,
+    "C3": 22,
+    "C4": 5
+  }
+}

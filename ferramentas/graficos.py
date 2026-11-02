@@ -59,8 +59,8 @@ def g01_rota():
 def g02_quem_fez_o_que():
     fig, ax = nova("Os EUA ajudaram? Depende da parte", "O que cada parte da saída tem de sustentação")
     linhas = [("A entrada nos EUA", "Trump decidiu. Rubio disse em público:\n\"he would be paroled\"", "dito pelo governo", VERDE),
-              ("O jato da Argentina", "Assessor da Casa Branca, segundo\nReuters, NYT e WSJ. Pago por conta americana", "apuração de 3 veículos", OURO),
-              ("A passagem pela Argentina", "Escolta e veículo oficial vistos por repórter.\nGoverno diz: \"entrou por Migraciones\"", "Estado argentino, com disputa", OURO),
+              ("O jato da Argentina", "Assessor da Casa Branca, segundo\nReuters, NYT e WSJ. Pago por conta americana", "apuração da imprensa", OURO),
+              ("A passagem pela Argentina", "Escolta e veículo oficial vistos por repórter.\nGoverno diz: \"entrou por Migraciones\"", "agentes argentinos no local", OURO),
               ("A saída do Brasil", "Sem registro na PF.\nNenhuma prova de americano nesse trecho", "sem prova", CINZA)]
     ax.axis("off")
     for i, (a, b, c, cor) in enumerate(linhas):
@@ -70,7 +70,7 @@ def g02_quem_fez_o_que():
         ax.text(0.42, y, b, fontsize=23, va="center")
     ax.set_xlim(0, 1)
     ax.set_ylim(0, 1)
-    salvar(fig, "g02_quem_fez_o_que", "state.gov (31/out), Reuters, NYT, WSJ, Fantástico, nota da PF")
+    salvar(fig, "g02_quem_fez_o_que", "state.gov (31/out), Reuters, AFP, Clarín, Fantástico, nota da PF")
 
 
 def barras_de_taxa(linhas, titulo, sub, nome, fonte):
@@ -92,20 +92,21 @@ def barras_de_taxa(linhas, titulo, sub, nome, fonte):
 
 def g03_exilados():
     e = R["e2"]
+    h12 = e["horizontes_todos"][2]
     barras_de_taxa([("Abrigados nos EUA", e["eua"]["voltou_ao_poder"], e["eua"]["n"], AZUL),
                     ("Abrigados em outro país", e["comparacao"]["voltou_ao_poder"], e["comparacao"]["n"], CINZA),
-                    ("Nos EUA, com apoio declarado de Washington", e["eua_com_apoio"]["voltou_ao_poder"], e["eua_com_apoio"]["n"], AZUL),
-                    ("Mais parecidos com o Flávio", e["parecidos"]["voltou_ao_poder"], e["parecidos"]["n"], VERM)],
-                   "Quem voltou ao poder", f"{e['n_casos']} líderes e candidatos no exílio desde 1945; alguns casos seguem abertos", "g03_exilados",
+                    ("Em até 12 anos, entre quem já teve esse tempo", h12["voltaram"], h12["observados"], OURO),
+                    ("Por eleição, em até 12 anos", 0, h12["observados"], VERM)],
+                   "Quem chegou ao poder saindo do exílio", f"{e['n_casos']} líderes e candidatos desde 1945; {len(e['ainda_abertos'])} casos seguem abertos", "g03_exilados",
                    "duas passadas independentes, com fontes conferidas; base deste projeto")
 
 
 def g04_como_voltaram():
-    fig, ax = nova("Os 6 que voltaram ao poder", "Ninguém voltou só por ter sido abrigado: houve eleição, força ou queda do governo")
+    fig, ax = nova("Os 6 que voltaram ao poder", "Quanto tempo levou, e como: em prazo curto só com tropa ou nomeação")
     ax.axis("off")
-    nomes = {"Ngo Dinh Diem": ("Vietnã do Sul", "nomeado, com apoio americano", "EUA"), "Kim Dae-jung": ("Coreia do Sul", "eleição, 12 anos depois de voltar", "EUA"),
-             "Jean-Bertrand Aristide": ("Haiti", "força militar americana", "EUA"), "Juan Domingo Perón": ("Argentina", "eleição, depois de 17 anos", "Espanha"),
-             "Ruhollah Khomeini": ("Irã", "queda do governo, revolução", "França"), "Nawaz Sharif": ("Paquistão", "eleição, depois de 7 anos", "Arábia S.")}
+    nomes = {"Ngo Dinh Diem": ("Vietnã do Sul", "nomeado com apoio dos EUA, 4 anos", "EUA"), "Kim Dae-jung": ("Coreia do Sul", "eleição, 15 anos depois", "EUA"),
+             "Jean-Bertrand Aristide": ("Haiti", "tropas americanas, 3 anos", "EUA"), "Juan Domingo Perón": ("Argentina", "eleição, 18 anos depois", "Espanha"),
+             "Ruhollah Khomeini": ("Irã", "revolução, 15 anos depois", "França"), "Nawaz Sharif": ("Paquistão", "eleição, 13 anos depois", "Arábia S.")}
     for i, (n, (p, c, h)) in enumerate(nomes.items()):
         y = 0.92 - i * 0.17
         ax.text(0, y, n, fontsize=26, fontweight="bold", va="center")
@@ -127,7 +128,9 @@ def g05_depois_da_derrota():
 
 def g06_escada():
     br = json.loads((CASOS / "e4_escada.json").read_text(encoding="utf-8"))["brasil"]
-    fig, ax = nova("A escada contra o Brasil", f"{R['e4']['sobe']} medidas para cima, {R['e4']['desce']} para baixo, {R['e4']['medidas_militares']} militares, jan/2025 a nov/2026")
+    ids = set(R["e4"]["ids_dirigidas"])
+    br = [x for x in br if x["id"] in ids or x["direcao"] == "desce"]
+    fig, ax = nova("A escada contra o Brasil", f"{R['e4']['dirigidas_ao_brasil']} medidas americanas dirigidas ao Brasil, {R['e4']['desce']} para baixo, {R['e4']['medidas_militares']} militares, até nov/2026")
     fig.subplots_adjust(left=0.05, right=0.97, bottom=0.2)
     cores = {"tarifa": OURO, "sancao": VERM, "visto": AZUL, "diplomatica": CINZA, "investigacao": VERDE, "designacao": "#6A4C93"}
     vistos = {}
@@ -156,7 +159,8 @@ def g07_tamanho():
         rot = f"{x['pais']} {x['ano']}"
         por_pais[rot] = x["pop"]
     itens = sorted(por_pais.items(), key=lambda p: p[1])
-    fig, ax = nova("O Brasil não cabe nessa lista", f"População do alvo, em milhões: o Brasil é {str(R['e5']['razao_brasil_maior_alvo']).replace('.', ',')} vezes o maior alvo sem aval")
+    itens = sorted(itens + [("Irã 2026, fora do hemisfério", 87.0)], key=lambda p: p[1])
+    fig, ax = nova("O tamanho encarece, e não impede", "População do alvo de força americana sem aval, em milhões; o hemisfério e a guerra do Irã")
     fig.subplots_adjust(left=0.27)
     nomes = [n for n, _ in itens] + ["Brasil hoje"]
     vals = [v for _, v in itens] + [R["e5"]["brasil_pop_mi"]]
@@ -167,7 +171,7 @@ def g07_tamanho():
     ax.get_xaxis().set_visible(False)
     ax.spines["bottom"].set_visible(False)
     ax.set_xlim(0, 245)
-    salvar(fig, "g07_tamanho", "base deste projeto, com fontes por caso; não inclui ataques conjuntos com aval do país")
+    salvar(fig, "g07_tamanho", "base deste projeto, com fontes por caso; Irã: estimativa de 2026 na Wikipedia; não inclui ataques com aval do país")
 
 
 ACENTO = {"designacao de organizacoes criminosas como terroristas": "Designação de organizações criminosas como terroristas", "sancoes, tarifas e punicao diplomatica": "Sanções, tarifas e punição diplomática",
@@ -200,8 +204,8 @@ def g08_sinais():
 
 def g09_motivos():
     p = R["e6"]["placar"]
-    nomes = {"H2_narrativa_e_midterms": "Narrativa e eleições nos EUA", "H3_china_e_influencia": "China e influência", "H4_minerais": "Terras raras", "H1_lealdade": "Lealdade aos Bolsonaro", "H5_aposta_de_rubio": "Aposta de Rubio"}
-    fig, ax = nova("Por que receber o Flávio?", f"{R['e6']['n_evidencias']} evidências contra 5 hipóteses (Heuer): ganha a que tem menos contra")
+    nomes = {"H2_narrativa_e_midterms": "Narrativa e eleições nos EUA", "H3_china_e_influencia": "China e influência", "H4_minerais": "Terras raras", "H1_lealdade": "Lealdade aos Bolsonaro", "H5_aposta_de_rubio": "Aposta de Rubio", "H6_conviccao_de_perseguicao": "Convicção de perseguição"}
+    fig, ax = nova("Por que receber o Flávio?", f"{R['e6']['n_evidencias']} evidências, 6 hipóteses: a matriz não aponta vencedor")
     fig.subplots_adjust(left=0.36)
     ordem = R["e6"]["ordem"][::-1]
     for i, h in enumerate(ordem):
@@ -244,20 +248,39 @@ def g11_previsoes():
               "P04": "Trump recebe o Flávio em público (mar/27)", "P19": "Rubio responde aos democratas (2026)", "P11": "Acordo de minerais EUA e Brasil (2027)", "P16": "Flávio volta ao Brasil (2028)",
               "P13": "Brasil pede a extradição (2027)", "P09": "EUA reduzem a tarifa de 25% (jun/27)", "P10": "Brasil aprova embaixador Perez (jun/27)", "P18": "Audiência na Câmara dos EUA (jun/27)",
               "P17": "Flávio lidera a direita para 2030 (2027)", "P12": "STF decreta prisão do Flávio (jun/27)", "P05": "Trump e Lula se falam (15/dez)", "P06": "Lula vai ao G20 em Doral (15/dez)",
-              "P07": "EUA mandam representante à posse", "P15": "Flávio segue nos EUA com status (out/27)", "P08": "Nova medida dos EUA contra o Brasil (jun/27)"}
+              "P07": "EUA mandam representante à posse", "P15": "Flávio segue nos EUA com status (out/27)", "P08": "Nova medida dos EUA contra o Brasil (jun/27)", "P20": "Ataque contra PCC/CV sem aval (jan/29)", "P21": "Sanção nominal a autoridade (jun/27)",
+              "P22": "Banco brasileiro atingido (jun/27)", "P23": "Brasil usa a Lei da Reciprocidade (jun/27)", "P24": "STF age contra americano ou plataforma (jun/27)"}
     fig, ax = plt.subplots(figsize=(16, 9), dpi=120)
     fig.subplots_adjust(left=0.42, right=0.96, top=0.86, bottom=0.11)
-    fig.suptitle("As 19 previsões registradas", x=0.05, y=0.965, ha="left", fontsize=36, fontweight="bold")
+    fig.suptitle(f"As {len(q)} previsões registradas", x=0.05, y=0.965, ha="left", fontsize=36, fontweight="bold")
     for i, x in enumerate(q):
         ax.plot([x["menor"], x["maior"]], [i, i], color=CLARO, lw=8, solid_capstyle="round")
         ax.scatter(x["com_historia"], i, s=170, color=AZUL, zorder=3)
         ax.text(max(x["maior"], x["com_historia"]) + 1.5, i, f"{x['com_historia']:g}%".replace(".", ","), va="center", fontsize=15, fontweight="bold")
     ax.set_yticks(range(len(q)))
-    ax.set_yticklabels([curtos[x["id"]] for x in q], fontsize=15)
+    ax.set_yticklabels([curtos[x["id"]] for x in q], fontsize=12)
     ax.set_xlim(0, 100)
     ax.tick_params(axis="x", labelsize=15)
     ax.spines["left"].set_visible(False)
     salvar(fig, "g11_previsoes", "ponto: mediana dos modelos; barra: do menor ao maior. Para conferir na data")
+
+
+def g13_relogio():
+    fig, ax = nova("O relógio da Venezuela", "Dias antes da captura de Maduro; o Brasil está a 5 meses da designação de PCC e CV")
+    fig.subplots_adjust(left=0.05, right=0.97, bottom=0.14)
+    marcos = [(348, "1ª designação", 0.55), (149, "recompensa", -0.35), (137, "navios na região", 0.35), (123, "ataque a barcos", -0.85), (80, "CIA autorizada", 0.85), (64, "Trump nega ataque", -0.35), (43, "FAA e ultimato", 0.35), (4, "ataque em terra", -0.85)]
+    ax.axhline(0, color="#222222", lw=3)
+    for d, t, lado in marcos:
+        ax.plot([d, d], [0, lado], color=CINZA, lw=2)
+        ax.scatter(d, 0, s=200, color=VERM, zorder=3)
+        ax.text(d, lado + (0.04 if lado > 0 else -0.04), f"{t}\n{d} dias", ha="center", va="bottom" if lado > 0 else "top", fontsize=19)
+    hoje = 348 - (date(2026, 11, 2) - date(2026, 5, 28)).days
+    ax.axvline(hoje, color=AZUL, lw=5)
+    ax.text(hoje, 1.28, "Brasil hoje, no mesmo relógio", color=AZUL, fontsize=23, fontweight="bold", ha="center")
+    ax.set_xlim(370, -15)
+    ax.set_ylim(-1.3, 1.45)
+    ax.axis("off")
+    salvar(fig, "g13_relogio", "base deste projeto; alinhar pela designação é uma escolha, e os mesmos sinais apareceram em países sem captura")
 
 
 def g12_comercio():
@@ -281,6 +304,6 @@ def g12_comercio():
     salvar(fig, "g12_comercio", "ComexStat, Ministério do Desenvolvimento, Indústria e Comércio")
 
 
-for f in (g01_rota, g02_quem_fez_o_que, g03_exilados, g04_como_voltaram, g05_depois_da_derrota, g06_escada, g07_tamanho, g08_sinais, g09_motivos, g10_cenarios, g11_previsoes, g12_comercio):
+for f in (g13_relogio, g01_rota, g02_quem_fez_o_que, g03_exilados, g04_como_voltaram, g05_depois_da_derrota, g06_escada, g07_tamanho, g08_sinais, g09_motivos, g10_cenarios, g11_previsoes, g12_comercio):
     f()
 print(len(list(FIG.glob("*.png"))))
