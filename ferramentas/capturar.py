@@ -98,7 +98,12 @@ def main() -> None:
             registro["sha256_html"] = sha256(bruto)
             (BRUTOS / f"{ident}.html").write_bytes(bruto)
             if status == 200:
-                texto = extrair_texto(bruto)
+                if url.lower().split("?")[0].endswith(".pdf") or bruto[:5] == b"%PDF-":
+                    import io
+                    from pypdf import PdfReader
+                    texto = "\n".join((p.extract_text() or "") for p in PdfReader(io.BytesIO(bruto)).pages)
+                else:
+                    texto = extrair_texto(bruto)
                 # gravado em bytes: no Windows, write_text trocaria o fim de linha e o arquivo deixaria de bater com o hash
                 bytes_texto = texto.encode("utf-8")
                 destino.write_bytes(bytes_texto)

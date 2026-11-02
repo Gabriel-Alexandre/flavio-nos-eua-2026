@@ -24,6 +24,8 @@ def id_da_url(url: str) -> str:
 
 def normal(texto: str) -> str:
     texto = unicodedata.normalize("NFKC", texto).lower()
+    texto = re.sub(r"\[\s*[\w ]{1,12}\s*\]", "", texto)  # marca de nota da Wikipedia
+    texto = re.sub(r"-\s+", "-", texto)  # hifenização de PDF
     texto = re.sub(r"[\"'“”‘’«»*_\[\]()]", "", texto)
     return re.sub(r"\s+", " ", texto).strip()
 
@@ -61,7 +63,7 @@ def main():
     (RAIZ / "resultados").mkdir(exist_ok=True)
     with open(RAIZ / "resultados" / "citacoes.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["arquivo", "item", "url", "capturada", "achado", "trecho"])
+        w.writerow(["arquivo", "item", "url", "capturada", "achado", "situacao", "trecho"])
         for t in todos:
             cap = CAPTURAS / f"{id_da_url(t['url'])}.txt"
             texto = normal(cap.read_text(encoding="utf-8", errors="ignore")) if cap.exists() else ""
@@ -72,7 +74,14 @@ def main():
                 janelas = [" ".join(pal[i:i + 6]) for i in range(0, max(1, len(pal) - 5), 3)]
                 ok = sum(j in texto for j in janelas) / len(janelas) >= 0.8
             achados += ok
-            w.writerow([t["arquivo"], t["item"], t["url"], bool(texto), ok, t["trecho"]])
+            api = t["trecho"].lstrip().startswith(("{", "[")) or "api-comexstat" in t["url"] or "olinda.bcb" in t["url"]
+            parcial = False
+            if not ok and trecho and texto:
+                pal = trecho.split()
+                janelas = [" ".join(pal[i:i + 4]) for i in range(0, max(1, len(pal) - 3), 2)]
+                parcial = sum(j in texto for j in janelas) / len(janelas) >= 0.6
+            situacao = "achado" if ok else "resposta_de_api" if api else "pagina_recusou" if not texto else "achado_com_diferenca" if parcial else "nao_achado"
+            w.writerow([t["arquivo"], t["item"], t["url"], bool(texto), ok, situacao, t["trecho"]])
     print(f"{achados} de {len(todos)} trechos achados; {len(urls)} páginas")
 
 
