@@ -109,7 +109,7 @@ Só entre quem saiu até 2016, que já teve 10 anos: 6 de 27 no total e 3 de 15 
 
 **Tamanho:** no hemisfério, o maior alvo sem aval foi Venezuela, 28,52 milhões; o Brasil tem 214 milhões. Fora do hemisfério a comparação encurta: os EUA estão em guerra com o Irã desde fev/2026, com 87 milhões de habitantes pela estimativa da Wikipedia, e o Brasil tem 2,5 vezes isso. O tamanho foi escolhido depois de ver os casos e não é teto: é uma razão de custo.
 
-**O tempo dos sinais.** A designação veio 348 dias antes da captura de Maduro, a mobilização naval 137, o ataque a barcos 123, a FAA e o ultimato 43. O Brasil tem a designação há 5 meses. Comparado no mesmo relógio, parece a Venezuela do começo de 2025, e os sinais ausentes são os que vieram depois. Isso diz o que olhar, sem virar probabilidade: México, Colômbia e Cuba têm parte desses sinais sem captura, e a taxa de falso alarme não é conhecida.
+**O tempo dos sinais.** A designação veio 348 dias antes da captura de Maduro, a mobilização naval 137, o ataque a barcos 123, a FAA e o ultimato 43. O Brasil tem a designação há 5 meses. Comparado no mesmo relógio, parece a Venezuela do 1º semestre de 2025, e os sinais ausentes são os que vieram depois. Isso diz o que olhar, sem virar probabilidade: México, Colômbia e Cuba têm parte desses sinais sem captura, e a taxa de falso alarme não é conhecida.
 
 **Sinais, um por um** (*"não"* é ausência nas páginas abertas, e não prova):
 
