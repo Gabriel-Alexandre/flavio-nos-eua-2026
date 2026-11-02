@@ -1,0 +1,79 @@
+TITULO: U.S. Moves to FTO Designations for Brazil Crime Groups
+
+Article
+U.S. set to impose Foreign Terrorist Organization designations on Brazil’s two largest criminal organizations
+U.S. set to impose Foreign Terrorist Organization designations on Brazil’s two largest criminal organizations
+Print
+SHARE
+EMAIL
+COPY LINK
+LINKEDIN
+Published Date
+June 2, 2026
+Related people
+Ken Rivlin
+Partner, New York
+Catherine Hein
+Partner, Washington DC
+Paula Anderson
+Partner, New York
+Hugo Casella
+Associate, São Paulo
+Roberta Cherman
+Partner, São Paulo
+Jake Ely
+Associate, New York
+Brendan Holman
+Associate, New York
+John Nathanson
+Partner, New York
+Katherine Stoller
+Partner, New York
+Emma Schaechter-Santander
+Associate, Washington DC
+Sarah Umstadt
+Associate, New York
+On May 28, 2026, the U.S. Department of State
+designated two of Brazil’s largest organized criminal organizations
+—
+Comando Vermelho
+(CV) and
+Primeiro Comando da Capital
+(PCC) —as Specially Designated Global Terrorists, and announced its intent to further designate both as Foreign Terrorist Organizations. In this alert, we provide an overview of these measures and key takeaways.
+New designations
+The State Department designated CV and PCC as Specially Designated Global Terrorists (SDGTs) pursuant to
+Executive Order 13224
+(“EO 13224”), effective immediately, and stated its intent to further designate both CV and PCC as Foreign Terrorist Organizations (FTOs) pursuant to Section 219 of the Immigration and Nationality Act (8 U.S.C. § 1189), effective June 5, 2026.
+In the announcement, Secretary Marco Rubio noted that these designations result from these organizations’ long histories of “orchestrated brutal attacks against Brazilian Police officers, public officials, and civilians” and their “influence and illicit network [that] extend[s] far beyond Brazil’s borders.” The State Department emphasized that these designations reflect the posture of the Trump Administration to “continue to use all available tools to protect [the U.S. and its national security] interests” by targeting organized criminal networks.
+These designations also follow a series of similar actions taken by the second Trump Administration aimed at transnational criminal organizations (TCOs) in Latin America. On January 20, 2025, U.S. President Trump signed
+Executive Order 14157
+, leading to a string of designations of organized criminal groups in Mexico and across Latin America as SDGTs and, later, as FTOs.
+This is also not the first time the U.S. government has targeted PCC. On December 21, 2021, the U.S. Department of the Treasury Office of Foreign Assets Control (OFAC)
+imposed blocking sanctions on PCC
+by adding it to its Specially Designated Nationals and Blocked Persons List (the “SDN List”) pursuant to section 1(a)(i) of
+Executive Order 14059
+.
+In its 2021 designation, OFAC determined that PCC has engaged in, or attempted to engage in, activities or transactions that have materially contributed to the international proliferation of illicit drugs or their means of production. PCC’s designation as an SDN remains in place.
+As a result of being designated as SDGTs pursuant to EO 13224, all property and interests in property of CV and PCC that are in the U.S. are blocked and must be reported to OFAC. All transactions or dealings by U.S. persons, or otherwise having a U.S. nexus, with, involving, or for the benefit of, CV and PCC and/or their respective property or interests in property are prohibited absent authorization from OFAC. These prohibitions mirror those that have been imposed against PCC since 2021, as a result of its prior designation as an SDN.
+Further, as a result of CV and PCC’s new designation as SDGTs, and forthcoming designations as FTOs, conducting any business, directly or indirectly, with CV and PCC now carries significant risk for non-U.S. companies and financial institutions.
+OFAC has advised that non-U.S. persons that engage in prohibited transactions or dealings subject to U.S. jurisdiction with SDGTs
+may be subject to civil or criminal penalties, and risk being targeted with blocking sanctions by OFAC.
+Importantly, these designations implicate two additional, heightened risks for entities, and in particular, financial institutions, engaged in direct or indirect dealings with CV and PCC.
+First, OFAC has
+advised that foreign financial institutions may be subject to Correspondent and Payable Through Account (CAPTA) Sanctions
+if they are found to have knowingly facilitated significant transactions for, or on behalf of, CV or PCC, or any other SDGTs. Foreign financial institutions that OFAC determines have engaged in prohibited activities involving SDGTs, among other sanctioned entities, are targeted by
+CAPTA sanctions
+and identified on the List of Foreign Financial Institutions Subject to Correspondent Account or Payable-Through Account Sanctions.
+These sanctions prohibit U.S. financial institutions from:
+(i) opening or maintaining correspondent accounts or payable-through accounts for or on behalf of these foreign financial institutions, and
+(ii) processing transactions involving any such foreign financial institutions.
+CV and PCC’s designation as SDGTs creates significant risk for any Brazilian or other non-U.S. banks that are, or have, engaged in transactions with CV or PCC of being targeted by CAPTA sanctions, severely undermining their ability to engage with U.S. correspondent banks.
+Second, once CV and PCC’s designation as FTOs becomes effective, the federal criminal prohibition on knowingly providing, or attempting or conspiring to provide, “material support or resources” to foreign terrorist organizations under the Antiterrorism and Effective Death Penalty Act of 1996 (18 U.S.C. 2339B) will come into play. This prohibition is broad, and encompasses the provision of things like services, personnel, logistics, resources, lodging, training, expert advice, transportation, as well as financial contributions and other items. The statute carries severe criminal penalties under U.S. federal law.
+In addition, the U.S. Anti-Terrorism Act (18 U.S.C. Section 2333) provides for a private right of action for U.S. nationals injured by an act of terrorism, including a theory of liability for entities providing material support to FTOs, and can therefore open up any individual or entity accused under the “material support” statute to the risk of civil lawsuits and reputational harm. Also, even without a formal CAPTA designation, the reputational overhang of an investigation or enforcement action could impair the institution’s ability to access U.S. capital markets on favorable terms.
+Key takeaways
+These new designations reflect a continuing effort by the Trump Administration to curtail TCOs and the illicit drug trade. It is critical to carefully evaluate any connections with these entities and assess related primary and secondary U.S. sanctions risks. Non-U.S. financial institutions should undertake careful monitoring for any transactions or dealings involving, directly or indirectly, these entities to avoid liability under CAPTA sanctions.
+All financial institutions should ensure that these designations are incorporated into their screening protocols and continue to focus on conducting thorough counterparty due diligence. Affected parties should also keep in mind that any issuer required to file an annual or quarterly report pursuant to the Securities Exchange Act of 1934 are
+required to disclose information related to any transaction or dealing knowingly conducted with SDGTs
+designated under EO 13224.
+For more information, please contact the authors and key people, or your usual contact within A&O Shearman’s International Trade group.
+Related capabilities

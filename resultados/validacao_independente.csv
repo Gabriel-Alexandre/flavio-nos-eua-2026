@@ -1,0 +1,34 @@
+numero,refeito,no_resumo,passou
+casos na lista,39,39,True
+casos na passada B,39,39,True
+"EUA, voltaram ao poder (passada B)",3,3,True
+"EUA, voltaram ao país (passada B)",11,11,True
+"EUA, entregues (passada B)",3,3,True
+"comparação, voltaram ao poder (passada B)",3,3,True
+derrota: reconheceu,8,8,True
+derrota: força,0,0,True
+escada: total,33,33,True
+escada: sobe,26,26,True
+força: casos,18,18,True
+sinais: existe,3,3,True
+sinais: não,8,8,True
+previsões: respostas,8,8,True
+mediana P01,2.0,2.0,True
+mediana P02,3.5,3.5,True
+mediana P03,2.0,2.0,True
+mediana P04,13.5,13.5,True
+mediana P05,50.0,50.0,True
+mediana P06,55.0,55.0,True
+mediana P07,66.5,66.5,True
+mediana P08,72.0,72.0,True
+mediana P09,23.0,23.0,True
+mediana P10,30.0,30.0,True
+mediana P11,16.5,16.5,True
+mediana P12,37.5,37.5,True
+mediana P13,22.5,22.5,True
+mediana P14,3.0,3.0,True
+mediana P15,67.5,67.5,True
+mediana P16,21.5,21.5,True
+mediana P17,35.0,35.0,True
+mediana P18,30.0,30.0,True
+mediana P19,16.0,16.0,True

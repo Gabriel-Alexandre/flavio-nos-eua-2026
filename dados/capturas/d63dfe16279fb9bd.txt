@@ -1,0 +1,73 @@
+TITULO: Here’s what the US military has positioned in the Caribbean as Trump pressures Venezuela | CNN
+
+A satellite image captured on Oct. 17 shows F-35 fighter jets at José Aponte de la Torre Airport in Puerto Rico.
+Planet Labs PBC
+South America
+The Caribbean
+Donald Trump
+Drugs in society
+See all topics
+Facebook
+Tweet
+Email
+Link
+Threads
+Link Copied!
+Follow
+The US military has been steadily massing a large number of troops, naval and air assets in the Caribbean over the last two months, conducting training missions off the coast of Venezuela, reopening a military base in Puerto Rico that had been shuttered for decades, and
+attacking
+speedboats carrying suspected drug traffickers from Venezuela and Colombia.
+As of Tuesday, a significant percentage of all deployed US naval assets globally are also now located in
+US Southern Command
+, the US military’s command responsible for operations in the region, according to a fleet tracker published by the United States Naval Institute’s news portal.
+That includes the Iwo Jima Amphibious Ready Group and the 22nd Marine Expeditionary Unit, amounting to more than 4,500 Marines and sailors, three guided-missile destroyers, an attack submarine, a special operations ship, a guided missile cruiser and P-8 Poseidon reconnaissance aircraft.
+At the same time, the US has deployed 10 F-35 fighter jets to Puerto Rico, which has become a hub for the US military as part of the increased focus on the Caribbean. The US has also deployed at least three MQ-9 reaper drones to the island, according to images captured by Reuters in Aguadilla, Puerto Rico.
+Naval Station Roosevelt Roads in Puerto Rico, a US military installation that had been shuttered since 2004, is now back up and running, according to satellite imagery and photos taken at the base. At least one AC-130J Ghostrider, a heavily armed plane capable of providing air support to ground troops, was
+photographed
+equipped with Hellfire missiles at José Aponte de la Torre Airport in Puerto Rico, which is used by the installation. A separate image,
+captured
+by a local photographer, appears to show another Ghostrider at the same facility. That airport has been
+a staging ground
+for US military operations in the region over the last several months.
+In a review of open-source flight data, CNN identified over 200 military flights conducted in the Caribbean over the two-month period between August 15 and October 15. The missions were carried out by 83 separate aircraft, including intelligence-gathering planes and tankers used to refuel jets in midair.
+Several intelligence gathering assets may also have been diverted from surveillance operations in Eastern Europe to the Caribbean, flight data suggests. Since August 22, three Boeing P-8 Poseidon aircraft used for signals intelligence gathering crossed the Atlantic into the Caribbean theater.
+In early October, “Little Bird” light attack helicopters first identified by the Washington Post and MH-60M Black Hawk helicopters were also spotted conducting training operations off the coast of Trinidad and Tobago. The Little Bird is a highly specialized helicopter typically used by US Special Forces for covert missions.
+The huge buildup has raised questions about the Trump administration’s intent in the region. The administration has said repeatedly that the military presence is part of a counter-drug trafficking campaign, but President Donald Trump has also been weighing strikes inside Venezuela itself as part of a broader strategy aimed at weakening leader Nicolas Maduro, CNN has reported.
+Experts generally agree that at this point, the US does not have enough assets or troops in place to launch an incursion to control Venezuela itself.
+“The military presence in the Caribbean is too big for just hitting a few speedboats, though it is not big enough for an invasion of Venezuela,” Elliott Abrams, who served as the US envoy to Venezuela during Trump’s first term, told CNN on Thursday. “What’s in the middle, I think, is a pressure campaign, meant to rattle Venezuela.”
+The US does have the ability now to conduct strikes inside Venezuela from afar. Trump could order Tomahawk missile strikes, for example, from the guided-missile destroyers, cruiser and submarine stationed in the Caribbean.
+“It’s enough to cause pain but not to seize terrain,” Peter Singer, a strategist and Senior Fellow at New America focusing on defense issues, told CNN, referring to the military buildup. “We’re not talking about an invasion and occupation force,” Singer said.
+Venezuela is not a military powerhouse, but it is a huge country with difficult and varied terrain. Hurricane season is not over, and the US has not fought a tropical war in two generations, a former US official with deep experience in the region said. And at this moment, the US does not dominate the airspace over Venezuela, the former official noted. Venezuela has S-300 anti-aircraft missile systems, anti-aircraft guns, shoulder-launched air defense systems, and F-16 fighter jets.
+Like Abrams, Singer said he believes “so much at this stage is about signaling and pressuring” Venezuela.
+To that end, the US flew B-52 bombers near Venezuela’s coast for four hours on Wednesday, in what appeared to be a show of force. At their closest point, the bombers reached 48 miles from Los Roques, a small Venezuelan island archipelago of a few thousand residents.
+A satellite image caught the bombers in flight less than 150 miles from the Venezuelan coast.
+European Space Agency
+The bombers remained in a part of Venezuela’s flight information region, or FIR, that is international airspace, but controlled by the country’s aviation authority. Venezuela’s FIR extends far beyond the country’s airspace.
+The US military has also conducted several training missions in that area in recent weeks, including
+live-fire training
+and flight operations in the waters near Venezuela earlier this month, and at least five flights of a T-38 jet — used for pilot training — in the Caribbean since September 22, according to open-source flight data.
+CNN’s Katie Bo Lillis, Thomas Bordeaux, Isa Cardona and Isa Soares contributed reporting.
+HOW WE REPORTED THIS STORY
+CNN identified over 200 US military flights in the Caribbean for the two-month period between August 15 and October 15, analyzing data mostly from nonstandard signal types. The raw data was archived from
+thebaldgeek’s airframes.io dashboard
+,
+ADS-B Exchange
+, and
+FlightRadar24
+. Additional flight data was shared by
+LatAmMilMovements
+.
+Approximately 48% of the aircraft positions reviewed were MLAT (multilateration) data, meaning that some geographic data points were recorded less frequently than with other signal types.
+Additional ADS-C data was reviewed, which does not appear on standard flight tracking dashboards and, similarly, has a larger margin for error than standard ADS-B flight data.
+South America
+The Caribbean
+Donald Trump
+Drugs in society
+See all topics
+Facebook
+Tweet
+Email
+Link
+Threads
+Link Copied!
+Follow

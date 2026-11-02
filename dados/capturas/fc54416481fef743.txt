@@ -1,0 +1,32 @@
+TITULO: DPA Blog post: The Final Brazil Section 301 Tariff Takes Effect on 22 July with Wider Exemptions - Digital Policy Alert
+
+All analyses
+Share
+The Final Brazil Section 301 Tariff Takes Effect on 22 July with Wider Exemptions
+USTR's final Section 301 action on Brazil takes effect on 22 July. We estimate Brazil's effective US tariff rises from 11.0% to 17.5%, and stays near there: when the Section 122 surcharge lapses on 24 July, a new Section 301 tariff on forced labour takes its place. The 25% Brazil action adds 6.5 points, half a point below the June proposal.
+Authors
+Johannes Fritz
+Published
+16 Jul 2026
+Brazil's effective US tariff rises to 17.5% and holds
+On 15 July 2026 the
+US Trade Representative issued the final Section 301 action against Brazil
+: a 25% tariff on substantially all Brazilian goods, in force from 22 July. We estimate that Brazil's trade-weighted US tariff rises from 11.0% today to 17.5% on 22 July, and stays around 17.7% after 24 July. It does not fall back: a separate Section 301 tariff on forced labour takes effect on 24 July, the same day the Section 122 surcharge lapses, and roughly replaces it. The 25% Brazil action itself adds 6.5 points, half a point below the June proposal.
+For two days, 22 and 23 July, the new Brazil Section 301 (6.5 percentage points on a trade-weighted basis, worth $2.6bn a year on 2024 imports) stacks on top of the 10% Section 122 surcharge, which contributes 3.1 points to Brazil's rate. From 24 July the surcharge lapses and the forced-labour Section 301 takes its place, adding 3.2 points, so Brazil's rate holds near 17.7% rather than falling back. Ordinary tariffs (1.2 points) and Section 232 (6.8 points) sit underneath throughout. Brazil's implied annual duty moves from $4.4bn today to about $7.0bn.
+A fifth of US imports from Brazil pays the full 25%
+Like the June proposal, the final order is a negative list: 25% on everything, then exemptions. Of $39.6bn in 2024 US imports of Brazilian products, $8.5bn pays the full rate. The annex exemptions cover $20.1bn, led by crude oil and coffee. Goods under Section 232 account for a further $7.3bn, carved out of the Section 301 because they already pay the metal, lumber or vehicle tariffs. Aircraft lines worth $3.2bn pay an effective 2.5% under the civil-aircraft carve-out, and a new pharmaceutical-applications class worth $0.3bn pays an effective 12.5%.
+The final order adds $2.4bn of exemptions and withdraws one
+USTR received requests both to widen and to narrow the June exemption list. The final order widens it. Twelve product groups were added, moving 86 tariff lines with $2.4bn of Brazilian trade out of the 25%. USTR justified each addition under one of four tests: raw materials whose tariffing "could lead to the unavailability of domestic supply"; products that "could cause economy-wide disruptions"; products that "cannot be grown or produced in sufficient quantities or at reasonable prices in the United States or obtained from other sources"; and articles whose tariffing "may not contribute substantially" to eliminating the practices under investigation.
+Ranked by import value, pig iron dominates the new exemptions ($1.5bn). USTR accepted arguments that US foundries depend on imports because integrated steel producers consume more than 95% of domestic output and Russia's war in Ukraine has curtailed supply from both belligerents. Unflavoured instant coffee ($0.17bn) follows: the June annex had exempted flavoured instant coffee only, and commenters argued there is "no rationale for treating flavored and unflavored instant coffee differently". Then come hand-executed paintings ($0.14bn), aluminium hydroxide ($0.12bn, where the sole US supplier cannot meet demand and Brazil supplies roughly 40% of the market), certified organic honey ($0.08bn, US production covers 3% of domestic demand) and frozen fish ($0.07bn). USTR exempted antiques and used clothing on different grounds, stating that goods not newly produced do little to change Brazilian conduct.
+One product moved the other way. High-purity dissolving woodpulp ($0.21bn), exempt in June, now pays the full 25% after testimony alleged that Brazilian producers benefit from illegal deforestation and that the few downstream users have domestic alternatives.
+The order tightens the pharmaceutical exemption and completes the "Ex" line exemptions. A new 705-line pharmaceutical class, including 364 lines that held unconditional exemptions in June, is now exempt only for pharmaceutical applications; USTR called an all-applications exemption "broader than necessary". The largest affected line is $50m of nitrogen-heterocycle compounds. The 11 "Ex" lines the proposal had kept in scope, $0.17bn of acai preparations, coconut water and religious articles such as etrogs and date-palm branches, are now fully exempt.
+Machinery and wood carry the largest remaining duties
+Because Section 232 goods sit outside the Section 301, the duty concentrates where earlier instruments do not reach. Machinery leads with $0.35bn of implied annual duty, followed by wood products ($0.32bn) and sugar ($0.21bn). Finished steel, Brazil's traditional flashpoint, contributes little: it already pays Section 232.
+Downloads
+Brazil Section 301 final action dataset
+(headline figures, status transitions, product status and flow-level by HS-8)
+Charts and backing data
+(all charts plus per-chart spreadsheets)
+Downloads
+Brazil Section 301 final action dataset (Excel)
+Charts and backing data (ZIP)

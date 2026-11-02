@@ -1,0 +1,121 @@
+TITULO: Brazil: The Swing State in Mineral Wars | Model Diplomat
+
+Open sidebar
+Back to Discover
+climate_energy
+Share
+Brazil: The Swing State in Mineral Wars
+U.S. invests $8 billion in Brazil's minerals amid China tensions.
+Model Diplomat
+July 6, 2026
+·
+8
+min read
+·
+Americas
+BBC
+Brazilian President Lula and Trump to meet at the White House
+The Economist
+China’s rare-earth chokehold terrifies the West, but Brazil benefits
+CSIS
+Rare Earth Export Restrictions One Year Later
+sources
++
+15
+more
+Brazil emerges as the swing state in America's critical-minerals war with China
+Washington has pushed $8 billion into Brazilian bauxite, rare earths and vanadium in eighteen months — but Lula is refusing to sign the Australia-style pact Trump wants.
+Between February 2026 and June 2026, U.S. buyers committed roughly
+US$8 billion
+to lock down Brazilian critical-mineral assets — Alcoa's US$4.1 billion swoop on South32's bauxite and alumina complex, USA Rare Earth's US$2.8 billion takeover of Serra Verde in Goiás, a US$565 million offtake-linked loan from the U.S. International Development Finance Corporation, and a five-year Defense Logistics Agency contract worth up to US$125 million for Bahian vanadium. That capital is buying more than tonnage. It is trying to buy a country's exit from the Chinese processing orbit — and, so far, President Luiz Inácio Lula da Silva is pocketing the money without signing the political document Washington actually wants. Brazil, not Australia or Greenland, is now the swing state in the West's rare-earth war with Beijing, and Brasília knows it.
+Editorial illustration: stylized map of Brazil with mineral extraction sites glowing in gold and red — bauxite mines in Pará, rare earths in Goiás and Bahia, vanadium in Bahia. American and Chinese flag colors pulling toward Brazil from opposite corners.
+The deals: a corporate shopping spree, not a diplomatic breakthrough
+The proximate news is corporate. On June 30, 2026, Alcoa announced a US$4.1 billion agreement to buy out South32's stake in the Mineração Rio do Norte bauxite mine and the Alumar refinery-and-smelter complex in Maranhão, a transaction the
+Financial Times
+valued at up to US$4.8 billion including Australian and South African components. Two months earlier, Washington-backed USA Rare Earth had struck a US$2.8 billion deal to acquire the Serra Verde Group, Latin America's only commercial-scale producer of the four rare-earth elements — neodymium, praseodymium, dysprosium and terbium — that go into permanent magnets, according to
+company filings reported by the FT
+. That transaction is expected to close in the third quarter of 2026.
+Underneath both is a February 2026 anchor commitment: a
+US$565 million loan
+from the DFC to Serra Verde's Pela Ema mine, explicitly tied to offtake rights for U.S. buyers. The Center for Strategic and International Studies, in its April 2026 review of
+rare-earth export restrictions one year later
+, describes the DFC pledge as part of a "whole-of-government approach" that also produced a 49 percent Pentagon equity stake in a Saudi refinery and a wave of Export-Import Bank letters of intent totalling nearly US$4 billion. Serra Verde, according to
+BBC News Brasil
+, has since announced it will terminate its Chinese supply contract at the end of 2026 — seven years ahead of schedule.
+Vanadium is the quieter story. Largo's Maracás Menchen mine in Bahia won a five-year indefinite-delivery, indefinite-quantity contract from the DLA Strategic Materials office to supply up to roughly 2,876 metric tons of high-purity vanadium pentoxide to the National Defense Stockpile — a stockpile that, the U.S. Government Accountability Office
+warned in 2024
+, holds under US$1 billion of usable material and could cover less than half of the military's shortfalls in a base-case war with China.
+Why Brazil, and why now
+The policy trigger is documented. On March 20, 2025, President Donald Trump signed
+Executive Order 14241
+, "Immediate Measures to Increase American Mineral Production," invoking Title III of the Defense Production Act and delegating fresh loan and offtake authority to the DFC and the Pentagon's Office of Strategic Capital. The published text of the order in the
+Federal Register compilation
+directs the DFC CEO to "establish a domestic production and facilitation of strategic resources" mandate — the legal hook every subsequent Brazil deal has hung on.
+The reason Brazil sits at the top of that list is arithmetic. According to the Congressional Research Service, citing the
+USGS 2025 Mineral Commodity Summaries
+, Brazil holds
+21 million metric tons
+of rare-earth reserves — second globally, behind China's 44 million and ahead of Australia's 6.3 million, Russia's 3.8 million and the United States' 1.9 million. Brazil supplies roughly 92 percent of world niobium and, per the same USGS series, delivered 66 percent of U.S. niobium imports between 2020 and 2023. On the USGS's newly published
+2025 Critical Minerals List
+of 60 minerals — expanded from 50 and released in the Federal Register on November 7, 2025 — Brazil is a plausible or dominant supplier of at least a dozen entries.
+China matters here twice: as the resource competitor, mining 60 percent and processing 90 percent of global rare earths, and as the incumbent buyer of Brazilian output. The
+Economist reported in January 2026
+that a pink warehouse in Bahia run by Brazilian Rare Earths is being retooled into one of Latin America's first separation plants — precisely the midstream link that Chinese refiners have monopolised. Beijing has not been idle: CSIS's copper analysis notes that in 2024, China's CNMC agreed a US$340 million deal for rare-earth producer Mineração Taboca, and in 2025 China Nonferrous took over Mineração Vale Verde for US$420 million.
+The angle Washington won't say out loud: Brazil is winning the negotiation
+Here is the piece of the story the corporate press releases obscure. The
+BBC's Brasil desk
+reported in February 2026 that the U.S. embassy delivered a draft memorandum of understanding on critical minerals to Itamaraty — modelled on the framework Washington and Canberra signed in October 2025. That framework, as CSIS describes it, sets a
+minimum price floor
+for critical minerals, forces permitting reform, and channels offtake to U.S. and allied buyers to squeeze China out of the market.
+Lula's government has not signed. Two reasons, according to Brazilian officials cited by the BBC: Brazil will not accept exclusivity clauses that route rare earths to the United States and its allies at China's expense, and Brazil wants processing capacity built inside its own territory rather than shipping ore for value-adding elsewhere. When the two presidents finally met at the White House on May 7, 2026 — a three-hour Oval Office session with no joint press appearance, per
+BBC News
+— no minerals accord was announced. Oliver Stuenkel of Fundação Getulio Vargas told the BBC the absence of a joint statement was itself the message: "some disagreements remain on the table."
+The tariff sequence that followed proves the leverage runs both ways. On June 2, 2026, U.S. Trade Representative Jamieson Greer announced 25 percent Section 301 tariffs on Brazilian imports — a tool the administration reached for after the U.S. Supreme Court struck down the IEEPA-based global tariffs in February, as
+Al Jazeera reported
+. The tariff list carves out one striking category: rare earths, other critical metals, energy and aircraft parts are explicitly exempted. Brazil is being punished on ethanol and deforestation — and courted on the minerals it alone can supply at scale.
+What the deals actually buy — and what they don't
+Deploying capital is easier than displacing China from the value chain. CSIS's own
+friendshoring copper analysis
+offers the most damning single line about the U.S. strategy so far: the DFC-backed Serra Verde project, its authors note, was "later revealed" to have already contracted its offtake to Chinese entities "owing to China's near-monopoly on heavy rare earth refining — a gap that should have been addressed during initial structuring." In other words, U.S. taxpayers underwrote a Brazilian mine whose material was flowing straight into Chinese separators until USA Rare Earth's takeover forced a renegotiation.
+That is why the vanadium contract and the Alcoa bauxite deal matter more than they read. Vanadium pentoxide from Bahia is going directly into the National Defense Stockpile under the statutory authority of
+50 U.S.C. § 98h-6
+, which permits ten-year purchase commitments from "reliable sources." Bauxite refined at Alumar into alumina and aluminum feeds a domestic smelter network Alcoa already controls. Both bypass Chinese midstream. Serra Verde, until USA Rare Earth's takeover closes, did not.
+The Atlantic Council's Sarah Rothbardt, writing about the new
+Project Vault strategic reserve
+— a US$12 billion facility announced in February 2026 to sit alongside the older National Defense Stockpile — warns that Washington's twin reserves risk bidding against each other for the same Brazilian tonnes. She notes the DLA's 2025 push for US$1 billion in critical-material buys, including US$500 million of cobalt and US$100 million of tantalum. Brazil is where much of that money will land.
+Diplomat View
+The prevailing narrative — that the United States is "winning" Brazil away from China — is wrong in the ways that matter for policy. Washington is winning individual assets. It is losing the treaty. Lula's calculation is that Brazil's leverage compounds with every U.S. project financed on Brazilian soil, and that signing an Australia-style framework now would forfeit the price floor and processing concessions he can still extract in 2027. The evidence: the U.S. tariff carve-out for rare earths on June 2, 2026, and the White House's willingness to hold a three-hour meeting without demanding a signed communiqué.
+Our forecast:
+no comprehensive US–Brazil critical minerals accord will be signed before the October 2026 Brazilian presidential election.
+If Lula wins re-election, expect a Brazil-first agreement in the first half of 2027 that mandates domestic processing and rejects U.S.-exclusive offtake. If a Bolsonaro-aligned successor wins, expect a fast-tracked Australia clone. What would change this call: a genuine Chinese export-license freeze on heavy rare earths hitting U.S. defense contractors before October, which would give Trump the crisis leverage to force Brazilian concessions. Absent that, Brasília holds the pen.
+What to watch next
+October 4, 2026
+— first round of Brazil's presidential election. The single largest variable in the U.S.–Brazil minerals file.
+Q3 2026
+— USA Rare Earth's Serra Verde takeover expected to close; watch for the announced end of the Chinese offtake contract and any Chinese regulatory retaliation on the transaction.
+End of 2025 → 2026
+— DOD Critical Minerals Task Force policies on National Defense Stockpile sales to adversary nations, tracked by the
+GAO
+, are due; they will determine how far Bahian vanadium is walled off from resale into Chinese-linked buyers.
+U.S. Section 301 comment period closes early July 2026
+— final tariff schedule will confirm whether the rare-earth carve-out survives lobbying by other affected sectors.
+The Bottom Line
+Brazil is not becoming America's mineral colony; it is becoming the swing supplier that both Washington and Beijing must court on Brazilian terms. The US$8 billion Washington has pushed into Brazilian bauxite, rare earths and vanadium since early 2025 has bought concrete tonnage but not a treaty — and until Lula signs an Australia-style framework, every U.S. deal in Brazil quietly ratifies Brasília's leverage rather than diminishing it. That is the energy-security story of 2026: the West's decoupling from Chinese minerals now runs through a Brazilian president who has read the room and decided he does not have to hurry.
+Mineral Resources
+International Relations
+Trade Policy
+18
+sources
+Discover more
+US Politics
+House Ethics Committee Pushes Sexual Miscond.
+The House Ethics Committee has shifted responsibility for sexual harassment settlement records to the Office of Congressional Workplace Rights, complicating disclosure efforts.
+International Relations
+Pakistan's Key Role in US-Israel-Iran Meddle
+Pakistan is seeking to mediate the US-Israel-Iran conflict, balancing high-stakes diplomacy against severe economic pressures and steep regional challenges.
+US Politics
+SNAP Food Assistance Faces Legal Challenges
+In 2026, SNAP faces stricter eligibility rules and mounting legal challenges, threatening food assistance for the millions of Americans who rely on the program.
+Economics
+Fed's Amex AML order puts correspondent banking on notice
+Federal Reserve's Amex AML order requires board-level controls and a 90-day plan; OCC fined the bank $350 million over enterprise-wide deficiencies.

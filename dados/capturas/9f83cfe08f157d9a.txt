@@ -1,0 +1,303 @@
+TITULO: Print Issue | Cato Unbound
+
+November 2014
+About this Issue
+Do economic sanctions work? The question obviously might take more than a simple “yes” or “no” answer. But answering it well, with solid empirical data and close attention to the many consequences of sanctions in various circumstances, is vital to crafting a sound foreign policy. The intended benefits of sanctions are clear to all. But do we get them? What are the costs, besides the obvious ones? Do sanctions help us stay out of war, or do they encourage escalation?
+Critics argue that economic sanctions are mostly a feel-good measure for domestic political consumption. Foreign governments can be very good at evading them, and globalization makes substitute goods more and more plentiful. Defenders of economic sanctions point to many instances in which they’ve actually worked as promised; they argue, further, that sanctions constitute an important middle step between friendly relations and open warfare.
+Our lead essayist this month is
+Gary Clyde Hufbauer
+, who has done some of the most important empirical work around on the effectiveness of economic sanctions. Joining to discuss with him are
+Eric B. Lorber
+, a PhD candidate in political science at Duke University;
+Daniel W. Drezner
+,
+associate professor of international politics at the Fletcher School of Law and Diplomacy at Tufts University;
+and
+Bryan Early
+,
+an assistant professor in the Political Science Department at the University at Albany, SUNY.
+Lead Essay
+Sanctions Sometimes Succeed: But No All-Purpose Cure
+By
+Gary Clyde Hufbauer
+Lead Essay
+November 7, 2014
+Like beauty, success is in the eye of the beholder. When my co-authors and I claim that economic sanctions have succeeded in a third of the 224 foreign policy episodes surveyed over the past century, we apply tolerant standards.
+[2]
+Success in our eyes occurs when sanctions make a significant contribution to substantial achievement of the foreign policy outcome sought by the sender country. For bean-counting purposes, we divide the population of episodes between “successes” and “failures” based on a cutoff point in our numerical index – but in fact, the outcomes range across a continuum from dismal failure to total victory.
+Our cutoff point for “success” is not total victory. In our analysis, if the episode had a positive outcome from the standpoint of the sender country – meaning the sender’s goals were partly realized – and if sanctions made a substantial contribution to that outcome, then we score the episode as a success. In the realm of diplomacy, total victory is rare. Indeed, as the muddled results of four Middle East wars since 1992 illustrate, slam-dunk success is elusive even for military intervention. In our view, sanctions can succeed even when they deliver only part of the objectives sought.
+Nor, in our view, should success be measured by the pain inflicted on the target country. By that standard, sanctions against Iran (for its pursuit of nuclear weapons) and Russia (for its outright annexation of Crimea and support of separatists in East Ukraine) must be counted as huge successes. Both the Iranian and Russian economies are performing well below potential, in large part because of Western sanctions. But it’s far from clear that Iran will part with its nuclearaspirations, and it’s all too clear that Russia will not be dislodged from Crimea.
+In neither case would we go to the other extreme and declare the Iranian and Russian sanctions dismal failures. Rather they illustrate the highly imperfect correspondence between economic means and political ends. Substantial economic pain does not reliably deliver political acquiescence; yet in some cases even the mere threat of sanctions delivers the desired result.
+[3]
+So how do we provisionally grade the Iranian sanctions in 2014?  A marginal failure: economic misery contributed to the election of Rouhani (a comparative moderate), and in turn prompted Rouhani to negotiate with the Western coalition, but sanctions have not yet dissuaded Iran from its nuclear ambitions. What about Russian sanctions?  Another marginal failure: Crimea is now part of Russia, and Putin continues to support the East Ukrainian separatist. However, for the moment, Putin’s imperial ambitions have not extended to the Baltics, or Belarus, or the whole of Ukraine. In both cases, potentially positive outcomes can be discerned, but not more.
+Another note of political realism must be sounded. Sanctions are often invoked because public opinion demands that leaders – particularly in the United States and Europe – “do something” in response to a foreign outrage. Thus President Reagan imposed symbolic sanctions on the Soviet Union after  Russian fighter planes downed Korea Airlines 007 in 1983, and President George H.W. Bush imposed mild sanctions on China following the Tiananmen Square showdown in 1989. Many other cases, from Rhodesia (1965) to Sudan (1993) fit this general description. In such cases, informed officials held few expectations that the sanctions would change the policies of the target countries, but the sanctions may well have satisfied public outrage. In our scale, however, satisfaction of domestic public opinion does not count as a foreign policy success.
+Statistical Overview
+Two tables, drawn from
+Economic Sanctions Reconsidered
+, 3
+rd
+edition (2007) and updates on the Peterson Institute website will prepare the ground for success enhancements, offered in the next section.
+Table 1. Success and Failure by Period
+1914-1969
+1970-2014
+Success cases
+Failure cases
+Success cases
+Failure cases
+Modest policy change
+7
+4
+16
+19
+Regime change and democratization
+7
+10
+22
+51
+Diruption of military adventures
+4
+6
+0
+10
+Military impairment
+3
+6
+7
+16
+Other major policy changes
+2
+14
+8
+12
+All cases
+23
+40
+53
+108
+All US cases
+17
+19
+36
+75
+Unilateral US cases
+10
+9
+11
+43
+Table 1 summarizes the record divided into two periods (1914 to 1969 and 1970 to 2014), and distinguishes episodes by their policy objectives. The number of cases more than tripled from 11 per decade in the first period to 36 per decade in the second. The United States has participated as a sender, alone or with others, in three-fifths of the cases over the past century. However, the US role as the lone sender has declined sharply since 1969, partly because the US success rate as the lone sender has plummeted. Finally, Table 1 illustrates that, as policy objectives become more difficult, the ratio of success to failure drops.
+Table 2. Characteristics of Success and Failure Episodes
+Average Length of Episode
+Success Cases
+Failure Cases
+4.4 years
+8.5 years
+Success Rates Related to Prior Relations
+between Sender and Target
+Cordial
+Neutral
+Antagonistic
+46%
+33%
+18%
+Success Rates Related to Regime Type in Target Country
+Autocracy
+Anocracy
+Democracy
+27%
+34%
+47%
+Table 2 summarizes a few characteristics of success and failure episodes.
+[4]
+Successes come relatively quickly, under five years on average, while failures are drawn out, over eight years on average. Success is much more likely when prior relations (before the imposition of sanctions) between sender and target were cordial rather than antagonistic. Finally, autocracies are much more resistant to sanctions than democracies.
+Enhancing Success
+We conclude by reprising broad lessons, derived from case studies, for enhancing the chances of a successful sanctions episode. But sanctions diplomacy remains more art than science, and these lessons do not pretend to offer sure-fire guidance.
+Beware Exaggerated Expectations
+Misinformed by media reports, the public often has exaggerated expectations of what sanctions can accomplish. This is especially true of the American public today and was true of the British public in an earlier era. At most there is a weak correlation between economic deprivation and political willingness to change. The divergence has been especially sharp in Iraq and Iran.
+Moreover, Western publics have a poor understanding of differences in foreign policy objectives. Of the 53 episodes involving high policy goals between 1970 and 2014, success was achieved in only 15 cases, or 22 percent of the episodes. Among high policy goals I include only those episodes involving disruption of military adventures, military impairment, and other major policy changes (see table 1). Some authors have used the same phrase to refer to cases involving regime change as well.
+To be sure, sanctions are often necessary
+to rally public opinion in the sender country; but they are seldom sufficient to achieve major objectives without the use or threat of force. Indeed, in some cases, economic sanctions merely provided an interim governmental response until military action could be organized—as President George H.W. Bush admitted in his memoirs about the first Gulf War. When the goals are modest —freeing a political prisoner or protecting emigrants abroad—sanctions have a far higher chance of contributing to successful outcomes (45 percent on average).
+Friends Make Better Targets than Adversaries
+Sanctions are most effective when aimed against erstwhile friends and close trading partners. Neither the Soviet Union, nor China, nor modern Russia have been amenable to Western sanctions – nor was Japan prior to the Second World War. But friendly countries have more to lose, diplomatically as well as economically, by holding fast to objectionable policies in the face of sanctions.
+Only 18 percent of episodes preceded by adversarial relations between sender and target achieved any degree of success, and most of the somewhat successful cases involved either military force or the threat of military action. One example was U.S. air strikes against Libya when Qaddafi was riding high in the late 1970s.
+Autocratic Regimes Make Tough Targets
+It’s hard to bully a bully with economic measures. Autocrats can ensure that the pain inflicted by economic sanctions will be concentrated on powerless parts of the populace. The record shows that democratic regimes are more susceptible to economic pressure than autocratic ones, especially large autocratic countries.
+In the great majority of cases, the target country also has been much smaller than the sender country. But it does not seem to make much difference whether the sender country (or coalition) is 10 times the size of the target or 200 times the size. Within a very broad range, the relative size of the target economy is less important than other factors that come into play.
+Slam the hammer, don’t turn the screw
+Political leaders  often prefer to deploy sanctions incrementally, both to buy time and to justify the subsequent use of force, if all else fails. Our analysis continues to recommend the opposite:  there is a better chance to avoid military escalation if sanctions are deployed with maximum impact. That was our conclusion regarding Iraq in 1990, Iran in 2007, and Russia in 2014. But the advice was generally ignored, as U.S. and EU leaders preferred to take the time to assemble a larger coalition rather than aggravate potential allies with harsh measures at the outset.
+When the goal is a high policy objective, the costs imposed on target countries in success cases has been far larger than the average for episodes, and the cost is nearly ten times the level imposed in failed cases. The costs imposed when the goal is regime change have been almost 50 percent higher in success episodes than failures.
+Along with customary trade controls, financial sanctions have lately been used with good effect, in the sense of visiting pain on target countries. The interruption of private financial flows, such as bank loans, trade finance, and foreign investment, came into vogue in recent cases against Iran and Russia, with substantial spillover effects by interrupting trade and disrupting target economies.
+Sanctions imposed slowly or incrementally may simply strengthen the target government at home as it marshals the forces of nationalism. Thus, even though popular opinion in the sender country may welcome the introduction of sanctions, the longer an episode drags on, the more public support for sanctions tends to dissipate. This is particularly true for sanctions imposed by a coalition of sender countries.
+More is not Always Merrier
+A large coalition of sender countries does not necessarily make a sanctions episode more likely to succeed. International support for a sanctions policy can strengthen the political signal, but can also hurt chances of success by diluting the scope and impact of the common sanctions in the process of securing agreement among the senders.
+In general, the greater the number of countries needed to implement sanctions and the longer the sanctions run, the greater the difficulty of sustaining an effective coalition. An observation on military alliances made by the great 19
+th
+century Prussian strategist Field Marshal Count Helmuth Von Moltke applies equally well to 21
+st
+century sanctions. Von Moltke held:
+A coalition is excellent as long as all interests of each member are the same. But in all coalitions the interests of the allies coincide only up to a certain point. As soon as one of the allies has to make sacrifices for the attainment of a large common objective, one cannot usually count on the coalition’s efficacy. Coalitions never readily perceive that the large objects of a war cannot be attained without such sacrifices.
+[5]
+The 1990 UN embargo against Iraq, which was unprecedented in its comprehensive coverage and almost universal participation, was the exception that proves the rule. Few post Second World War cases have provided the glue for common action by raising overriding security concerns as Iraq did by invading Kuwait in 1990, and threatening world oil supplies to boot. When Russia annexed Crimea in 2014, and then supported secessionists in East Ukraine, the Western allies had a difficult time agreeing on common sanctions – mainly because the blowback impact on Europe was so much greater than on the United States.
+Don’t be a Spendthrift or Cheapskate
+Senders need to match costs imposed on domestic constituencies (and allies) to expected benefits; otherwise, public support for the sanctions policy may quickly erode. But the right balance is critical: senders must not worry so much about minimizing self-inflicted costs that they deliver only a glancing economic blow.
+These considerations suggest that sender governments should design sanctions so as to avoid concentrated costs on particular domestic groups. One example of actions to avoid, in all but extreme situations, is the retroactive application of sanctions to cancel existing contracts. Attempts to do so during the Soviet gas pipeline sanctions of the early 1980s created a strong backlash by affected U.S. firms and their European subsidiaries. Similar considerations prompted the U.S. Congress in 1998 to revise the Glenn Amendment, which would have blocked U.S. agricultural and other business contracts with India and Pakistan. Coalition sanctions against Russia for dismembering Ukraine were designed to avoid a European backlash, but after conceding Russia’s annexation of Crimea the ensuing sanctions were too weak to deter Putin’s support of secessionists in East Ukraine
+Summing Up
+Economic sanctions will continue to play a large role in international relations, whether by academic tests they succeed or fail. Sanctions are far too useful as an intermediate response between diplomatic talk and military action to be put on the shelf. For that reason alone, sanctions will remain prominent in the armories of leading economic powers, especially the United States and the European Union. It may be only a matter of time before China, as a fast-rising economic power, begins to use sanctions openly in pursuing its own foreign policy goals.
+Notes
+[1]
+This essay draws heavily on the Institute’s study authored by Gary Clyde Hufbauer, Jeffrey J. Schott, Kimberly Ann Elliott and Barbara Oegg,
+Economic Sanctions Reconsidered
+, 3rd edition. Peterson Institute for International Economics, November 2007.
+[2]
+Long-running cases, such as sanctions against North Korea, Cuba and Iran, are divided into two or more episodes corresponding to changing policy goals. The 174 cases (corresponding to 204 episodes) surveyed in the 3
+rd
+edition are augmented by another 21 cases or episodes posted on the Peterson Institute website.
+[3]
+The mere threat of sanctions dissuaded both South Korea and Taiwan from their pursuit of nuclear weaponry in the 1970s, and reversed a coup in Paraguay in 1996.
+[4]
+This table is based just on the 204 episodes covered in
+Economic Sanctions Reconsidered
+, 3
+rd
+edition. However, the 20 post-2000 episodes exhibit the same characteristics.
+[5]
+Daniel J. Hughes, ed. 1993, 36-37.
+Response Essays
+A New and Improved Sanction? Or the Same Old Story?
+By
+Eric B. Lorber
+Response Essays
+November 12, 2014
+Gary Clyde Hufbauer’s article, “
+Sanctions Sometimes Succeed:  But No All-Purpose Cure
+,” is a nuanced and instructive assessment of the effectiveness of economic sanctions. Relying on Hufbauer et. al’s seminal compilation of sanctions data from the 20th and 21st centuries, Hufbauer argues that while states’ use of sanctions as a tool of coercive diplomacy has increased in recent memory, sanctions are still only likely to be successful (based on Hufbauer’s definition) approximately one-third of the time. His analysis should provide policymakers eager to use economic sanctions with an appropriate degree of skepticism.
+While Hufbauer is correct that sanctions can be difficult to employ effectively, what his broad stroke analysis does not cover in sufficient detail—and what is particularly interesting to contemporary U.S. policymakers—is whether the sanctions developed and employed since 2005 are substantively different from, and more effective than, prior types of economic punishment. Since 2005, the U.S. Department of the Treasury has employed a series of innovative sanctions—primarily against Russia and Iran—that seek to use the United States’ position as a financial and technological hub to bring pressure to bear on target states. These sanctions do offer policymakers a greater ability to pressure countries such as Iran and Russia, but they also suffer from significant limitations, and policymakers should be cognizant of these limits before rushing to employ them.
+A New Sanctions Toolkit for the 21
+st
+Century
+While Hufbauer usefully divides the historical record of sanctions employment into a period from 1914-1969 and a period from 1970-2014, this differentiation does not fully capture what contemporary policymakers are most concerned about:  Whether new types of economic sanctions—employed against rogue actors since 2005—are more effective than previous methods of economic coercion.
+In 2005, the United States began employing significantly more sophisticated types of economic sanctions. Using the importance of the dollar in the world financial system, private firms’ concern with their business reputations, and the fact that the United States is the hub for many key technologies necessary for the development of industries in other countries, the United States found new ways to pressure rogue actors and to avoid problems that have historically prevented sanctions from achieving their goals.
+In the case of Iran, for example, the United States used its position as the financial capital of the world—and one of its largest markets—to essentially force European and Asian companies to stop doing business with Iran. The United States Department of the Treasury threatened those companies with a choice:  Either they could do business in U.S. financial markets (and have access to U.S. dollars for transactional purposes) or they could do business in Iran, but not both. Unsurprisingly, many firms shuttered their business operations in Iran, thus increasing the economic pressure on the country. This ability to impose what many European and Asian countries argued were extraterritorial sanctions helped prevent Iran from easily finding alternative trade and financing partners, and thus from avoiding increased economic pain.
+Likewise, in the case of Russia, the United States has imposed sophisticated new sanctions that target Russia’s ability to refinance its massive external debt, as well as prevent Russia from developing key energy resources over the medium to long term. These new sanctions move significantly beyond simple prohibitions on transactions with rogue actors and trade embargoes. Rather, policymakers at the Treasury Department actively tried to develop sanctions that would directly impact Russian President Vladimir Putin’s inner circle, notably by sanctioning those companies owned by Putin’s confidantes. These new sanctions also leverage a key advantage enjoyed by the United States:  Technological superiority. A significant component of these sanctions prevents U.S. energy companies from providing cutting-edge technologies (either through export or partnership) to Russian firms that would help those firms develop difficult-to-reach oil resources (such as shale, offshore, and Artic resources). Like the sanctions imposed on Iran, these new sanctions attempt to avoid many of the pitfalls associated with prior uses of coercive diplomacy. For example, they are more targeted at decision-making elites in Russia and they leverage key U.S. economic advantages.
+These new forms of economic statecraft have proven powerful, at Hufbauer notes. For example, as a partial result of the sanctions, officials at the International Monetary Fund are predicting that the Russian economy will stagnate this year, and then enter into a recession in the medium term. Likewise, the Iranian economy is suffering from significant inflation, and the sanctions—particularly those imposed on the Iranian oil industry in 2012 and afterwards—have arguably helped bring the Iranians to the negotiating table with the P5+1 – that is, the five permanent members of the UN Security Council, plus Germany.
+New Sanctions—Same Problems?
+Given that these sanctions can cause their targets significant economic pain and arguably avoid some of the pitfalls of employing prior types of coercive diplomacy, do they represent a new and significantly more effective form of coercive diplomacy?  Put another way, should we consider Hufbauer’s findings historically interesting, but of limited practical consequence moving forward?  The short answer is no. These new sanctions, while powerful in some ways, also suffer from drawbacks that plague traditional forms of economic coercion, as well as additional limitations.
+First, as Hufbauer notes, while these new forms of sanctions may have additional economic effects, those do not necessarily translate into
+political
+effects. For example, in the case of Russia, U.S. and EU sanctions have negatively impacted the Russian economy and dimmed the country’s growth outlook for the next few years, but Russia has been unwilling to accede to U.S. and EU demands to cease its support of Ukrainian separatists or relinquish control of Crimea. In the case of the recent sanctions on Iran, however, evidence suggests that a multifaceted strategy, including sanctions, was sufficient to bring Iran to the negotiating table to discuss its nuclear program. By inflicting significant economic pain on the Iranians, while at the same time slowing the development of their nuclear program through sabotage and offensive cyber operations, the United States was able to bring Iran to the negotiating table. However, it remains to be seen whether economic pain caused by these sanctions will help the P5+1 and Iran strike a deal. In this way, these new sanctions suffer from the same limits as older ones:  While they can cause economic pain, often this pain is not sufficient when the goals of the sender state are expansive.
+Second, like comprehensive economic sanctions, the use of which was widely criticized in the 1990s for punishing innocent Iraqi civilians, these new and more targeted forms of economic statecraft also cause more widespread damage than the sender intends. For example, in the case of Russia, while the new sanctions are targeting specific Russian energy and finance companies, the damage to the Russian economy overall has extended far beyond these companies. According to experts at the World Bank, the uncertainty created by the sanctions as to whether more economic sanctions are coming, or what the Russian response, including expropriation of Western assets, will be, has significantly chilled the foreign direct investment climate in the country. Without FDI, and with sanctions targeting the medium and long term growth of the Russian economy, these sanctions are going to have a significantly greater impact than simply hurting a few large Russian corporations and Putin’s cronies.
+Third, these sanctions can also have unintended consequences. For example, while the sanctions on Russia were aimed at punishing Putin and his inner circle, in fact they may have expedited a process of authoritarian centralization in the country. In an attempt to offset any pain felt by his close associates, Putin has requisitioned property of more liberal oligarchs and effectively consolidated the position of hardliners within the political and economic sectors. In effect, the sanctions have made it less likely that Putin will acquiesce to the demands of the United States and the European Union, as the sanctions have allowed Putin to strengthen his grip over important parts of the country.
+These last two considerations illustrate a fundamental drawback to employing these sanctions:  Like with more traditional sanctions, the effects can be very difficult to predict. Even as policymakers rely on more and more targeted sanctions, it still is extremely difficult to a) fully understand and predict the effects of such sanctions, and b) utilize them for policy impact.
+Conclusions
+These new forms of sanctions can cause significant economic pain to target states. Yet in many ways the lessons Hufbauer derives from previous sanctions episodes also apply to them. While potentially effective in achieving a sender’s goals, policy makers should be well aware that these new tools are no panacea, and that they too can cause unintended consequences and the frustration of policy objectives.
+Some Nuanced Responses on Economic Sanctions
+By
+Daniel W. Drezner
+Response Essays
+November 14, 2014
+Both scholars and policymakers tend to boil questions about sanctions down into a simple “they work!” or “they don’t work!”  As someone who relied on
+Gary Clyde Huffbauer’s pathbreaking work
+with Jeffrey Schott and Kimberly Ann Elliott in developing a database on sanctions, the “it depends” theme of Hufbauer’s essay carries a great ring of truth. I certainly will not dispute his observations that sanctions are far more likely to work with allies than adversaries, as that was one of my key findings in
+my own book on the subject
+.
+While Hufbauer’s take on sanctions is nuanced, I’d like to inject even more nuance into some of his observations. In particular, he underestimates the value of slowly escalating the pace of economic sanctions, and he overestimates the ability of autocrats to resist powerful sanctions. Stepping back, however, the biggest problem with Hufbauer’s analysis is a failure to consider the negative externalities of leaning on sanctions as the first response to international crises.
+In terms of crafting the optimal set of sanctions, I would dissent from Hufbauer in two ways. First, he lobbies in favor of harder and faster sanctions, because “there is a better chance to avoid military escalation if sanctions are deployed with maximum impact.” This might be true, but it underestimates the ways in which the threat of sanctions can be more powerful than their implementation.
+As with any bargaining situation
+, it is more efficient for the target and sender to agree to a deal before any punishments are inflicted, as it reduces the deadweight loss of no agreement. Compromising before sanctions are actually implemented also has the advantage of being more under the radar, which cuts down on the political costs for both sides.
+My own research
+suggests that sanctions are far more likely to work before they are implemented rather than after. Given the increasing sophistication of today’s sanctioning machinery, it is not surprising that senders are cautious in escalating sanctions too quickly.
+Second, Hufbauer argues that “a large coalition of sender countries does not make a sanctions episode more likely to succeed.”  His claim is correct, but as it turns out there is an easy way to divide the multilateral cases that succeed from the cases that fail. Sanctions coalitions that have an institutional imprimatur are far more likely to succeed, while ad hoc coalitions of the willing are not. The reasons are similar to those Hufbauer lays out. Target governments will expect coalitions to fall apart over time. If the UN Security Council or the Financial Action Task Force endorse sanctions, however, targets recognize that the likelihood of the coalition cracking goes down.
+A bigger problem with Hufbauer’s argument is his claim that autocratic regimes make for tougher targets. It is true that democracies are usually quicker to concede, but not all autocratic governments are created equal.
+Jessica Weeks’ typology of non-democratic states
+is useful here: authoritarians with powerful civilian audiences (think China or Iran) and personalist strongmen without powerful domestic audiences (think Putin in Russia).
+Weeks’s cogent argument is that civilian authoritarian regimes are about as risk-averse in their foreign policies as democracies. Even if their civilian audience is narrower than in democratic countries, it is equally risk-averse. Strongmen, by contrast, are far more likely to pursue risky and adventurous foreign policies, even if the odds of victory don’t look all that great. These kind of strongmen do not rise to power without valuing coercion and risk-taking as tools of the trade. They are more likely to surround themselves with yes-men, and more likely to stay in power even after suffering reversals. Their very stupidity and insensitivity to costs makes them dangerous on the global stage.
+Applying this typology to current events, we would expect sanctions against Iran to be more successful than sanctions against Russia. Iran’s Islamist regime is far more institutionalized than Putin’s more charismatic form of leadership. And indeed, by the fall of 2013, Iran’s president
+Hassan Rouhani had publicly acknowledged
+that the effect of sanctions on the Iranian economy was severe and required quick negotiations to settle the nuclear question. Despite a
+rapidly faltering Russian economy
+and punishing sanctions, however,
+Putin seems prepared to tough it out
+.
+My final cavil with Hufbauer’s arguments is a failure to factor in the long-run costs of extended sanctions imposition. Consider, for example, the obvious link between sanctions and corruption. Economic sanctions and black market activity go together. By punishing ordinary market activity, sanctions give entrepreneurs a strong incentive to take the criminal route – and they usually earn higher-than-usual profits in the bargain. As
+Peter Andreas
+has demonstrated, trade sanctions encourage the creation of organized crime syndicates and transnational smuggling networks. Sanctions therefore don’t just weaken the rule of law in the target country – they weaken the rule of law in bordering countries and monitoring organizations as well. The corruption has a path dependent quality, persisting long after sanctions have been lifted. For example, according to
+Transparency International’s 2013 Corruption Perceptions Index
+, eight of the ten most corrupt countries in the world were either subject to trade sanctions in the 1990’s, or bordered those countries.
+The ancillary costs of sanctions should be stressed, because after decades of disdain, it now appears that policymakers are overestimating their utility. Honed during the global war on terror, sanctions now enjoy plenty of bipartisan support. Juan C. Zarate, a deputy national security adviser in the George W. Bush administration, argued in his book
+Treasury’s War
+that the United States can use sanctions “to confront its most critical national security threats.”  Earlier this year
+sanctions made the cover of
+Newsweek
+, with Assistant Treasury Secretary Danny Glaser bragging that because of sanctions, the Treasury department is “at the center of our national security.” Many members of Congress are upset at the prospect of an Iranian nuclear deal because they believe that sanctions might topple the Iranian regime. But while sanctions have their uses, they are not a magic bullet by any means. On that point, I suspect all of us writing here will agree.
+Why Sanctions Busting Leads to Broken Sanctions Policies
+By
+Bryan Early
+Response Essays
+November 17, 2014
+Within his essay,
+Gary Hufbauer shares
+a number of valuable insights into why some sanctioning efforts succeed and others fail.  Hufbauer’s essay highlights, for example, that sanctioning efforts that receive broad international cooperation are only sometimes—but not always—more effective than unilaterally imposed sanctions.  Similar to how sanctioning efforts’ success can be influenced by the degree of international cooperation a sanctioner receives, their success can also be influenced by how much support a sanctioned state obtains from other countries.   Indeed, research from my forthcoming book
+Busted Sanctions: Explaining Why Economic Sanctions Fail
+suggests that sanctioning efforts will rarely succeed when sanctioned states are able to obtain significant levels of sanctions-busting support from other countries around the world. Third-party spoiler states can undercut the effectiveness of sanctioning efforts via both the trade and foreign aid they provide to sanctioned states.
+Economic sanctions can profoundly affect their target’s economy and its commercial relationships with other states.  Sanctions may disrupt trading relationships between firms in third-party and target states and can also harm the profitability of doing business with trade partners in target states. Economic sanctions can thus have far-reaching adverse effects on their targets’ trade with other countries.  Yet there may also be third-party firms that can profit from exploiting the trade imbalances that sanctions create within target states and the lack of competition from rival firms in the sanctioning state(s).  These firms will flock to the third-party states from which trading with target states is the most profitable. This can lead to the emergence of third-party spoiler states called trade-based sanctions busters, which dramatically increase their trade with target states after they have been sanctioned.
+Having the support of trade-based sanctions busters can mitigate the adverse economic consequences that sanctions have on target states. While companies and consumers within target states must still pay a premium on the trade they conduct with firms in trade-based sanctions busters, concentrating their efforts to replace their lost trade within a small number of leading sanctions busters is more cost effective than trying to find new trade partners all over the world.  Especially if such states have large markets that can absorb the target’s excess exports and can readily provide substitutes for sanctioned imports, the costs of adjusting to the sanctions may be fairly low.  Additionally, the more profitable that a third-party state finds exploiting the sanctions imposed against a target state, the less likely it is to join in the sanctioning campaign.
+Examining nearly a hundred cases of U.S. economic sanctions imposed from 1950-2002, I find that sanctioning efforts imposed against target states that have the support of trade-based sanctions busters are significantly less likely to succeed. My analysis relies on the data set collected by
+Hufbauer and his colleagues
+, but employs a new measure to identify trade-based sanctions busters.  I find that if a sanctioned state receives the support of even a single trade-based sanctions buster in a given year, it can make U.S. economic sanctions 30% less likely to succeed in that year and increase the U.S. government’s likelihood of giving up on its sanctions by 7%.  The efforts of just one active spoiler state can thus undermine the chances of economic sanctions succeeding.
+Looking at the prolonged U.S. sanctioning efforts against both Cuba (1960–present) and Iran (1984–present), I find substantial evidence that both states have relied on the support of trade-based sanctions busters in holding out against U.S. sanctions.  For decades, Iran relied on its close neighbor, the United Arab Emirates, to help it circumvent U.S.-imposed economic sanctions. Additionally, Iran leveraged significant sanctions busting support from China and a number of U.S. allies in Europe.  In Cuba’s case, the Castro regime was able to leverage the commercial support of a large number of U.S. allies, including Japan, Great Britain, Spain, Canada, and France both during and after the Cold War’s conclusion. Interestingly, my research shows that the United States’ closest military allies are far more likely to become trade-based sanctions busters than other countries.
+The leaders of sanctioned states can also use the foreign aid they receive from third parties to resist sanctioning efforts, but relying heavily on foreign assistance can also enhance leaders’ vulnerability to aid reductions. Leaders receiving surplus foreign aid flows in a given year may use them to help constituents that were adversely affected by sanctions and to reward loyal political supporters.  This can help minimize the political pressure on leaders to concede to economic sanctions. At the same time, leaders who depend upon foreign aid also become vulnerable to the adverse effects of sudden aid reductions. Such reductions can place significant budgetary pressure on target governments already facing fiscal challenges due to sanctions.  They can also exacerbate the already adverse economic conditions for the constituents of sanctioned states, cutting them off services and resources that the foreign aid had previously funded. Leaders experiencing aid reductions thus face far greater challenges in resisting sanctions.  As such, sanctioning efforts imposed against states receiving foreign aid surpluses should be less effective, and sanctioning efforts imposed against states experiencing aid reductions should be more effective.
+Third-party spoilers can play significant roles in influencing the foreign aid flows that sanctioned states receive. In the aforementioned U.S. sanctioning effort against Cuba, Fidel Castro was able to obtain substantial foreign aid packages from the Soviet Union during the Cold War and from Venezuela after Hugo Chávez was elected president. Indeed,
+Hufbauer and his colleagues
+have previously argued that so-called “black knight” spoilers can undermine the effectiveness of sanctioning efforts with the foreign assistance they provide to sanctioned states.  Whereas previous efforts to find a link between black knight assistance and sanctions outcomes yielded inconsistent findings, my approach places the assistance that black knights provide within the broader context of the overarching aid flows that sanctioned states receive. I expect my approach can better capture the role that foreign aid plays in influencing the outcomes of sanctioning efforts.
+To evaluate this argument, I examined the extent to which the success of sanctioning efforts was dependent upon changes in the amount of Official Development Assistance (ODA) that sanctioned states received in a given year.  My analyses reveal that sanctions against states experiencing modest increases
+[1]
+in their foreign aid flows are approximately 9% less likely to succeed in a given year and 41% more likely to end in failure. Conversely, sanctions against states experiencing modest declines in their foreign aid flows are 9% more likely to succeed and 30% less likely to end in failure.  These findings strongly support my argument and indicate that volatility in the foreign aid flows that sanctioned states receive dramatically influences sanctions’ prospects for success.
+The impact of sanctions-busting aid and trade on the success of sanctioning efforts can best be illustrated graphically. The following figures illustrate two scenarios in which a typical state sanctioned by the United States receives no sanctions-busting support versus receiving a modest amount of sanctions-busting trade and aid.  The figures show the impact of sanctions busting on the likelihoods of sanctioning efforts succeeding and failing over time.
+Figure 1 focuses on the likelihoods of sanctions succeeding in a given year. As the figure shows, economic sanctions often take time to work. When a target state receives no sanctions-busting support, it is far more likely to capitulate to U.S. sanctioning efforts 4-10 years after they have been in place. In contrast, a state receiving a modest amount of sanctions-busting support is dramatically less likely to concede to U.S. sanctions.  The marginal effects of sanctions busting on the success of sanctions diminish in the long-run, but primarily because long-running sanctions are unlikely ever to succeed.
+Figure 1: How Sanctions Busting Influences Economic Sanctions’ Likelihoods of Success
+Figure 2 illustrates the impact that sanctions-busting support has on the likelihood of the U.S. government terminating its sanctions without having achieved its objectives. As the figure shows, the U.S. government is much more likely to give up on sanctioning efforts in which target states receive a modest amount of sanctions-busting support. While these effects are strongest in the early years of sanctioning efforts, they still persist over the long term.
+Figure 2: How Sanctions Busting Influences Economic Sanctions’ Likelihoods of Failure
+In sum, my findings suggest that the external support that sanctioned states can leverage from third-party spoilers has a major and often decisive impact on the success of sanctioning efforts. Sanctioning efforts that have been busted by third-party spoilers are substantially less likely to be successful.  U.S. policymakers may often be better off giving up on sanctioning efforts that have been busted as opposed to maintaining sanctions that will be costly to the U.S. economy and unlikely to succeed.
+When giving up on sanctions is not an attractive option, policymakers can sometimes succeed in convincing and/or compelling trade-based sanctions busters to curb their trade with sanctioned states.  In recent years, for example, the U.S. government has succeeded in obtaining the cooperation of the European Union and, at least in part, the United Arab Emirates in sanctioning Iran. Yet achieving such cooperation from trade-based sanctions busters tends to be both difficult and costly. Another strategy to make sanctioning efforts more successful is to convince international donors to cut off their aid to sanctioned states.  This strategy raises some important humanitarian concerns, though, and runs counter to the broader “
+smart sanctions
+” movement that has sought to limit the adverse effects that sanctions have on countries’ general populations. In some cases, the tradeoffs involved in cutting recipients’ aid flows in order to help bring sanctioning efforts to a swift, successful resolution may be worth those costs.  Overall, though, sanctioned states are far more advantaged in leveraging the support offered by third-party spoilers than even powerful sanctioners like the United States are in stopping it.
+Note
+[1]
+A one standard deviation increase is employed, which translates into around a $230 million increase in foreign aid flows.
+The Conversation
+Explaining Which International Organizations Can Best Contribute to the Success of Economic Sanctions
+By
+Bryan Early
+The Conversation
+December 1, 2014
+In his
+essay
+, Daniel Drezner shared some insights from his
+past research
+about how international organizations contribute to multilateral sanctioning efforts. Drezner argues that multilateral sanctions supported by international organizations are apt to be more successful than both unilateral sanctions and multilateral sanctions that lack organizational support. While Drezner’s original arguments weathered the test of time
+quite well
+, they offered few insights to policymakers about which types of international organizations could best contribute to making sanctioning efforts more successful.
+Building on Drezner’s original theory, my coauthor Robert Spice and I
+theorized
+that smaller-sized international organizations like the European Union (EU) should be far more effective at obtaining their members’ sanctions-related cooperation than large organizations like the United Nations (UN).  Drezner argues that international organizations offer critical support to multilateral sanctioning efforts by preventing member states from engaging in sanctions busting and from reneging on their sanctions obligations. We argue that large organizations lack the resources to effectively monitor, let alone prevent, their members from engaging in extensive trade-based sanctions busting. Similarly, large organizations also face difficulties in using side-payments to maintain the cooperation of states that can otherwise profit from sanctions busting. This explains, for example, why UN-backed sanctioning efforts against
+Libya
+and
+Iraq
+were routinely violated.
+In contrast, we argue that smaller-sized organizations are better able to monitor the behavior of their members and maintain compliance for the sanctions they impose. There’s also likely to be a stronger consensus within smaller-sized international organizations about the need to impose sanctions against a target state. Both of these factors are likely to make the sanctions obligations imposed by smaller-sized international organizations more effective at preventing their members from sanctions busting than larger international organizations. For example, the sanctions against Iran really started taking a significant toll on the country’s economy when the EU began cooperating with U.S. sanctioning efforts. Prior to that, a number of EU countries had been actively sanctions busting on Iran’s behalf. Given that even a small number of sanctions busters can undermine the success of a
+sanctioning
+effort
+, having the support of international organizations that can actually prevent it from occurring should substantially contribute to the chances that sanctions succeed.
+To test our theory, we
+examine
+the factors associated with whether or not third-party states engaged in trade-based sanctions busting on behalf of sanctioned states in 164 sanctions episodes from 1950-2002. We examine the roles played by the five international organizations that were most actively involved in imposing economic sanctions. These organizations include: the Arab League, EU, Organization of American States, Organization of African States, and the UN. Based upon the size of their memberships,
+[1]
+we categorized the Arab League and EU as smaller-sized organizations and the other three organizations as being larger-sized. We than analyzed how being a member of those specific organizations and whether those organizations imposed sanctions obligations upon their members affected third-party states’ likelihoods of engaging in trade-based sanctions busting.
+What we found was quite striking. Despite being very different from one another along a range of different factors, the sanctions imposed by both the Arab League and European Union were very effective in preventing their members from engaging in sanctions busting. The impact for members of the EU was especially notable, as EU members were otherwise significantly more likely to become sanctions busters when the organization did not participate in sanctioning efforts. In contrast, none of the larger sized organizations appeared to be effective at preventing their members from sanctions busting when they imposed sanctions. The failure of UN sanctions to meaningfully constrain its members from sanctions busting is quite noteworthy, especially given the significant diplomatic investments required to get the UN involved in sanctioning efforts. Simply put, UN sanctions do not appear to be a deterrent for potential spoiler states.
+If policymakers want to prevent sanctions busters from undermining their sanctioning efforts, our research suggests that gaining the support of smaller-sized international organizations is better than gaining the support of larger ones. Size does matter, but larger is
+not
+better. More specifically, our findings suggest that policymakers will be far better served by seeking the support of the EU as opposed to the UN if they want to make their sanctions more effective.
+Note
+[1]
+The size of these organizations varied over time, but the EU and Arab League were consistently smaller than Organization of American States, Organization of African States, and the UN. See my
+article
+with Spice for more details.

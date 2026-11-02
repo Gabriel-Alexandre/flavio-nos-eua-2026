@@ -1,0 +1,3 @@
+TITULO: 
+
+{"data":{"list":[{"coAno":"2026"},{"coAno":"2025"},{"coAno":"2024"},{"coAno":"2023"},{"coAno":"2022"},{"coAno":"2021"},{"coAno":"2020"},{"coAno":"2019"},{"coAno":"2018"},{"coAno":"2017"},{"coAno":"2016"},{"coAno":"2015"},{"coAno":"2014"},{"coAno":"2013"},{"coAno":"2012"},{"coAno":"2011"},{"coAno":"2010"},{"coAno":"2009"},{"coAno":"2008"},{"coAno":"2007"},{"coAno":"2006"},{"coAno":"2005"},{"coAno":"2004"},{"coAno":"2003"},{"coAno":"2002"},{"coAno":"2001"},{"coAno":"2000"},{"coAno":"1999"},{"coAno":"1998"},{"coAno":"1997"}]},"success":true,"message":null,"processo_info":null,"language":"pt"}

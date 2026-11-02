@@ -1,0 +1,149 @@
+TITULO: Client Alert: Terrorist Designation of Comando Vermelho and Primeiro Comando da Capital: What U.S. and Brazilian Companies Need to Know
+
+All News & Events
+Client Alert: Terrorist Designation of Comando Vermelho and Primeiro Comando da Capital: What U.S. and Brazilian Companies Need to Know
+June 10, 2026
+Client Alerts
+Sign Up for Publications
+The United States’ designation of Brazil’s two largest criminal organizations as terrorist groups should put American and Brazilian companies on high alert.  The two organizations—
+Comando Vermelho
+(“CV”) and
+Primeiro Comando da Capital
+(“PCC”)—have infiltrated many sectors of the Brazilian and international economies, including the financial system and the mining, agricultural, and transportation sectors. As a result, companies and businesspeople operating in or with exposure to Brazil face significant compliance and litigation risks that should be addressed now.  Quinn Emanuel has deep experience helping clients navigate these risks and stands ready to help companies take action now to avoid problems in the future.
+The Terrorist Designations
+On May 28, 2026, the U.S. Department of State designated PCC and CV as Specially Designated Global Terrorists (“SDGTs”) under Executive Order 13224.  The State Department simultaneously announced its intention to designate both groups as Foreign Terrorist Organizations (“FTOs”) under Section 219 of the Immigration and Nationality Act.  The FTO designations took effect on June 5, 2026, upon publication in the Federal Register.  The State Department cited both groups’ facilitation of illegal activity—including violent attacks on police officers, public officials, and civilians—as well as their expansive influence, extending across our region and the U.S.
+1
+The designations are consistent with the Trump administration’s broader strategy of treating major transnational criminal organizations as terrorist groups, building on prior actions by the Department of Justice that increasingly targeted Latin American cartels and criminal networks.
+2
+The designations trigger immediate and far-reaching legal consequences for businesses and individuals, including criminal prohibitions on providing material support to the designated organizations, property-blocking and reporting obligations for U.S. financial institutions, and significant civil liability exposure under the Anti-Terrorism Act (“ATA”).
+The Organizations Behind the Designations
+PCC
+is Brazil’s largest and best-organized criminal network.  It was founded in 1993, after 111 inmates of Carandiru Penitentiary were killed by security forces.
+3
+Though the group originally claimed a political agenda of fighting prison oppression, it quickly became a major criminal enterprise.  Today PCC operates through a decentralized franchise model rather than a traditional top-down hierarchy, a structure that has made it resilient against law enforcement.
+4
+It has an estimated 40,000 members in Brazil and a significant international presence.  PCC reportedly serves as a key intermediary in the global cocaine trade.
+CV
+is Brazil’s oldest major criminal organization.  It was founded in the late 1970s in Rio de Janeiro’s prison system, originally engaging in petty crime before moving into the cocaine trade in the 1980s.  CV is now estimated to have approximately 30,000 members across Brazil.
+5
+Internationally, CV has expanded to control drug trafficking routes in parts of Colombia, Peru, and Bolivia.  Brazilian state police conducted a major raid against CV in October 2025 to curb the organization’s ongoing national expansion.
+The Legal Consequences of the Designations
+SDGT Designation Under Executive Order 13224
+The SDGT designations under Executive Order 13224 go into effect immediately.  All property and interests in property of the PCC and CV that are in the United States or that come within the possession or control of a U.S. person are blocked.  U.S. persons are broadly prohibited from any transaction or dealing with the organizations, their members, or entities they own or control.  U.S. financial institutions that identify blocked funds must freeze and report them.  PCC’s pre-existing inclusion on the Specially Designated Nationals and Blocked Persons (
+“SDN”
+) list already imposed many of these obligations; the new action extends them to CV.
+FTO Designation Under 18 U.S.C. §§ 2339A and 2339B
+The FTO designations add a separate and broader dimension.  Under 18 U.S.C. § 2339B, it is a federal felony to knowingly provide an FTO with ‘material support or resources’—a term defined expansively to include currency, property, financial services, lodging, transportation, expert advice or assistance, personnel, and nearly any other service or thing of value.  Section 2339A separately imposes criminal liability for providing material support in furtherance of a specific act of violence or terrorism.  The prohibition is not limited to U.S. citizens; it reaches any person within the United States and any entity subject to U.S. jurisdiction, including foreign companies with U.S. operations or U.S. correspondent banking relationships.  It also applies to conduct that occurred entirely overseas.
+The government need not prove an intent to further violence or terrorism; the government need only prove knowledge that the recipient is a designated group.  Put simply, even a company being forced to pay “protection” payments can be liable if it knows the payment is to a designated group.  A § 2339B conviction carries up to 20 years in prison (or life if a death results), while a § 2339A conviction carries up to 15 years (or life if a death results).  Both statutes also provide for substantial fines.  OFAC sanctions violations carry strict-liability civil penalties independent of any criminal case.
+Precedents from Other Industries
+The risk of prosecution is not hypothetical.  In 2007, Chiquita Brands International pleaded guilty and paid a US$25 million fine after making protection payments to a Colombian FTO over a six-year period—even though Chiquita had voluntarily disclosed the payments.
+6
+More recently, in
+United States v. Lafarge
+, the Department of Justice charged a major international cement manufacturer with paying approximately US$6 million in protection fees to ISIS and al-Nusrah Front, resulting in criminal fines and forfeiture totaling nearly US$779 million.
+7
+These cases illustrate that even companies that voluntarily disclose violations face severe penalties under material-support statutes.
+Civil Liability Under the Anti-Terrorism Act
+Beyond government enforcement, the FTO designations open a private litigation front.  The ATA gives U.S. nationals injured by an act of international terrorism a civil cause of action against those who aid and abet or conspire with a designated FTO that committed, planned, or authorized the act.  Prevailing plaintiffs recover treble damages plus attorneys’ fees and costs—an economic structure that has made the statute increasingly attractive to the plaintiffs’ bar.  For example, a financial institution that is found to have provided banking services to PCC or CV could be sued by family members of a victim of violence.
+This tool has been tried and tested in other cases.  In
+Linde, et al. v. Arab Bank, PLC
+, American victims of terrorist attacks sought to hold the Arab bank liable for aiding Hamas.  Even though the verdict was later annulled by the Appellate Court, a jury originally awarded the plaintiffs substantial compensation of $100 million under the ATA.
+8
+Who Is Most Exposed
+Financial institutions are likely to feel the effects first.  Banks, money-services businesses, fintechs, payment processors, and cryptocurrency platforms that handle Brazilian-origin transactions face heightened screening, blocking, and reporting burdens and a corresponding rise in regulatory and litigation risk.  As with the recent designations of Mexican cartels, the initial impact tends to fall not only on the criminal organizations themselves but on the compliance functions of the institutions that move money through the affected markets.
+Companies with operations or sourcing in Brazil are also at risk.  Businesses in mining, energy, timber, agriculture, logistics, manufacturing, and infrastructure risk inadvertent material support through dealings with vendors, unions, local intermediaries, or joint-venture partners connected to these groups, and through supply chains that run via compromised ports and transportation corridors.  The risk is heightened in the Amazon, the Northeast of Brazil, and major urban centers, where PCC and CV presence is most concentrated.
+The designations are also likely to channel additional enforcement resources toward Latin America and to increase the likelihood that issues once viewed in isolation—such as potential FCPA, export-control, or anti-money-laundering concerns—will be examined through a broader, coordinated enforcement lens.
+What May Come Next: The Mexico Precedent
+Recent events in Mexico offer a preview of what may unfold in Brazil.  After the United States designated major Mexican cartels as FTOs and SDGTs in early 2025, the Financial Crimes Enforcement Network (
+“FinCEN”
+) issued orders in June 2025 identifying three Mexican financial institutions—CIBanco, Intercam, and Vector—as institutions ‘of primary money laundering concern’ in connection with fentanyl trafficking, prohibiting all U.S. financial institutions from transmitting funds to or from those banks.
+9
+The consequences for the targeted institutions were fatal.  Cut off from the U.S. financial system, they were unable to serve their clients, and their operations were broken up and sold within weeks.  Critically, the governing statute affords a targeted institution little opportunity to contest the allegations before an order issues and only a narrow window in which to seek relief in court before the prohibition takes effect.
+No law firm has successfully challenged such an order—except Quinn Emanuel, which obtained a first-of-its-kind preliminary injunction preventing FinCEN from enforcing a Section 311 order against our client FBME Bank, an international bank.
+In Brazil, similar events may unfold.
+Operação Carbono Oculto
+has already identified certain Brazilian fintechs and payment institutions as having allegedly laundered money for the PCC.  Those institutions may be within the crosshairs of a potential FinCEN special-measures order, and their U.S. counterparties should plan accordingly.
+Steps to Take Now
+The window is short.  On a continuing basis, companies should take the following steps:
+Conduct a privileged risk assessment.
+Map every realistic point of contact with PCC, CV, or their affiliates across operations, supply chains, vendor and agent relationships, and financial flows—with particular attention to physical location, as exposure is far higher in the Amazon, the Northeast, and major urban centers.
+Strengthen third-party and vendor diligence.
+Due diligence that was adequate for ordinary corruption, sanctions, or SDN-list risk should be re-evaluated and specifically strengthened for FTO-related risk, including background checks against OFAC, Treasury, and BIS lists; planned and unplanned site visits; and references from trusted counterparties.
+Review and update third-party agreements.
+Agreements with counterparties in PCC or CV territories should go beyond standard anti-corruption clauses to include clear service descriptions, cartel/TCO investigation requirements, robust audit rights, beneficial-ownership notification requirements, and rights to terminate if associations with criminal organizations are identified.
+Update sanctions screening and AML programs.
+Financial institutions and companies processing Brazilian transactions should confirm that their sanctions-screening, know-your-customer, anti-money-laundering, and beneficial-ownership processes capture both the existing SDN listing and the new SDGT and FTO designations.
+Tighten internal reporting channels.
+Treat any internal complaint that references the PCC or CV as a priority.  Companies should expand employee awareness of what constitutes ‘material support’—including hiring of associated individuals, payments to local charitable organizations, or providing operational information—and train key personnel to assess reports and determine whether external reporting is appropriate.
+Monitor for further government action.
+Businesses should watch for additional OFAC designations of affiliated individuals and entities, possible FinCEN special-measures orders against implicated financial institutions, and state-level material-support statutes that may expand liability.
+Proactively engage independent counsel.
+Companies should engage counsel to assess potential financial and operational connections to the PCC or CV and evaluate self-reporting of any findings.  Doing so quickly and thoroughly may significantly limit exposure.
+How Quinn Emanuel Can Help
+Quinn Emanuel works alongside leading Brazilian law firms to help companies assess their exposure and implement practical compliance measures—privileged risk assessments, counterparty and supply-chain screening, enhanced due diligence, contractual protections, and payment controls built for the realities of operating in Brazil.  And if U.S. authorities—or a plaintiff’s lawyer—come knocking, we are a litigation-only firm built to defend clients in exactly that moment.
+Quinn Emanuel has one of the world’s leading investigations, government enforcement, and white-collar defense practices—recognized by Law360 as a ‘White Collar Practice Group of the Year’ five times in the past decade and ranked among the elite white-collar practices by Chambers, Global Investigation Review, and Legal 500—and we provide the full range of representation, from compliance advice and internal investigations to negotiations with the government and, when necessary, trial.
+We also have singular experience challenging the very type of government order that may be imminent here.  We obtained a first-of-its-kind preliminary injunction preventing FinCEN from enforcing a Section 311 order against our client FBME Bank.  No other law firm has ever obtained judicial relief against such an order from FinCEN.
+We also have a broad and widely recognized practice in Brazil, including several native and fluent Portuguese-speaking attorneys, and we regularly represent companies and individuals facing the most serious civil and criminal exposure in the United States.
+* * *
+If you have any questions about the issues addressed in this memorandum, or if you would like a copy of any of the materials mentioned in it, please do not hesitate to reach out to:
+Michael Carlinsky
+Co-Managing Partner, Co-Chair of Brazil Practice
+New York
+michaelcarlinsky@quinnemanuel.com
+Tel: 212-849-7150
+Mario Gazzola
+Partner, Co-Chair of Brazil Practice
+New York
+mariogazzola@quinnemanuel.com
+Tel: 212-849-7102
+Robert Zink
+Partner
+Washington, D.C.
+robertzink@quinnemanuel.com
+Tel: 202-538-8338
+Daniel Koffmann
+Partner
+Los Angeles
+danielkoffmann@quinnemanuel.com
+Tel: 212-849-7617
+Fritz Scanlon
+Of Counsel
+Washington, D.C.
+fritzscanlon@quinnemanuel.com
+Tel: 202-538-8138
+Learn more about our
+Investigations, Government Enforcement & White Collar Criminal Defense Practice
+and our
+Brazil Practice
+1
+Secretary of State Marco Rubio,
+Terrorist Designation of Comando Vermelho and Primeiro Comando da Capital
+, U.S. Dep’t of State (May 28, 2026).
+2
+Office of the Spokesperson,
+Designation of International Cartels
+, U.S. Dep’t of State (Feb. 20, 2025)
+3
+InSight Crime,
+First Capital Command (PCC) Profile
+.
+4
+Ryan C. Berg,
+Breaking Out: Brazil's First Capital Command and the Emerging Prison-Based Threat
+, Am. Enter. Inst. (Mar. 2020)
+5
+Reuters,
+Explainer: What is the Comando Vermelho gang targeted in the deadly Rio police raids?
+(Oct. 31, 2025).
+6
+Department of Justice,
+Chiquita Brands International Pleads Guilty to Making Payments to a Designated Terrorist Organization And Agrees to Pay $25 Million Fine
+(March 19, 2007).  Note that Chiquita Brands International pleaded guilty in 2007 and paid a US$25 million fine for making protection payments over six years to Autodefensas Unidas de Colombia, an FTO, even after voluntarily disclosing the payments.
+7
+United States v. Lafarge, 1:22-CR-00444 (E.D.N.Y. Sept. 30, 2022).
+8
+Linde v. Arab Bank, PLC, 16‐2119‐cv (L) (2d Cir. 2018).
+9
+U.S. Dep’t of the Treasury,
+Treasury Issues Historic Orders under Powerful New Authority to Counter Fentanyl
+(June 25, 2025).

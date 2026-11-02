@@ -1,0 +1,111 @@
+TITULO: U.S. Government designates Brazil’s Primeiro Comando da Capital (PCC) and Comando Vermelho (CV) as terrorist organizations
+
+News
+U.S. Government designates Brazil’s Primeiro Comando da Capital (PCC) and Comando Vermelho (CV) as terrorist organizations
+29 May 2026
+Share by email
+×
+To (max 100 recipients)
+Enter email
+Subject
+Enter Subject
+Message (optional)
+Cancel
+Send
+Key takeaways
+The U.S. government designated PCC and CV as Specially Designated Global Terrorists (SDGTs) and announced forthcoming Foreign Terrorist Organization (FTO) designations.
+The designations significantly increase sanctions, anti-money laundering, and criminal exposure risks for companies and financial institutions operating in Brazil and Latin America.
+Transactions with a U.S. nexus, including U.S. dollar payments routed through the U.S. financial system, may trigger U.S. jurisdiction and enforcement exposure.
+Companies should immediately reassess compliance frameworks, supply chain monitoring, sanctions screening, and third-party diligence procedures.
+On May 28, 2026, the U.S. Secretary of State Marco Rubio announced that the Department of State designated
+Primeiro Comando da Capital
+(PCC) and
+Comando Vermelho
+(CV) as Specially Designated Global Terrorists (SDGTs) under Executive Order 13,224, effective immediately. The State Department simultaneously announced its intention to designate both organizations as Foreign Terrorist Organizations (FTOs) under Section 219 of the Immigration and Nationality Act (INA), with an effective date of June 5, 2026.
+Leia o alerta completo em português
+PCC and CV are among the largest criminal organizations operating in Brazil and maintain extensive involvement in narcotics trafficking, money laundering, extortion, illicit financial networks, and transnational criminal activities. U.S. authorities have indicated that both organizations maintain operations and influence extending beyond Brazil into other jurisdictions throughout Latin America, Europe, and, indirectly, the United States. According to statements by Secretary Rubio, the designations are intended to target the organizations’ international criminal, narcotics trafficking, and financial activities.
+This action follows the February 2025 FTO designations of eight Mexican and Latin American criminal organizations and reflects the current administration’s broader strategy of leveraging counter-terrorism authorities against transnational criminal organizations (TCOs).
+Legal framework: SDGT vs. FTO Designations
+SDGT Designation (E.O. 13224): Administered by the Office of Foreign Assets Control (OFAC), the SDGT designation blocks all property and interests in property of the designated entity within U.S. jurisdiction and prohibits U.S. individuals from engaging in any transactions with the entity.
+FTO Designation (Section 219, INA): The FTO designation activates criminal liability under 18 U.S.C. § 2,339B, which prohibits the knowing provision of “material support or resources” to a designated FTO. Violations carry penalties of up to 20 years of imprisonment. The statute defines “material support” extremely broadly to include any tangible or intangible property, cash, financial services, lodging, training, expert advice, facilities, personnel, or transportation.
+Key implications for Brazilian companies
+Criminal exposure under § 2,339B: The “material support” prohibition applies to any person or entity with a U.S. nexus.
+Extraterritorial reach: Any transaction denominated in U.S. dollars or routed through the U.S. financial system creates sufficient nexus for U.S. jurisdiction, including asset blocking by OFAC and potential criminal prosecution.
+Supply chain infiltration: PCC has been linked to approximately R$52 billion in assets across fuel, logistics, agribusiness, and real estate sectors. Companies operating in these industries face heightened exposure through supply chains, port operations, and payment systems.
+Financial institution risk: Financial institutions should expect increased regulatory and enforcement scrutiny. Precedent from the Mexican cartel designations demonstrates that local banks can be rapidly cut off from the U.S. financial system and have other significant reputational, operational, and compliance risks.
+FCPA and enforcement: Increased investigative and enforcement authority for U.S. agencies, which was confirmed by the 2025 Blanche Memo with continued FCPA enforcement focused on cases that “directly undermine U.S. national interests,” particularly involving TCOs.
+Brazilian law exposure: Parallel investigations under Brazil’s Criminal Organizations Act (Law 12,850/2013) and Money Laundering Act (Law 9,613/1998), with potential strict liability under the Anti-Corruption Law (Law 12,846/2013) and fines of up to 20% of gross revenue.
+Practical recommendations
+Companies and financial institutions operating in Brazil should carefully assess whether existing compliance frameworks can identify direct or indirect exposure to the designated organizations and consider broader risk-based intelligence and diligence measures.
+Conduct a comprehensive U.S. nexus analysis to determine whether the company’s structure, operations, or transactions create exposure to U.S. jurisdiction.
+Implement real-time screening of counterparties, intermediaries, and beneficial owners against OFAC and other applicable sanctions lists.
+Strengthen KYC and due diligence procedures with enhanced scrutiny of corporate structures and ultimate beneficial ownership.
+Map and monitor supply chains and financial flows end-to-end, with particular attention to high-risk sectors.
+Review and strengthen contractual provisions, including termination clauses triggered by sanctions designation or confirmed links to criminal organizations.
+Reassess M&A and transactional due diligence frameworks to incorporate organized crime exposure, post-closing liability analysis, and sanctions risks.
+Conduct background checks on employees and third parties in sensitive functions and high-risk geographies.
+Conclusion
+The designation of PCC and CV as FTOs represents a potentially significant shift in the legal and compliance landscape for companies operating in Brazil. Although the ultimate scope of enforcement remains uncertain, organizations should anticipate increased scrutiny from financial institutions, regulators, and enforcement authorities and should proactively assess whether existing compliance frameworks adequately address the heightened risks associated with designated transnational criminal organizations.
+The designation carries immediate legal and regulatory consequences under U.S. law. Recent developments involving financial institutions in Mexico demonstrate how rapidly such risks can escalate once concerns relating to terrorism financing, sanctions, or links to designated organizations become a regulatory priority.
+Hogan Lovells has deep experience advising companies on mitigating foreign corruption and FTO risks, as well as defending companies when lawsuits or investigations arise. Our team in the U.S. and Brazil stands ready to help navigate these difficult issues at a time of uncertainty across the Americas.
+Authored by Isabel Costa Carvalho and Peter Spivack.
+Next steps
+Companies operating in Brazil should proactively evaluate whether their existing compliance and risk management frameworks adequately address potential exposure to designated criminal organizations and terrorism-related sanctions risks. Particular attention should be given to supply chains, third-party relationships, beneficial ownership structures, financial flows, and transactions involving U.S. nexus exposure.
+Contacts
+Isabel Costa Carvalho
+Office Managing Partner
+São Paulo
+Email me
+Peter S. Spivack
+Partner
+Washington, D.C.
+Email me
+View more
+Related topics
+ESG, Sustainability, and Climate
+Foreign Direct Investment
+Supply Chain
+Infrastructure, Energy, Resources and Projects
+Financial Crime including Anti-money Laundering
+Bribery and Corruption
+False Claims Act
+Financial Crime
+Investigations, Regulatory and Compliance
+Whistleblowing
+Crisis Management
+Global Asset Recovery and Enforcement
+Risks, Disputes, and Litigation
+Load more
+Related countries
+Brazil
+United States
+Load more
+Related keywords
+PCC
+Comando Vermelho
+FTO
+SDGT
+OFAC
+Terrorist Organizations
+Sanctions
+Anti-money laundering
+Terrorism financing
+Brazil
+Transnational criminal organizations
+TCOs
+U.S. sanctions
+Financial crime
+Supply chain risk
+Compliance
+DOJ
+OFAC sanctions
+Executive Order 13224
+Marco Rubio
+Load more
+View more insights and analysis
+We build tailored digital solutions that help our clients stay ahead of change – unlocking opportunity and sustaining advantage as markets, business, and regulation evolve.
+Learn more
+Register now to receive personalized content and more!
+Register
+See benefits
+Register

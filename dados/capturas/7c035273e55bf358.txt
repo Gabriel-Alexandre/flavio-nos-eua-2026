@@ -1,0 +1,180 @@
+TITULO: Section 301 Tariffs 2026: Rates and Deadlines | Argents
+
+Services
+Fulfillment Solutions
+Transportation
+Customs
+About
+Who We Are
+Why Choose Argents
+Industries
+Locations
+Resources
+News
+Events & Webinars
+Case Studies
+Pricing
+Landed Cost Calculator
+Reorder Point Calculator
+Container Load Planner
+Currency Calculator
+Tracking Portal
+Inventory Management
+Online Bill Pay
+Contact Us
+October 13, 2026
+Updated September 18, 2026
+Section 301 Tariffs 2026: Rates, Exclusions, and the Deadlines Ahead
+With IEEPA gone, Section 301 is now the main engine of U.S. tariff policy. Here is where the Section 301 tariffs 2026 stand: China list rates, the July 24 action on 60 economies, Brazil, the exclusions that expire November 9, and the investigations still pending.
+Author
+Tony Chiappetta
+International News
+Regulatory Changes
+The Section 301 tariffs 2026 landscape looks nothing like it did a year ago. When the Supreme Court ended the IEEPA tariffs in February, the administration rebuilt most of its tariff program on Section 301 of the Trade Act of 1974, a statute that has survived every court challenge since 2018. The result is that importers now face the original China action, a new global action covering roughly 60 economies, a separate Brazil action, and a queue of investigations that could add more. This guide lays out the current rates, the deadlines between now and year end, and what a compliance team should be doing about it.
+Section 301 Tariffs 2026: The China Action
+The original China technology-transfer tariffs remain in force: 25 percent on Lists 1 through 3 and 7.5 percent on List 4A. The 2024 four-year review layered increases on top, and the last of those step-ups took effect January 1, 2026: non-EV lithium-ion batteries, permanent magnets, and natural graphite moved to 25 percent, medical gloves to 100 percent, and facemasks and respirators to 50 percent. Earlier increases already in place include 100 percent on EVs and syringes, 50 percent on semiconductors, solar cells, polysilicon, and wafers, and 25 percent on ship-to-shore cranes, steel and aluminum products, and critical minerals. The crane exception for units ordered before May 14, 2024 lapsed on May 14, 2026.
+On top of that, the July 2026 global action added 12.5 percent to Chinese goods, so a List 1 product now carries an aggregate 37.5 percent in Section 301 duty before any Section 232 or antidumping exposure. USTR opened the second statutory four-year review on May 6, 2026. Trade counsel and USTR practice both indicate the tariffs are continuing through the review, but importers should confirm the current status on USTR’s four-year review page rather than assume.
+The 60-Economy Action That Replaced Section 122
+Effective July 24, 2026, USTR imposed new Section 301 duties following a forced-labor investigation covering about 60 economies, timed to take over the day the 150-day Section 122 surcharge expired. The rate is 10 percent for one group of trading partners including Canada, Mexico, India, Indonesia, Malaysia, Bangladesh, Cambodia, Pakistan, and the United Kingdom, and 12.5 percent for most others including China, Vietnam, Thailand, and Brazil. The EU and Taiwan are capped at 10 percent inclusive of the normal MFN rate, and Japan, Korea, and Switzerland at 12.5 percent inclusive. USMCA-qualifying goods, products already subject to Section 232, pharmaceuticals, civil aircraft, and a list of raw materials are exempt. CBP guidance is in CSMS #69326983. Two lawsuits challenging the action are pending at the Court of International Trade, but the duties are payable now.
+Brazil, Nicaragua, and the Rest of the Docket
+Brazil:
+25 percent on most imports effective July 22, 2026, with exemptions for agricultural goods, aircraft, pharmaceuticals, pig iron, and Section 232 products.
+Nicaragua:
+0 percent in 2026, stepping to 10 percent on January 1, 2027 and 15 percent on January 1, 2028 for goods that do not qualify under CAFTA-DR.
+Maritime and shipbuilding fees:
+the port fees and duties on Chinese-built vessels and cargo-handling equipment that took effect October 14, 2025 are suspended through November 9, 2026. A decision on resumption is due by November 10.
+Pending investigations:
+the 16-economy excess-capacity case (hearings held in May, determination pending), Vietnam intellectual property, Germany pharmaceutical pricing, China Phase One compliance, and China legacy semiconductors, where tariffs are already scheduled for June 23, 2027.
+Exclusions Expire November 9, 2026
+USTR extended 178 China exclusions (164 general exclusions plus 14 for solar manufacturing equipment) through 11:59 p.m. EST on November 9, 2026 under HTS 9903.88.69 and 9903.88.70. No further extension has been announced. If any of your SKUs clear under those headings, model your landed cost both ways now. Our
+landed cost calculator
+lets you run the with-exclusion and without-exclusion scenarios side by side, and our guide to
+HTS codes and duty rates
+explains how the 9903 chapter overlays work.
+What Importers Should Do About Section 301 Tariffs in 2026
+Re-run every active SKU through the current 9903 overlays. Many product files were last reviewed when IEEPA rates were the headline and have never been checked against the July 24 action.
+Verify country of origin documentation for anything sourced through Southeast Asia. Enforcement of transshipment is at record levels, and a 12.5 percent Vietnam rate does not help if CBP decides the goods are Chinese.
+Check USMCA qualification for Mexican and Canadian inputs. Qualifying goods are exempt from the July 24 action, so a certification you never bothered with may now be worth 10 percent.
+Review first sale valuation and other legitimate valuation strategies. Every Section 301 duty is ad valorem, so the dutiable base matters more than it did when rates were lower.
+Calendar November 9 (exclusions and maritime fee suspension), November 10 (resumption decision), January 1 (Nicaragua), and June 23, 2027 (China semiconductors).
+Confirm your continuous bond is sized for the new duty load. Higher rates push many importers past the bond sufficiency threshold; see
+customs bond types explained
+.
+Argents has cleared imports as a licensed U.S. customs broker for nearly 50 years, and because we also run freight forwarding and fulfillment from Argents-operated warehouses in Chicago, Seattle-Tacoma, and Charleston, our brokerage team sees the tariff impact on the full landed cost, not just the entry. If you want a review of your current classifications and 301 exposure before the November deadlines,
+contact our customs team
+. For the related antidumping and countervailing duty picture, see our
+2026 AD/CVD update
+.
+Section 301 Tariffs 2026 FAQ
+What are the current Section 301 tariff rates on China?
+Lists 1 through 3 carry 25 percent and List 4A carries 7.5 percent, with product-specific increases of up to 100 percent from the four-year review. The July 24, 2026 global action added 12.5 percent on top, for an aggregate 37.5 percent on List 1 through 3 goods.
+When do the Section 301 China exclusions expire?
+The 178 remaining exclusions under HTS 9903.88.69 and 9903.88.70 expire at 11:59 p.m. EST on November 9, 2026 unless USTR extends them again.
+Which countries are covered by the July 24, 2026 Section 301 action?
+About 60 economies. Rates are 10 percent for one group including Canada, Mexico, India, Indonesia, Malaysia, and the UK, and 12.5 percent for most others including China, Vietnam, Thailand, and Brazil. USMCA-qualifying goods and Section 232 products are exempt.
+Are Section 301 duties eligible for duty drawback?
+Section 301 duties on the China action have been drawback-eligible since 2018. The July 2026 notices did not address drawback for the new actions, so confirm treatment with your broker before relying on it.
+Can Section 301 tariffs be challenged like the IEEPA tariffs were?
+Section 301 has survived every court challenge since 2018. Two suits challenging the July 24, 2026 action are pending at the Court of International Trade, but the duties remain in force and must be paid at entry.
+Share
+Previous
+Best 3PLs for Travel Products and Luggage Brands
+Next
+Supplement 3PL for Brands That Import: FDA-Registered Storage and In-House Customs
+Consent Preferences
+We own and operate our warehouses - No Middlemen.
+Company
+Contact Us
+About Us
+Careers
+Licenses & Certifications
+Company Facts
+Services
+Fulfillment Solutions
+Transportation
+Customs
+Resources
+News
+Events & Webinars
+Tracking Portal
+Inventory Management
+Legal
+Terms and Conditions of Service
+Privacy Policy
+Follow Us
+Hilton Head Island SC
+Address:
+19 Shelter Cove Ln – Ste 206 Hilton Head Island SC 29928
+Tel:
+(843) 785-8700
+Contact us
+Charleston, SC (CHS)
+Address:
+9015 Sightline Dr STE N
+Ladson, SC 29456
+Tel:
+(843) 216-8301
+Contact us
+117,000 SQFT Facility
+27 Dock Doors
+20 minutes to Charleston Port
+Chicago, IL (ORD)
+Address:
+2801 Galvin Dr #200 Elgin IL 60124
+Tel:
+(847) 364-6460
+Contact us
+180,000 SQFT Facility
+24 Dock Doors
+~25 miles from O’Hare Airport via I-90
+Seattle, WA (SEA)
+Address:
+927 E. 11th Street Suite 200
+Tacoma, WA 98421
+Tel:
+(206) 403-1369
+Contact us
+136,000 SQFT Facility
+20 Dock doors
+Near both Seattle and Tacoma ports as well as SEATAC Airport
+Hilton Head Island SC
+Address:
+19 Shelter Cove Ln - Ste 206 Hilton Head Island SC 29928
+Tel:
+(843) 785-8700
+Contact us
+Charleston, SC (CHS)
+Address:
+9015 Sightline Dr STE N
+Ladson, SC 29456
+Tel:
+(843) 216-8301
+Contact us
+117,000 SQFT Facility
+27 Dock Doors
+20 minutes to Charleston Port
+Chicago, IL (ORD)
+Address:
+2801 Galvin Dr #200 Elgin IL 60124
+Tel:
+(847) 364-6460
+Contact us
+180,000 SQFT Facility
+24 Dock Doors
+~25 miles from O’Hare Airport via I-90
+Seattle, WA (SEA)
+Address:
+927 E. 11th Street Suite 200
+Tacoma, WA 98421
+Tel:
+(206) 403-1369
+Contact us
+136,000 SQFT Facility
+20 Dock doors
+Near both Seattle and Tacoma ports as well as SEATAC Airport
+© 2026 Argents Express. All Rights Reserved.
+Web Design
+and
+Development
+by
+UPQODE

@@ -1,0 +1,55 @@
+TITULO: U.S. Designates Brazil’s Comando Vermelho and Primeiro Comando da Capital as Terrorist Organizations | Barnes & Thornburg
+
+Home
+...
+Alerts
+U.S. Designates Brazil’s Comando Vermelho and Primeiro Comando da Capital as Terrorist Organizations
+Alerts
+6.5.26
+U.S. Designates Brazil’s Comando Vermelho and Primeiro Comando da Capital as Terrorist Organizations
+PDF
+Share
+PDF
+Share
+On May 28, the U.S. Department of State designated the Brazilian criminal organizations Comando Vermelho (CV) and Primeiro Comando da Capital (PCC) as Specially Designated Global Terrorists (SDGTs) and communicated its intent to designate both groups as Foreign Terrorist Organizations (FTOs). The actions were taken pursuant to Section 219 of the Immigration and Nationality Act (INA) and Executive Order 13224 e were formally announced by U.S. Secretary of State Marco Rubio. In his
+statement
+, Rubio stated that CV and PCC “are two of the most violent criminal organizations in Brazil” and “[T]heir influence and illicit networks extend far beyond Brazil's borders, across our region and into our country.”
+Subsequently, on June 5, the designation of the PCC and CV as Foreign Terrorist Organizations (FTOs) was confirmed through a determination signed by Secretary Rubio and published in the
+Federal Register
+:
+“Based upon a review of the Administrative Records assembled in this matter, and in consultation with the Attorney General and the Secretary of the Treasury, I have concluded that there is a sufficient factual basis to find that the relevant circumstances described in section 219 of the Immigration and Nationality Act, as amended (hereinafter ‘‘INA’’) (8 U.S.C. 1189), exist with respect to: Primeiro Comando da Capital (also known as PCC, First Capital Command) and Comando Vermelho (also known as Red Command). Therefore, I hereby designate the aforementioned organizations and their respective aliases as Foreign Terrorist Organizations pursuant to section 219 of the INA. This determination shall be published in the Federal Register. These designations go into effect upon publication.”
+These designations place Brazil in the same category as jurisdictions such as Mexico and Colombia, where the presence of SDGTs and FTOs has triggered significant legal consequences under U.S. law, as well as heightened compliance obligations for multinational businesses. Companies with operations, investments, or supply chains in Brazil now face materially greater legal and regulatory exposure.
+Background
+Born within the Brazilian prison system as a response to abusive conditions, CV emerged in the late 1970s in Rio de Janeiro, while PCC was founded in 1993 in São Paulo. Over the years, both organizations evolved into major narcotics trafficking networks, developing highly sophisticated structures and operational dynamics that extend beyond organized crime to include the involvement of public officials, political actors, and various sectors of Brazil’s formal economy.
+The designation of these criminal groups as terrorist organizations was widely anticipated. The U.S. State Department had previously submitted formal requests to the Brazilian government seeking such recognition, but those efforts were rejected due to concerns related to national sovereignty.
+During a meeting between senior Brazilian and U.S. officials in May 2025, according to Reuters, U.S. officials reportedly stated that the request was part of a broader effort to address immigration and transnational criminal organizations, both of which had become priorities for the new administration. During the same meeting, FBI intelligence allegedly indicated that the PCC maintained operational cells within the United States, particularly in Massachusetts, New York, and Florida.
+Brazil launched its largest-ever operation against the PCC in August 2025, known as Operação Carbono Oculto (“Hidden Carbon”), targeting a multibillion-dollar criminal scheme allegedly orchestrated by the organization. The operation uncovered large-scale fraud involving the purchase and sale of fossil fuels, including gasoline adulteration, the irregular importation of chemical substances, tax evasion, and a sophisticated money laundering network operating through fintech companies and investment funds. (
+See previous article about Operação Carbono Oculto
+.)
+Investigators concluded that individuals linked to the PCC controlled hundreds of gas stations and had expanded their influence to national fuel distributors and ethanol plants. Authorities further alleged that the laundering structure relied on fintech platforms, asset managers, and investment funds, including digital payment mechanisms and accounts with undisclosed or non-identifiable beneficiaries, which prosecutors described as a form of “digital tax haven” embedded within Brazil's own financial system.
+Subsequent investigations revealed the alleged use of Delaware and Miami-based companies to facilitate the laundering of illicit proceeds, prompting Brazil's Finance Minister to announce that Brazil would seek formal cooperation from U.S. authorities in combating organized crime. The issue eventually reached the Brazilian Senate in March when the Senate's Foreign Relations Committee requested a hearing to discuss the U.S. government's efforts and the potential implications of such designations for Brazil. This was the context that preceded the measures announced on May 28.
+Legal Implications of the Designations
+The SDGT and FTO designations carry severe legal consequences under U.S. law, specifically:
+Material support prohibitions. Under 18 U.S.C. § 2339B, it is a federal crime to knowingly provide "material support or resources" to a designated FTO. Material support is broadly defined and includes financial services, lodging, training, expert advice, personnel, transportation, and other forms of assistance. Penalties can include imprisonment for up to 20 years, or life imprisonment if the offense results in death.
+Financial sanctions and asset freezes. Under the SDGT designation and Executive Order 13224, all property and interests in property of CV and PCC that are within U.S. jurisdiction are blocked, and U.S. persons are generally prohibited from engaging in transactions with them. Financial institutions are required to block any funds or assets associated with the designated entities and report them to the U.S. Treasury Department's Office of Foreign Assets Control (OFAC).
+Immigration consequences. Under INA § 212(a)(3)(B), any foreign national associated with a designated terrorist organization or who has engaged in terrorism-related activity is inadmissible to the United States. Existing visas held by such individuals are subject to revocation, and future applicants face mandatory in-person interviews and heightened security scrutiny. Critically, the administration is deploying these immigration tools not only against members of CV and PCC directly, but also against individuals in their broader supply chain — including those with ties to trafficking, money laundering, or narcotics operations. Business leaders and political figures in the region with any arguable nexus to these organizations should expect increased exposure to U.S. immigration enforcement actions.
+Civil liability. Under the Anti-Terrorism Act (18 U.S.C. § 2333), U.S. nationals injured by acts of international terrorism may bring civil actions for treble damages against those who aided and abetted or conspired in such acts. The FTO designation can facilitate such claims.
+Implications for Companies Operating in Brazil
+From a corporate perspective, companies currently operating in, or considering expansion into, Brazil should take steps to assess and mitigate their exposure. Although traditional corporate criminal enforcement initially appeared to take a back seat, the administration's focus on cartels and transnational criminal organizations (TCOs) has broadened the risks companies face and raised the potential consequences.
+U.S. enforcement now links anti-corruption work to anti-money laundering, counter-terrorist financing, and counter-narcotics efforts. Regulators increasingly treat this conduct as a national security threat rather than a purely financial or corporate violation, raising the stakes for companies operating in the region.
+Chief compliance officers and general counsels should now evaluate whether their employees or third-party relationships in Brazil may have any nexus to organized crime, in addition to traditional assessments of financial crime risks. Companies should implement robust policies, procedures, and training to proactively prevent, detect, and respond to any conduct that could be construed as material support to a cartel, TCO, or FTO.
+Organizations should also consider implementing more comprehensive compliance safeguards when operating in markets where such criminal groups may exert significant influence, to reduce risk that that their financial flows, partnerships, and supply chains do not become inadvertent channels for illicit activity. Examples of such safeguards may include:
+Enhanced screening and due diligence. Companies should consider updating their sanctions screening protocols to include CV and PCC, and conduct enhanced due diligence on employees, counterparties, suppliers, and business partners in Brazil to identify any potential nexus to these organizations.
+Supply chain review. Given the breadth of the PCC's documented infiltration into Brazil's formal economy, companies with complex supply chains touching Brazilian markets may wish to conduct targeted reviews to ensure no links to designated entities or their affiliates.
+Financial controls and transaction monitoring. Financial institutions and companies processing payments in or from Brazil should consider strengthening transaction monitoring to detect potential flows tied to CV or PCC. The sophisticated laundering infrastructure uncovered in the Hidden Carbon investigation, involving fintech, investment funds, and digital payment mechanisms, underscores the need for vigilance.
+Training and awareness. Companies should advise relevant personnel, including those in compliance, legal, procurement, and operations, of the new designations the heightened risk of material support liability, and of internal channels for escalation of related concerns.
+What's Next
+The FTO designations will become effective upon publication in the Federal Register, currently expected on June 5. We will continue to monitor official guidance from OFAC and the U.S. State Department, any responses from the Brazilian government, and any related enforcement developments that may follow.
+Related Professionals
+Related Insights & Events
+Related Practices
+Latin America
+Related Industries
+Keep Up to Date in a Changing World
+Do you want to receive more valuable insights directly in your inbox? Visit our subscription center and let us know what you’re interested in learning more about.
+Visit Subscription Center

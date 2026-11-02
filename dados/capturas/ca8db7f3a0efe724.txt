@@ -1,0 +1,8771 @@
+TITULO: Roll Call Factba.se - Speech: Donald Trump Holds a Midterm Political Rally in Corpus Christi, Texas - October 27, 2026
+
+Fact
+ba
+.
+se
+Donald J. Trump
+Transcripts
+White House Calendar
+White House Press Releases
+Speech: Donald Trump Holds a Midterm Political Rally in Corpus Christi, Texas - October 27, 2026
+StressLens
+1 Topic
+9 Entities
+Moderation
+4 Speakers
+StressLens Over Time
+Topics
+Politics
+Entities
+country
+Donald John Trump
+healthiest
+Ken Paxton
+Paul Perez
+people
+Ted Cruz
+Texas
+United States
+Moderation
+No moderation found
+Speakers
+Donald Trump
+Donald Trump said 797 sentences of a total of 880 sentences.
+91%
+Donald Trump said 9824 words of a total of 10860 words.
+91%
+Donald Trump talked 4018 seconds of a total of 4429 seconds.
+91%
+Alexis Nungaray
+Alexis Nungaray said 20 sentences of a total of 880 sentences.
+3%
+Alexis Nungaray said 381 words of a total of 10860 words.
+4%
+Alexis Nungaray talked 156 seconds of a total of 4429 seconds.
+4%
+Ken Paxton
+Ken Paxton said 8 sentences of a total of 880 sentences.
+1%
+Ken Paxton said 64 words of a total of 10860 words.
+1%
+Ken Paxton talked 21 seconds of a total of 4429 seconds.
+1%
+Marco Rubio
+Marco Rubio said 4 sentences of a total of 880 sentences.
+1%
+Marco Rubio said 33 words of a total of 10860 words.
+1%
+Marco Rubio talked 18 seconds of a total of 4429 seconds.
+1%
+Full Transcript
+Donald Trump
+00:00:00-00:00:12 (13 sec)
+No StressLens
+Thank you. Thank you. [Audience chants "USA"]
+Sentiment
+Readability
+Flesch-Kincaid Grade
+0
+Flesch-Kincaid Ease
+100
+Gunning-Fog Score
+0.8
+Coleman-Liau Index
+7.6
+SMOG Index
+3.3
+Automated Readability Index
+0
+Dale-Chall Readability Score
+0.1
+Sprache Readability Score
+0.9
+Dale-Chall Difficult Word Score
+0
+Sprache Difficult Word Count
+0
+Donald Trump
+00:00:12-00:00:43 (31 sec)
+Weak (1.315)
+Thank you very much. Hello, Texas. This is a very special place to me because, you know, I come back. It's an incredible state, which I won all three times with more votes than any candidate in history, all three times. So I like that. That's good for my ego, winning it all, winning records. Seven days from now, the people of Texas are going to defeat Dumocrat communist James Talifreako.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+5
+Flesch-Kincaid Ease
+77.4
+Gunning-Fog Score
+6.3
+Coleman-Liau Index
+9.3
+SMOG Index
+8.6
+Automated Readability Index
+3.7
+Dale-Chall Readability Score
+3.2
+Sprache Readability Score
+3.2
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+16
+Donald Trump
+00:00:43-00:01:33 (50 sec)
+No StressLens
+We're going to reelect Governor Greg Abbott. We're going to reelect Lieutenant Governor Dan Patrick. We love him, phenomenal guy. We're going to elect Republicans up and down the line and most importantly, we are going to elect one of the greatest attorney generals any -- This is in the entire country. This guy is considered by many to be the best, but whether he's the best or among the best few, but he's the greatest in the history of Texas, Attorney General Ken Paxton. I kid him all the time, but the bottom line is he's the best attorney general in the history of Texas.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.669
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.529
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+8.9
+Flesch-Kincaid Ease
+62.6
+Gunning-Fog Score
+10.4
+Coleman-Liau Index
+9.6
+SMOG Index
+12
+Automated Readability Index
+7.6
+Dale-Chall Readability Score
+4.8
+Sprache Readability Score
+4.8
+Dale-Chall Difficult Word Score
+26
+Sprache Difficult Word Count
+25
+Donald Trump
+00:01:33-00:01:55 (22 sec)
+Weak (1.217)
+He deserves to be put where -- and we need that vote. We need that vote, otherwise, all of the great things we've done are going to change very quickly. Ted Cruz is here and he's doing a great job, by the way. We need his vote. We need his vote. Ted told me, we got to have -- we got to have a victory. It's true, very important.
+Sentiment
+Topics
+Topic:
+Crime, Law and Justice > Judiciary > Court
+Score:
+0.717
+Code:
+20000107
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000107
+Wikidata_id:
+Q41487
+Wikidata_label:
+court
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.709
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Crime, Law and Justice > Judiciary > Court > Supreme and High Court
+Score:
+0.574
+Code:
+20001287
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20001287
+Wikidata_id:
+Q190752
+Wikidata_label:
+supreme court
+Source:
+IPTC Media
+Topic:
+Politics > Political Process > Political System > Democracy
+Score:
+0.574
+Code:
+20000654
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000654
+Wikidata_id:
+Q7174
+Wikidata_label:
+democracy
+Source:
+IPTC Media
+Topic:
+Politics > Government > Heads of State
+Score:
+0.542
+Code:
+20000610
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000610
+Wikidata_id:
+Q48352
+Wikidata_label:
+head of state
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+1.7
+Flesch-Kincaid Ease
+99.9
+Gunning-Fog Score
+5.6
+Coleman-Liau Index
+5.4
+SMOG Index
+7
+Automated Readability Index
+0.4
+Dale-Chall Readability Score
+1.7
+Sprache Readability Score
+2.6
+Dale-Chall Difficult Word Score
+5
+Sprache Difficult Word Count
+10
+Donald Trump
+00:01:55-00:02:27 (32 sec)
+No Signal (0.97)
+For Texas, it's very important. But I'm thrilled to be here at the Port of Corpus Christi and the breaking news. And one of the many reasons we did it here, we have little breaking news. You have a little ship. See that little ship out there? It's got one million barrels of oil on it from Venezuela. And we're celebrating the greatest oil victory in history.
+Sentiment
+Topics
+Topic:
+Economy, Business and Finance > Products and Services > Transport
+Score:
+0.536
+Code:
+20000337
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000337
+Wikidata_id:
+Q7590
+Wikidata_label:
+transport
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+4.7
+Flesch-Kincaid Ease
+78.4
+Gunning-Fog Score
+6.8
+Coleman-Liau Index
+8.8
+SMOG Index
+8.6
+Automated Readability Index
+3
+Dale-Chall Readability Score
+3.1
+Sprache Readability Score
+3.3
+Dale-Chall Difficult Word Score
+11
+Sprache Difficult Word Count
+18
+Donald Trump
+00:02:27-00:03:02 (35 sec)
+Medium (1.524)
+To the victor belong the spoils, right? But thanks to our big victory in our recent war with Venezuela, the oil and -- think of this, look at that ship. Is that beautiful? Finally. We've had many come in already. We've had many come in for refinement. They refine the oil, but the oil and the ships outside is being provided to the United States at zero cost to the American taxpayer. That's not bad.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+4.8
+Flesch-Kincaid Ease
+77.4
+Gunning-Fog Score
+7.5
+Coleman-Liau Index
+8.8
+SMOG Index
+9.7
+Automated Readability Index
+2.9
+Dale-Chall Readability Score
+2.6
+Sprache Readability Score
+3.3
+Dale-Chall Difficult Word Score
+10
+Sprache Difficult Word Count
+18
+Donald Trump
+00:03:02-00:03:08 (5 sec)
+No Signal (0.933)
+The Democrats will attack us, what kind of a deal is that? What kind of a deal is that? [Audience boos]
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.642
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+1.8
+Flesch-Kincaid Ease
+99.2
+Gunning-Fog Score
+3.8
+Coleman-Liau Index
+4.6
+SMOG Index
+7.3
+Automated Readability Index
+0
+Dale-Chall Readability Score
+2.1
+Sprache Readability Score
+2.1
+Dale-Chall Difficult Word Score
+2
+Sprache Difficult Word Count
+3
+Donald Trump
+00:03:08-00:03:32 (24 sec)
+No Signal (0.766)
+I want to thank Venezuela, where our relationship has become very, very good, a great one, and billions and billions of dollars are being invested now by the biggest oil companies, many of which come from Texas, all over the world. And jobs are happening in Venezuela that nobody would have thought even possible just one year ago.
+Sentiment
+Topics
+Topic:
+Economy, Business and Finance > Products and Services > Energy and Resource
+Score:
+0.536
+Code:
+20000256
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000256
+Wikidata_id:
+Q2151621
+Wikidata_label:
+energy industry
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+12
+Flesch-Kincaid Ease
+43.2
+Gunning-Fog Score
+17.1
+Coleman-Liau Index
+11.2
+SMOG Index
+12
+Automated Readability Index
+12
+Dale-Chall Readability Score
+3.9
+Sprache Readability Score
+5
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+11
+Donald Trump
+00:03:32-00:03:58 (26 sec)
+Weak (1.141)
+And we're bringing out a lot of oil for ourselves, a lot. It will become a prosperous country, and who knows, maybe someday soon it will become a prosperous 51st state. That's possible. Let's make it. Let's make it the 51st state. And instead of a president, we'll have an election for a governor. How about that?
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.656
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+3.7
+Flesch-Kincaid Ease
+82.8
+Gunning-Fog Score
+7.5
+Coleman-Liau Index
+8.7
+SMOG Index
+8.6
+Automated Readability Index
+2.2
+Dale-Chall Readability Score
+2.9
+Sprache Readability Score
+2.7
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+13
+Donald Trump
+00:03:58-00:04:17 (19 sec)
+No Signal (0.03)
+You know? They have a lot of oil. They have a lot of oil under -- you know how you find oil in Venezuela? Harold Hamm is here, the great oilman. Where's Harold Hamm? Where the great Harold Hamm? Biggest independent oilman in the world, actually. Hi, Harold. He told me, you know how you find oil in Venezuela, you look on the ground.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+2.7
+Flesch-Kincaid Ease
+88.3
+Gunning-Fog Score
+4.1
+Coleman-Liau Index
+7.8
+SMOG Index
+7.1
+Automated Readability Index
+1
+Dale-Chall Readability Score
+4.1
+Sprache Readability Score
+2.2
+Dale-Chall Difficult Word Score
+15
+Sprache Difficult Word Count
+9
+Donald Trump
+00:04:17-00:04:51 (34 sec)
+Weak (1.052)
+There it is. You see it bubbling up. No, let's make it, Harold, the 51st state. Do you like that? I do. I do. This historic win gives us control over the massive part, the biggest part of the world's oil supply. We have more oil than any other country, even any countries combined, and it will be refined right here in Texas, including right here in Corpus Christi. And you'll see, it'll happen very quickly.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.536
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+3.4
+Flesch-Kincaid Ease
+85.8
+Gunning-Fog Score
+4.4
+Coleman-Liau Index
+8.2
+SMOG Index
+6
+Automated Readability Index
+2
+Dale-Chall Readability Score
+4
+Sprache Readability Score
+3.3
+Dale-Chall Difficult Word Score
+17
+Sprache Difficult Word Count
+20
+Donald Trump
+00:04:51-00:05:21 (30 sec)
+Weak (1.098)
+You will -- it'll be like a blink. Gasoline and diesel prices will soon come down. They'll come plummeting down for the -- for the consumer. But I want to thank, most importantly, the warriors of the United States military, whose -- whose bravery made this great victory against Venezuela possible. What -- what an attack it was.
+Sentiment
+Topics
+Topic:
+Economy, Business and Finance > Products and Services > Energy and Resource
+Score:
+0.656
+Code:
+20000256
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000256
+Wikidata_id:
+Q2151621
+Wikidata_label:
+energy industry
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+6.8
+Flesch-Kincaid Ease
+65.8
+Gunning-Fog Score
+11
+Coleman-Liau Index
+11.9
+SMOG Index
+11.7
+Automated Readability Index
+6.1
+Dale-Chall Readability Score
+3.8
+Sprache Readability Score
+3.4
+Dale-Chall Difficult Word Score
+11
+Sprache Difficult Word Count
+18
+Donald Trump
+00:05:21-00:05:46 (25 sec)
+No Signal (0.679)
+You know, there's a great Venezuela -- you know, they have very strong military and it was all over in 48 minutes. And a Venezuela, a general, a very professional guy, older guy, said, I've seen a lot of things happen, I've never seen anything like what happened to us that night. They came in so fast and so furious and so violent, we just said, get the hell out of here.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+10.1
+Flesch-Kincaid Ease
+64.8
+Gunning-Fog Score
+12.8
+Coleman-Liau Index
+7.5
+SMOG Index
+12
+Automated Readability Index
+9
+Dale-Chall Readability Score
+3.8
+Sprache Readability Score
+4.6
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+13
+Donald Trump
+00:05:46-00:06:12 (26 sec)
+No Signal (0.837)
+We have the greatest military in the world, and it's not even a contest, and we produce the greatest equipment. The discombobulator -- they're discombobulated. None of their equipment worked. They couldn't understand why their -- they started to fire, it didn't work. Ted, you saw that, right? We were coming in. Of course, when you're coming in at 3,000 miles an hour, 20 feet off the ground, but their equipment didn't work.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+5
+Flesch-Kincaid Ease
+77.7
+Gunning-Fog Score
+8
+Coleman-Liau Index
+10.5
+SMOG Index
+9
+Automated Readability Index
+4.8
+Dale-Chall Readability Score
+3.4
+Sprache Readability Score
+3.1
+Dale-Chall Difficult Word Score
+13
+Sprache Difficult Word Count
+14
+Donald Trump
+00:06:12-00:06:40 (28 sec)
+No Signal (0.909)
+They have equipment from other countries. I won't mention the name, but it didn't work. It didn't work against our equipment, that I can tell you. We're now in the throes of having an even greater victory against Iran and stopping them from ever having a nuclear weapon. And you've got to understand that America did not start the war with Iran.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.684
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Conflict, War and Peace
+Score:
+0.67
+Code:
+16000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/16000000
+Wikidata_id:
+Q198
+Wikidata_label:
+war
+Source:
+IPTC Media
+Topic:
+Politics > Government Policy > Nuclear Policy
+Score:
+0.59
+Code:
+20000635
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000635
+Wikidata_id:
+Q757637
+Wikidata_label:
+nuclear policy
+Source:
+IPTC Media
+Topic:
+Politics > Government > Defence > Military Equipment > Military Weaponry
+Score:
+0.556
+Code:
+20000602
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000602
+Source:
+IPTC Media
+Topic:
+Conflict, War and Peace > Armed Conflict
+Score:
+0.536
+Code:
+20000056
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000056
+Wikidata_id:
+Q350604
+Wikidata_label:
+armed conflict
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Products and Services > Energy and Resource
+Score:
+0.536
+Code:
+20000256
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000256
+Wikidata_id:
+Q2151621
+Wikidata_label:
+energy industry
+Source:
+IPTC Media
+Topic:
+Science and Technology
+Score:
+0.536
+Code:
+13000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/13000000
+Wikidata_id:
+Q34104
+Wikidata_label:
+science and technology
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+6.4
+Flesch-Kincaid Ease
+71.4
+Gunning-Fog Score
+7.5
+Coleman-Liau Index
+10
+SMOG Index
+9
+Automated Readability Index
+5.4
+Dale-Chall Readability Score
+3.2
+Sprache Readability Score
+3.3
+Dale-Chall Difficult Word Score
+10
+Sprache Difficult Word Count
+14
+Donald Trump
+00:06:40-00:07:16 (36 sec)
+No Signal (0.282)
+Iran has been waging this war against America since 1979, killing many, many of our great people. They've killed thousands of our soldiers and wounded so many more. The legs, the limbs, the face, the -- just terrible. And those people are -- many of them are living now, but they're living a hard life. Past leaders should have settled this problem long ago, but they didn't have the courage or intelligence to do it. And I will tell you, more oil is right now flowing out of the Hormuz Strait.
+Sentiment
+Topics
+Topic:
+Society > Values > Ethics
+Score:
+0.536
+Code:
+20000814
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000814
+Wikidata_id:
+Q9465
+Wikidata_label:
+ethics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+6.1
+Flesch-Kincaid Ease
+77.7
+Gunning-Fog Score
+7.3
+Coleman-Liau Index
+9.3
+SMOG Index
+7.9
+Automated Readability Index
+6
+Dale-Chall Readability Score
+2.9
+Sprache Readability Score
+4.3
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+22
+Donald Trump
+00:07:16-00:07:50 (34 sec)
+Weak (1.296)
+We're thinking about renaming it the Trump Strait. Should we do it? Well, we did that with the Gulf of Mexico, into the Gulf of America. And we did that with a little lake, one of the Great Lakes. Lake Ontario is now Lake America. So I need help on this. So we have -- we have a gulf, right? We're all happy, Gulf of America, can't do better.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+3.3
+Flesch-Kincaid Ease
+86.2
+Gunning-Fog Score
+4
+Coleman-Liau Index
+6.3
+SMOG Index
+8.2
+Automated Readability Index
+0.5
+Dale-Chall Readability Score
+2.5
+Sprache Readability Score
+2.4
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+9
+Donald Trump
+00:07:50-00:08:18 (28 sec)
+No Signal (0.577)
+That's -- I would say that's about as good as golf is going to get, Doc Rodney, right, the great Doc Rodney. I love -- he was -- he was a White House physician and then he became an admiral, because he was so good, and then he became a Congressman. They asked, Doctor, who is the healthiest -- because he presided over the lives of Barack Hussein Obama and Bush and Trump. [Audience boos]
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.63
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics > Government > Heads of State
+Score:
+0.574
+Code:
+20000610
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000610
+Wikidata_id:
+Q48352
+Wikidata_label:
+head of state
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+8.9
+Flesch-Kincaid Ease
+71.9
+Gunning-Fog Score
+10.9
+Coleman-Liau Index
+8.1
+SMOG Index
+10.6
+Automated Readability Index
+9.2
+Dale-Chall Readability Score
+4.3
+Sprache Readability Score
+4.8
+Dale-Chall Difficult Word Score
+14
+Sprache Difficult Word Count
+16
+Donald Trump
+00:08:18-00:08:51 (33 sec)
+Weak (1.159)
+And they asked him at a vicious, violent, those people back there, who's the healthiest of the three? He said, without question, the healthiest is President Donald J. Trump. And I loved him. And a much better golfer. That's true. I am a much -- that I will agree to. But no, no, but you know, because Obama, every piece of lettuce he eats has to be perfect.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.672
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.622
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics > Government > Heads of State
+Score:
+0.542
+Code:
+20000610
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000610
+Wikidata_id:
+Q48352
+Wikidata_label:
+head of state
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+3.4
+Flesch-Kincaid Ease
+86
+Gunning-Fog Score
+5.7
+Coleman-Liau Index
+7.8
+SMOG Index
+7.8
+Automated Readability Index
+1.7
+Dale-Chall Readability Score
+3.2
+Sprache Readability Score
+2.8
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+14
+Donald Trump
+00:08:51-00:09:19 (28 sec)
+No Signal (0.676)
+And I don't -- I'm not that choosy. But I'm also pleased to report that under our leadership, the Port of Corpus Christi just had its nine busiest months in history. And that is because of the fact that the United States is absolutely -- and by the way, your oil price is coming down, but your country is making an absolute fortune because of the situation in the Middle East.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+10.3
+Flesch-Kincaid Ease
+62.1
+Gunning-Fog Score
+12.7
+Coleman-Liau Index
+9.2
+SMOG Index
+12
+Automated Readability Index
+10.1
+Dale-Chall Readability Score
+4.1
+Sprache Readability Score
+5
+Dale-Chall Difficult Word Score
+13
+Sprache Difficult Word Count
+21
+Donald Trump
+00:09:19-00:09:44 (25 sec)
+Medium (1.892)
+We're steering them all to Texas. We're steering them to Louisiana, Alaska, is a big beneficiary. Everybody is a beneficiary, the whole country. And they're picking up their oil from different locations like Texas, Louisiana and other places that we have. So Texas is now producing more oil and gas than at any time in its history.
+Sentiment
+Topics
+Topic:
+Economy, Business and Finance > Products and Services > Energy and Resource
+Score:
+0.536
+Code:
+20000256
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000256
+Wikidata_id:
+Q2151621
+Wikidata_label:
+energy industry
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+8.9
+Flesch-Kincaid Ease
+51.3
+Gunning-Fog Score
+9.5
+Coleman-Liau Index
+11.4
+SMOG Index
+11.3
+Automated Readability Index
+6
+Dale-Chall Readability Score
+4.2
+Sprache Readability Score
+3.2
+Dale-Chall Difficult Word Score
+13
+Sprache Difficult Word Count
+14
+Donald Trump
+00:09:44-00:10:03 (19 sec)
+No Signal (0.984)
+So somebody, the fake news will say, they've already done it because they've said this. They said, isn't it terrible, he forgot about the price at the pump. No, your price is going to come down, but your country is making a fortune and that's really good, right? They'll say, oh, you don't think -- you don't think about the person.
+Sentiment
+Topics
+Topic:
+Arts, Culture, Entertainment and Media > Mass Media
+Score:
+0.645
+Code:
+20000045
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000045
+Wikidata_id:
+Q11033
+Wikidata_label:
+mass media
+Source:
+IPTC Media
+Topic:
+Crime, Law and Justice > Crime > Fraud
+Score:
+0.536
+Code:
+20000097
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000097
+Wikidata_id:
+Q28813
+Wikidata_label:
+fraud
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Products and Services > Media and Entertainment Industry
+Score:
+0.536
+Code:
+20000304
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000304
+Wikidata_id:
+Q56611639
+Wikidata_label:
+media industry
+Source:
+IPTC Media
+Topic:
+Society > Values > Ethics
+Score:
+0.536
+Code:
+20000814
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000814
+Wikidata_id:
+Q9465
+Wikidata_label:
+ethics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+5.4
+Flesch-Kincaid Ease
+83
+Gunning-Fog Score
+8.7
+Coleman-Liau Index
+8.7
+SMOG Index
+9
+Automated Readability Index
+5.7
+Dale-Chall Readability Score
+0.7
+Sprache Readability Score
+3.6
+Dale-Chall Difficult Word Score
+0
+Sprache Difficult Word Count
+14
+Donald Trump
+00:10:03-00:10:19 (16 sec)
+No Signal (0.855)
+No, it's going to come down. You know, I tell the story I was in Iowa making a speech and I stopped and I looked -- I always look at the top of the pumps for the prices of oil. And we were -- just before I had to do this because we couldn't let Iran have a nuclear weapon. You want to see problems; that would have been a problem.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.685
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government Policy > Nuclear Policy
+Score:
+0.596
+Code:
+20000635
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000635
+Wikidata_id:
+Q757637
+Wikidata_label:
+nuclear policy
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Products and Services > Energy and Resource
+Score:
+0.536
+Code:
+20000256
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000256
+Wikidata_id:
+Q2151621
+Wikidata_label:
+energy industry
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+5.3
+Flesch-Kincaid Ease
+87.6
+Gunning-Fog Score
+6.9
+Coleman-Liau Index
+5.3
+SMOG Index
+6.1
+Automated Readability Index
+4.1
+Dale-Chall Readability Score
+2.2
+Sprache Readability Score
+3.8
+Dale-Chall Difficult Word Score
+6
+Sprache Difficult Word Count
+13
+Donald Trump
+00:10:19-00:10:49 (29 sec)
+No Signal (0.514)
+It was a $1.95 at one gas station, and it was $1.85 at another gas station and I said, isn't this terrible? I brought my people in, some of them are here today, Howard Lutnick, a lot of our great people, I told your attorney general about it because of his relationship with Texas. But I said isn't it a shame; we had the company rocking and rolling, even though the stock market today is substantially higher than it was seven months ago, which is very much higher.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+12
+Flesch-Kincaid Ease
+59.8
+Gunning-Fog Score
+14.9
+Coleman-Liau Index
+8
+SMOG Index
+12
+Automated Readability Index
+12
+Dale-Chall Readability Score
+3.2
+Sprache Readability Score
+5
+Dale-Chall Difficult Word Score
+10
+Sprache Difficult Word Count
+15
+Donald Trump
+00:10:49-00:11:16 (28 sec)
+No Signal (0.167)
+Your 401(k)s are a lot higher. But I knew that oil would go up, I actually thought it would go up 2 or 3 times higher, and I was still willing to do it. But think of it, so we were at $1.85 and I said to my people, that's $1.85 a gallon. And I said to my people, can you believe it? We're going to have to do something that was not in the cards, but we couldn't let Iran have a nuclear weapon.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.683
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Conflict, War and Peace
+Score:
+0.67
+Code:
+16000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/16000000
+Wikidata_id:
+Q198
+Wikidata_label:
+war
+Source:
+IPTC Media
+Topic:
+Politics > Government Policy > Nuclear Policy
+Score:
+0.586
+Code:
+20000635
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000635
+Wikidata_id:
+Q757637
+Wikidata_label:
+nuclear policy
+Source:
+IPTC Media
+Topic:
+Conflict, War and Peace > Armed Conflict
+Score:
+0.536
+Code:
+20000056
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000056
+Wikidata_id:
+Q350604
+Wikidata_label:
+armed conflict
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Products and Services > Energy and Resource
+Score:
+0.536
+Code:
+20000256
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000256
+Wikidata_id:
+Q2151621
+Wikidata_label:
+energy industry
+Source:
+IPTC Media
+Topic:
+Politics > Government > Defence > Military Equipment > Military Weaponry
+Score:
+0.527
+Code:
+20000602
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000602
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+4.5
+Flesch-Kincaid Ease
+93.9
+Gunning-Fog Score
+7.9
+Coleman-Liau Index
+3
+SMOG Index
+6.9
+Automated Readability Index
+2.3
+Dale-Chall Readability Score
+1.8
+Sprache Readability Score
+3.7
+Dale-Chall Difficult Word Score
+5
+Sprache Difficult Word Count
+11
+Donald Trump
+00:11:16-00:11:42 (26 sec)
+Weak (1.062)
+The B-2 bombers went in and they took care of business, and then we went in to make sure it stayed that way. It's going to end very soon. They have no military, they have no -- they have no naby, they have no air force. You know, their navy, 159 ships on the bottom of the sea, that's what they have. Sir, we've knocked out 159 ships.
+Sentiment
+Topics
+Topic:
+Conflict, War and Peace
+Score:
+0.721
+Code:
+16000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/16000000
+Wikidata_id:
+Q198
+Wikidata_label:
+war
+Source:
+IPTC Media
+Topic:
+Conflict, War and Peace > Armed Conflict
+Score:
+0.577
+Code:
+20000056
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000056
+Wikidata_id:
+Q350604
+Wikidata_label:
+armed conflict
+Source:
+IPTC Media
+Topic:
+Science and Technology
+Score:
+0.536
+Code:
+13000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/13000000
+Wikidata_id:
+Q34104
+Wikidata_label:
+science and technology
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+2.7
+Flesch-Kincaid Ease
+99.7
+Gunning-Fog Score
+6
+Coleman-Liau Index
+5.1
+SMOG Index
+5.8
+Automated Readability Index
+2.1
+Dale-Chall Readability Score
+2.3
+Sprache Readability Score
+3.2
+Dale-Chall Difficult Word Score
+7
+Sprache Difficult Word Count
+11
+Donald Trump
+00:11:42-00:12:33 (51 sec)
+No StressLens
+I said how many do they have? 159. Sir, we've knocked out 288 jet fighters. How many do they have? Sir, they have 288. I mean, we have the greatest -- you know where their fighters are? They're scattered all over the runways in little pieces of Iran. But our policy has been very simple for years for me, but for you, you've heard it. But even from, if you go back to one of the great years in history, 2016, our policy has always been drill, baby, drill, and man, are we drilling now. But if Texas elects communist James Talafreako, that wealth -- [Audience boos]
+Sentiment
+Topics
+Topic:
+Conflict, War and Peace
+Score:
+0.67
+Code:
+16000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/16000000
+Wikidata_id:
+Q198
+Wikidata_label:
+war
+Source:
+IPTC Media
+Topic:
+Conflict, War and Peace > Armed Conflict
+Score:
+0.536
+Code:
+20000056
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000056
+Wikidata_id:
+Q350604
+Wikidata_label:
+armed conflict
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+3.3
+Flesch-Kincaid Ease
+89.6
+Gunning-Fog Score
+5.7
+Coleman-Liau Index
+7.2
+SMOG Index
+7.3
+Automated Readability Index
+2.1
+Dale-Chall Readability Score
+3.1
+Sprache Readability Score
+3.6
+Dale-Chall Difficult Word Score
+17
+Sprache Difficult Word Count
+21
+Donald Trump
+00:12:33-00:12:57 (24 sec)
+Weak (1.082)
+will rapidly disappear. It's just -- look, it's just the way it is. He can't help it. He can't help it. You can't help it, it's the way you are. Talafreako stated that he wants to dismantle Texas oil and gas and capitalism itself, he wants to take it apart. And he personally wrote the Texas version of the Green New Scam.
+Sentiment
+Topics
+Topic:
+Science and Technology
+Score:
+0.67
+Code:
+13000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/13000000
+Wikidata_id:
+Q34104
+Wikidata_label:
+science and technology
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Business Information > Human Resources > Executive Officer
+Score:
+0.574
+Code:
+20000190
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000190
+Wikidata_id:
+Q2462658
+Wikidata_label:
+manager
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Economy
+Score:
+0.574
+Code:
+20000344
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000344
+Wikidata_id:
+Q159810
+Wikidata_label:
+economy
+Source:
+IPTC Media
+Topic:
+Science and Technology > Social Sciences > Economics
+Score:
+0.536
+Code:
+20000745
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000745
+Wikidata_id:
+Q8134
+Wikidata_label:
+economics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+4.1
+Flesch-Kincaid Ease
+81.5
+Gunning-Fog Score
+8.1
+Coleman-Liau Index
+7.6
+SMOG Index
+9
+Automated Readability Index
+1.7
+Dale-Chall Readability Score
+3
+Sprache Readability Score
+2.9
+Dale-Chall Difficult Word Score
+10
+Sprache Difficult Word Count
+14
+Donald Trump
+00:12:57-00:13:19 (22 sec)
+No Signal (0.353)
+So, he wrote about -- he loves green energy, which is now very out of whack. You know why it didn't work? Germany tried it, other countries tried it, they all went almost bust. Had Germany not changed course, there wouldn't be Germany anymore. It doesn't work; it costs a lot. It's always bad when you pay top dollar for something that doesn't work.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+4.2
+Flesch-Kincaid Ease
+83.4
+Gunning-Fog Score
+6.7
+Coleman-Liau Index
+9.1
+SMOG Index
+9
+Automated Readability Index
+3.8
+Dale-Chall Readability Score
+2.5
+Sprache Readability Score
+2.8
+Dale-Chall Difficult Word Score
+8
+Sprache Difficult Word Count
+11
+Donald Trump
+00:13:19-00:13:56 (37 sec)
+No Signal (0.628)
+Talafreako will kill millions of Texas jobs. Ken Paxton -- Ken, I'll tell you what, Ken Paxton is -- you know, they talk about him as a lawyer. Everything he did -- in fact, maybe I sort of said, look, we've got to look at it a little differently. Everything he did was for Texas, and it was about the people of Texas and preserving their jobs always. But he and I and Ted and all of the people that we have working with us, the Republicans, we'll make Texas, and we'll make our country so rich.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.649
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.514
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+8.1
+Flesch-Kincaid Ease
+70.8
+Gunning-Fog Score
+10.1
+Coleman-Liau Index
+7.6
+SMOG Index
+10.5
+Automated Readability Index
+6.7
+Dale-Chall Readability Score
+3.8
+Sprache Readability Score
+4.2
+Dale-Chall Difficult Word Score
+17
+Sprache Difficult Word Count
+15
+Donald Trump
+00:13:56-00:14:17 (20 sec)
+No Signal (0.448)
+Our country is now taking in more money, more revenue, more wealth than it's ever accumulated before. Thank you, tariffs. Thank you very much. We have more things being built, more factories, more plants, more -- the auto plants. I don't know if you saw the numbers; we have more auto plants being built now than at any time in history.
+Sentiment
+Topics
+Topic:
+Economy, Business and Finance > Economy
+Score:
+0.604
+Code:
+20000344
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000344
+Wikidata_id:
+Q159810
+Wikidata_label:
+economy
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+5.4
+Flesch-Kincaid Ease
+77.6
+Gunning-Fog Score
+7.5
+Coleman-Liau Index
+9.7
+SMOG Index
+8.4
+Automated Readability Index
+5
+Dale-Chall Readability Score
+1.4
+Sprache Readability Score
+2.9
+Dale-Chall Difficult Word Score
+3
+Sprache Difficult Word Count
+10
+Donald Trump
+00:14:17-00:14:45 (28 sec)
+No Signal (0.16)
+We went 49 years where our plants were all leaving, our auto plants, now they're coming back. In fact, Audi just announced that they're going to build one of the largest plants, 200,000 cars a year, $40 billion. They're coming, they're moving in from Mexico and from Canada and from other places. It's all coming into the United States, they're coming in. The pharmaceutical industry -- we learned through COVID, we didn't make drugs.
+Sentiment
+Topics
+Topic:
+Health
+Score:
+0.536
+Code:
+7000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/07000000
+Wikidata_id:
+Q12147
+Wikidata_label:
+health
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Products and Services > Transport
+Score:
+0.506
+Code:
+20000337
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000337
+Wikidata_id:
+Q7590
+Wikidata_label:
+transport
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+6
+Flesch-Kincaid Ease
+78.6
+Gunning-Fog Score
+7.5
+Coleman-Liau Index
+10.2
+SMOG Index
+9.5
+Automated Readability Index
+6.8
+Dale-Chall Readability Score
+3.1
+Sprache Readability Score
+4
+Dale-Chall Difficult Word Score
+11
+Sprache Difficult Word Count
+19
+Donald Trump
+00:14:45-00:15:10 (26 sec)
+No Signal (0.941)
+Who the hell would have thought we didn't make drugs? China made them, Ireland made them, all over the UK they were made, we didn't make them. Hundreds of billions of dollars is now being invested by Eli Lilly, Pfizer, Merck. They're building. It's very simple. I said you've got to come in. So, I said for two years essentially no tariff because, you know, we've got to give them time to build.
+Sentiment
+Topics
+Topic:
+Health
+Score:
+0.66
+Code:
+7000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/07000000
+Wikidata_id:
+Q12147
+Wikidata_label:
+health
+Source:
+IPTC Media
+Topic:
+Science and Technology
+Score:
+0.522
+Code:
+13000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/13000000
+Wikidata_id:
+Q34104
+Wikidata_label:
+science and technology
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+4.2
+Flesch-Kincaid Ease
+83.8
+Gunning-Fog Score
+5.8
+Coleman-Liau Index
+8.5
+SMOG Index
+7.6
+Automated Readability Index
+3.3
+Dale-Chall Readability Score
+3.1
+Sprache Readability Score
+3.5
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+19
+Donald Trump
+00:15:10-00:15:39 (28 sec)
+No Signal (0.545)
+They had nothing here, they weren't building, they weren't doing anything here, they had no labs, no nothing. So, for two years then I said, third year, what are you going to do is you'll pay 15 percent, very low. Fourth you go up to 200 percent. If you don't have your labs built, if you don't have your plants built to make the drugs -- they are building like nobody's ever seen before, they don't mind, they can handle the 15 percent.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+6.2
+Flesch-Kincaid Ease
+87
+Gunning-Fog Score
+9.2
+Coleman-Liau Index
+7.5
+SMOG Index
+7.3
+Automated Readability Index
+7.4
+Dale-Chall Readability Score
+2.9
+Sprache Readability Score
+4
+Dale-Chall Difficult Word Score
+10
+Sprache Difficult Word Count
+11
+Donald Trump
+00:15:39-00:16:02 (23 sec)
+No Signal (0.831)
+The 200 and 250 percent, nobody can handle that and that's what I've done with a lot. I said the same thing to the car industry. Build your cars in the United States there's no tariff. Build your cars outside of the United States, and you pay a lot of money to bring them in. And so, they're all building. They're building more car plants than we've ever had before.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+3.3
+Flesch-Kincaid Ease
+92.3
+Gunning-Fog Score
+5.8
+Coleman-Liau Index
+7.4
+SMOG Index
+7.9
+Automated Readability Index
+3
+Dale-Chall Readability Score
+2.2
+Sprache Readability Score
+3
+Dale-Chall Difficult Word Score
+7
+Sprache Difficult Word Count
+11
+Donald Trump
+00:16:02-00:16:20 (18 sec)
+No Signal (0.432)
+Toyota announced -- Toyota is coming into Texas. They're all pouring into -- it's not that complicated, and they also liked the result of the election very much in all fairness, 2024. Which was more important, tell me, 2016 or 2024?
+Sentiment
+Topics
+Topic:
+Economy, Business and Finance > Products and Services > Transport
+Score:
+0.68
+Code:
+20000337
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000337
+Wikidata_id:
+Q7590
+Wikidata_label:
+transport
+Source:
+IPTC Media
+Topic:
+Conflict, War and Peace
+Score:
+0.67
+Code:
+16000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/16000000
+Wikidata_id:
+Q198
+Wikidata_label:
+war
+Source:
+IPTC Media
+Topic:
+Science and Technology
+Score:
+0.646
+Code:
+13000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/13000000
+Wikidata_id:
+Q34104
+Wikidata_label:
+science and technology
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Products and Services > Transport > Road Transport
+Score:
+0.574
+Code:
+20000341
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000341
+Wikidata_id:
+Q516739
+Wikidata_label:
+road transport
+Source:
+IPTC Media
+Topic:
+Conflict, War and Peace > Armed Conflict
+Score:
+0.536
+Code:
+20000056
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000056
+Wikidata_id:
+Q350604
+Wikidata_label:
+armed conflict
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+6.7
+Flesch-Kincaid Ease
+70
+Gunning-Fog Score
+8.3
+Coleman-Liau Index
+9.4
+SMOG Index
+10.6
+Automated Readability Index
+5.2
+Dale-Chall Readability Score
+4.7
+Sprache Readability Score
+3.1
+Dale-Chall Difficult Word Score
+10
+Sprache Difficult Word Count
+11
+Note
+00:16:20-00:16:20 ( sec)
+No StressLens
+[Crosstalk]
+Sentiment
+Readability
+Flesch-Kincaid Grade
+Flesch-Kincaid Ease
+Gunning-Fog Score
+Coleman-Liau Index
+SMOG Index
+Automated Readability Index
+Dale-Chall Readability Score
+Sprache Readability Score
+Dale-Chall Difficult Word Score
+Sprache Difficult Word Count
+Donald Trump
+00:16:20-00:16:55 (34 sec)
+Weak (1.09)
+OK, let's hold it; we had two great -- we had three great elections; we won three times. But we won't include the Senate one because they rigged it, they rigged it. But let's go 2016 and 2024. Which is more important? 2016? 2024? No, a lot of people say that. Talafreako wants to get rid of the guns, he wants to get rid of the oil, he wants to get rid of the meat. [Audience boos]
+Sentiment
+Readability
+Flesch-Kincaid Grade
+1.4
+Flesch-Kincaid Ease
+100
+Gunning-Fog Score
+5.3
+Coleman-Liau Index
+4.5
+SMOG Index
+6.8
+Automated Readability Index
+0
+Dale-Chall Readability Score
+2
+Sprache Readability Score
+2.5
+Dale-Chall Difficult Word Score
+7
+Sprache Difficult Word Count
+9
+Donald Trump
+00:16:55-00:17:06 (11 sec)
+No StressLens
+But he wants to keep the transgender mutilation of your children, open borders. [Audience boos]
+Sentiment
+Readability
+Flesch-Kincaid Grade
+8.5
+Flesch-Kincaid Ease
+57
+Gunning-Fog Score
+11.4
+Coleman-Liau Index
+12
+SMOG Index
+11.3
+Automated Readability Index
+8.6
+Dale-Chall Readability Score
+4.3
+Sprache Readability Score
+2.5
+Dale-Chall Difficult Word Score
+3
+Sprache Difficult Word Count
+3
+Donald Trump
+00:17:06-00:17:15 (9 sec)
+No StressLens
+He wants to keep men playing in women's sports, figure that one out. [Audience boos]
+Sentiment
+Readability
+Flesch-Kincaid Grade
+4
+Flesch-Kincaid Ease
+89.5
+Gunning-Fog Score
+5.2
+Coleman-Liau Index
+8.2
+SMOG Index
+3.3
+Automated Readability Index
+4.3
+Dale-Chall Readability Score
+3.1
+Sprache Readability Score
+2.5
+Dale-Chall Difficult Word Score
+2
+Sprache Difficult Word Count
+3
+Donald Trump
+00:17:15-00:17:32 (17 sec)
+No Signal (0.439)
+This is what Talafreako stands for, and it's what he is, it's where he is. You know, I've learned about politicians over the years. I've always been -- you know, loved watching and I never thought I was going to be doing this. I had to do it because it was so bad, so horrible what was happening to our country.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+5.4
+Flesch-Kincaid Ease
+83
+Gunning-Fog Score
+8
+Coleman-Liau Index
+7.3
+SMOG Index
+9
+Automated Readability Index
+4.6
+Dale-Chall Readability Score
+3.1
+Sprache Readability Score
+3.3
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+10
+Donald Trump
+00:17:32-00:17:51 (19 sec)
+Weak (1.399)
+So, I did it then they said, oh, he's just doing it for fun. I said it's not fun. And we had a lot of candidates, very smart candidates, and one by one they started disappearing. All of a sudden, I'm up there and I'm saying, you know, this is going to be great. Then all of a sudden, I'm president and it's very -- it's very surreal.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+4.4
+Flesch-Kincaid Ease
+87.2
+Gunning-Fog Score
+7.7
+Coleman-Liau Index
+5.5
+SMOG Index
+8.4
+Automated Readability Index
+2.4
+Dale-Chall Readability Score
+3.3
+Sprache Readability Score
+3
+Dale-Chall Difficult Word Score
+11
+Sprache Difficult Word Count
+9
+Donald Trump
+00:17:51-00:18:18 (27 sec)
+Strong (2.168)
+1 of 154 paragraphs scored.
+It's very surreal -- competing against very smart people. We had 18 of them, including Ted, who, by the way, was very tough. He was the last remaining -- he was a nasty son of a gun, I'll tell you. No, we always had, other than for a short period of time, the politicians used to -- these guys used to ask, sir, when are you going to start fighting?
+Sentiment
+Readability
+Flesch-Kincaid Grade
+6.8
+Flesch-Kincaid Ease
+76.2
+Gunning-Fog Score
+10.3
+Coleman-Liau Index
+6.7
+SMOG Index
+10.3
+Automated Readability Index
+4.9
+Dale-Chall Readability Score
+3.2
+Sprache Readability Score
+3.9
+Dale-Chall Difficult Word Score
+10
+Sprache Difficult Word Count
+15
+Donald Trump
+00:18:18-00:18:45 (27 sec)
+No Signal (0.6)
+Because Ted and I got along so good. But then I said, don't worry about it, it'll happen. And then it happened and it was the way it is. And now we get along, I think, better than we've ever gotten along, right, I really do, because we love the same thing. But no politician in history has been more obsessed with turning your young boys and girls transgender.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+5.4
+Flesch-Kincaid Ease
+81.3
+Gunning-Fog Score
+7.8
+Coleman-Liau Index
+7.8
+SMOG Index
+8.4
+Automated Readability Index
+4.4
+Dale-Chall Readability Score
+2.5
+Sprache Readability Score
+3.2
+Dale-Chall Difficult Word Score
+8
+Sprache Difficult Word Count
+11
+Donald Trump
+00:18:45-00:19:06 (21 sec)
+No Signal (0.643)
+I mean, he wants to -- he said that recently. I saw a thing where he said what do you like the best? He said essentially transgender children. That was a strange -- that was a strange -- you know, look, that's the way it is, you're not going to change it. You know, it's like me, he's going around to so many barbecues, that's probably why -- either that or he has a mental illness.
+Sentiment
+Topics
+Topic:
+Science and Technology
+Score:
+0.592
+Code:
+13000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/13000000
+Wikidata_id:
+Q34104
+Wikidata_label:
+science and technology
+Source:
+IPTC Media
+Topic:
+Science and Technology > Social Sciences > Psychology
+Score:
+0.536
+Code:
+20000753
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000753
+Wikidata_id:
+Q9418
+Wikidata_label:
+psychology
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+4.6
+Flesch-Kincaid Ease
+87.6
+Gunning-Fog Score
+8.5
+Coleman-Liau Index
+7.2
+SMOG Index
+9
+Automated Readability Index
+4.2
+Dale-Chall Readability Score
+2.2
+Sprache Readability Score
+3.1
+Dale-Chall Difficult Word Score
+7
+Sprache Difficult Word Count
+8
+Donald Trump
+00:19:06-00:19:32 (25 sec)
+No Signal (0.982)
+He disappeared for 12 to 14 days. It's actually probably 14 if you really look at it, missing in action. Now, I happen to think he was food poisoned by meat because he can't stand it. [Laughter] You ever see him go to a barbecue and he's trying to show -- I love the meat; oh, I love it, look. And then you see him, where is he? He's behind the tent puking.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+3.5
+Flesch-Kincaid Ease
+91.2
+Gunning-Fog Score
+7.6
+Coleman-Liau Index
+5
+SMOG Index
+8.5
+Automated Readability Index
+1.1
+Dale-Chall Readability Score
+2.6
+Sprache Readability Score
+2.8
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+9
+Donald Trump
+00:19:32-00:20:06 (34 sec)
+No Signal (0.372)
+He's sick as a dog. No, he'll go back to -- he'll be back. You know, my wife said it's not vagan, it's vegan. I don't know, because it's never been my thing. I really do like the meat. But she said, oh, please don't say vagan, it's vegan. Well, he's been a vegan and there's not an -- and there's not a damn thing he could do about it. And he's never going to love me and he's never going to love oil and gas, and he's never going to love your Second Amendment, and he's never going to love your children the way you do. It's a different kind of love.
+Sentiment
+Topics
+Topic:
+Lifestyle and Leisure > Leisure > Hobby > Food and Drink Enthusiasm
+Score:
+0.581
+Code:
+20000568
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000568
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+3.1
+Flesch-Kincaid Ease
+94.5
+Gunning-Fog Score
+5.7
+Coleman-Liau Index
+5.3
+SMOG Index
+6.6
+Automated Readability Index
+1.7
+Dale-Chall Readability Score
+1.9
+Sprache Readability Score
+3
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+10
+Donald Trump
+00:20:06-00:20:30 (24 sec)
+No Signal (0.766)
+You can't put this guy -- you can't have a vote like that. It's too close. You know, like the Second Amendment, I've been fighting. For years, we haven't touched it. I've been fighting for years on the Second Amendment. One vote -- one vote, Ted, is the difference -- one vote is the difference between having it and not having it. Now, I'll veto it but that's just the first phase.
+Sentiment
+Topics
+Topic:
+Politics > Government
+Score:
+0.599
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+3
+Flesch-Kincaid Ease
+91.4
+Gunning-Fog Score
+5.1
+Coleman-Liau Index
+8.4
+SMOG Index
+7.6
+Automated Readability Index
+2.9
+Dale-Chall Readability Score
+3
+Sprache Readability Score
+2.9
+Dale-Chall Difficult Word Score
+11
+Sprache Difficult Word Count
+13
+Donald Trump
+00:20:30-00:20:53 (22 sec)
+No Signal (0.351)
+I'll veto, veto, veto, but it's a lot nicer when you don't have to do that. You'd like to have a little margin. But he's going to vote against your Second Amendment. So if you're running in Texas and if you don't like guns and if you don't like meat, right, and if you don't like oil, I think you should be losing by a lot.
+Sentiment
+Topics
+Topic:
+Politics > Government
+Score:
+0.599
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+5
+Flesch-Kincaid Ease
+88.8
+Gunning-Fog Score
+6.6
+Coleman-Liau Index
+5.5
+SMOG Index
+6.1
+Automated Readability Index
+3.9
+Dale-Chall Readability Score
+3
+Sprache Readability Score
+3.7
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+13
+Donald Trump
+00:20:53-00:21:11 (19 sec)
+No Signal (0.451)
+Who the hell -- where the hell did they get this guy from, Ronnie? Where did they get -- Ronnie likes all those things. But he's attended sexualized drag shows for kids and even said that he has a favorite drag queen. He knew all the names of the drag queens. My favorite drag queen --- who the hell knows that?
+Sentiment
+Readability
+Flesch-Kincaid Grade
+3.8
+Flesch-Kincaid Ease
+88.6
+Gunning-Fog Score
+7.4
+Coleman-Liau Index
+8.2
+SMOG Index
+8.4
+Automated Readability Index
+3.6
+Dale-Chall Readability Score
+1.7
+Sprache Readability Score
+2.7
+Dale-Chall Difficult Word Score
+4
+Sprache Difficult Word Count
+8
+Donald Trump
+00:21:11-00:21:28 (17 sec)
+Weak (1.125)
+And not only did Tali-freako state that God is transgender, he actually said that if Jesus Christ Himself came and visited the Texas legislature, Jesus would be promoting sex changes for little children. [Audience boos]
+Sentiment
+Topics
+Topic:
+Religion > Belief Systems > Christianity
+Score:
+0.652
+Code:
+20000659
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000659
+Wikidata_id:
+Q5043
+Wikidata_label:
+Christianity
+Source:
+IPTC Media
+Topic:
+Religion
+Score:
+0.617
+Code:
+12000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/12000000
+Wikidata_id:
+Q9174
+Wikidata_label:
+religion
+Source:
+IPTC Media
+Topic:
+Religion > Belief Systems
+Score:
+0.521
+Code:
+20000657
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000657
+Wikidata_id:
+Q2728698
+Wikidata_label:
+religious belief
+Source:
+IPTC Media
+Topic:
+Religion > Religious Text > Bible
+Score:
+0.504
+Code:
+20000706
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000706
+Wikidata_id:
+Q1845
+Wikidata_label:
+Bible
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+12
+Flesch-Kincaid Ease
+33
+Gunning-Fog Score
+19
+Coleman-Liau Index
+12
+SMOG Index
+12
+Automated Readability Index
+12
+Dale-Chall Readability Score
+7.3
+Sprache Readability Score
+5
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+13
+Donald Trump
+00:21:28-00:21:55 (27 sec)
+No Signal (0.575)
+You know, just, I'm not an expert on it, but I will tell you, I read enough about it. I find it amazing. You know, many of those little children, as he says, when they turn 22 and 25, they say, who did this to me? Who did it to me? Why did you do this to me? Many, many. So I'm just going to ask you to take a look at this little video real quick, because then I don't have to talk about this guy anymore.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+3.3
+Flesch-Kincaid Ease
+94.1
+Gunning-Fog Score
+6.4
+Coleman-Liau Index
+3.8
+SMOG Index
+7
+Automated Readability Index
+0.5
+Dale-Chall Readability Score
+1.7
+Sprache Readability Score
+2.8
+Dale-Chall Difficult Word Score
+6
+Sprache Difficult Word Count
+7
+Donald Trump
+00:21:55-00:21:56 (1 sec)
+No StressLens
+Go ahead, please.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+1.3
+Flesch-Kincaid Ease
+91
+Gunning-Fog Score
+1.2
+Coleman-Liau Index
+9.6
+SMOG Index
+3.3
+Automated Readability Index
+0.5
+Dale-Chall Readability Score
+0.1
+Sprache Readability Score
+1.1
+Dale-Chall Difficult Word Score
+0
+Sprache Difficult Word Count
+1
+Note
+00:21:56-00:21:57 (1 sec)
+No StressLens
+[Begin video clip]
+Sentiment
+Readability
+Flesch-Kincaid Grade
+Flesch-Kincaid Ease
+Gunning-Fog Score
+Coleman-Liau Index
+SMOG Index
+Automated Readability Index
+Dale-Chall Readability Score
+Sprache Readability Score
+Dale-Chall Difficult Word Score
+Sprache Difficult Word Count
+Unidentified
+00:21:57-00:22:26 (28 sec)
+No Signal (0)
+[Video clip] Did they teach you in Sunday school that Jesus Christ himself was a radical feminist? The American flag is such a complicated symbol for most of us. God is both masculine and feminine and everything in between. God is non binary. You can't call yourself a Christian and reject the stranger seeking asylum at our southern border.
+Sentiment
+Topics
+Topic:
+Religion
+Score:
+0.617
+Code:
+12000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/12000000
+Wikidata_id:
+Q9174
+Wikidata_label:
+religion
+Source:
+IPTC Media
+Topic:
+Religion > Belief Systems > Christianity
+Score:
+0.536
+Code:
+20000659
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000659
+Wikidata_id:
+Q5043
+Wikidata_label:
+Christianity
+Source:
+IPTC Media
+Topic:
+Religion > Belief Systems
+Score:
+0.511
+Code:
+20000657
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000657
+Wikidata_id:
+Q2728698
+Wikidata_label:
+religious belief
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+7.5
+Flesch-Kincaid Ease
+61.7
+Gunning-Fog Score
+10.2
+Coleman-Liau Index
+11.7
+SMOG Index
+10.9
+Automated Readability Index
+6.2
+Dale-Chall Readability Score
+5.6
+Sprache Readability Score
+3.8
+Dale-Chall Difficult Word Score
+18
+Sprache Difficult Word Count
+21
+Unidentified
+00:22:26-00:22:47 (21 sec)
+No Signal (0)
+[Video clip] I want to acknowledge that our trans community needs abortion care too. There are many more than two biological sexes. In fact, there are six. For me, prophetic voices like Jesus have helped me reckon with my own Whiteness. Our southern border should be like our front porch. There should be a giant welcome mat out front.
+Sentiment
+Topics
+Topic:
+Health
+Score:
+0.68
+Code:
+7000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/07000000
+Wikidata_id:
+Q12147
+Wikidata_label:
+health
+Source:
+IPTC Media
+Topic:
+Health > Health Treatment and Procedure > Health Care Approach
+Score:
+0.574
+Code:
+20000470
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000470
+Wikidata_id:
+Q11190
+Wikidata_label:
+medicine
+Source:
+IPTC Media
+Topic:
+Society > Family > Pregnancy and Childbirth
+Score:
+0.536
+Code:
+20001359
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20001359
+Wikidata_id:
+Q11995
+Wikidata_label:
+human pregnancy
+Source:
+IPTC Media
+Topic:
+Society > Values > Ethics
+Score:
+0.536
+Code:
+20000814
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000814
+Wikidata_id:
+Q9465
+Wikidata_label:
+ethics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+4.9
+Flesch-Kincaid Ease
+77
+Gunning-Fog Score
+7.3
+Coleman-Liau Index
+10.8
+SMOG Index
+8.5
+Automated Readability Index
+4.6
+Dale-Chall Readability Score
+3.8
+Sprache Readability Score
+3.1
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+16
+Unidentified
+00:22:47-00:22:48 (2 sec)
+No StressLens
+[Video clip] Something that you love.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+3.7
+Flesch-Kincaid Ease
+75.9
+Gunning-Fog Score
+1.6
+Coleman-Liau Index
+12
+SMOG Index
+9
+Automated Readability Index
+4.1
+Dale-Chall Readability Score
+0.2
+Sprache Readability Score
+1.1
+Dale-Chall Difficult Word Score
+0
+Sprache Difficult Word Count
+0
+Unidentified
+00:22:48-00:23:08 (19 sec)
+No Signal (0)
+[Video clip] I love the trans children. To the trans kids watching at home, I just want to say, I love you. What would Jesus do if he visited the Texas legislature? I think he would tell us, blessed are the trans children.
+Sentiment
+Topics
+Topic:
+Religion > Belief Systems > Christianity
+Score:
+0.536
+Code:
+20000659
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000659
+Wikidata_id:
+Q5043
+Wikidata_label:
+Christianity
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+3.1
+Flesch-Kincaid Ease
+91.2
+Gunning-Fog Score
+6.1
+Coleman-Liau Index
+7.4
+SMOG Index
+7.3
+Automated Readability Index
+2.3
+Dale-Chall Readability Score
+4.4
+Sprache Readability Score
+2.6
+Dale-Chall Difficult Word Score
+10
+Sprache Difficult Word Count
+8
+Unidentified
+00:23:08-00:23:10 (2 sec)
+No StressLens
+[Video clip] Who was your favorite drag queen in Texas?
+Sentiment
+Readability
+Flesch-Kincaid Grade
+5.2
+Flesch-Kincaid Ease
+71.8
+Gunning-Fog Score
+8.2
+Coleman-Liau Index
+9.2
+SMOG Index
+9
+Automated Readability Index
+2.6
+Dale-Chall Readability Score
+2.4
+Sprache Readability Score
+1.9
+Dale-Chall Difficult Word Score
+1
+Sprache Difficult Word Count
+3
+Unidentified
+00:23:10-00:23:34 (24 sec)
+No Signal (0)
+[Video clip] Oh my gosh, probably Alyssa Edwards. What if we ran our world like we run a kindergarten classroom? Every one of our neighbors with a uterus just became the property of the state. God is not a Christian. I always think of myself as a Christian who hates Christianity. Prison is violence. It's rich to me that defund the police is considered off limits.
+Sentiment
+Topics
+Topic:
+Crime, Law and Justice > Law Enforcement
+Score:
+0.709
+Code:
+20000129
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000129
+Wikidata_id:
+Q44554
+Wikidata_label:
+law enforcement
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.574
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Crime, Law and Justice > Law Enforcement > Police
+Score:
+0.541
+Code:
+20000133
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000133
+Wikidata_id:
+Q35535
+Wikidata_label:
+police
+Source:
+IPTC Media
+Topic:
+Crime, Law and Justice > Crime
+Score:
+0.536
+Code:
+20000082
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000082
+Wikidata_id:
+Q83267
+Wikidata_label:
+crime
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+5.7
+Flesch-Kincaid Ease
+70.7
+Gunning-Fog Score
+8
+Coleman-Liau Index
+9.9
+SMOG Index
+9.7
+Automated Readability Index
+3.7
+Dale-Chall Readability Score
+4.2
+Sprache Readability Score
+3.2
+Dale-Chall Difficult Word Score
+15
+Sprache Difficult Word Count
+18
+Unidentified
+00:23:34-00:23:49 (15 sec)
+No Signal (0)
+[Video clip] We all know that Texas has been a leader in oil and gas, but in many ways, that's like being the leader in cassette tapes. It is now existential that we try to reduce our meat consumption. Our campaign has officially become a non-meat campaign.
+Sentiment
+Topics
+Topic:
+Economy, Business and Finance > Products and Services > Energy and Resource
+Score:
+0.536
+Code:
+20000256
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000256
+Wikidata_id:
+Q2151621
+Wikidata_label:
+energy industry
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+6.8
+Flesch-Kincaid Ease
+73.6
+Gunning-Fog Score
+8.7
+Coleman-Liau Index
+8.9
+SMOG Index
+9
+Automated Readability Index
+6
+Dale-Chall Readability Score
+3.8
+Sprache Readability Score
+3.6
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+13
+Unidentified
+00:23:49-00:23:52 (3 sec)
+No StressLens
+[Video clip] So the assault weapons ban is still on the table?
+Sentiment
+Readability
+Flesch-Kincaid Grade
+3.7
+Flesch-Kincaid Ease
+86.7
+Gunning-Fog Score
+4
+Coleman-Liau Index
+7.1
+SMOG Index
+3.3
+Automated Readability Index
+1.9
+Dale-Chall Readability Score
+3.7
+Sprache Readability Score
+2.1
+Dale-Chall Difficult Word Score
+2
+Sprache Difficult Word Count
+3
+Unidentified
+00:23:52-00:24:04 (12 sec)
+No Signal (0)
+[Video clip] Absolutely. All these ideologies stem from this this christofascism movement. We are trying to fundamentally change our politics.
+Sentiment
+Topics
+Topic:
+Religion
+Score:
+0.8
+Code:
+12000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/12000000
+Wikidata_id:
+Q9174
+Wikidata_label:
+religion
+Source:
+IPTC Media
+Topic:
+Religion > Belief Systems > Christianity
+Score:
+0.709
+Code:
+20000659
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000659
+Wikidata_id:
+Q5043
+Wikidata_label:
+Christianity
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.634
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Religion > Belief Systems
+Score:
+0.544
+Code:
+20000657
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000657
+Wikidata_id:
+Q2728698
+Wikidata_label:
+religious belief
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+10.4
+Flesch-Kincaid Ease
+31.5
+Gunning-Fog Score
+11.3
+Coleman-Liau Index
+12
+SMOG Index
+10.6
+Automated Readability Index
+10.1
+Dale-Chall Readability Score
+6.4
+Sprache Readability Score
+2
+Dale-Chall Difficult Word Score
+7
+Sprache Difficult Word Count
+8
+Note
+00:24:04-00:24:04 ( sec)
+No StressLens
+[End video clip]
+Sentiment
+Readability
+Flesch-Kincaid Grade
+Flesch-Kincaid Ease
+Gunning-Fog Score
+Coleman-Liau Index
+SMOG Index
+Automated Readability Index
+Dale-Chall Readability Score
+Sprache Readability Score
+Dale-Chall Difficult Word Score
+Sprache Difficult Word Count
+Donald Trump
+00:24:04-00:24:31 (27 sec)
+No Signal (0.715)
+And I think we're doing better than at any time. $22.2 trillion is being invested in our country. That's more than ever. That's more than any country has ever had invested and there's never been anything -- but the only man standing between Texas and this raging lunatic is a man named President Donald J. Trump.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.658
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.596
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+5.9
+Flesch-Kincaid Ease
+72.6
+Gunning-Fog Score
+8
+Coleman-Liau Index
+10
+SMOG Index
+9
+Automated Readability Index
+4.7
+Dale-Chall Readability Score
+4.3
+Sprache Readability Score
+3.2
+Dale-Chall Difficult Word Score
+13
+Sprache Difficult Word Count
+15
+Donald Trump
+00:24:31-00:24:52 (21 sec)
+No Signal (0.659)
+Thank you. And I need the help of Ken Paxton in the US Senate. I need a little help, please. I need help. He's the perfect guy. We have fought so many battles. We fought the border battle together, we won. We fought so many different battles, the voter fraud, all of that terrible voter fraud. Be careful of the voter fraud.
+Sentiment
+Topics
+Topic:
+Crime, Law and Justice > Crime
+Score:
+0.709
+Code:
+20000082
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000082
+Wikidata_id:
+Q83267
+Wikidata_label:
+crime
+Source:
+IPTC Media
+Topic:
+Crime, Law and Justice > Crime > Fraud
+Score:
+0.692
+Code:
+20000097
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000097
+Wikidata_id:
+Q28813
+Wikidata_label:
+fraud
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Election
+Score:
+0.574
+Code:
+20000574
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000574
+Wikidata_id:
+Q40231
+Wikidata_label:
+public election
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.574
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+2.7
+Flesch-Kincaid Ease
+88
+Gunning-Fog Score
+4.7
+Coleman-Liau Index
+7.8
+SMOG Index
+6.6
+Automated Readability Index
+0.9
+Dale-Chall Readability Score
+3.4
+Sprache Readability Score
+2.4
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+11
+Donald Trump
+00:24:52-00:25:18 (25 sec)
+No Signal (0.294)
+Be careful. Well, you have Mays [ph] and you have your US attorney and you have a couple of people here, but we're going to watch that voter fraud. Congratulations on your big victory, too, Mays. Great. Great job. Great. But in this election, I'm asking you to do one thing, because for whatever reason, we get a lot more votes when I'm on the ballot.
+Sentiment
+Topics
+Topic:
+Politics > Election
+Score:
+0.682
+Code:
+20000574
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000574
+Wikidata_id:
+Q40231
+Wikidata_label:
+public election
+Source:
+IPTC Media
+Topic:
+Crime, Law and Justice > Crime > Fraud
+Score:
+0.61
+Code:
+20000097
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000097
+Wikidata_id:
+Q28813
+Wikidata_label:
+fraud
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.594
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+3.5
+Flesch-Kincaid Ease
+86.8
+Gunning-Fog Score
+6.8
+Coleman-Liau Index
+8.2
+SMOG Index
+8.1
+Automated Readability Index
+2.4
+Dale-Chall Readability Score
+3.4
+Sprache Readability Score
+3
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+15
+Donald Trump
+00:25:18-00:25:41 (23 sec)
+No Signal (0.069)
+They're the ones that told me that. I didn't know. What the hell do I know? We get 49.2 percent more votes when I'm on the ballot, and we always win. But now I want you to pretend I'm on the ballot, because if you go out and vote like you did in the presidentials, where we won by so much, by 18 or 19 points, can you imagine in Texas?
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.565
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+3.2
+Flesch-Kincaid Ease
+97.1
+Gunning-Fog Score
+6.8
+Coleman-Liau Index
+4.3
+SMOG Index
+6.9
+Automated Readability Index
+1.8
+Dale-Chall Readability Score
+2.7
+Sprache Readability Score
+3.1
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+9
+Donald Trump
+00:25:41-00:26:02 (21 sec)
+No Signal (0.09)
+All three times, records. If you go out and if you all vote, we win in a landslide. We win everything. And not only Ken Paxton, but every -- all these great Congress people. A couple of them -- a couple of them have close races. Doc Ronnie is up by about 57 points, but we don't worry about him. Don't worry about Doc Ronnie.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.567
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.514
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+3.5
+Flesch-Kincaid Ease
+86.2
+Gunning-Fog Score
+4.9
+Coleman-Liau Index
+6.8
+SMOG Index
+6.3
+Automated Readability Index
+1.2
+Dale-Chall Readability Score
+3
+Sprache Readability Score
+2.5
+Dale-Chall Difficult Word Score
+10
+Sprache Difficult Word Count
+9
+Donald Trump
+00:26:02-00:26:21 (19 sec)
+No Signal (0.48)
+You don't have to vote for him, I don't think. No, go out and vote. We don't want any surprises, Ronnie. Sir, you shouldn't have said that, nobody showed up. But early voting is underway and ends Friday, October 30th. And there's one week left until Election Day, and that's going to be an exciting evening because I think we're doing great.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+4.6
+Flesch-Kincaid Ease
+80.4
+Gunning-Fog Score
+7.4
+Coleman-Liau Index
+8.7
+SMOG Index
+9.4
+Automated Readability Index
+3.3
+Dale-Chall Readability Score
+3.1
+Sprache Readability Score
+3.4
+Dale-Chall Difficult Word Score
+10
+Sprache Difficult Word Count
+18
+Donald Trump
+00:26:21-00:26:47 (26 sec)
+Strong (2.042)
+2 of 154 paragraphs scored.
+They say these rallies have really energized. You know, I've done 26 of them now. And every one of them is packed like this. We had one last night in Mississippi. They walked away, 20,000. We had these massive screens up. 20,000 people couldn't get in, into a big arena. And it's been like this. There's something good happening.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+2.3
+Flesch-Kincaid Ease
+90.4
+Gunning-Fog Score
+6.6
+Coleman-Liau Index
+7.4
+SMOG Index
+8.3
+Automated Readability Index
+0.6
+Dale-Chall Readability Score
+2.9
+Sprache Readability Score
+2.5
+Dale-Chall Difficult Word Score
+10
+Sprache Difficult Word Count
+13
+Donald Trump
+00:26:47-00:27:22 (35 sec)
+No Signal (0.252)
+I think we have the energy. You know, I watch the fake news, but I think the rallies have really -- These rallies have energized -- they've really energized the Republican Party and, you know, we're doing so well, we don't want to have to -- and we're doing so well. As a couple of your speakers, I watched some, your Congressman that were speaking, we had no choice, we had to stop this lunatic nation from having a nuclear -- We didn't have -- it's not like, oh, gee, let's not do it. If we did that, you -- we might not be here right now, to be honest.
+Sentiment
+Topics
+Topic:
+Politics > Government
+Score:
+0.693
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+9.6
+Flesch-Kincaid Ease
+72.3
+Gunning-Fog Score
+12.7
+Coleman-Liau Index
+7.4
+SMOG Index
+11.3
+Automated Readability Index
+10.1
+Dale-Chall Readability Score
+3.7
+Sprache Readability Score
+5
+Dale-Chall Difficult Word Score
+16
+Sprache Difficult Word Count
+22
+Donald Trump
+00:27:22-00:27:53 (31 sec)
+No Signal (0.507)
+But at some point in the not too distant future, really bad things would have happened, and we can't let that go -- I mean, we just can't do it. It's -- somebody asked me yesterday, it was very interesting, if you had it to do again, would you have attacked Iran? I said, absolutely. It was one of the greatest things I ever did. Short term, short term pain, right, for long term gain.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+5.6
+Flesch-Kincaid Ease
+80.8
+Gunning-Fog Score
+9.1
+Coleman-Liau Index
+7.5
+SMOG Index
+9.5
+Automated Readability Index
+4.5
+Dale-Chall Readability Score
+2.5
+Sprache Readability Score
+3.7
+Dale-Chall Difficult Word Score
+8
+Sprache Difficult Word Count
+15
+Donald Trump
+00:27:53-00:28:22 (29 sec)
+No Signal (0.533)
+You're going to see. Very soon you're going to see those -- you'll say, what the hell happened to gasoline, it's so cheap? You'll see. You're going to have more gasoline. Guys like Harold Hamm will say, what the hell are you doing, Trump? It's going to come way down. He told me that, too. If Tali-freako gets in, he'll immediately vote to open the floodgates to millions of illegal alien child predators, brutal killers, pouring into Texas just like they did two years ago.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.658
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Products and Services > Energy and Resource
+Score:
+0.536
+Code:
+20000256
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000256
+Wikidata_id:
+Q2151621
+Wikidata_label:
+energy industry
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+4.4
+Flesch-Kincaid Ease
+82.6
+Gunning-Fog Score
+7.5
+Coleman-Liau Index
+9.3
+SMOG Index
+8.6
+Automated Readability Index
+4
+Dale-Chall Readability Score
+3.5
+Sprache Readability Score
+4.1
+Dale-Chall Difficult Word Score
+16
+Sprache Difficult Word Count
+26
+Donald Trump
+00:28:22-00:28:43 (21 sec)
+No Signal (0.513)
+Look, two years ago I got elected because I would say the number one thing might have been the borders, might have been the borders. And I don't know, I think a lot of reasons. I got elected because of high prices, because of -- you know, they had the high -- I didn't have the high prices. They had high prices, I assume, but they had the worst inflation in American history.
+Sentiment
+Topics
+Topic:
+Science and Technology > Social Sciences > Economics
+Score:
+0.536
+Code:
+20000745
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000745
+Wikidata_id:
+Q8134
+Wikidata_label:
+economics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+7.1
+Flesch-Kincaid Ease
+75.6
+Gunning-Fog Score
+9.4
+Coleman-Liau Index
+8
+SMOG Index
+9.7
+Automated Readability Index
+6.5
+Dale-Chall Readability Score
+2.4
+Sprache Readability Score
+3.5
+Dale-Chall Difficult Word Score
+7
+Sprache Difficult Word Count
+9
+Donald Trump
+00:28:43-00:29:07 (24 sec)
+No Signal (0.306)
+They say 48 years, which is OK. I mean, I don't care, pick either one, but I say in American history. But I think I got elected more than any other reason, what do you think, Ted, because of the border. The border was so bad. 25 million people came in. And they showed a couple today on television, it was beautiful, two -- man, wife, like 40 years old.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+4.5
+Flesch-Kincaid Ease
+83.6
+Gunning-Fog Score
+7.5
+Coleman-Liau Index
+6.2
+SMOG Index
+9
+Automated Readability Index
+1.9
+Dale-Chall Readability Score
+2.6
+Sprache Readability Score
+3
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+11
+Donald Trump
+00:29:07-00:29:35 (28 sec)
+No Signal (0.208)
+They lived on the border. They said -- question was, what was the difference between two years ago under Biden and now under Trump? The woman starts crying. She said, under President Trump, it's like we're living in a different country. Nobody -- nobody's coming -- nobody's come up to our farm in nine months, and it's actually been much more than that, that we stopped it almost immediately -- within a month it was good.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.63
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics > Government > Heads of State
+Score:
+0.574
+Code:
+20000610
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000610
+Wikidata_id:
+Q48352
+Wikidata_label:
+head of state
+Source:
+IPTC Media
+Topic:
+Politics > Election
+Score:
+0.516
+Code:
+20000574
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000574
+Wikidata_id:
+Q40231
+Wikidata_label:
+public election
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+7.1
+Flesch-Kincaid Ease
+70
+Gunning-Fog Score
+9.6
+Coleman-Liau Index
+10.8
+SMOG Index
+10
+Automated Readability Index
+7
+Dale-Chall Readability Score
+3.3
+Sprache Readability Score
+3.8
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+17
+Donald Trump
+00:29:35-00:29:59 (25 sec)
+Medium (1.614)
+Within two months, it was very good. Within three months, it was 100 percent. And I didn't have to go and get legislation like Joe Biden. Joe Biden said, remember, I need legislation. No, you needed a new president, you didn't need -- I didn't have any legislation. But the woman said, I lived in fear, we lived in fear.
+Sentiment
+Topics
+Topic:
+Politics > Government
+Score:
+0.717
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government > Heads of State
+Score:
+0.574
+Code:
+20000610
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000610
+Wikidata_id:
+Q48352
+Wikidata_label:
+head of state
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+4.6
+Flesch-Kincaid Ease
+79.3
+Gunning-Fog Score
+6.6
+Coleman-Liau Index
+8
+SMOG Index
+7.9
+Automated Readability Index
+2.6
+Dale-Chall Readability Score
+4.2
+Sprache Readability Score
+2.6
+Dale-Chall Difficult Word Score
+14
+Sprache Difficult Word Count
+9
+Donald Trump
+00:29:59-00:30:22 (23 sec)
+No Signal (0.096)
+We'd sit in our locked doors; we'd check the doors all the time and make sure they were locked because people were just pouring across our land. They'd knock on the door, some were innocent and, you know, you'd help them out a little bit, but others were violent-looking people. They were -- 11,888 murderers were released into our country, and many of them are out.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+8.3
+Flesch-Kincaid Ease
+75.6
+Gunning-Fog Score
+11.3
+Coleman-Liau Index
+8.7
+SMOG Index
+9.9
+Automated Readability Index
+9.3
+Dale-Chall Readability Score
+3.2
+Sprache Readability Score
+4.3
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+12
+Donald Trump
+00:30:22-00:30:45 (23 sec)
+No Signal (0.036)
+We're working hard; we're getting them -- the hardest thing I've had to do. You know, inflation in the last three months is 1.7 percent, we got that down. But -- and the oil is going to be coming down; it's going to reduce inflation even more. But the thing is that the -- the hardest thing that I was given was 25 million people allowed to just walk in unchecked, unvetted.
+Sentiment
+Topics
+Topic:
+Economy, Business and Finance > Economy
+Score:
+0.601
+Code:
+20000344
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000344
+Wikidata_id:
+Q159810
+Wikidata_label:
+economy
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Products and Services > Energy and Resource
+Score:
+0.536
+Code:
+20000256
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000256
+Wikidata_id:
+Q2151621
+Wikidata_label:
+energy industry
+Source:
+IPTC Media
+Topic:
+Science and Technology > Social Sciences > Economics
+Score:
+0.536
+Code:
+20000745
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000745
+Wikidata_id:
+Q8134
+Wikidata_label:
+economics
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Economy > Macro Economics > Inflation
+Score:
+0.512
+Code:
+20000370
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000370
+Wikidata_id:
+Q35865
+Wikidata_label:
+inflation
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+6.4
+Flesch-Kincaid Ease
+80.2
+Gunning-Fog Score
+10.4
+Coleman-Liau Index
+8
+SMOG Index
+10.3
+Automated Readability Index
+6.2
+Dale-Chall Readability Score
+3.4
+Sprache Readability Score
+4.1
+Dale-Chall Difficult Word Score
+11
+Sprache Difficult Word Count
+16
+Donald Trump
+00:30:45-00:31:04 (18 sec)
+No Signal (0.984)
+And now I have to get them out and we have a lot of radical left, like Talafreako type judges. You know, if he were a judge, you could can imagine, he wouldn't get them out. They make every excuse, even murderers. Your honor, he committed murder, he murdered three people. I don't care, he's got -- you know, it's like -- it's brutal.
+Sentiment
+Topics
+Topic:
+Crime, Law and Justice > Crime
+Score:
+0.617
+Code:
+20000082
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000082
+Wikidata_id:
+Q83267
+Wikidata_label:
+crime
+Source:
+IPTC Media
+Topic:
+Crime, Law and Justice > Crime > Homicide
+Score:
+0.544
+Code:
+20000099
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000099
+Wikidata_id:
+Q149086
+Wikidata_label:
+homicide
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+5.2
+Flesch-Kincaid Ease
+79.6
+Gunning-Fog Score
+8.2
+Coleman-Liau Index
+7.7
+SMOG Index
+9.5
+Automated Readability Index
+3.6
+Dale-Chall Readability Score
+2.7
+Sprache Readability Score
+3.1
+Dale-Chall Difficult Word Score
+8
+Sprache Difficult Word Count
+12
+Donald Trump
+00:31:04-00:31:39 (35 sec)
+No Signal (0.912)
+It's the hardest thing we have to do and, I'll tell you what, ICE and Border Patrol are heroes. They're heroes. Where's Paul? Where's Paul Perez? Where's Paul? Paul Perez is here, he's the head of Border Patrol. He's the head guy and he's fantastic. He's fantastic, and I would call him all the time. And the question was asked of Kamala, because she was appointed border czar by Sleepy Joe Biden.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.63
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Crime, Law and Justice > Law Enforcement
+Score:
+0.574
+Code:
+20000129
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000129
+Wikidata_id:
+Q44554
+Wikidata_label:
+law enforcement
+Source:
+IPTC Media
+Topic:
+Politics > Government > Heads of State
+Score:
+0.574
+Code:
+20000610
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000610
+Wikidata_id:
+Q48352
+Wikidata_label:
+head of state
+Source:
+IPTC Media
+Topic:
+Politics > Election
+Score:
+0.538
+Code:
+20000574
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000574
+Wikidata_id:
+Q40231
+Wikidata_label:
+public election
+Source:
+IPTC Media
+Topic:
+Society > Immigration
+Score:
+0.536
+Code:
+20000771
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000771
+Wikidata_id:
+Q131288
+Wikidata_label:
+immigration
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+2.9
+Flesch-Kincaid Ease
+88.3
+Gunning-Fog Score
+4.9
+Coleman-Liau Index
+8.9
+SMOG Index
+7.1
+Automated Readability Index
+2.3
+Dale-Chall Readability Score
+5.7
+Sprache Readability Score
+3.2
+Dale-Chall Difficult Word Score
+24
+Sprache Difficult Word Count
+19
+Donald Trump
+00:31:39-00:32:00 (22 sec)
+No Signal (0.073)
+And the question was asked to Paul, how many times in four years did she go? She was the border czar, now he's the head guy in charge of Border Patrol. All incredible people; I got to know a lot of them. But they'd ask them, how many times did Kamala -- nobody knows her last name, by the way. Does anybody know?
+Sentiment
+Readability
+Flesch-Kincaid Grade
+4.5
+Flesch-Kincaid Ease
+85.1
+Gunning-Fog Score
+6.9
+Coleman-Liau Index
+6.6
+SMOG Index
+8.4
+Automated Readability Index
+2.7
+Dale-Chall Readability Score
+2.7
+Sprache Readability Score
+3.2
+Dale-Chall Difficult Word Score
+8
+Sprache Difficult Word Count
+13
+Donald Trump
+00:32:00-00:32:30 (29 sec)
+Medium (1.578)
+No, they just call her Kamala. You know, if you ask somebody, let's do a test, how many people know her last name? Like about five. Kamala, you just call her Kamala. Kamala Harris -- it's funny, a simple name like Harris and nobody has -- a complicated name like Kamala. It's Kamela, Kumala, Kamala, Kumala -- nobody knows how to pronounce it yet, I don't know.
+Sentiment
+Topics
+Topic:
+Politics > Government
+Score:
+0.717
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government > Heads of State
+Score:
+0.574
+Code:
+20000610
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000610
+Wikidata_id:
+Q48352
+Wikidata_label:
+head of state
+Source:
+IPTC Media
+Topic:
+Politics > Election
+Score:
+0.561
+Code:
+20000574
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000574
+Wikidata_id:
+Q40231
+Wikidata_label:
+public election
+Source:
+IPTC Media
+Topic:
+Society
+Score:
+0.521
+Code:
+14000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/14000000
+Wikidata_id:
+Q8425
+Wikidata_label:
+society
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+7
+Flesch-Kincaid Ease
+63.8
+Gunning-Fog Score
+8
+Coleman-Liau Index
+8.9
+SMOG Index
+11.7
+Automated Readability Index
+3.7
+Dale-Chall Readability Score
+3.7
+Sprache Readability Score
+2.8
+Dale-Chall Difficult Word Score
+13
+Sprache Difficult Word Count
+10
+Donald Trump
+00:32:30-00:32:56 (26 sec)
+No Signal (0.042)
+And yet they remember Kamala, but they don't remember the name Harris. But think of it. So, they asked Paul, how many times did she call? Paul said, never, right? They asked him how many times did she come to inspect her border because she's the border czar? None. They asked her the same question; at least she didn't lie about it. She said no, I never made a call.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+2.7
+Flesch-Kincaid Ease
+91.6
+Gunning-Fog Score
+4.6
+Coleman-Liau Index
+7.6
+SMOG Index
+6.8
+Automated Readability Index
+1.7
+Dale-Chall Readability Score
+2.9
+Sprache Readability Score
+2.5
+Dale-Chall Difficult Word Score
+11
+Sprache Difficult Word Count
+10
+Donald Trump
+00:32:56-00:33:24 (28 sec)
+No Signal (0.43)
+And we had 25 million people come into our country and, in my opinion, it was the single most difficult situation that I had. And, you know, I did it twice. In 2016, Obama let people come in; a lot of people came in and we had a problem. But there was nothing -- I won, I think in 2016, too. I've won on the border twice.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+4.4
+Flesch-Kincaid Ease
+87
+Gunning-Fog Score
+7.7
+Coleman-Liau Index
+4.6
+SMOG Index
+9
+Automated Readability Index
+1.5
+Dale-Chall Readability Score
+2.3
+Sprache Readability Score
+3.1
+Dale-Chall Difficult Word Score
+7
+Sprache Difficult Word Count
+10
+Donald Trump
+00:33:24-00:34:00 (36 sec)
+Weak (1.212)
+The worst part is though, people -- voters have about a two-week lifespan of memory. So, I want to talk about the border. And my professionals say sir, you've solved that problem, nobody wants to talk about the border. I say, please, I want to talk -- I did such a good job. But I won on the border, and we went from having 25 million people come through to having in the last 18 months zero people, right? Who would have thought?
+Sentiment
+Readability
+Flesch-Kincaid Grade
+5
+Flesch-Kincaid Ease
+83.6
+Gunning-Fog Score
+7.9
+Coleman-Liau Index
+7.5
+SMOG Index
+8.5
+Automated Readability Index
+4
+Dale-Chall Readability Score
+2.8
+Sprache Readability Score
+3.5
+Dale-Chall Difficult Word Score
+11
+Sprache Difficult Word Count
+14
+Donald Trump
+00:34:00-00:34:34 (34 sec)
+No Signal (0.565)
+Who would have thought? You know, I said the other night, the word -- you know, zero, it's almost -- how do you go from 25 to 0? So, the last 18 months, the number just came out this morning, zero. And people leaning left, you know what that means -- people leaning left do these reports. These tend to do so, you know, they'd like to -- but I'd rather have it be like 116 people than zero.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+3.6
+Flesch-Kincaid Ease
+95.7
+Gunning-Fog Score
+6
+Coleman-Liau Index
+6
+SMOG Index
+3.3
+Automated Readability Index
+3.5
+Dale-Chall Readability Score
+2.2
+Sprache Readability Score
+3
+Dale-Chall Difficult Word Score
+7
+Sprache Difficult Word Count
+7
+Donald Trump
+00:34:34-00:34:49 (15 sec)
+Medium (1.601)
+I'd rather have it be 203. I'd rather have it be a number, because zero is almost hard to believe, right? When you say zero but the number is actually -- you can ask the fake news behind you -- the number is actually zero. [Audience boos]
+Sentiment
+Topics
+Topic:
+Arts, Culture, Entertainment and Media > Mass Media
+Score:
+0.651
+Code:
+20000045
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000045
+Wikidata_id:
+Q11033
+Wikidata_label:
+mass media
+Source:
+IPTC Media
+Topic:
+Crime, Law and Justice > Crime > Fraud
+Score:
+0.536
+Code:
+20000097
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000097
+Wikidata_id:
+Q28813
+Wikidata_label:
+fraud
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Products and Services > Media and Entertainment Industry
+Score:
+0.536
+Code:
+20000304
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000304
+Wikidata_id:
+Q56611639
+Wikidata_label:
+media industry
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.536
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Society > Values > Ethics
+Score:
+0.536
+Code:
+20000814
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000814
+Wikidata_id:
+Q9465
+Wikidata_label:
+ethics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+6.5
+Flesch-Kincaid Ease
+74.2
+Gunning-Fog Score
+7.6
+Coleman-Liau Index
+6.6
+SMOG Index
+7.9
+Automated Readability Index
+3.7
+Dale-Chall Readability Score
+3.3
+Sprache Readability Score
+2.9
+Dale-Chall Difficult Word Score
+7
+Sprache Difficult Word Count
+6
+Donald Trump
+00:34:49-00:35:22 (33 sec)
+No Signal (0.007)
+Fake news, another one of our beautiful terms. No, you have you have some very fine people up there. I know them all; you have some very good people, about 4.7 percent. [Laughter] Not far from here in Houston, Texas, a beautiful 12-year-old, Jocelyn Nungaray, walked to a convenience store in 2024 and she was kidnaped, tied up, assaulted and horribly, horrifically murdered, murdered so violently we won't talk.
+Sentiment
+Topics
+Topic:
+Crime, Law and Justice > Crime
+Score:
+0.68
+Code:
+20000082
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000082
+Wikidata_id:
+Q83267
+Wikidata_label:
+crime
+Source:
+IPTC Media
+Topic:
+Crime, Law and Justice > Crime > Homicide
+Score:
+0.574
+Code:
+20000099
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000099
+Wikidata_id:
+Q149086
+Wikidata_label:
+homicide
+Source:
+IPTC Media
+Topic:
+Society > Immigration
+Score:
+0.536
+Code:
+20000771
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000771
+Wikidata_id:
+Q131288
+Wikidata_label:
+immigration
+Source:
+IPTC Media
+Topic:
+Society
+Score:
+0.531
+Code:
+14000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/14000000
+Wikidata_id:
+Q8425
+Wikidata_label:
+society
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+8.4
+Flesch-Kincaid Ease
+65.8
+Gunning-Fog Score
+11.6
+Coleman-Liau Index
+9.9
+SMOG Index
+12
+Automated Readability Index
+7.9
+Dale-Chall Readability Score
+4.3
+Sprache Readability Score
+4.2
+Dale-Chall Difficult Word Score
+15
+Sprache Difficult Word Count
+17
+Donald Trump
+00:35:22-00:35:53 (31 sec)
+Medium (1.88)
+Charged with this heinous crime are two illegal alien members of the Savage gang. They say the most violent gang in the world, Tren de Aragua animals who were released by the Dumocrats under policies that Talafreako fully supports and wants to reinstitute, think of it. And we're honored today -- I didn't realize this, but we're honored today to be joined by Jocelyn's beautiful mother, Alexis.
+Sentiment
+Topics
+Topic:
+Crime, Law and Justice > Crime
+Score:
+0.827
+Code:
+20000082
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000082
+Wikidata_id:
+Q83267
+Wikidata_label:
+crime
+Source:
+IPTC Media
+Topic:
+Society
+Score:
+0.515
+Code:
+14000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/14000000
+Wikidata_id:
+Q8425
+Wikidata_label:
+society
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+12
+Flesch-Kincaid Ease
+44.8
+Gunning-Fog Score
+14.3
+Coleman-Liau Index
+12
+SMOG Index
+12
+Automated Readability Index
+12
+Dale-Chall Readability Score
+6.1
+Sprache Readability Score
+5
+Dale-Chall Difficult Word Score
+21
+Sprache Difficult Word Count
+25
+Donald Trump
+00:35:53-00:36:05 (12 sec)
+No StressLens
+And I'd love to have Alexis come up and say a few words.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+3.1
+Flesch-Kincaid Ease
+96
+Gunning-Fog Score
+5.2
+Coleman-Liau Index
+3.2
+SMOG Index
+9
+Automated Readability Index
+0.3
+Dale-Chall Readability Score
+3.1
+Sprache Readability Score
+2.4
+Dale-Chall Difficult Word Score
+2
+Sprache Difficult Word Count
+2
+Alexis Nungaray
+00:36:05-00:36:36 (31 sec)
+No Signal (0)
+Hello, everybody, and good afternoon. I would like to take this opportunity to thank President Trump for keeping my daughter, Jocelyn Nungaray's, name alive, keeping and sharing her story, and proving that her death was not just a number. She was important and she was special. Currently, I am very limited as to what I can speak about until justice is served while my daughter's case is still open.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.63
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics > Government > Heads of State
+Score:
+0.574
+Code:
+20000610
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000610
+Wikidata_id:
+Q48352
+Wikidata_label:
+head of state
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+9.3
+Flesch-Kincaid Ease
+59.4
+Gunning-Fog Score
+10.4
+Coleman-Liau Index
+11.3
+SMOG Index
+11.3
+Automated Readability Index
+8.9
+Dale-Chall Readability Score
+4.3
+Sprache Readability Score
+4.1
+Dale-Chall Difficult Word Score
+15
+Sprache Difficult Word Count
+16
+Alexis Nungaray
+00:36:36-00:37:05 (29 sec)
+No Signal (0)
+I am forever grateful, though, to everyone who has taken the time to listen to my words throughout this journey, over these past two years. Those around the country have heard my daughter's name, they've seen her beautiful face, and they've had their hearts broken alongside with mine and my family. Everyone has seen their daughter, their sister, their granddaughter, their niece, even their younger versions of themselves in Jocelyn.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+10.9
+Flesch-Kincaid Ease
+58.7
+Gunning-Fog Score
+13.9
+Coleman-Liau Index
+12
+SMOG Index
+12
+Automated Readability Index
+12
+Dale-Chall Readability Score
+3.2
+Sprache Readability Score
+4.8
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+16
+Alexis Nungaray
+00:37:05-00:37:34 (29 sec)
+No Signal (0)
+She was a 12-year-old girl who had her entire life ahead of her, with dreams beyond her wildest imaginations. But it was cut devastatingly short because of the border policies we had due to the last previous administration. That administration failed Jocelyn. It is important for us to recognize how dire it is for us to protect ourselves, our families, and our children.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+9.1
+Flesch-Kincaid Ease
+58.9
+Gunning-Fog Score
+12
+Coleman-Liau Index
+11.2
+SMOG Index
+12
+Automated Readability Index
+8.3
+Dale-Chall Readability Score
+4.7
+Sprache Readability Score
+4
+Dale-Chall Difficult Word Score
+16
+Sprache Difficult Word Count
+17
+Alexis Nungaray
+00:37:34-00:38:05 (31 sec)
+No Signal (0)
+As much as I wish -- as much as I wish I could bring Jocelyn back, what I can do is I can share her story, I can speak up for the voices who were ripped away like Jocelyn's and save future lives. No parent should ever have to go through the grief that I'm going through and learn how to live life differently without your child.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+11.6
+Flesch-Kincaid Ease
+70.8
+Gunning-Fog Score
+13.8
+Coleman-Liau Index
+6.9
+SMOG Index
+10.3
+Automated Readability Index
+12
+Dale-Chall Readability Score
+3.3
+Sprache Readability Score
+5
+Dale-Chall Difficult Word Score
+7
+Sprache Difficult Word Count
+10
+Alexis Nungaray
+00:38:05-00:38:33 (28 sec)
+No StressLens
+Everyone who has voted on behalf of the tragedy my daughter has suffered, I thank you all tremendously. If you haven't voted yet, go out and vote. It's extremely important and it really does make a difference when you go out and vote. And most importantly, above all, I would like to thank our Lord Almighty, Jesus Christ, for giving me the strength to stand up here and speak to you all, to share her story and share her name.
+Sentiment
+Topics
+Topic:
+Religion > Belief Systems > Christianity
+Score:
+0.651
+Code:
+20000659
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000659
+Wikidata_id:
+Q5043
+Wikidata_label:
+Christianity
+Source:
+IPTC Media
+Topic:
+Religion
+Score:
+0.617
+Code:
+12000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/12000000
+Wikidata_id:
+Q9174
+Wikidata_label:
+religion
+Source:
+IPTC Media
+Topic:
+Religion > Belief Systems
+Score:
+0.51
+Code:
+20000657
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000657
+Wikidata_id:
+Q2728698
+Wikidata_label:
+religious belief
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+8.4
+Flesch-Kincaid Ease
+70.2
+Gunning-Fog Score
+11.5
+Coleman-Liau Index
+8.8
+SMOG Index
+11.8
+Automated Readability Index
+8.3
+Dale-Chall Readability Score
+3.4
+Sprache Readability Score
+4.6
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+19
+Alexis Nungaray
+00:38:33-00:38:41 (8 sec)
+No Signal (0)
+Long live Jocelyn Lisel Nungaray; she was a 12-year-old courageous girl, my daughter. She's changing the world just a little bit at a time. Thank you all so much.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+3.7
+Flesch-Kincaid Ease
+87.2
+Gunning-Fog Score
+5.4
+Coleman-Liau Index
+7.7
+SMOG Index
+9
+Automated Readability Index
+2.6
+Dale-Chall Readability Score
+3.1
+Sprache Readability Score
+2.4
+Dale-Chall Difficult Word Score
+5
+Sprache Difficult Word Count
+6
+Donald Trump
+00:38:41-00:38:44 (3 sec)
+No StressLens
+Thank you so much. So, horrible. Well, I promised -- thank you very much.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+2.4
+Flesch-Kincaid Ease
+85.3
+Gunning-Fog Score
+7.9
+Coleman-Liau Index
+8.1
+SMOG Index
+7.9
+Automated Readability Index
+0
+Dale-Chall Readability Score
+2.6
+Sprache Readability Score
+1.3
+Dale-Chall Difficult Word Score
+2
+Sprache Difficult Word Count
+2
+Note
+00:38:44-00:38:44 ( sec)
+No StressLens
+[A protester calls out, interrupting the event.]
+Sentiment
+Readability
+Flesch-Kincaid Grade
+Flesch-Kincaid Ease
+Gunning-Fog Score
+Coleman-Liau Index
+SMOG Index
+Automated Readability Index
+Dale-Chall Readability Score
+Sprache Readability Score
+Dale-Chall Difficult Word Score
+Sprache Difficult Word Count
+Donald Trump
+00:38:44-00:38:45 (1 sec)
+No StressLens
+So, I promised -- thank you. [Audience chants "USA"]
+Sentiment
+Readability
+Flesch-Kincaid Grade
+2.9
+Flesch-Kincaid Ease
+83.3
+Gunning-Fog Score
+10
+Coleman-Liau Index
+6.5
+SMOG Index
+9
+Automated Readability Index
+0
+Dale-Chall Readability Score
+3.4
+Sprache Readability Score
+1.3
+Dale-Chall Difficult Word Score
+1
+Sprache Difficult Word Count
+1
+Donald Trump
+00:38:45-00:39:43 (58 sec)
+No StressLens
+Thank you very much. I promised Alexis that I would deliver justice for Jocelyn and, since I took office, we've rounded up, arrested and deported thousands of Tren de Aragua gang members from Texas and all across the country. And we've obliterated their gang hideouts and terrorist compounds and unleashed our military to eliminate their leaders, and they've been eliminated.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Crime, Law and Justice > Crime
+Score:
+0.654
+Code:
+20000082
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000082
+Wikidata_id:
+Q83267
+Wikidata_label:
+crime
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.574
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Society > Immigration
+Score:
+0.536
+Code:
+20000771
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000771
+Wikidata_id:
+Q131288
+Wikidata_label:
+immigration
+Source:
+IPTC Media
+Topic:
+Society
+Score:
+0.533
+Code:
+14000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/14000000
+Wikidata_id:
+Q8425
+Wikidata_label:
+society
+Source:
+IPTC Media
+Topic:
+Politics > Government Policy > Migration Policy
+Score:
+0.516
+Code:
+20000634
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000634
+Wikidata_id:
+Q15064326
+Wikidata_label:
+immigration policy
+Source:
+IPTC Media
+Topic:
+Society > Emigration
+Score:
+0.512
+Code:
+20000772
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000772
+Wikidata_id:
+Q187668
+Wikidata_label:
+emigration
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+12
+Flesch-Kincaid Ease
+37.1
+Gunning-Fog Score
+15.3
+Coleman-Liau Index
+12
+SMOG Index
+12
+Automated Readability Index
+12
+Dale-Chall Readability Score
+6.5
+Sprache Readability Score
+5
+Dale-Chall Difficult Word Score
+21
+Sprache Difficult Word Count
+28
+Donald Trump
+00:39:43-00:40:16 (33 sec)
+No Signal (0.635)
+And in Jocelyn's -- in Jocelyn's honor, I officially renamed one of our nation's most beautiful wildlife preserves near Houston to the Jocelyn Nungaray National Wildlife Refuge. And it's beautiful. It's beautiful. So thank you, Alexis, and thank you very much. What a terrible situation that is. It should have never happened.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+8.1
+Flesch-Kincaid Ease
+52.2
+Gunning-Fog Score
+8.1
+Coleman-Liau Index
+12
+SMOG Index
+11.3
+Automated Readability Index
+6.7
+Dale-Chall Readability Score
+5.4
+Sprache Readability Score
+3
+Dale-Chall Difficult Word Score
+16
+Sprache Difficult Word Count
+16
+Donald Trump
+00:40:16-00:40:56 (40 sec)
+Medium (1.533)
+He should have never been allowed into our country. Ken Paxton fought to end the invasion, and as your Senator, he will vote to ensure it never, ever happens again. And you can count on it. It's not going to be like, oh, what are we getting? What are we getting with Ken? You know exactly. You're going to get somebody that's going to have our values.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.649
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.514
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+4
+Flesch-Kincaid Ease
+83.5
+Gunning-Fog Score
+6.2
+Coleman-Liau Index
+7.9
+SMOG Index
+8.1
+Automated Readability Index
+2.3
+Dale-Chall Readability Score
+2.4
+Sprache Readability Score
+3
+Dale-Chall Difficult Word Score
+8
+Sprache Difficult Word Count
+14
+Donald Trump
+00:40:56-00:41:19 (22 sec)
+No Signal (0.069)
+He's not going to be changing, he's not going to be saying, oh, let's go back to, you know, Second Amendment breakage and all of the things that you hear about from this other guy. But in breaking news, just last week, it was revealed that Ilhan Omar's name is not Ilhan Omar, the one she used to get elected and sworn into Congress.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.574
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Society
+Score:
+0.504
+Code:
+14000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/14000000
+Wikidata_id:
+Q8425
+Wikidata_label:
+society
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+12
+Flesch-Kincaid Ease
+64.6
+Gunning-Fog Score
+13.4
+Coleman-Liau Index
+7.8
+SMOG Index
+9
+Automated Readability Index
+12
+Dale-Chall Readability Score
+4.8
+Sprache Readability Score
+5
+Dale-Chall Difficult Word Score
+13
+Sprache Difficult Word Count
+16
+Donald Trump
+00:41:19-00:41:45 (27 sec)
+Weak (1.194)
+But rather it's an entirely different name, Ilhan Nur Saeed Elmi. And that last name is incredibly also the exact name of her brother Ahmed Nur Saeed Elmi, the person they said she married and had beautiful children with. Isn't that lovely? Lovely story, isn't it? When asked whether or not she married her brother, she said -- you heard that.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+6.2
+Flesch-Kincaid Ease
+72
+Gunning-Fog Score
+7.5
+Coleman-Liau Index
+10.6
+SMOG Index
+8.4
+Automated Readability Index
+5.7
+Dale-Chall Readability Score
+3.8
+Sprache Readability Score
+3.2
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+13
+Donald Trump
+00:41:45-00:42:10 (25 sec)
+Weak (1.464)
+When she -- they asked her, is it true that you married your brother? She said, not to my knowledge. They asked me that question a long time ago too about my sister, did you marry your sister? I said, no. I said, what? No, think of it, not -- she said -- you know that statements given by a lawyer, right?
+Sentiment
+Readability
+Flesch-Kincaid Grade
+2.6
+Flesch-Kincaid Ease
+93.6
+Gunning-Fog Score
+4.6
+Coleman-Liau Index
+6.5
+SMOG Index
+5.6
+Automated Readability Index
+1.4
+Dale-Chall Readability Score
+1.6
+Sprache Readability Score
+2.5
+Dale-Chall Difficult Word Score
+4
+Sprache Difficult Word Count
+8
+Donald Trump
+00:42:10-00:42:41 (31 sec)
+Weak (1.415)
+That's what a lawyer tells you to answer when you're guilty. Just say, not to my knowledge. Therefore, because she used a fake name to be sworn in, I assume she must immediately resign from Congress. Hear ye, hear ye, please inform the speaker of the House of Representatives, James Michael Johnson, that the Democrat Party has just conceded her seat.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+7.8
+Flesch-Kincaid Ease
+66.5
+Gunning-Fog Score
+8.7
+Coleman-Liau Index
+11
+SMOG Index
+10.3
+Automated Readability Index
+7.7
+Dale-Chall Readability Score
+4.6
+Sprache Readability Score
+4.1
+Dale-Chall Difficult Word Score
+15
+Sprache Difficult Word Count
+20
+Donald Trump
+00:42:41-00:43:12 (30 sec)
+No Signal (0.895)
+Ilhan Nur Saeed Elmi, her real name, has openly admitted to fraud, and she will not be legally allowed to be a member of that August body. I love it with Congress. You know, it's so beautiful when they take the big things, boom, boom, hear ye, hear ye. It's the coolest thing. When we do that state of the Union, how cool is it, right?
+Sentiment
+Topics
+Topic:
+Crime, Law and Justice > Crime
+Score:
+0.658
+Code:
+20000082
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000082
+Wikidata_id:
+Q83267
+Wikidata_label:
+crime
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+5.1
+Flesch-Kincaid Ease
+81.9
+Gunning-Fog Score
+8.3
+Coleman-Liau Index
+6.8
+SMOG Index
+9.5
+Automated Readability Index
+3.2
+Dale-Chall Readability Score
+3.8
+Sprache Readability Score
+3.7
+Dale-Chall Difficult Word Score
+13
+Sprache Difficult Word Count
+17
+Donald Trump
+00:43:12-00:43:35 (24 sec)
+No Signal (0.351)
+Especially the voices. I don't know if those voices -- they're great. They -- I don't know where the hell they got them. They could have gotten them from Hollywood. On occasion, they give us a different voice, and it's not quite the same. Voice is very important. Less than two years ago, the radical left Dumocrats handed us the dark age of America but we quickly turned it into the golden age of America.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+5.1
+Flesch-Kincaid Ease
+76.9
+Gunning-Fog Score
+6.4
+Coleman-Liau Index
+9.5
+SMOG Index
+9.7
+Automated Readability Index
+4
+Dale-Chall Readability Score
+3.3
+Sprache Readability Score
+3.2
+Dale-Chall Difficult Word Score
+13
+Sprache Difficult Word Count
+15
+Donald Trump
+00:43:35-00:44:25 (50 sec)
+No StressLens
+That's where we are right now. And no other president has ever accomplished so much in such a short period of time. And I did it because of you. Without you, would have not been -- you're the people -- you're the people that built our country. We've achieved the largest drop in violent crime ever recorded, with the murder rate at the lowest level in 125 years, not since 1990. And in much less than two years, because we're much less than two years, we secured commitments, as I said, for $22.2 trillion with a T, trillion dollars of new investments into the United States of America, the greatest amount of money ever invested to any country in the history of the world, by far.
+Sentiment
+Topics
+Topic:
+Crime, Law and Justice > Crime
+Score:
+0.551
+Code:
+20000082
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000082
+Wikidata_id:
+Q83267
+Wikidata_label:
+crime
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+8.7
+Flesch-Kincaid Ease
+69.2
+Gunning-Fog Score
+11.5
+Coleman-Liau Index
+8.8
+SMOG Index
+11.3
+Automated Readability Index
+8.6
+Dale-Chall Readability Score
+3.6
+Sprache Readability Score
+5
+Dale-Chall Difficult Word Score
+20
+Sprache Difficult Word Count
+28
+Donald Trump
+00:44:25-00:44:59 (34 sec)
+No Signal (0.819)
+And as I've said, we've got factories and plants being built all over the United States at levels that nobody thought was even possible if you go back two years ago. Apple is investing $60 billion here in Texas. Texas Instruments is investing $46 billion. And pharmaceutical company Bristol-Myers Squibb just announced it's investing $2.3 billion to build a state of the art campus in Houston.
+Sentiment
+Topics
+Topic:
+Economy, Business and Finance > Products and Services > Computing and Information Technology
+Score:
+0.68
+Code:
+20000225
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000225
+Wikidata_id:
+Q179310
+Wikidata_label:
+computing
+Source:
+IPTC Media
+Topic:
+Science and Technology
+Score:
+0.67
+Code:
+13000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/13000000
+Wikidata_id:
+Q34104
+Wikidata_label:
+science and technology
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Products and Services > Computing and Information Technology > Compu
+Score:
+0.574
+Code:
+20000226
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000226
+Wikidata_id:
+Q3966
+Wikidata_label:
+computer hardware
+Source:
+IPTC Media
+Topic:
+Science and Technology > Technology and Engineering > Electronic Engineering
+Score:
+0.536
+Code:
+20000761
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000761
+Wikidata_id:
+Q126095
+Wikidata_label:
+electronic engineering
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+9.4
+Flesch-Kincaid Ease
+57.3
+Gunning-Fog Score
+13.3
+Coleman-Liau Index
+11.3
+SMOG Index
+12
+Automated Readability Index
+8.7
+Dale-Chall Readability Score
+5.1
+Sprache Readability Score
+4.5
+Dale-Chall Difficult Word Score
+18
+Sprache Difficult Word Count
+22
+Donald Trump
+00:44:59-00:45:35 (36 sec)
+No Signal (0.895)
+Eli Lilly is investing 6.5 billion. Saranac is building a $3.2 billion shipyard, creating 10,000 jobs. And Toyota is investing $3.6 billion to move production from Mexico to right here in Texas, because of tariffs. Because of tariffs. Ted, will you please help these people understand? Without tariffs -- you know, I had the head of Texas Instruments come in to see me. He has a big investment, almost $50 billion, great company.
+Sentiment
+Topics
+Topic:
+Economy, Business and Finance > Economy
+Score:
+0.541
+Code:
+20000344
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000344
+Wikidata_id:
+Q159810
+Wikidata_label:
+economy
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Economy > Macro Economics > Tariff
+Score:
+0.528
+Code:
+20000384
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000384
+Wikidata_id:
+Q52389
+Wikidata_label:
+tariff
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+6.4
+Flesch-Kincaid Ease
+67.6
+Gunning-Fog Score
+10.7
+Coleman-Liau Index
+10.2
+SMOG Index
+11.6
+Automated Readability Index
+4.6
+Dale-Chall Readability Score
+5.3
+Sprache Readability Score
+3.3
+Dale-Chall Difficult Word Score
+22
+Sprache Difficult Word Count
+17
+Donald Trump
+00:45:35-00:45:55 (20 sec)
+No Signal (0.301)
+And he said, sir, I just want one promise from you. What is that? I think I knew the promise, actually. You're going to continue with the -- because if you don't, I've thrown $50 million -- $50 billion out of the window. You're going to continue with tariffs, aren't you? In other words, he's investing because he wants to not pay tariffs.
+Sentiment
+Topics
+Topic:
+Economy, Business and Finance > Economy
+Score:
+0.52
+Code:
+20000344
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000344
+Wikidata_id:
+Q159810
+Wikidata_label:
+economy
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+4
+Flesch-Kincaid Ease
+84.2
+Gunning-Fog Score
+8
+Coleman-Liau Index
+8.2
+SMOG Index
+9
+Automated Readability Index
+2.9
+Dale-Chall Readability Score
+2.6
+Sprache Readability Score
+2.8
+Dale-Chall Difficult Word Score
+8
+Sprache Difficult Word Count
+11
+Donald Trump
+00:45:55-00:46:19 (24 sec)
+No Signal (0.053)
+If some idiot comes in and terminates them, he will stop construction immediately and so will everybody else. And the $22.2 trillion will be down to maybe zero. And someday, somebody is going to realize that tariffs create wealth, they create jobs, and they don't allow the world to toy with you at all. And I ended wars because of that.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+7.8
+Flesch-Kincaid Ease
+66.5
+Gunning-Fog Score
+12
+Coleman-Liau Index
+9.6
+SMOG Index
+11.8
+Automated Readability Index
+6.5
+Dale-Chall Readability Score
+3.9
+Sprache Readability Score
+3.8
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+16
+Donald Trump
+00:46:19-00:46:43 (24 sec)
+No Signal (0.507)
+I ended wars because -- I ended eight wars, even though I didn't get the Nobel Prize. It was given instead to a woman that nobody ever heard of. Ladies and gentlemen, the winner of the Nobel Prize is, and they say, who the hell is that? I ended eight wars, but five of them were ended by the use of trade, like India and Pakistan.
+Sentiment
+Topics
+Topic:
+Science and Technology
+Score:
+0.536
+Code:
+13000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/13000000
+Wikidata_id:
+Q34104
+Wikidata_label:
+science and technology
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+6.7
+Flesch-Kincaid Ease
+75.8
+Gunning-Fog Score
+7.7
+Coleman-Liau Index
+7
+SMOG Index
+9
+Automated Readability Index
+5
+Dale-Chall Readability Score
+2.7
+Sprache Readability Score
+3.4
+Dale-Chall Difficult Word Score
+8
+Sprache Difficult Word Count
+10
+Donald Trump
+00:46:43-00:47:07 (24 sec)
+No Signal (0.743)
+I called up two great prime ministers and said, look, here's the story. If you go to war -- they already shot down 11 planes, 11 planes, but they were in the midst -- they were a week and a half in. Would you agree, Ted, that war was raging? And they're nuclear powers, it would have been terrible. And I said, if you go to war, if you keep doing this, I'm going to put 250 percent tariff on each of you, and you're never going to be able to do business in the United States.
+Sentiment
+Topics
+Topic:
+Economy, Business and Finance > Products and Services > Energy and Resource
+Score:
+0.67
+Code:
+20000256
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000256
+Wikidata_id:
+Q2151621
+Wikidata_label:
+energy industry
+Source:
+IPTC Media
+Topic:
+Science and Technology
+Score:
+0.67
+Code:
+13000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/13000000
+Wikidata_id:
+Q34104
+Wikidata_label:
+science and technology
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Products and Services > Energy and Resource > Nuclear Power
+Score:
+0.536
+Code:
+20000265
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000265
+Wikidata_id:
+Q12739
+Wikidata_label:
+nuclear power
+Source:
+IPTC Media
+Topic:
+Science and Technology > Natural Science > Physics
+Score:
+0.536
+Code:
+20000731
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000731
+Wikidata_id:
+Q413
+Wikidata_label:
+physics
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.524
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+5.5
+Flesch-Kincaid Ease
+89.6
+Gunning-Fog Score
+8.9
+Coleman-Liau Index
+5.8
+SMOG Index
+8.4
+Automated Readability Index
+5.3
+Dale-Chall Readability Score
+3.1
+Sprache Readability Score
+4.8
+Dale-Chall Difficult Word Score
+13
+Sprache Difficult Word Count
+22
+Donald Trump
+00:47:07-00:47:27 (20 sec)
+No Signal (0.643)
+No, no, no, you can't do it. I said, I'm going to do it. They might have been happy that I did it. Maybe it was an excuse for them not to fight. Who the hell wants to fight like that? But they immediately ended the war and the prime minister of Pakistan, highly respected man, said, President Donald Trump saved at least 30 million lives, at least.
+Sentiment
+Topics
+Topic:
+Politics > Government
+Score:
+0.681
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+3.8
+Flesch-Kincaid Ease
+88.3
+Gunning-Fog Score
+6.9
+Coleman-Liau Index
+7
+SMOG Index
+8.5
+Automated Readability Index
+2.5
+Dale-Chall Readability Score
+3.3
+Sprache Readability Score
+3.4
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+17
+Donald Trump
+00:47:27-00:48:06 (39 sec)
+Weak (1.229)
+So I didn't get the Nobel Prize, but I saved 30 million lives, so that's much better. And we just announced two massive natural gas power plants of $14 billion and of $22 billion right nearby. And less than two years ago, our country was a dead country. We had a dead country with a president that didn't have any clue what the hell he was doing, and a cabinet that was radical left, just like Tali-freako is. Now we're the hottest country anywhere in the world, not even a contest.
+Sentiment
+Topics
+Topic:
+Economy, Business and Finance > Products and Services > Energy and Resource
+Score:
+0.68
+Code:
+20000256
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000256
+Wikidata_id:
+Q2151621
+Wikidata_label:
+energy industry
+Source:
+IPTC Media
+Topic:
+Science and Technology
+Score:
+0.651
+Code:
+13000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/13000000
+Wikidata_id:
+Q34104
+Wikidata_label:
+science and technology
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Products and Services > Energy and Resource > Oil and Gas > Natural
+Score:
+0.574
+Code:
+20000263
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000263
+Wikidata_id:
+Q40858
+Wikidata_label:
+natural gas
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+7.4
+Flesch-Kincaid Ease
+75.1
+Gunning-Fog Score
+10.4
+Coleman-Liau Index
+7.7
+SMOG Index
+10
+Automated Readability Index
+6.6
+Dale-Chall Readability Score
+3.7
+Sprache Readability Score
+4.9
+Dale-Chall Difficult Word Score
+16
+Sprache Difficult Word Count
+24
+Donald Trump
+00:48:06-00:48:57 (51 sec)
+No StressLens
+And since the election, the stock market has set 88 all-times. So think of this, much less than two years, much less, three months less. It was January 20th, so it's much less than two years, 88 all-time record highs. And before you go to vote, you have to promise -- because most of you, many of you have 401(k)s. You have to take a look at your 401(k). And when you do that, you will vote 100 percent for Ken Paxton because he's of -- he's like us. You're up 64 percent, 58 percent, 59 percent, 71 percent.
+Sentiment
+Topics
+Topic:
+Science and Technology > Social Sciences > Economics
+Score:
+0.536
+Code:
+20000745
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000745
+Wikidata_id:
+Q8134
+Wikidata_label:
+economics
+Source:
+IPTC Media
+Topic:
+Labour
+Score:
+0.53
+Code:
+9000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/09000000
+Wikidata_id:
+Q268378
+Wikidata_label:
+work
+Source:
+IPTC Media
+Topic:
+Labour > Employment
+Score:
+0.521
+Code:
+20000509
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000509
+Wikidata_id:
+Q656365
+Wikidata_label:
+employment
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Economy
+Score:
+0.505
+Code:
+20000344
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000344
+Wikidata_id:
+Q159810
+Wikidata_label:
+economy
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+2.9
+Flesch-Kincaid Ease
+100
+Gunning-Fog Score
+6.2
+Coleman-Liau Index
+4.6
+SMOG Index
+6.3
+Automated Readability Index
+2.2
+Dale-Chall Readability Score
+3
+Sprache Readability Score
+3.4
+Dale-Chall Difficult Word Score
+15
+Sprache Difficult Word Count
+12
+Donald Trump
+00:48:57-00:49:24 (27 sec)
+No Signal (0.931)
+Biden was down 25 percent. He was down 25, we're up 70. Think of it. Unbelievable. So you have to go and take a look. Ken, would you make sure everyone looks at their 401(k) before deciding? Just in case they have any doubt, that should get them over the -- and the other thing that should get you over, a drug price, is drug prices are coming down at levels never seen before because of favored nations.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.63
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics > Government > Heads of State
+Score:
+0.574
+Code:
+20000610
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000610
+Wikidata_id:
+Q48352
+Wikidata_label:
+head of state
+Source:
+IPTC Media
+Topic:
+Politics > Government Policy > Taxation
+Score:
+0.542
+Code:
+20000620
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000620
+Wikidata_id:
+Q8161
+Wikidata_label:
+tax
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+3.4
+Flesch-Kincaid Ease
+90.3
+Gunning-Fog Score
+6
+Coleman-Liau Index
+6.9
+SMOG Index
+7
+Automated Readability Index
+2.3
+Dale-Chall Readability Score
+2.6
+Sprache Readability Score
+3.2
+Dale-Chall Difficult Word Score
+10
+Sprache Difficult Word Count
+14
+Donald Trump
+00:49:24-00:49:52 (29 sec)
+No Signal (0.504)
+We had the highest drug prices anywhere in the world, and now we have the lowest drug prices anywhere in the world. And Doc Ronnie, I'm the only one could have done that. And that alone should win us the midterms. The problem is the press doesn't cover it. You know, it's one of the biggest things ever -- I don't see any story about -- when are you people going to write about favored nations, OK? In other words, we get the lowest -- so we went from the highest price in the entire world to the lowest price.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+5.9
+Flesch-Kincaid Ease
+81.4
+Gunning-Fog Score
+7.3
+Coleman-Liau Index
+7.9
+SMOG Index
+6.6
+Automated Readability Index
+5.6
+Dale-Chall Readability Score
+3.9
+Sprache Readability Score
+4.1
+Dale-Chall Difficult Word Score
+19
+Sprache Difficult Word Count
+18
+Donald Trump
+00:49:52-00:50:11 (18 sec)
+No Signal (0.114)
+Now, I had to get nations to agree; do you think that was easy? But I used tariffs. I said if you don't agree, I'm going to charge you a 200 percent tariff and they all agreed. It wasn't that complicated, but nobody else could have done that. Under my leadership, income for hardworking Americans has soared to the highest level ever recorded.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.525
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Economy
+Score:
+0.522
+Code:
+20000344
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000344
+Wikidata_id:
+Q159810
+Wikidata_label:
+economy
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Economy > Macro Economics > Tariff
+Score:
+0.503
+Code:
+20000384
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000384
+Wikidata_id:
+Q52389
+Wikidata_label:
+tariff
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+6.6
+Flesch-Kincaid Ease
+70.5
+Gunning-Fog Score
+8.2
+Coleman-Liau Index
+9
+SMOG Index
+9.5
+Automated Readability Index
+4.7
+Dale-Chall Readability Score
+3.9
+Sprache Readability Score
+3.8
+Dale-Chall Difficult Word Score
+13
+Sprache Difficult Word Count
+20
+Donald Trump
+00:50:11-00:50:34 (23 sec)
+No Signal (0.186)
+More Americans are working today than at any time in the history of our country. The poverty rate has just reached its best and lowest level in American history. African American poverty, Hispanic American poverty, Asian American poverty, Native American poverty rates are at their best and lowest levels ever recorded.
+Sentiment
+Topics
+Topic:
+Society
+Score:
+0.702
+Code:
+14000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/14000000
+Wikidata_id:
+Q8425
+Wikidata_label:
+society
+Source:
+IPTC Media
+Topic:
+Society > Social Condition > Poverty
+Score:
+0.664
+Code:
+20000801
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000801
+Wikidata_id:
+Q10294
+Wikidata_label:
+poverty
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.536
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Science and Technology > Social Sciences > Economics
+Score:
+0.536
+Code:
+20000745
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000745
+Wikidata_id:
+Q8134
+Wikidata_label:
+economics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+12
+Flesch-Kincaid Ease
+23.7
+Gunning-Fog Score
+13.9
+Coleman-Liau Index
+12
+SMOG Index
+12
+Automated Readability Index
+11.4
+Dale-Chall Readability Score
+7
+Sprache Readability Score
+3.8
+Dale-Chall Difficult Word Score
+20
+Sprache Difficult Word Count
+13
+Donald Trump
+00:50:34-00:50:56 (22 sec)
+No Signal (0.714)
+Exports have just soared to the highest level in American history. OK, so, I just gave you the most jobs we've ever had, the highest income you've ever had, the best -- it's always tough because when you talk poverty, I hate talking because I wish there was no poverty. But the best poverty numbers we've ever had.
+Sentiment
+Topics
+Topic:
+Society > Social Condition > Poverty
+Score:
+0.551
+Code:
+20000801
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000801
+Wikidata_id:
+Q10294
+Wikidata_label:
+poverty
+Source:
+IPTC Media
+Topic:
+Science and Technology > Social Sciences > Economics
+Score:
+0.536
+Code:
+20000745
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000745
+Wikidata_id:
+Q8134
+Wikidata_label:
+economics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+8.6
+Flesch-Kincaid Ease
+67.3
+Gunning-Fog Score
+10.4
+Coleman-Liau Index
+9.3
+SMOG Index
+10.6
+Automated Readability Index
+8.1
+Dale-Chall Readability Score
+4.3
+Sprache Readability Score
+4
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+13
+Donald Trump
+00:50:56-00:50:59 (4 sec)
+No StressLens
+Remember Barack Hussein Obama when he said -- [Audience boos]
+Sentiment
+Readability
+Flesch-Kincaid Grade
+9.1
+Flesch-Kincaid Ease
+42.6
+Gunning-Fog Score
+2.8
+Coleman-Liau Index
+12
+SMOG Index
+11.3
+Automated Readability Index
+6.3
+Dale-Chall Readability Score
+7.1
+Sprache Readability Score
+1.8
+Dale-Chall Difficult Word Score
+3
+Sprache Difficult Word Count
+3
+Donald Trump
+00:50:59-00:51:27 (27 sec)
+No Signal (0.934)
+We will never be a manufacturing country again? Do you remember that? Barack -- Barack Hussein Obama? This guy, he talked about the global footprint, and then he'd hop on a 747 that was 35 years old and fly to Hawaii to play golf. Then he'd shoot 129, and he'd hop back on the plane and fly back in. But think of it, so you have the highest numbers, the best numbers.
+Sentiment
+Topics
+Topic:
+Politics > Government
+Score:
+0.709
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government > Heads of State
+Score:
+0.542
+Code:
+20000610
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000610
+Wikidata_id:
+Q48352
+Wikidata_label:
+head of state
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+4.3
+Flesch-Kincaid Ease
+85.2
+Gunning-Fog Score
+5.9
+Coleman-Liau Index
+6.7
+SMOG Index
+7.9
+Automated Readability Index
+2.5
+Dale-Chall Readability Score
+2.6
+Sprache Readability Score
+3.2
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+13
+Donald Trump
+00:51:27-00:51:49 (23 sec)
+No Signal (0.054)
+And these are the big picture numbers, most jobs ever, best poverty levels ever, best income levels ever, most things exported -- more exporting than any time. In other words, you make a product, you sell it, record level. And then what I do is say so, ladies and gentlemen, please vote for Ken Paxton. I'm leaving, there's nothing more.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.649
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Science and Technology > Social Sciences > Economics
+Score:
+0.536
+Code:
+20000745
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000745
+Wikidata_id:
+Q8134
+Wikidata_label:
+economics
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.514
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+7
+Flesch-Kincaid Ease
+71.4
+Gunning-Fog Score
+8.6
+Coleman-Liau Index
+10.1
+SMOG Index
+9
+Automated Readability Index
+6.7
+Dale-Chall Readability Score
+2.9
+Sprache Readability Score
+3.6
+Dale-Chall Difficult Word Score
+8
+Sprache Difficult Word Count
+14
+Donald Trump
+00:51:49-00:52:15 (26 sec)
+No Signal (0.757)
+There's really -- Now, I did that a couple of times, and our great chief of staff had a fit. Sir, the Secret Service said you were leaving early and they were going crazy. He's leaving ahead of schedule. No, but I could, because look, I gave you the best numbers, most jobs, best income, most exporting ever, most -- there's not a hell of a lot I can say; I could just say I'm leaving, bye.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+6.5
+Flesch-Kincaid Ease
+81.8
+Gunning-Fog Score
+8.6
+Coleman-Liau Index
+7
+SMOG Index
+7.3
+Automated Readability Index
+6.2
+Dale-Chall Readability Score
+2.4
+Sprache Readability Score
+4.3
+Dale-Chall Difficult Word Score
+7
+Sprache Difficult Word Count
+17
+Donald Trump
+00:52:15-00:52:54 (39 sec)
+Weak (1.388)
+What the hell can I do? And this morning, breaking news -- look, she thinks I'm leaving, actually. And this morning, in breaking news, consumer confidence is up a number that they've not seen for years and years. In just a short period of time, up 7.5 percent, one of the biggest rises they've ever seen. That's a big thing; that's a great compliment.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+4.9
+Flesch-Kincaid Ease
+82.6
+Gunning-Fog Score
+8.2
+Coleman-Liau Index
+9
+SMOG Index
+9
+Automated Readability Index
+4.7
+Dale-Chall Readability Score
+3.1
+Sprache Readability Score
+3.3
+Dale-Chall Difficult Word Score
+10
+Sprache Difficult Word Count
+14
+Donald Trump
+00:52:54-00:53:31 (36 sec)
+No Signal (0.674)
+And with our Republican Congress, I signed the Great Big, Beautiful Bill delivering the largest tax cuts in American history, including no tax on tips, no tax on overtime, no tax on Social Security for our great seniors. And we made interest on car loans tax deductible. So, if you borrow money to buy a car, but only if the car is made in America, we're not interested in -- And we made the largest ever investment in the US armed forces, over $1 trillion, much of it made in Texas.
+Sentiment
+Topics
+Topic:
+Politics > Government
+Score:
+0.58
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Science and Technology > Social Sciences > Economics
+Score:
+0.536
+Code:
+20000745
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000745
+Wikidata_id:
+Q8134
+Wikidata_label:
+economics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+12
+Flesch-Kincaid Ease
+47.6
+Gunning-Fog Score
+16.4
+Coleman-Liau Index
+8.7
+SMOG Index
+12
+Automated Readability Index
+12
+Dale-Chall Readability Score
+5.2
+Sprache Readability Score
+5
+Dale-Chall Difficult Word Score
+21
+Sprache Difficult Word Count
+25
+Donald Trump
+00:53:31-00:53:54 (23 sec)
+No Signal (0.891)
+And as I said, and very importantly, I got the Most Favored Nations agreements. They reduced the cost of drugs to numbers that nobody can believe. You know, in my first administration, I got the cost down -- think of this, I got the cost down by one eighth of a percent. It was the first one, one eighth of 1 percent.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+5.6
+Flesch-Kincaid Ease
+81.8
+Gunning-Fog Score
+8.7
+Coleman-Liau Index
+7.6
+SMOG Index
+9
+Automated Readability Index
+5
+Dale-Chall Readability Score
+3.1
+Sprache Readability Score
+3.4
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+11
+Donald Trump
+00:53:54-00:54:18 (24 sec)
+No Signal (0.939)
+And I was so proud because for 28 years, it never came down. This one from January to December, and now I have them down 90 percent, 80 percent, 75 percent. So, starting on day one of my administration, we abolished all discriminatory diversity, equity and inclusion policies throughout the federal government.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.536
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+10.9
+Flesch-Kincaid Ease
+47.7
+Gunning-Fog Score
+13.9
+Coleman-Liau Index
+11.5
+SMOG Index
+12
+Automated Readability Index
+9.1
+Dale-Chall Readability Score
+5.4
+Sprache Readability Score
+3.9
+Dale-Chall Difficult Word Score
+15
+Sprache Difficult Word Count
+14
+Donald Trump
+00:54:18-00:54:41 (23 sec)
+Weak (1.342)
+We got critical race theory and transgender insanity; we got it the hell out of our schools. You know, come to think -- we also got school choice for you. That was a big deal; Ted was driving me crazy. They were all driving me crazy; they want school choice, we got school choice, right? I called up the state Senate, and they were great.
+Sentiment
+Topics
+Topic:
+Education
+Score:
+0.673
+Code:
+5000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/05000000
+Wikidata_id:
+Q8434
+Wikidata_label:
+education
+Source:
+IPTC Media
+Topic:
+Education > School
+Score:
+0.546
+Code:
+20000400
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000400
+Wikidata_id:
+Q3914
+Wikidata_label:
+school
+Source:
+IPTC Media
+Topic:
+Science and Technology
+Score:
+0.539
+Code:
+13000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/13000000
+Wikidata_id:
+Q34104
+Wikidata_label:
+science and technology
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.536
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+4
+Flesch-Kincaid Ease
+89.4
+Gunning-Fog Score
+7.6
+Coleman-Liau Index
+8.1
+SMOG Index
+8.4
+Automated Readability Index
+4.1
+Dale-Chall Readability Score
+2.9
+Sprache Readability Score
+3.3
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+13
+Donald Trump
+00:54:41-00:55:07 (26 sec)
+No Signal (0.598)
+They were about 15 votes short. I called them all, you got school choice, enjoy it. And we made English the official language of the United States of America. And importantly, our country is doing so well under Republican leadership that only I can make this promise to you. You know what it's going to be -- to cut short, you're going to get $5,000 if we win.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.564
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+5
+Flesch-Kincaid Ease
+83.5
+Gunning-Fog Score
+7.2
+Coleman-Liau Index
+7.7
+SMOG Index
+9.5
+Automated Readability Index
+4.2
+Dale-Chall Readability Score
+2.8
+Sprache Readability Score
+3.6
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+16
+Donald Trump
+00:55:07-00:55:30 (23 sec)
+No Signal (0.561)
+I don't have to go over the whole thing. You get $5,000 if we win. If we win, the Republicans win the House and the Senate, you get $5,000. And only Republicans can do it because the Democrats, they can't even think about it, because we're taking in massive amounts of money through tariffs and record setting economic success.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.586
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.528
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+6.4
+Flesch-Kincaid Ease
+76.2
+Gunning-Fog Score
+6.8
+Coleman-Liau Index
+7.9
+SMOG Index
+9
+Automated Readability Index
+5.2
+Dale-Chall Readability Score
+2.8
+Sprache Readability Score
+3.5
+Dale-Chall Difficult Word Score
+8
+Sprache Difficult Word Count
+12
+Donald Trump
+00:55:30-00:55:45 (15 sec)
+No Signal (0.502)
+But the Democrat policies are so bad that they won't allow it to happen. In fact, if they do the kind of things they're talking about, the Democrats will cause a 1929 style economic depression, that's my opinion. [Audience boos]
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.642
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+8.9
+Flesch-Kincaid Ease
+65.1
+Gunning-Fog Score
+11.8
+Coleman-Liau Index
+9.4
+SMOG Index
+12
+Automated Readability Index
+8.3
+Dale-Chall Readability Score
+4.3
+Sprache Readability Score
+3.7
+Dale-Chall Difficult Word Score
+8
+Sprache Difficult Word Count
+9
+Donald Trump
+00:55:45-00:56:09 (24 sec)
+Weak (1.168)
+So, if the Republicans win, you each have $5,000 in your pocket and economic success for our country, the likes of which we have never seen. We are doing -- you know, we had one of the most -- the most successful economies in history in my first term. I believe we're going to blow it away. I think we're going to blow it away.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+5.8
+Flesch-Kincaid Ease
+82.2
+Gunning-Fog Score
+8.9
+Coleman-Liau Index
+6.5
+SMOG Index
+9.7
+Automated Readability Index
+4.5
+Dale-Chall Readability Score
+2.3
+Sprache Readability Score
+3.5
+Dale-Chall Difficult Word Score
+6
+Sprache Difficult Word Count
+11
+Donald Trump
+00:56:09-00:56:29 (20 sec)
+Weak (1.224)
+We set records; we had a phenomenal first term. We did Space Force, a lot of it right here. We did Space Force, we did -- we rebuilt the military. We rebuilt the military. Then Biden gave a lot of it away; he could have charged them something. You know, it's Europe, they can pay. When I came in, the first thing I said is you've got to pay and they agreed.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+3.3
+Flesch-Kincaid Ease
+89.3
+Gunning-Fog Score
+6.3
+Coleman-Liau Index
+6.4
+SMOG Index
+7.6
+Automated Readability Index
+1.4
+Dale-Chall Readability Score
+3.2
+Sprache Readability Score
+3
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+13
+Donald Trump
+00:56:29-00:56:55 (26 sec)
+No Signal (0.254)
+You know how long it took? Fellas, look, you've got to pay. We're sending you all these missiles, you've got to pay. OK. I said, is that all? They agreed to pay. They pay us billions and billions, and they give the weapons to Ukraine, I guess, or somebody, but they pay us. Biden could have asked. He gave them $350 billion and we never got anything for it, other than they think we're stupid.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Conflict, War and Peace
+Score:
+0.67
+Code:
+16000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/16000000
+Wikidata_id:
+Q198
+Wikidata_label:
+war
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.574
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Conflict, War and Peace > Armed Conflict
+Score:
+0.536
+Code:
+20000056
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000056
+Wikidata_id:
+Q350604
+Wikidata_label:
+armed conflict
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+2.6
+Flesch-Kincaid Ease
+91.2
+Gunning-Fog Score
+6
+Coleman-Liau Index
+7.2
+SMOG Index
+7.5
+Automated Readability Index
+1.1
+Dale-Chall Readability Score
+4
+Sprache Readability Score
+3
+Dale-Chall Difficult Word Score
+17
+Sprache Difficult Word Count
+16
+Donald Trump
+00:56:55-00:57:28 (33 sec)
+No Signal (0.51)
+And remember, just recently I gave all members of the United States military $1,776, and everyone said that that couldn't be done and I did it. So, you know, they say, oh, he won't be able to do that, he'll never do that, he says -- I don't say. You know, promises made. So, here's the thing, that one reporter right back there said to me -- said to somebody the other day, because it was written about -- that, whether you like Trump or not, he actually delivered more things than he promised.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.658
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+9.3
+Flesch-Kincaid Ease
+69.5
+Gunning-Fog Score
+13.5
+Coleman-Liau Index
+7.6
+SMOG Index
+12
+Automated Readability Index
+8.8
+Dale-Chall Readability Score
+2.7
+Sprache Readability Score
+4.8
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+17
+Donald Trump
+00:57:28-00:57:52 (24 sec)
+No Signal (0.579)
+I didn't promise you a lot of the things -- I didn't promise you a lot of the things that you're talking about. I didn't promise you this kind of economic success. I didn't promise you $22.2 trillion will be invested in this country. Think of it, China 10 years ago did $3 trillion, that's fantastic, by the way.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+6.3
+Flesch-Kincaid Ease
+75.4
+Gunning-Fog Score
+9.2
+Coleman-Liau Index
+7.5
+SMOG Index
+9.7
+Automated Readability Index
+4.5
+Dale-Chall Readability Score
+2.6
+Sprache Readability Score
+3.1
+Dale-Chall Difficult Word Score
+7
+Sprache Difficult Word Count
+8
+Donald Trump
+00:57:52-00:58:39 (47 sec)
+No Signal (0.871)
+We're doing this year $22.2 trillion over the last 15, 16 months. You know what Biden did for four years? One-half of a trillion. So, he did one-half of a trillion. In four years, we did $22.2 trillion in 15 months. Amazing. But the $5,000 Trump dividend, the only thing I want you to do, and if you're married, you get $10,000. The only thing you have to, and you have to -- when you go on vacation, when you spend your money, you have to spend it not in France, it's a beautiful place.
+Sentiment
+Topics
+Topic:
+Politics > Government
+Score:
+0.693
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+2.6
+Flesch-Kincaid Ease
+98.6
+Gunning-Fog Score
+8.2
+Coleman-Liau Index
+4.6
+SMOG Index
+9
+Automated Readability Index
+1
+Dale-Chall Readability Score
+2.4
+Sprache Readability Score
+3
+Dale-Chall Difficult Word Score
+11
+Sprache Difficult Word Count
+11
+Donald Trump
+00:58:39-00:59:06 (27 sec)
+No Signal (0.931)
+Don't go to France unless you like revolution. You're better off going out to see Les Mis, it was also about the French. I think the French are extremely good at revolution, actually. Right? What do you think, Dan, our great lieutenant governor? The chairman of my campaign from day one, right? Stand up anyway, Dan, what the hell?
+Sentiment
+Readability
+Flesch-Kincaid Grade
+4.3
+Flesch-Kincaid Ease
+79.3
+Gunning-Fog Score
+8.1
+Coleman-Liau Index
+9.8
+SMOG Index
+9
+Automated Readability Index
+3.3
+Dale-Chall Readability Score
+4.7
+Sprache Readability Score
+3.1
+Dale-Chall Difficult Word Score
+16
+Sprache Difficult Word Count
+17
+Donald Trump
+00:59:06-00:59:24 (17 sec)
+No Signal (0.527)
+Made a good speech. The chairman from day one. He said are you really going to do this? I said, yeah. He said, I'd love to be chairman of your campaign. I said congratulations, and we've had a great relationship, right? But the only caveat is that the Trump dividend, it has -- you have to spend the money in the United States.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.658
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+3.3
+Flesch-Kincaid Ease
+87.3
+Gunning-Fog Score
+6.1
+Coleman-Liau Index
+7.8
+SMOG Index
+8.1
+Automated Readability Index
+1.9
+Dale-Chall Readability Score
+3.2
+Sprache Readability Score
+3
+Dale-Chall Difficult Word Score
+11
+Sprache Difficult Word Count
+15
+Donald Trump
+00:59:24-00:59:49 (25 sec)
+No Signal (0.899)
+Go to Florida, go to any one of our great places. You could even come to Mar-a-Lago. I said it the other night, you'll be my guest at Mar-a-Lago. The problem is that for $5,000, the most you'll be able to buy is a hamburger and maybe a small dessert. [Laughter] I don't -- I'm not even sure you could buy that.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+3.6
+Flesch-Kincaid Ease
+92.1
+Gunning-Fog Score
+5.8
+Coleman-Liau Index
+3.7
+SMOG Index
+6.9
+Automated Readability Index
+0.6
+Dale-Chall Readability Score
+2.8
+Sprache Readability Score
+2.9
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+8
+Donald Trump
+00:59:49-01:00:17 (28 sec)
+No Signal (0.737)
+No, don't go there, that's not a good place if you're price conscious. The choice in this election is very simple. You can vote for the radical left Dumocrat Communists to loot your wealth, raise your taxes by $5 trillion, annihilate your borders, decimate Texas oil and gas, mutilate your children, and give 25 million illegal aliens amnesty and the right to vote.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Conflict, War and Peace > Armed Conflict > War > Civil War
+Score:
+0.574
+Code:
+20000063
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000063
+Wikidata_id:
+Q8465
+Wikidata_label:
+civil war
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.574
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Conflict, War and Peace > Armed Conflict > War
+Score:
+0.513
+Code:
+20000062
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000062
+Wikidata_id:
+Q198
+Wikidata_label:
+war
+Source:
+IPTC Media
+Topic:
+Politics > Political Process > Political System > Democracy
+Score:
+0.504
+Code:
+20000654
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000654
+Wikidata_id:
+Q7174
+Wikidata_label:
+democracy
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+10
+Flesch-Kincaid Ease
+60.6
+Gunning-Fog Score
+14.7
+Coleman-Liau Index
+10.9
+SMOG Index
+12
+Automated Readability Index
+10.5
+Dale-Chall Readability Score
+5.1
+Sprache Readability Score
+5
+Dale-Chall Difficult Word Score
+16
+Sprache Difficult Word Count
+25
+Donald Trump
+01:00:17-01:00:33 (16 sec)
+Weak (1.026)
+What they're doing with the -- you know, for years, I just couldn't believe -- because they cheat so well, I figured they didn't have to do this. They're the greatest cheaters of elections, I think, in history, although Brazil is doing a pretty good job also, aren't they? Did you see that one? That was not nice.
+Sentiment
+Topics
+Topic:
+Education
+Score:
+0.575
+Code:
+5000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/05000000
+Wikidata_id:
+Q8434
+Wikidata_label:
+education
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+5.3
+Flesch-Kincaid Ease
+82.3
+Gunning-Fog Score
+7
+Coleman-Liau Index
+9
+SMOG Index
+7.3
+Automated Readability Index
+5.4
+Dale-Chall Readability Score
+3
+Sprache Readability Score
+3.3
+Dale-Chall Difficult Word Score
+8
+Sprache Difficult Word Count
+12
+Donald Trump
+01:00:33-01:00:55 (22 sec)
+No Signal (0.683)
+I mean, I was -- I didn't take sides, but I didn't like -- it didn't look too good. Or you can defeat the Dumocrat communists and vote for more money in your pockets, bigger paychecks for your families, lower taxes, less crime, a booming Texas economy, no amnesty for illegal aliens, but you must vote Republican.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.658
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Society > Immigration
+Score:
+0.536
+Code:
+20000771
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000771
+Wikidata_id:
+Q131288
+Wikidata_label:
+immigration
+Source:
+IPTC Media
+Topic:
+Society
+Score:
+0.531
+Code:
+14000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/14000000
+Wikidata_id:
+Q8425
+Wikidata_label:
+society
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+12
+Flesch-Kincaid Ease
+48.2
+Gunning-Fog Score
+15.4
+Coleman-Liau Index
+9.9
+SMOG Index
+12
+Automated Readability Index
+12
+Dale-Chall Readability Score
+5.4
+Sprache Readability Score
+5
+Dale-Chall Difficult Word Score
+14
+Sprache Difficult Word Count
+18
+Donald Trump
+01:00:55-01:01:23 (28 sec)
+Weak (1.142)
+You must vote for Paxton. Paxton. So every single Dumocrat in Congress voted against our tax cuts. They voted -- every single one, we didn't have one vote, Ted, right, not one. They voted against no tax on tips. They voted against no tax on overtime. They voted against no tax on Social Security for our great seniors.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+5.4
+Flesch-Kincaid Ease
+70.9
+Gunning-Fog Score
+6.1
+Coleman-Liau Index
+9.7
+SMOG Index
+8.6
+Automated Readability Index
+3.1
+Dale-Chall Readability Score
+4.3
+Sprache Readability Score
+2.6
+Dale-Chall Difficult Word Score
+14
+Sprache Difficult Word Count
+12
+Donald Trump
+01:01:23-01:01:54 (31 sec)
+No Signal (0.235)
+They voted against, in order to cheat, voter ID. They voted against, in order to cheat, proof of citizenship. They voted against securing the border. They wanted people to come in. They want open borders. This guy wants open borders. This Tali-freako guy wants open borders. That's why he's a freak. They voted in favor of the worst inflation and highest energy costs in American history, in favor of the transgender mutilization of your children, and in favor of men playing in women's sports.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.574
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics > Election
+Score:
+0.538
+Code:
+20000574
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000574
+Wikidata_id:
+Q40231
+Wikidata_label:
+public election
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+6.7
+Flesch-Kincaid Ease
+63.9
+Gunning-Fog Score
+7.1
+Coleman-Liau Index
+11.3
+SMOG Index
+8.6
+Automated Readability Index
+5
+Dale-Chall Readability Score
+5.1
+Sprache Readability Score
+3.9
+Dale-Chall Difficult Word Score
+25
+Sprache Difficult Word Count
+26
+Donald Trump
+01:01:54-01:02:24 (30 sec)
+No Signal (0.766)
+Other than that, they're quite reasonable, I would say. So on election night, Texas is going to prove that America does not belong to those who hate it, America belongs to those who love it. And the only choice for proud patriots of Texas is the greatest attorney general in the history of your state, one of the greatest attorney generals in this country, a man I worked with.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+11
+Flesch-Kincaid Ease
+57.2
+Gunning-Fog Score
+13.8
+Coleman-Liau Index
+9.7
+SMOG Index
+12
+Automated Readability Index
+10.5
+Dale-Chall Readability Score
+3.9
+Sprache Readability Score
+4.7
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+15
+Donald Trump
+01:02:24-01:02:41 (17 sec)
+Medium (1.629)
+And I will tell you, he loves your state and he loves our country, a talented guy, Ken Paxton. Please come up.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.649
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.514
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+2.6
+Flesch-Kincaid Ease
+95.7
+Gunning-Fog Score
+6.2
+Coleman-Liau Index
+6.7
+SMOG Index
+7.3
+Automated Readability Index
+2.1
+Dale-Chall Readability Score
+2.7
+Sprache Readability Score
+2.4
+Dale-Chall Difficult Word Score
+3
+Sprache Difficult Word Count
+5
+Ken Paxton
+01:02:41-01:03:01 (20 sec)
+No Signal (0)
+Isn't he amazing? Mr. President, I am so grateful to have you here in Texas. You are making a difference not just for Texas, but he's traveling the country. I've never seen anybody work harder, and I am so appreciative. We are going to win. Get your friends out to vote, get your family out to vote, let's go win this.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+4.1
+Flesch-Kincaid Ease
+81.5
+Gunning-Fog Score
+7.4
+Coleman-Liau Index
+7.5
+SMOG Index
+8.6
+Automated Readability Index
+1.6
+Dale-Chall Readability Score
+2.8
+Sprache Readability Score
+2.9
+Dale-Chall Difficult Word Score
+9
+Sprache Difficult Word Count
+15
+Ken Paxton
+01:03:01-01:03:02 (1 sec)
+No StressLens
+God bless you.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+0
+Flesch-Kincaid Ease
+100
+Gunning-Fog Score
+1.2
+Coleman-Liau Index
+5.7
+SMOG Index
+3.3
+Automated Readability Index
+0
+Dale-Chall Readability Score
+5.4
+Sprache Readability Score
+1.2
+Dale-Chall Difficult Word Score
+1
+Sprache Difficult Word Count
+2
+Donald Trump
+01:03:02-01:03:31 (29 sec)
+Medium (1.54)
+He's a good man. He doesn't get treated fairly, but I will tell you, you don't find better, but he doesn't get treated fairly. Thank you, Ken. And at the request of Ken Paxton and Senator Ted Cruz, I'm pleased to announce that I will be making available more FEMA relief funds from this year's floods in Texas Hill Country.
+Sentiment
+Topics
+Topic:
+Disaster, Accident and Emergency Incident > Disaster
+Score:
+0.628
+Code:
+20000148
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000148
+Wikidata_id:
+Q3839081
+Wikidata_label:
+disaster
+Source:
+IPTC Media
+Topic:
+Disaster, Accident and Emergency Incident > Disaster > Natural Disaster
+Score:
+0.582
+Code:
+20000151
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000151
+Wikidata_id:
+Q8065
+Wikidata_label:
+natural disaster
+Source:
+IPTC Media
+Topic:
+Science and Technology > Natural Science > Meteorology
+Score:
+0.536
+Code:
+20000730
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000730
+Wikidata_id:
+Q25261
+Wikidata_label:
+meteorology
+Source:
+IPTC Media
+Topic:
+Weather
+Score:
+0.536
+Code:
+17000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/17000000
+Wikidata_id:
+Q11663
+Wikidata_label:
+weather
+Source:
+IPTC Media
+Topic:
+Disaster, Accident and Emergency Incident > Disaster > Natural Disaster > Meteorological Disaster >
+Score:
+0.525
+Code:
+20001280
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20001280
+Wikidata_id:
+Q34439356
+Wikidata_label:
+hurricane
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+5.8
+Flesch-Kincaid Ease
+80.2
+Gunning-Fog Score
+6.7
+Coleman-Liau Index
+8.6
+SMOG Index
+7.3
+Automated Readability Index
+5.6
+Dale-Chall Readability Score
+6
+Sprache Readability Score
+4.1
+Dale-Chall Difficult Word Score
+20
+Sprache Difficult Word Count
+20
+Donald Trump
+01:03:31-01:04:07 (36 sec)
+Weak (1.384)
+Right? So we'll work that out on Monday. So in a nutshell, Texas needs to get out and vote for your governor, and he's a good man, Governor Greg Abbott, Lieutenant Governor Dan Patrick, your next attorney general, Mayes Middleton, Representatives Monica de la Cruz, Ronny Jackson and Michael Cloud. And candidates for Congress, Eric Flores and Carlos de la Cruz.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.669
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.529
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+8.7
+Flesch-Kincaid Ease
+59.6
+Gunning-Fog Score
+8.7
+Coleman-Liau Index
+11.9
+SMOG Index
+12
+Automated Readability Index
+8.4
+Dale-Chall Readability Score
+8.5
+Sprache Readability Score
+4.9
+Dale-Chall Difficult Word Score
+30
+Sprache Difficult Word Count
+29
+Donald Trump
+01:04:07-01:04:55 (48 sec)
+No StressLens
+Eric Flores and Carlos de la Cruz. Thank you. They're great people. We're also pleased to be joined by Secretary of State Marco Rubio. He's so popular. Marco Rubio. Where is Marco? Where is he? We love Marco. Look, he's so humble. We love Marco. He's done a great job. You know, we'll drop him off and -- we're going to drop Marco off in Cuba.
+Sentiment
+Topics
+Topic:
+Politics > Government
+Score:
+0.701
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government > Heads of State
+Score:
+0.507
+Code:
+20000610
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000610
+Wikidata_id:
+Q48352
+Wikidata_label:
+head of state
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+2.2
+Flesch-Kincaid Ease
+88.5
+Gunning-Fog Score
+2.6
+Coleman-Liau Index
+7.2
+SMOG Index
+6.4
+Automated Readability Index
+0
+Dale-Chall Readability Score
+4.9
+Sprache Readability Score
+2.8
+Dale-Chall Difficult Word Score
+19
+Sprache Difficult Word Count
+19
+Donald Trump
+01:04:55-01:05:45 (51 sec)
+No StressLens
+Where is Marco? Come here. Come here, Marco. Marco, come up. Come on.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+0
+Flesch-Kincaid Ease
+100
+Gunning-Fog Score
+1
+Coleman-Liau Index
+6.7
+SMOG Index
+3.3
+Automated Readability Index
+0
+Dale-Chall Readability Score
+3.8
+Sprache Readability Score
+1.1
+Dale-Chall Difficult Word Score
+3
+Sprache Difficult Word Count
+1
+Marco Rubio
+01:05:45-01:06:03 (18 sec)
+No Signal (0)
+Thank you. It's an honor to work for the greatest country in the world, for the greatest president in the history of the United States of America. We love you, Texas. Thank you.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+4.1
+Flesch-Kincaid Ease
+80.5
+Gunning-Fog Score
+4.5
+Coleman-Liau Index
+8.8
+SMOG Index
+8.2
+Automated Readability Index
+2.4
+Dale-Chall Readability Score
+3.3
+Sprache Readability Score
+2.3
+Dale-Chall Difficult Word Score
+6
+Sprache Difficult Word Count
+8
+Donald Trump
+01:06:03-01:06:23 (19 sec)
+Medium (1.668)
+Oh, he's doing a good job. He's doing a great job. I said the other day, on the way back from Iran, we're going to drop him off in Cuba, he'll settle that one in about 15 minutes. We're going to parachute him in, just drop him and he'll figure it out. I also want to pay my highest respects to a couple of people.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+3.6
+Flesch-Kincaid Ease
+92.1
+Gunning-Fog Score
+5.8
+Coleman-Liau Index
+5.1
+SMOG Index
+5.8
+Automated Readability Index
+1.8
+Dale-Chall Readability Score
+2.6
+Sprache Readability Score
+3.1
+Dale-Chall Difficult Word Score
+8
+Sprache Difficult Word Count
+11
+Donald Trump
+01:06:23-01:06:55 (32 sec)
+Weak (1.37)
+They're doing a great, incredible job. Secretary of Commerce Howard Lutnick. Howard, thank you very much. Special envoy Steve Witkoff, who is making tremendous progress. Thank you, Steve. Thank you, Steve. One of our real superstars, EPA administrator Lee Zeldin. Very strong on the environment, but he also gets the approval so they can build those plants really fast and we appreciate.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.658
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Conflict, War and Peace
+Score:
+0.536
+Code:
+16000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/16000000
+Wikidata_id:
+Q198
+Wikidata_label:
+war
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+6.7
+Flesch-Kincaid Ease
+61.2
+Gunning-Fog Score
+8.9
+Coleman-Liau Index
+12
+SMOG Index
+9.3
+Automated Readability Index
+6
+Dale-Chall Readability Score
+6.2
+Sprache Readability Score
+3.4
+Dale-Chall Difficult Word Score
+23
+Sprache Difficult Word Count
+22
+Donald Trump
+01:06:55-01:07:24 (29 sec)
+Medium (1.741)
+He's really incredible. He's an incredible guy. Uh, again, I introduce him, but I have to because he's -- he's just a smart guy who does a terrific job. He loves your state, he loves our country, Senator Ted Cruz. Thank you, Ted, for being here, hard worker. Thank you, Ted. Great job. State Representative Todd Hunter.
+Sentiment
+Topics
+Topic:
+Politics > Government
+Score:
+0.709
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Crime, Law and Justice > Judiciary > Court
+Score:
+0.575
+Code:
+20000107
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000107
+Wikidata_id:
+Q41487
+Wikidata_label:
+court
+Source:
+IPTC Media
+Topic:
+Politics > Government > Heads of State
+Score:
+0.542
+Code:
+20000610
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000610
+Wikidata_id:
+Q48352
+Wikidata_label:
+head of state
+Source:
+IPTC Media
+Topic:
+Arts, Culture, Entertainment and Media > Mass Media > Television
+Score:
+0.536
+Code:
+20000051
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000051
+Wikidata_id:
+Q289
+Wikidata_label:
+television
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+4
+Flesch-Kincaid Ease
+78.9
+Gunning-Fog Score
+6.4
+Coleman-Liau Index
+9.4
+SMOG Index
+8.6
+Automated Readability Index
+2.3
+Dale-Chall Readability Score
+3.7
+Sprache Readability Score
+2.7
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+15
+Donald Trump
+01:07:24-01:07:56 (32 sec)
+Weak (1.002)
+Todd, thank you, good job. Texas GOP Chair Dorinda Randall. Thank you. Good job. Thank you. And two homegrown Texas football legends, two time Super Bowl winner wide receiver, Danny Amendola. Danny's a serious player. Where is Danny? What a good job you've done, 12 years. Anybody can do that for 12 years.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+3.4
+Flesch-Kincaid Ease
+80.1
+Gunning-Fog Score
+5.1
+Coleman-Liau Index
+10
+SMOG Index
+7.7
+Automated Readability Index
+1.9
+Dale-Chall Readability Score
+5
+Sprache Readability Score
+2.9
+Dale-Chall Difficult Word Score
+16
+Sprache Difficult Word Count
+19
+Donald Trump
+01:07:56-01:08:25 (30 sec)
+Weak (1.113)
+And the first freshman to win the Heisman Trophy in college football, I watch that a lot, Johnny Manziel. Johnny. I didn't know you were a freshman. You were a freshman? That's pretty good. Thank you, fellas, very much, great -- great athletes. Everyone here today is part of the greatest movement in the history of our country and our spirit -- I really believe our country has never done better.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+5.2
+Flesch-Kincaid Ease
+75.4
+Gunning-Fog Score
+5.7
+Coleman-Liau Index
+10.5
+SMOG Index
+7
+Automated Readability Index
+4.6
+Dale-Chall Readability Score
+3.2
+Sprache Readability Score
+3.1
+Dale-Chall Difficult Word Score
+12
+Sprache Difficult Word Count
+15
+Donald Trump
+01:08:25-01:08:47 (22 sec)
+No Signal (0.337)
+It's going to be -- you'll see it very soon, especially, but it's never done better. It's never been stronger. We're strong, we're brave, we're respected again. Our country was laughed at by everybody in the world, where they don't laugh at us anymore. It's stronger than ever. And I thought I'd send -- you know, because they were done by CNN, and they're really sort of amazing because CNN did them.
+Sentiment
+Topics
+Topic:
+Arts, Culture, Entertainment and Media > Mass Media > Radio
+Score:
+0.536
+Code:
+20000050
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000050
+Wikidata_id:
+Q273623
+Wikidata_label:
+radio broadcasting
+Source:
+IPTC Media
+Topic:
+Arts, Culture, Entertainment and Media > Mass Media > Television
+Score:
+0.536
+Code:
+20000051
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000051
+Wikidata_id:
+Q289
+Wikidata_label:
+television
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+5.1
+Flesch-Kincaid Ease
+79
+Gunning-Fog Score
+8.1
+Coleman-Liau Index
+9.6
+SMOG Index
+9
+Automated Readability Index
+4.7
+Dale-Chall Readability Score
+3.1
+Sprache Readability Score
+3.3
+Dale-Chall Difficult Word Score
+11
+Sprache Difficult Word Count
+15
+Donald Trump
+01:08:47-01:08:54 (7 sec)
+No Signal (0.265)
+They have to be credible when they're positive. So I thought I'd put them up. Uh, take a look at these two charts, please. Thank you.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+0.6
+Flesch-Kincaid Ease
+100
+Gunning-Fog Score
+5.7
+Coleman-Liau Index
+6.8
+SMOG Index
+7.3
+Automated Readability Index
+0
+Dale-Chall Readability Score
+2.8
+Sprache Readability Score
+1.9
+Dale-Chall Difficult Word Score
+4
+Sprache Difficult Word Count
+6
+Note
+01:08:54-01:08:54 ( sec)
+No StressLens
+[Begin video clip]
+Sentiment
+Readability
+Flesch-Kincaid Grade
+Flesch-Kincaid Ease
+Gunning-Fog Score
+Coleman-Liau Index
+SMOG Index
+Automated Readability Index
+Dale-Chall Readability Score
+Sprache Readability Score
+Dale-Chall Difficult Word Score
+Sprache Difficult Word Count
+Unidentified
+01:08:54-01:09:15 (21 sec)
+No Signal (0)
+[Video clip] Okay. MAGA GOP on Trump. In the 2024 election versus Kamala Harris, he got 99% of the MAGA GOP vote. Perhaps surprisingly, I might have thought it'd be 100%, but it was 99%. Compare that to his approval rating now with the MAGA GOP. It's 98%. That is, there's been no real decline in MAGA support.
+Sentiment
+Topics
+Topic:
+Politics > Government
+Score:
+0.717
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government > Heads of State
+Score:
+0.574
+Code:
+20000610
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000610
+Wikidata_id:
+Q48352
+Wikidata_label:
+head of state
+Source:
+IPTC Media
+Topic:
+Politics > Political Process > Political System > Democracy
+Score:
+0.574
+Code:
+20000654
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000654
+Wikidata_id:
+Q7174
+Wikidata_label:
+democracy
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+2.9
+Flesch-Kincaid Ease
+88.4
+Gunning-Fog Score
+5.3
+Coleman-Liau Index
+6.4
+SMOG Index
+7.6
+Automated Readability Index
+0.3
+Dale-Chall Readability Score
+6
+Sprache Readability Score
+3
+Dale-Chall Difficult Word Score
+20
+Sprache Difficult Word Count
+17
+Unidentified
+01:09:15-01:09:32 (17 sec)
+No Signal (0)
+[Video clip] These folks say that they're gonna vote for congressional Republicans come the midterm elections. Again, that's the 99% that Trump got against Kamala Harris. Look now, in terms of the congressional vote, 98% of them say they're gonna be voting for House Republican candidates. So that support is actually really holding up strong.
+Sentiment
+Topics
+Topic:
+Politics > Government
+Score:
+0.693
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+8.7
+Flesch-Kincaid Ease
+56.1
+Gunning-Fog Score
+9.8
+Coleman-Liau Index
+12
+SMOG Index
+11.8
+Automated Readability Index
+8.5
+Dale-Chall Readability Score
+5.4
+Sprache Readability Score
+3.7
+Dale-Chall Difficult Word Score
+16
+Sprache Difficult Word Count
+18
+Unidentified
+01:09:32-01:10:02 (30 sec)
+No Signal (0)
+[Video clip] It's really, really strong when it comes to MAGA GOP and the Republicans holding onto that vote. This one. Okay, the president Republicans most admire, it's Donald Trump. This is a historic comparison. A majority of Republicans say, 53% say he's the Republican president they most admire. Ronald Reagan, who traditionally has won that much, Donald Trump nearly triples up on this, Reagan at just 18%, and then Abraham Lincoln, who, by most historic accounts, is the greatest president of all time.
+Sentiment
+Topics
+Topic:
+Politics > Government
+Score:
+0.724
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.687
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government > Heads of State
+Score:
+0.601
+Code:
+20000610
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000610
+Wikidata_id:
+Q48352
+Wikidata_label:
+head of state
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+8.6
+Flesch-Kincaid Ease
+57.8
+Gunning-Fog Score
+8.9
+Coleman-Liau Index
+12
+SMOG Index
+11.3
+Automated Readability Index
+7.8
+Dale-Chall Readability Score
+6.1
+Sprache Readability Score
+4.4
+Dale-Chall Difficult Word Score
+28
+Sprache Difficult Word Count
+25
+Unidentified
+01:10:02-01:10:15 (13 sec)
+No Signal (0)
+[Video clip] But Republicans say that the president that they most admire by, what is this, is this is six, seven times as many, Donald John Trump at 53%, easily crushing Abe Lincoln at 8%. And the Elon Poll showed that he was the greatest president as well, Donald Trump.
+Sentiment
+Topics
+Topic:
+Politics
+Score:
+0.683
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Government
+Score:
+0.633
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics > Government > Heads of State
+Score:
+0.588
+Code:
+20000610
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000610
+Wikidata_id:
+Q48352
+Wikidata_label:
+head of state
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+9.3
+Flesch-Kincaid Ease
+71.4
+Gunning-Fog Score
+10.4
+Coleman-Liau Index
+8.6
+SMOG Index
+9
+Automated Readability Index
+10.1
+Dale-Chall Readability Score
+6.5
+Sprache Readability Score
+4.7
+Dale-Chall Difficult Word Score
+16
+Sprache Difficult Word Count
+14
+Unidentified
+01:10:15-01:10:18 (3 sec)
+No StressLens
+[Video clip] I feel like this slide might end up on a printout on his desk.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+2.5
+Flesch-Kincaid Ease
+100
+Gunning-Fog Score
+5.6
+Coleman-Liau Index
+4.4
+SMOG Index
+3.3
+Automated Readability Index
+1.7
+Dale-Chall Readability Score
+1.8
+Sprache Readability Score
+2.4
+Dale-Chall Difficult Word Score
+1
+Sprache Difficult Word Count
+1
+Note
+01:10:18-01:10:18 ( sec)
+No StressLens
+[End video clip]
+Sentiment
+Readability
+Flesch-Kincaid Grade
+Flesch-Kincaid Ease
+Gunning-Fog Score
+Coleman-Liau Index
+SMOG Index
+Automated Readability Index
+Dale-Chall Readability Score
+Sprache Readability Score
+Dale-Chall Difficult Word Score
+Sprache Difficult Word Count
+Donald Trump
+01:10:18-01:10:56 (38 sec)
+No Signal (0.937)
+Thank you. Thank you. Thank you very much. Such an honor. Thank you. Thank you, CNN. In conclusion, if you elect a Republican House and a Republican Senate on November 3rd, we will continue to put America first every single day. We will win the war on corruption and fraud and what a war this has been. And it's been led, as you know, by our great Vice President JD Vance, who's done a fantastic job.
+Sentiment
+Topics
+Topic:
+Politics > Government
+Score:
+0.693
+Code:
+20000593
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000593
+Wikidata_id:
+Q7188
+Wikidata_label:
+government
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.68
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Politics > Election
+Score:
+0.516
+Code:
+20000574
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000574
+Wikidata_id:
+Q40231
+Wikidata_label:
+public election
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+3.7
+Flesch-Kincaid Ease
+83.6
+Gunning-Fog Score
+6
+Coleman-Liau Index
+8
+SMOG Index
+9
+Automated Readability Index
+1.8
+Dale-Chall Readability Score
+4
+Sprache Readability Score
+3.2
+Dale-Chall Difficult Word Score
+17
+Sprache Difficult Word Count
+19
+Donald Trump
+01:10:56-01:11:16 (20 sec)
+No Signal (0.711)
+And we will pass the No Invasion of our Country Act, prohibiting any future president from ever opening our borders to illegal immigrants again. It's never going to happen to you again. Texas, it will never happen to you again. What happened to you, that was an invasion of our country. That was a military invasion.
+Sentiment
+Topics
+Topic:
+Society > Immigration
+Score:
+0.644
+Code:
+20000771
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000771
+Wikidata_id:
+Q131288
+Wikidata_label:
+immigration
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.536
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Topic:
+Society
+Score:
+0.503
+Code:
+14000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/14000000
+Wikidata_id:
+Q8425
+Wikidata_label:
+society
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+7.7
+Flesch-Kincaid Ease
+59.5
+Gunning-Fog Score
+9.5
+Coleman-Liau Index
+10.7
+SMOG Index
+10.5
+Automated Readability Index
+5.4
+Dale-Chall Readability Score
+4.5
+Sprache Readability Score
+3.1
+Dale-Chall Difficult Word Score
+14
+Sprache Difficult Word Count
+13
+Donald Trump
+01:11:16-01:11:42 (26 sec)
+No Signal (0.439)
+We will ban sanctuary cities and pass the death penalty for large scale drug dealers and human traffickers and anyone who kills a police officer or a member of law enforcement, the death penalty. We will pass voter identification, proof of citizenship, and the SAVE America Act to defend our sacred American elections.
+Sentiment
+Topics
+Topic:
+Crime, Law and Justice > Law Enforcement
+Score:
+0.689
+Code:
+20000129
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000129
+Wikidata_id:
+Q44554
+Wikidata_label:
+law enforcement
+Source:
+IPTC Media
+Topic:
+Crime, Law and Justice > Crime
+Score:
+0.68
+Code:
+20000082
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000082
+Wikidata_id:
+Q83267
+Wikidata_label:
+crime
+Source:
+IPTC Media
+Topic:
+Crime, Law and Justice > Crime > Drug Related Crimes
+Score:
+0.574
+Code:
+20000095
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000095
+Wikidata_id:
+Q1259975
+Wikidata_label:
+drug-related crime
+Source:
+IPTC Media
+Topic:
+Crime, Law and Justice > Law Enforcement > Police
+Score:
+0.572
+Code:
+20000133
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000133
+Wikidata_id:
+Q35535
+Wikidata_label:
+police
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+12
+Flesch-Kincaid Ease
+29.9
+Gunning-Fog Score
+17.4
+Coleman-Liau Index
+12
+SMOG Index
+12
+Automated Readability Index
+12
+Dale-Chall Readability Score
+7.3
+Sprache Readability Score
+5
+Dale-Chall Difficult Word Score
+20
+Sprache Difficult Word Count
+24
+Donald Trump
+01:11:42-01:12:04 (21 sec)
+No Signal (0.824)
+And we will enshrine in permanent law, no men in women's sports and no transgender mutilization of your children. So, ladies and gentlemen of Texas, the golden age of America is upon us. There's never been a time like this, there never has. You're amazing people. You're the people that built this country.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+6.4
+Flesch-Kincaid Ease
+68.4
+Gunning-Fog Score
+8
+Coleman-Liau Index
+11
+SMOG Index
+9.5
+Automated Readability Index
+5.3
+Dale-Chall Readability Score
+3.5
+Sprache Readability Score
+3.3
+Dale-Chall Difficult Word Score
+10
+Sprache Difficult Word Count
+16
+Donald Trump
+01:12:04-01:12:22 (19 sec)
+No Signal (0.052)
+But you have to get out, we have to keep it, you have to vote. You have to vote for Ken and the Republican line up and down this week. We have the right, we're doing the right thing. Look, we've never had -- there's never been a country -- the last couple of years, I was embarrassed by our country if you go back three, four, five, six years.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+4.4
+Flesch-Kincaid Ease
+93.8
+Gunning-Fog Score
+6.8
+Coleman-Liau Index
+6.3
+SMOG Index
+6.1
+Automated Readability Index
+4.7
+Dale-Chall Readability Score
+2.2
+Sprache Readability Score
+3.5
+Dale-Chall Difficult Word Score
+6
+Sprache Difficult Word Count
+9
+Donald Trump
+01:12:22-01:12:42 (20 sec)
+No Signal (0.044)
+We were embarrassed, what was happening. There's never been anything like what's happening right now. We have the greatest country anywhere in the world. So early voting ends Friday, October 30th, so go vote. And you could go today, but make sure you vote November 3rd. We've already made unbelievable progress and now we'll reach new levels of greatness.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+5.8
+Flesch-Kincaid Ease
+70.7
+Gunning-Fog Score
+8
+Coleman-Liau Index
+12
+SMOG Index
+9.9
+Automated Readability Index
+5.8
+Dale-Chall Readability Score
+4.2
+Sprache Readability Score
+3.5
+Dale-Chall Difficult Word Score
+14
+Sprache Difficult Word Count
+20
+Donald Trump
+01:12:42-01:13:11 (29 sec)
+No Signal (0.462)
+We're going to reach higher and better and bigger levels of greatness than anyone's ever seen before. I think we've probably already done it, but we're going to go much higher. It's my honor to be your president during such an exciting time in the life of your country. And we've been doing this together for 11 years, and there's never been anything like it, and there probably never will be anything like it again, politically or otherwise.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+9.1
+Flesch-Kincaid Ease
+64.5
+Gunning-Fog Score
+12.4
+Coleman-Liau Index
+10.5
+SMOG Index
+11.8
+Automated Readability Index
+9.3
+Dale-Chall Readability Score
+3
+Sprache Readability Score
+4.4
+Dale-Chall Difficult Word Score
+10
+Sprache Difficult Word Count
+17
+Donald Trump
+01:13:11-01:13:43 (32 sec)
+No StressLens
+So let's go out and do what we do best and that's win on November 3rd. We got to win. And let's make the next two years bigger, better and stronger than ever before because together we will make America powerful again, wealthy again, healthy again, strong again, proud again, safe again and most importantly, we will make America great again.
+Sentiment
+Topics
+Topic:
+Arts, Culture, Entertainment and Media > Mass Media > Social Media
+Score:
+0.536
+Code:
+20001182
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20001182
+Wikidata_id:
+Q202833
+Wikidata_label:
+social media
+Source:
+IPTC Media
+Topic:
+Economy, Business and Finance > Products and Services > Media and Entertainment Industry
+Score:
+0.536
+Code:
+20000304
+Url:
+https://cv.iptc.org/newscodes/mediatopic/20000304
+Wikidata_id:
+Q56611639
+Wikidata_label:
+media industry
+Source:
+IPTC Media
+Topic:
+Politics
+Score:
+0.536
+Code:
+11000000
+Url:
+https://cv.iptc.org/newscodes/mediatopic/11000000
+Wikidata_id:
+Q7163
+Wikidata_label:
+politics
+Source:
+IPTC Media
+Readability
+Flesch-Kincaid Grade
+10.1
+Flesch-Kincaid Ease
+58.6
+Gunning-Fog Score
+10.1
+Coleman-Liau Index
+10.1
+SMOG Index
+11.3
+Automated Readability Index
+9.4
+Dale-Chall Readability Score
+2.8
+Sprache Readability Score
+3.9
+Dale-Chall Difficult Word Score
+7
+Sprache Difficult Word Count
+9
+Donald Trump
+01:13:43-01:13:49 (6 sec)
+No StressLens
+God bless Texas. God bless you all. Thank you.
+Sentiment
+Readability
+Flesch-Kincaid Grade
+0
+Flesch-Kincaid Ease
+100
+Gunning-Fog Score
+1.2
+Coleman-Liau Index
+7
+SMOG Index
+3.3
+Automated Readability Index
+0
+Dale-Chall Readability Score
+5.4
+Sprache Readability Score
+1.3
+Dale-Chall Difficult Word Score
+3
+Sprache Difficult Word Count
+3

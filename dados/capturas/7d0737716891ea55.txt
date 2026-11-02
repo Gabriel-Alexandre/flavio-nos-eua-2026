@@ -1,0 +1,146 @@
+TITULO: Chapter 3 Sanctions Effectiveness | Economic Statecraft
+
+Economic Statecraft
+About
+1
+Introduction (Week 1)
+1.1
+Discussion questions
+1.2
+Assignments
+1.3
+Optional presentations
+1.4
+Appointment
+1.5
+Course schedule
+1.6
+How to submit your work on Blackboard
+2
+Grand Strategy (Week 2)
+2.1
+Discussion questions
+2.2
+War by Other Means
+2.3
+Economic statecraft
+2.3.1
+What is economic statecraft?
+2.4
+Sanctions
+2.5
+Databases
+3
+Sanctions Effectiveness
+3.1
+Discussion questions
+3.2
+Are sanctions effective?
+3.3
+If sanctions are feckless, why do states adopt them in the first place?
+3.3.1
+What is a successful episode anyway?
+3.4
+Recent developments
+3.4.1
+Enforcement
+3.4.2
+Economic leverage
+3.4.3
+Financial sanctions
+3.5
+Economic Containment
+3.6
+Dual-use goods and trade networks
+4
+Sanctions Enforcement
+4.1
+Discussion questions
+5
+Sanctions Consequences
+5.1
+Discussion questions
+Published with bookdown
+Economic Statecraft
+Chapter 3
+Sanctions Effectiveness
+3.1
+Discussion questions
+Are sanctions effective? Did any of the readings change your answers from last week?
+What are sanctions according to Pape? How is it different from Baldwin’s definition (according to him)? Should sanctions include coercion for economic purposes? What is Paper’s stance? Why according to him?
+According to Kim 2019, what are the mechanisms at work for economic containment?
+What accounts for the success of economic containment? What are the policy implications?
+What are the determinants of sanction success/effectiveness? How about other tools of economic statecraft, such as foreign aid? (*)
+3.2
+Are sanctions effective?
+HSE (1985) notes that sanctions success rate is 36% (39 out 103 cases). In later editions of the book, the rate drops to 34%. Pape (1997) argues this rate is still overestimated. Pape (1997, 93) argues that out of the 115 cases in HSE (1990), only 5 can be considered successes. That is, the success rate is only 4.3%.
+3.3
+If sanctions are feckless, why do states adopt them in the first place?
+There are different angles to answer this question. First, from a theoretical perspective,
+there are serious concerns about
+selection effects.
+To understand this more concretely, note that the models in HSE and Paper begins with imposition stage.
+HSE
+However, Smith (1995) and Drezner (2003) have argued they should begin with the threat stage.
+Drezner
+Driven by changes of the underlying theoretical models over time, the data collection efforts also expand. We will discuss more on this below.
+As a side note, there are also arguments that aside from foreign policy motivations, sanctions can also be imposed for symbolic (Whang 2011) or domestic political reasons (Webb 2018).
+3.3.1
+What is a successful episode anyway?
+Second, data and operationalization. More specifically, how do we define sanctions success?
+The success rates differ a lot depending on how we define and code sanctions success.
+Here is a table taken from Morgan, Bapat, Kobayashi (2014, 546).
+Success definition
+Successes
+Missing final outcome considered failure (N = 1412)
+Missing final outcome removed (N = 1024)
+Restrictive
+384
+27.2%
+37.5%
+Negotiated settlement
+576
+40.8%
+56.3%
+Settlement nature
+454
+32.2%
+44%
+The three ways of defining success are:
+“First, we employ a restrictive definition that considers only instances where the target partially or fully
+acquiesces as successful cases. Second, we use a more relaxed definition that also considers
+negotiated settlements as successful outcomes. The third measure of success examines the settlement nature variables for the sender and the target. This variable provides, on a scale of
+1–10, the coder’s perception of the proportion of the sender’s goals that were met in the case
+and another variable that provides the coder’s perception of the proportion of the target’s
+goals that were met. Cases can be considered as ‘‘successful’’ if the value of the variable for
+the sender is greater than the value of the variable for the target.”
+Bapat et al. (2013, 85) argue that we should define success as “if the target partially
+or completely acquiesced, or the case ended with negotiated settlement.” That is, the second definition in the above table. Using this definition, the success rate is between 40.8% and 56.3%. It should be noted that some scholars favor the more restrictive definition (i.e. excluding negotiated settlement).
+More importantly, what these studies differ from HSE and Pape is that we should examine sanctions success at both the threat and imposition stages. Again, the development of theoretical strategic model facilitates the shift of thinking and advancement of empirical works.
+3.4
+Recent developments
+3.4.1
+Enforcement
+Bapat & Kwon (2015) introduces another strategic problem associated with sanctions imposition. In particular, they theorize why sanctions are mostly likely to be imposed when the conditions do not favor their success. This is because states need to rely upon private actors (firms) for enforcing sanctions. When economic exchanges between sender and target states are too trivial or too large, sanctions are less likely to succeed. In the former case, states do not have enough leverage; while in the latter case, firms are unlikely to comply. However, sanctions are imposed only when target states refuse to concede. This is most likely when their economic changes with sender states are too trivial or too large, the exact conditions under which sanctions are less likely to be successful.
+3.4.2
+Economic leverage
+Kavakli et al. (2020) provides a good discussion on the costs of trade disruption and how states can minimize their own costs while maximizing its power to hurt adversaries. They show that this power is determined by states’ comparative advantage in exports and domestic production capabilities. Peterson (2020) uses network measures to examine states’ economic vulnerability (the susceptibility/ability to endure harm) and leverage (the power to hurt), which drive their calculations in initiating and acquiescing to sanctions.
+3.4.3
+Financial sanctions
+Drezner 2015 explains how the U.S. moved from trade embargoes to targeted financial sanctions. Farrell & Newman (2019) offers a relatively more recent take on economic networks (which produce panopticon and chokepoint effects) and coercion. As we mentioned previous, the policy brief by CNAS that talks about financial sanctions is also a good place to learn more about U.S. financial power:
+Economic Dominance, Financial Technology, and the Future of U.S. Economic Coercion
+.
+3.5
+Economic Containment
+Note that economic containment is defined differently from economic sanctions.
+"Economic containment is distinguished from other strategic uses of economic
+tools not so much by the policy measures it employs as by the ends it pursues.
+…
+The ultimate objective of economic containment is to weaken the targeted state’s material capacity to launch military aggression. In other words, economic containment should not be considered a component of coercive diplomacy. It does not necessarily occur in the bargaining process with the targeted state over a specific issue."
+— Kim 2019
+How do states weaken targeted states’ military abilities via economic means? Think more about the mechanisms described by Kim. What evidence does Kim provide to support the argument?
+3.6
+Dual-use goods and trade networks
+Kim 2019 talks about why states’ integration in the global trade networks can condition the effectiveness of economic containment. As an illustration,
+I will demonstrate some cool things you can do to study the trade networks of dual-use goods, taken from a project I am currently working on. In the following plot, each circle denotes a country. Each arrow points to a country’s important trade partner (i.e. import volume exceeds certain benchmark). Red color of circle border denotes the countries are US allies; black border denotes non-allies. Circles that are filled with black color denote the countries are under DUC sanctions by the US.
+The size of a circle denotes a country’s level of economic integration.

@@ -1,0 +1,71 @@
+TITULO: 
+
+---
+title: "Ramaphosa fires back at Trump’s executive order, rejects claims of ‘race-based discrimination’ in SA"
+description: "President Cyril Ramaphosa has denounced US President Donald Trump’s claims of ‘race-based discrimination’ against Afrikaners in South Africa, saying the assertion is ‘devoid of all truth’."
+type: "NewsArticle"
+publisher: "Daily Maverick"
+site: "https://www.dailymaverick.co.za"
+section: "TRUMP 2.0"
+author: "Victoria O’Regan"
+author_url: "https://www.dailymaverick.co.za/author/victoria-oregan-3-2-2/"
+canonical_url: "https://www.dailymaverick.co.za/article/2025-02-09-ramaphosa-fires-back-at-trumps-executive-order/"
+published: "2025-02-09T10:14:27"
+updated: "2025-02-09T10:14:31"
+lang: "en-ZA"
+word_count: 1180
+---
+# Ramaphosa fires back at Trump’s executive order, rejects claims of ‘race-based discrimination’ in SA
+> President Cyril Ramaphosa has denounced US President Donald Trump’s claims of ‘race-based discrimination’ against Afrikaners in South Africa, saying the assertion is ‘devoid of all truth’.
+By Victoria O’Regan · Published 9 February 2025, 12:14 SAST · Updated 9 February 2025, 12:14 SAST
+## Key points
+- President Cyril Ramaphosa has denounced US President Donald Trump’s claims of ‘race-based discrimination’ against Afrikaners in South Africa, saying the assertion is ‘devoid of all truth’.
+- President Ramaphosa rebuffs Trump's claims of Afrikaner persecution, asserting South Africa's constitutional democracy protects all citizens.
+- Trump's executive order cuts US aid to South Africa, citing alleged race-based discrimination and property confiscation against Afrikaners.
+- South Africa's government criticizes Trump's order as factually inaccurate and a misrepresentation of the country's history and current realities.
+- Ramaphosa emphasizes resilience in the face of international pressure, reaffirming South Africa's commitment to solidarity and sustainable development.
+## Content
+President Cyril Ramaphosa fired back at US President Donald Trump on Saturday, saying “there is no single group that faces persecution” in South Africa, after Trump signed an executive order to cut financial assistance to the country, citing claims of “race-based discrimination” against Afrikaners.
+“South Africa is a constitutional democracy. We value all South Africans, black and white. Our laws uphold the rights of all South Africans, and there is no single group that faces persecution or illegal deprivation of their rights as laid out in our Constitution and our Bill of Rights.
+“The assertion that Afrikaners face arbitrary deprivation and therefore need to flee the country of their birth is an assertion devoid of all truth,” Ramaphosa’s spokesperson, Vincent Magwenya, told Daily Maverick on Saturday evening.
+On Friday, Trump ordered that all US foreign assistance to South Africa be stopped and that his administration promote the resettlement of “Afrikaner refugees escaping government-sponsored, race-based discrimination, including racially discriminatory property confiscation” in South Africa.
+In the order, titled “[Addressing Egregious Actions of the Republic of South Africa](https://www.whitehouse.gov/presidential-actions/2025/02/addressing-egregious-actions-of-the-republic-of-south-africa/)”, Trump accused the South African government of, under the [recently adopted Expropriation Act](https://www.dailymaverick.co.za/article/2025-01-24-expropriation-bill-decades-in-the-making-what-lies-ahead-for-south-africa/), seizing “ethnic minority Afrikaners’ agricultural property without compensation”, a claim [Pretoria has refuted](https://www.presidency.gov.za/president-ramaphosa-looks-forward-engaging-president-trump-over-issues-bilateral-interest-and).
+Trump also accused South Africa of taking what he claimed were “aggressive positions towards the United States and its allies, including accusing Israel, not Hamas, of genocide in the International Court of Justice, and reinvigorating its relations with Iran to develop commercial, military and nuclear arrangements”.
+“The United States cannot support the government of South Africa’s commission of rights violations in its country or its undermining United States foreign policy, which poses national security threats to our nation, our allies, our African partners, and our interests,” he stated.
+**Read more:**[Ignore the name-calling and race-baiting from over the Atlantic — it will get SA nowhere in its quest to rectify past injustices](https://www.dailymaverick.co.za/article/2025-02-07-land-expropriation-in-sa-and-why-the-fearmongers-are-wrong/?dm_source=dm_block_list&dm_medium=card_link&dm_campaign=main)
+South Africa has increasingly found itself in the crosshairs of the Trump administration.
+Trump’s executive order follows his [false accusation](https://www.dailymaverick.co.za/article/2025-02-03-ramaphosa-seeks-trump-meeting-after-land-confiscation-claims/) on Truth Social last week that the South African government is “confiscating land” and “treating certain classes of people very badly”. He announced America would be investigating the issue and promised to cut off aid to the country.
+On Saturday, Magwenya said Ramaphosa hoped Trump would follow through on his promise to “investigate” the implementation of South Africa’s land reform policies, to “assist him with the facts about our country and the actual reality on the ground”.
+Trump’s order also comes after Ramaphosa, in his [State of the Nation Address](https://www.dailymaverick.co.za/article/2025-02-06-president-ramaphosas-2025-state-of-the-nation-address/) on Thursday, declared that South Africa “[will not be bullied](https://www.dailymaverick.co.za/article/2025-02-06-we-will-not-be-bullied-resolute-ramaphosa-stands-up-to-us/?dm_source=dm_block_grid&dm_medium=card_link&dm_campaign=main)”, in an apparent riposte to the threats from the Trump administration.
+“We are witnessing the rise of nationalism and protectionism, the pursuit of narrow interests and the decline of common cause. This is the world that we, as a developing economy, must now navigate. But we are not daunted. We will not be deterred. We are a resilient people,” Ramaphosa said.
+**Read more:**[The G20 goes ahead, says government, as Rubio announces a US boycott](https://www.dailymaverick.co.za/article/2025-02-06-the-g20-goes-ahead-says-government-as-rubio-announces-a-us-boycott/)
+Ramaphosa, as [Daily Maverick’s Rebecca Davis wrote](https://www.dailymaverick.co.za/article/2025-02-06-we-will-not-be-bullied-resolute-ramaphosa-stands-up-to-us/?dm_source=dm_block_grid&dm_medium=card_link&dm_campaign=main), stood by SA’s G20 theme of “solidarity, equality and sustainability” – values which appear antithetical to those of the Trump administration, as made clear by US Secretary of State Marco Rubio, who earlier dismissed these as diversity, equity and inclusion (DEI) and climate change.
+**‘Lacks factual accuracy’**
+The Department of International Relations and Cooperation (Dirco), in a composed yet firm response on Saturday, took note of Trump’s latest action, saying: “It is of great concern that the foundational premise of this order lacks factual accuracy and fails to recognise South Africa’s profound and [painful history of colonialism and apartheid](https://www.dailymaverick.co.za/article/2025-02-03-sa-is-violating-rights-treating-certain-people-badly-trumps-words-inadvertently-echo-fundamentals-of-apartheid/).”
+> Media Statement
+> 8 February 2025
+>
+> Government of South Africa notes the USA Executive Order
+>
+> The government of South Africa has taken note of the latest executive order issued by President Trump. It is of great concern that the foundational premise of this order lacks factual…
+>
+> — Minister: International Relations and Cooperation (@RonaldLamola) [February 8, 2025](https://twitter.com/RonaldLamola/status/1888159609635963106?ref_src=twsrc%5Etfw)
+“We are concerned by what seems to be a campaign of misinformation and propaganda aimed at misrepresenting our great nation. It is disappointing to observe that such narratives seem to have found favour among decision-makers in the United States of America,” it [said](https://dirco.gov.za/government-of-south-africa-notes-the-usa-executive-order/).
+Dirco said it is “ironic” that the order “makes provision for refugee status in the US for a group in South Africa that remains amongst the most economically privileged, while vulnerable people in the US from other parts of the world [are being deported](https://www.dailymaverick.co.za/article/2025-02-03-trump-administration-moves-to-terminate-deportation-protections-for-348000-venezuelans/) and denied asylum despite real hardship”.
+It added that South Africa “remained committed to finding diplomatic solutions to any misunderstandings or disputes”.
+**AfriForum, Solidarity say no thanks to Trump’s ‘resettlement’ offer**
+Ramaphosa [signed the Expropriation Bill into law](https://www.dailymaverick.co.za/article/2025-01-24-expropriation-bill-decades-in-the-making-what-lies-ahead-for-south-africa/) last month, after years of public consultation and deliberation in Parliament.
+Trump’s earlier claims that South Africa is “confiscating land” under the Act, is not what is happening, as Wandile Sihlobo, chief economist of the Agricultural Business Chamber of SA, [recently wrote for News24](https://www.news24.com/fin24/opinion/wandile-sihlobo-expropriation-act-3-key-reasons-not-to-panic-20250201).
+Johann Kotzé, CEO of AgriSA, in a [recent opinion piece](https://agrisa.org.za/agri-sa/get-an-in-depth-look-into-the-current-state-and-future-prospects-of-south-african-farming-as-discussed-by-agrisa-ceo-johann-kotze/), denied large-scale land seizures had taken place in South Africa.
+“To be clear no seizures or confiscations of private property have taken place. Nor has any land been expropriated without compensation. Isolated cases of land grabs and trespassing have been dealt with. Additionally, rumours linking farm murders to the signing of the Act are baseless and irresponsible. Farmers remain productive and committed to their operations,” he said.
+[YouTube video: "YouTube video player"](https://www.youtube.com/watch?v=XaVFZgtY1l8)
+Following Ramaphosa’s signing of the Bill into law, minority civil rights group AfriForum announced a three-point plan to fight it, which included “a targeted international campaign, through which the organisation will approach international role players and AfriForum’s criticism of the law”.
+“The aim of AfriForum’s international campaign is to mobilise opposition to the Act’s threat to private property rights from abroad,” it [said](https://www.artikels.afriforum.co.za/en/afriforum-announces-three-point-plan-to-fight-expropriation-act/).
+**Read more:**[The big lie of the land — Ramaphosa politely schools ‘terrible things’ Trump on SA’s land reform](https://www.dailymaverick.co.za/article/2025-02-03-the-big-lie-of-the-land-terrible-things-trump-on-sas-land-reform/)
+**Read more:**[AfriForum’s Kallie Kriel — there are land grabs in SA, not major land confiscations](https://www.dailymaverick.co.za/article/2025-02-05-afriforums-kallie-kriel-there-are-land-grabs-in-sa-not-major-land-confiscations/)
+AfriForum and the labour union the Solidarity Movement, of which AfriForum is part, on Saturday, however, sought to distance themselves from Trump’s order, arguing that the ANC was rather to blame for the action.
+In response to Trump’s “resettlement” offer for persecuted white Afrikaners, the lobby groups said they have no intention of leaving South Africa.
+Solidarity chairperson Flip Buys denied that the organisation had accused the South African government of “large-scale race-based land grabs, or distribute \[sic\] false information in this regard”.
+Buys claimed Trump’s order was the result of “reckless policies” of the ANC. He added that the organisations were “not aware” that Trump would issue the order.
+Buys said he would request a meeting with Ramaphosa to iron out the issues, and also visit the US soon in an attempt to “find solutions”.
+Magwenya [previously suggested that engagements](https://www.dailymaverick.co.za/article/2025-02-05-ramaphosa-flags-disinformation-concerns-in-musk-call/) with AfriForum may not be a “prudent use” of Ramaphosa’s time. **DM**

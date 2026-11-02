@@ -1,0 +1,71 @@
+TITULO: Article Review 26 on “Forced to be Free? Why Foreign-Imposed Regime Change Rarely Leads to Democratization.” - H-Diplo|RJISSF
+
+14 February 2014
+28 September 2015
+Article Review 26 on “Forced to be Free?  Why Foreign-Imposed Regime Change Rarely Leads to Democratization.”
+W
+ill the international community be able to build consolidated democratic regimes in Afghanistan or Iraq in the context of decade-long military interventions in those nations? In “Forced to be Free?” Alexander Downes and Jonathan Monten argue persuasively that if foreign nations intervene in a state simply to impose a new leader on that state, democracy is unlikely to flourish regardless of whether the intervening state is democratic or autocratic. Active efforts to impose democracy by force are unlikely to succeed unless they take place in the context of domestic conditions that facilitate democratization. Many scholars have made similar arguments in the past, but this effort stands out because it presents a novel data set of cases of foreign-imposed regime change that goes back to 1816. It also is one of the first studies of this issue that takes into account the problem of selection effects and which can offer an informed answer to the question of whether democracy promotion by force fails because of the intent and/or actions of the intervener or because interveners choose tough cases in which to try to build democratic regimes. While the article represents an excellent contribution to this important debate, a broader conception of foreign-imposed regime change might lead to somewhat different interpretations than those presented in this work.
+H-
+Diplo | ISSF Article Review
+26
+Article Review Editors: James McAllister and Diane Labrosse
+Web and Production Editor: George Fujii
+Commissioned for H-Diplo by James McAllister
+Alexander B. Downes and Jonathan Monten.
+“Forced to be Free? Why Foreign-Imposed Regime Change Rarely Leads to Democratization.”
+International Security
+37:4 (Spring 2013): 90-131. DOI: 10.1162/ISEC_a_00117.
+http://dx.doi.org/10.1162/ISEC_a_00117
+Reviewed by Mark Peceny
+, University of New Mexico
+Published by H-Diplo | ISSF on
+14 February 2014
+PDF-
+https://issforum.org/ISSF/PDF/ISSF-AR26.pdf
+W
+ill the international community be able to build consolidated democratic regimes in Afghanistan or Iraq in the context of decade-long military interventions in those nations? In “Forced to be Free?” Alexander Downes and Jonathan Monten argue persuasively that if foreign nations intervene in a state simply to impose a new leader on that state, democracy is unlikely to flourish regardless of whether the intervening state is democratic or autocratic. Active efforts to impose democracy by force are unlikely to succeed unless they take place in the context of domestic conditions that facilitate democratization. Many scholars have made similar arguments in the past, but this effort stands out because it presents a novel data set of cases of foreign-imposed regime change that goes back to 1816. It also is one of the first studies of this issue that takes into account the problem of selection effects and which can offer an informed answer to the question of whether democracy promotion by force fails because of the intent and/or actions of the intervener or because interveners choose tough cases in which to try to build democratic regimes. While the article represents an excellent contribution to this important debate, a broader conception of foreign-imposed regime change might lead to somewhat different interpretations than those presented in this work.
+The principal strength of this article flows from the unique data set Downes and Monten have created. They define “foreign-imposed regime change as the forcible or coerced removal of the effective leader of one state—which remains formally sovereign afterward—by the government of another state” (109). They have collected data on 107 examples of this phenomenon from 1816 to the contemporary era, from Austria’s removal of revolutionaries from the government of the Kingdom of the Two Sicilies in 1821 through the 2003 overthrow of Saddam Hussein. This data set provides a useful comparative context in which to evaluate the likelihood of success of contemporary efforts to impose democracy. The forcible removal of an incumbent followed by vigorous efforts to implant democratic institutions is a relatively rare phenomenon and this data set provides the most comprehensive catalogue of cases in which this specific combination of events has occurred.
+By distinguishing between cases where interveners simply replaced existing leaders and those where the interveners made significant efforts to promote democratic institutions, Downes and Monten are able to demonstrate that a variety of democracies have tried to support democratic institutional change in target states during military interventions. This conflicts with the expectations of Bruce Bueno de Mesquita and George Downs, who argue that democratic interventions fail to lead to democracy because democracies prefer to support friendly dictators rather than accept the risks associated with democratic institutions in target states.
+[1]
+The great strength and principal weakness of this data set is that it has very clear criteria for the definition of the universe of cases: foreign-imposed regime change must involve the forcible removal of an incumbent leader by an external power. One can think, however, of dozens of cases in which external powers forcibly tried to change local regimes that would not fit these criteria. Indeed, the data set excludes quite a few cases of what arguably could be called foreign-imposed regime change.
+The data set leaves out cases of intervention to facilitate settlements of civil wars, such as the Dayton Accords. Several states have met the standard for consolidated democracies in the wake of UN peacekeeping missions. Omitting these cases, which involved foreign military intervention and a definite attempt to forge new political regimes in target states, introduces a bias against finding a positive relationship between foreign intervention and regime change.
+The data set also leaves out cases of military intervention on behalf of autocratic allies. Many of these cases, like the French in sub-Saharan Africa or the British in the Middle East, are properly excluded precisely because the intervener did not try to institute regime change. The U.S., however, often tried to liberalize its autocratic allies, often bringing regime change of some sort, including democratization. Cases like the Philippines during the Huk rebellion or El Salvador during the 1980s, which arguably involved foreign-imposed regime change, do not meet the standards for inclusion because the U.S. did not depose the incumbent leader. The U.S. efforts in these countries do appear, however, to have helped turn corrupt competitive authoritarian regimes into more democratic electoral regimes as a consequence of their interventions. Exclusion of these cases also introduces a bias against finding a positive relationship.
+There are also a variety of cases of attempted foreign-imposed regime change that aren’t included in the data set because the interventions did not directly lead to the replacement of the incumbent. Iran in 1953, Guatemala in 1954, and Chile in 1973 are included, but the Reagan Doctrine cases of covert action in the 1980s are excluded. The Mujahedeen replaced one authoritarian regime with another in Afghanistan with substantial U.S. help, but took power several years after U.S. support had dried up. The Nicaraguan contras helped push President Daniel Ortega into an electoral contest in 1990, but Ortega was replaced by a democratically elected successor, not overthrown as a direct result of contra aid. UNITA (
+União Nacional para a Independência Total de Angola
+) lost its war against the communist government of Angola despite U.S. support. On balance, the inclusion of failed attempts at foreign-imposed regime change might push the results toward a negative finding.
+Thus, the criteria used to define the universe of cases may leave out so many cases that other scholars might reasonably define as instances of efforts at foreign-imposed regime change, that we won’t know whether to trust that the (non)-results Downes and Monten have found would hold among a larger sample of cases. There is good reason to believe the results would still end up in a wash because cases would be added on both sides of the scale. We just can’t know for sure.
+This is an important consideration because their data analysis shows some support for the success of active efforts to promote democracy. The simple bivariate relationship between efforts to change governing institutions and democracy is positive and significant (118). There is also a strong positive relationship between these variables in the rare event logit model (model 3) that includes all 6618 cases in the data set (120). This relationship is only significant at the .10 level in the models using matched data that compare the intervention cases to matching cases with similar values on the critical domestic variables (120). Since these matching models are the ones that address the problem of selection effects, Downes and Monten make a persuasive case that we should place greater weight on these inconclusive findings than on the stronger findings in models that include thousands of cases that may not be truly comparable. Would the results still be inconclusive if we produced matching models on data that included cases like the Central American or Balkan countries during the 1990s? What Downes and Monten label the conditionalist argument (because advocates of this approach believe that results will depend on the policies followed by interveners) might look stronger with a slightly different set of data.
+The United States and the international community have invested trillions of dollars and thousands of lives in an effort to, among other things, transform the political regimes in Iraq and Afghanistan. Downes and Monten offer strong evidence that, given the historical record, such efforts were ill-advised. Their data set and data analysis have definitely advanced our understanding of this important foreign policy debate. Their findings speak pretty directly to these two critical contemporary cases. It is probably too soon to tell, however, whether a broader definition of what constitutes foreign-imposed regime change might produce a somewhat different story.
+Mark Peceny
+is Professor of Political Science and Dean of the College of Arts and Sciences at the University of New Mexico. He studies democracy, dictatorship, and the international system and examines both how political regimes shape the behavior of states in the world and at how the international system shapes democracy within states. He is the author of
+Democracy at the Point of Bayonets
+(Penn State Press 1999) and has published articles in the
+American Political Science Review, International Organization, International Studies Quarterly, Journal of Peace Research, Politics and Society,
+and
+Political Research Quarterly.
+His most recent article is “Winning with Warlords in Afghanistan,” co-authored with Yury Bosin, which appeared in the September 2011 issue of
+Small Wars and Insurgencies.
+© Copyright 2014-2015 The Authors.
+This work is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States License
+.
+Notes
+[1]
+Bruce Bueno de Mesquita and George W. Downs, “Intervention and Democracy,”
+International Organization
+60:3 (Summer 2006): 627-649.
+Share this:
+Share on X (Opens in new window)
+X
+Email a link to a friend (Opens in new window)
+Email
+Share on Facebook (Opens in new window)
+Facebook
+Share on Reddit (Opens in new window)
+Reddit
+Share on LinkedIn (Opens in new window)
+LinkedIn
+Like this:
+Like
+Loading…
+Related

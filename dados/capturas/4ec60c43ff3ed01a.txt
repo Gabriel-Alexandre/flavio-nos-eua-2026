@@ -1,0 +1,43 @@
+TITULO: Lindsey O'Rourke - Book
+
+Pesquisar o site
+Arquivos incorporados
+Pular para o conteúdo principal
+Pular para a navegação
+Lindsey O'Rourke
+Home
+Book
+Teaching
+Contact
+Publications & Public Commentary
+Professional Experience
+Awards
+Lindsey O'Rourke
+Home
+Book
+Teaching
+Contact
+Publications & Public Commentary
+Professional Experience
+Awards
+Mais
+Home
+Book
+Teaching
+Contact
+Publications & Public Commentary
+Professional Experience
+Awards
+Covert Regime Change: America's Secret Cold War
+Link to
+Cornell University Press website
+|
+Amazon
+Many studies ask when states go to war to overthrow one another. However, when states want to overthrow their adversaries, they seldom resort to war. They are much more likely to attempt a covert regime change operation, such as assassinating a foreign leader, sponsoring a coup d’état, or secretly aiding foreign dissident groups. Yet the existing literature looks only at overt operations, which means that the key studies overlook the vast majority of cases and misconstrue the basic causes of regime change.
+This study is the first to systematically assemble an original dataset of all American regime change operations during the Cold War. To do so, I have conducted extensive archival research at the National Archives, National Security Archives, and several Presidential libraries. I show that the United States attempted an astonishing ten times more covert than overt regime changes — 64 covert versus 6 overt.
+My project then asks three questions: First, what motivates states to attempt foreign regime changes? Second, why do states prefer to conduct these operations covertly, as opposed to overtly? Third, how successful are these missions in achieving their foreign policy goals?
+Replication Materials for R
+Sites do Google
+Denunciar abuso
+Sites do Google
+Denunciar abuso

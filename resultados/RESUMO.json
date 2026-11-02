@@ -590,7 +590,12 @@
    "H5_aposta_de_rubio"
   ]
  },
- "citacoes": null,
+ "citacoes": {
+  "trechos": 850,
+  "achados": 744,
+  "paginas": 494,
+  "paginas_capturadas": 466
+ },
  "e7": {
   "modelos": [
    "fable",

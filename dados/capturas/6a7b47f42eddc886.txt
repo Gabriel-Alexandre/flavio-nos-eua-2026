@@ -1,0 +1,59 @@
+TITULO: 85. July 29, 2026 | Administration Implements Section 301 Tariffs on Brazil | Thompson Coburn LLP
+
+TRADE ALERT – IMPORTS
+HEADLINE
+Administration Implements Section 301 Tariffs on Brazil
+DATE
+July 29, 2026
+AGENCY
+Department of Commerce; Department of Treasury; Department of Homeland Security; U.S. Trade Representative; Customs and Border Protection; Trump Administration
+EFFECTIVE DATE
+July 22, 2026 at 12:01 Eastern time
+BACKGROUND
+Following an investigation initiated on July 15, 2025, on
+June 1, 2026
+, the Office of the United States Trade Representative (“USTR”) determined that “certain of Brazil’s acts, policies, and practices related to digital trade and electronic payment services; unfair, preferential tariffs; anti-corruption enforcement; intellectual property protection; ethanol market access; and illegal deforestation are unreasonable and burden or restrict U.S. commerce.” As a result, the USTR proposed additional tariff rate of 25% on all goods from Brazil, subject to exemptions identified in the Annex to the
+Federal Register Notice
+.
+DETAILS
+On
+July 15, 2026
+, the USTR issued a notice of final action under Section 301 imposing a 25% tariff on certain goods of Brazil.
+Exclusions:
+• Informational materials, donations, and accompanied baggage;
+• All articles and parts of articles subject to section 232 tariffs;
+• Goods that (1) were loaded onto a vessel at the port of loading and in transit on the final mode of transit prior to entry into the U.S. before the effective date that (2) are entered or withdrawn from warehouse for consumption before 12:01 a.m. eastern time on July 29; and
+• Certain products which include (i) raw materials that if subject to the proposed additional tariffs could lead to the unavailability of domestic supply; (ii) products that could cause economy-wide disruptions if subject to the proposed additional tariffs; (iii) certain products that cannot be grown or produced in sufficient quantities in the United States or obtained from other sources; and (iv) articles for which additional tariffs may not contribute substantially to the elimination of Brazil’s acts, policies, and practices described above.
+The product exclusions exempts certain major exports of Brazil including coffee, beef, avocados, Brazil nuts, petroleum oils, and aircraft parts.
+• Aluminum hydroxide
+• Antiques, collectables, and art
+• Certain animal hides, fur skins, and leather
+• Certain seafood product
+• Certain additional pharmaceuticals and pharmaceutical ingredients
+• Certain wood products
+• Iron and steel waste and scrap
+• Organic honey
+• Pig iron
+• Unflavored instant coffee
+• Used clothing
+With the Section 232 tariffs on patented
+pharmaceuticals
+effective July 31, those goods will also be excluded.
+There is no exemption for goods subject to Section 301 investigations on
+forced labor
+, so the 12.5% forced labor tariff on goods covered by these Brazilian tariffs will face a total additional tariff rate of 37.5%.
+BASIS
+Trade Act of 1974, 19 U.S.C. § 2411(a)-(c) (Section 301(a)-(c)) and 19 U.S.C. § 2414 (Section 304)
+HTS/
+PRODUCTS
+All products except for those defined in HTSUS U.S. Note 50, and articles subject to Section 232 tariffs (including steel, aluminum and coper and their derivatives, autos, medium and heavy-duty trucks, wood products, and semiconductors)
+COUNTRY
+Brazil
+CITE
+Federal Register:
+Brazil 301 Final Action – Federal Register Notice
+CBP CSMS:
+CSMS # 69302472 – GUIDANCE: Section 301 Duties on Certain Products from Brazil
+USTR:
+Fact Sheet: President Trump Directs USTR Section 301 Action in Response to Brazil’s Unreasonable Acts, Policies, and Practices | United States Trade Representative
+Recent Trade and Compliance Actions Homepage

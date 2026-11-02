@@ -1,0 +1,189 @@
+TITULO: What the Department of State's CV and PCC Designations Means for
+
+HB Ad Slot
+HB Mobile Ad Slot
+Jonathan "Jack" Harrington
+Email
+205-521-8069
+Bio and Articles
+Gabriella E. Alonso
+Email
+713-576-0339
+Bio and Articles
+Find Your Next Job !
+Commercial Litigation Attorney
+Senior Attorney - Arizona or New Mexico
+Paralegal - Washington, Dist. Columbia
+Explore More Job Openings
+HB Ad Slot
+Brazilian Gang Terrorist Designations: What U.S. Financial Institutions Need to Know About the CV and PCC
+by:
+Jonathan "Jack" Harrington
+,
+Gabriella E. Alonso
+,
+Bradley Arant Boult Cummings LLP
+-
+Financial Services Perspectives
+Tuesday, June 30, 2026
+Related Practices & Jurisdictions
+Criminal Law Business Crimes
+Financial Institutions Banking
+Administrative Regulatory
+Global
+All Federal
+Brazil
+Print
+Mail
+Download
+/>i
+On May 28, 2026, Secretary of State Marco Rubio
+announced
+that the U.S. Department of State designated Comando Vermelho (CV) and Primeiro Comando da Capital (PCC), Brazil’s two largest and most violent criminal organizations, as Specially Designated Global Terrorists (SDGTs) under Executive Order 13224 and as Foreign Terrorist Organizations (FTOs) under Section 219 of the Immigration and Nationality Act. The designations reflect the Trump administration’s broader strategy of leveraging counterterrorism authorities against transnational criminal organizations, following the February 2025 FTO designations of eight Mexican and Latin American groups, including the Sinaloa Cartel, CJNG, Tren de Aragua, and MS-13.
+For U.S. financial institutions, the message is clear: Brazil, which is the largest economy in Latin America and a critical counterparty market for correspondent banking, trade finance, and cross-border payments, now presents a materially heightened compliance risk profile. The PCC alone has been linked to approximately $8.5 billion in illicit profits moved through fintech platforms and front companies, and Brazilian authorities have seized $220 million from PCC money-laundering activities across 40 investment funds. This is not a theoretical risk. These organizations are deeply embedded in Brazil’s financial system, and U.S. banks with Brazilian exposure must act now.
+The Regulatory Framework: What the Designations Trigger
+The FTO and SDGT designations activate multiple overlapping U.S. regulatory regimes that directly affect financial institutions.
+OFAC Sanctions and Property Blocking
+– The SDGT designation, administered by the Office of Foreign Assets Control (OFAC), blocks all property and interests in property of CV and PCC within U.S. jurisdiction or in the possession or control of U.S. persons. U.S. financial institutions that identify funds in which CV, PCC, or their agents have an interest must retain possession of those funds and report their existence to OFAC. The PCC was previously designated under Executive Order 14059 in December 2021, and OFAC designated a PCC operative in March 2024 for laundering approximately $240 million for the organization, so the PCC already appeared on the Specially Designated Nationals and Blocked Persons (SDN) list. The CV’s addition to the SDN list is new, and its FTO designation imposes additional obligations on both organizations beyond existing OFAC requirements.
+Material Support Prohibition
+– The FTO designation makes it a federal crime for any U.S. person or entity subject to U.S. jurisdiction to knowingly provide “material support or resources” to either organization, broadly defined under 18 U.S.C. § 2339A to include financial services, currency, property, and expert advice. Convictions carry penalties of up to 20 years’ imprisonment or life, if death results. The DOJ has demonstrated its willingness to pursue material support charges against corporations, as it did in 2022 against Lafarge SA.
+FinCEN and BSA Obligations
+– The Financial Crimes Enforcement Network (FinCEN) can restrict financial institutions from transmitting funds associated with FTOs. In June 2025, FinCEN designated three Mexico-based financial institutions as being of “primary money laundering concern” and prohibited all U.S. financial institutions from engaging in any transmittals of funds to or from those institutions, effectively severing their access to the U.S. financial system. Financial institutions should anticipate the possibility of similar geographic targeting orders or special measures directed at Brazilian financial channels linked to CV or PCC activity.
+Compliance Implications: What Banks Must Do Now
+For compliance officers and BSA/AML teams, the FTO designations expand both the scope and intensity of existing compliance obligations across several dimensions.
+Customer Due Diligence (CDD) and Enhanced Due Diligence (EDD)
+– Financial institutions must ensure their CDD programs can identify customers, beneficial owners, and counterparties with potential connections to CV or PCC. Given the organizations’ reported infiltration of legitimate Brazilian industries, including fuel distribution, logistics, agribusiness, port operations, and real estate, enhanced due diligence is warranted for customers operating in these sectors or in geographic regions with known CV or PCC presence, including the Amazon region, northeast Brazil, São Paulo, and Rio de Janeiro.
+Transaction Monitoring
+– Institutions should calibrate their transaction monitoring systems to flag patterns consistent with CV and PCC typologies, including high-volume transactions through fintech platforms, cross-border payments to or from Brazilian investment funds, and activity involving sectors infiltrated by these organizations.
+Suspicious Activity Reporting (SAR)
+– Any transaction that a financial institution knows, suspects, or has reason to suspect involves funds derived from or intended to support CV or PCC must be reported. The FTO designations lower the practical threshold for filing because regulators will expect heightened vigilance regarding Brazilian-origin transactions.
+Sanctions Screening
+– Institutions must ensure that their screening systems incorporate the new SDGT and FTO designations for CV, and confirm that PCC’s existing SDN designation is properly captured along with the new layered designations.
+Risk Considerations: Legal, Reputational, and Operational Exposure
+The designations create risk across three dimensions that demand attention from senior leadership and boards.
+Civil Liability Under the Anti-Terrorism Act (ATA)
+– The ATA creates a private cause of action for U.S. nationals injured by an act of international terrorism committed, planned, or authorized by a designated FTO. The statute extends to secondary liability for aiding and abetting, and successful plaintiffs are entitled to treble damages plus attorney fees, making such claims highly attractive to the plaintiffs’ bar. Financial institutions that process transactions benefiting CV or PCC, even unwittingly, face potential ATA exposure. As was the case with the Mexican cartel FTO designations, the first effects may be felt not by the criminal organizations themselves, but by the compliance departments of financial institutions facing new screening and reporting burdens.
+Correspondent Banking Risk
+– OFAC can impose correspondent account restrictions on non-U.S. financial institutions that conduct or facilitate significant transactions on behalf of an SDGT. U.S. banks maintaining correspondent relationships with Brazilian financial institutions must assess whether those respondent banks have adequate controls to prevent CV or PCC from exploiting their services. The FinCEN action against three Mexican financial institutions in June 2025, which severed those institutions from the U.S. financial system entirely, demonstrates the potential consequences for respondent banks found to be facilitating illicit flows.
+Reputational and Operational Risk
+– Institutions that fail to respond proactively to the designations risk regulatory criticism, enforcement action, and reputational damage. The government’s message is not subtle: Compliance programs must evolve in real time as the threat landscape changes.
+Practical Guidance: Six Steps Financial Institutions Should Take Now
+Update sanctions screening systems immediately
+.
+Ensure that CV’s new SDGT/FTO designations are incorporated into all screening platforms and confirm that PCC’s existing and new designations are fully captured, including known aliases and affiliated individuals.
+Conduct a risk-based assessment of Brazilian exposure
+.
+Identify customers, counterparties, and correspondent relationships with connections to Brazil — particularly those operating in sectors or regions with known CV and PCC infiltration, including fuel, logistics, agribusiness, mining, and port operations.
+Enhance due diligence on Brazilian counterparties
+.
+Apply EDD procedures to customers and beneficial owners operating in high-risk Brazilian sectors, with particular attention to fintech companies, investment funds, and entities in São Paulo, Rio de Janeiro, and the Amazon region.
+Review and recalibrate transaction monitoring rules
+.
+Update monitoring scenarios to capture typologies associated with CV and PCC money laundering, including structuring through digital platforms, layered transactions through front companies, and high-volume, cross-border flows to Brazilian entities.
+Assess correspondent banking relationships
+.
+Evaluate whether respondent banks in Brazil have implemented adequate controls to detect and prevent CV/PCC exploitation of their services and consider requesting certifications or enhanced information sharing.
+Monitor for further regulatory action
+.
+Anticipate potential FinCEN geographic targeting orders, additional OFAC designations of individuals and entities linked to CV and PCC, and possible state-level executive orders targeting material support.
+The Bottom Line
+The designation of Comando Vermelho and Primeiro Comando da Capital as Foreign Terrorist Organizations extends the U.S. government’s counterterrorism-focused approach to transnational criminal organizations squarely into Brazil, the largest economy in Latin America and a market deeply integrated into the global financial system. For U.S. financial institutions, the compliance obligations are immediate, the litigation risks are real, and the regulatory expectation is clear: Institutions must proactively identify and mitigate their exposure to these organizations across all business lines with Brazilian touchpoints.
+The FinCEN actions against Mexican financial institutions in 2025 demonstrate what happens when institutions are found to have facilitated illicit flows linked to designated organizations: They lose access to the U.S. financial system entirely. Now is the time to update screening systems, enhance due diligence, recalibrate monitoring, and ensure that your institution’s compliance posture reflects the new threat reality. The cost of inaction, which is measured in enforcement penalties, civil liability, and reputational damage, is simply too high.
+HB Mobile Ad Slot
+© 2026 Bradley Arant Boult Cummings LLP
+HTML Embed Code
+Current Public Notices
+Post Your Public Notice Today!
+PUBLIC NOTICE OF CHAPTER 11 BANKRUPTCY 363 SALE: Newly Issued Equity in Milwaukee Hotel
+Published: 29  October,  2026
+PUBLIC NOTICE OF UCC ARTICLE 9 SALE: NarcX Solutions Inc.
+Published: 29  October,  2026
+PUBLIC NOTICE OF UCC ARTICLE 9 SALE: CHS Holdings Group LLC
+Published: 27  October,  2026
+PUBLIC NOTICE OF UCC ARTICLE 9 SALE: Tarpon Avenue Holdings, LLC
+Published: 27  October,  2026
+PUBLIC NOTICE OF ABC SALE: Multi-Location Flexible Workspace & Membership Club
+Published: 27  October,  2026
+PUBLIC NOTICE OF ARTICLE 9 SALE: Enterprise Software Business
+Published: 26  October,  2026
+UCC Public Sale Notice – Adjournment
+Published: 22  October,  2026
+PUBLIC NOTICE OF UCC ARTICLE 9 SALE: Brass Works Urban Renewal Company, LLC
+Published: 2  October,  2026
+NOTICE OF CLAIMS BAR DATE: Schwebel Baking Company Receivership
+Published: 25  September,  2026
+PUBLIC NOTICE OF UCC ARTICLE 9 SALE: Elmira Real Estate Enterprises, LLC
+Published: 24  September,  2026
+Discover more public notices
+HB Ad Slot
+HB Mobile Ad Slot
+Current Legal Analysis
+Patent Publication Does Not End Trade Secret Protection, but Companies Must Know What Remains Secret
+by:
+Charles Gideon Korrell
+PBM Transparency Moves Forward: DOL Finalizes its Disclosure Rule
+by:
+Todd D. Rosenberg
+,
+Amanda R. Bogle
+EEOC Pulls Criminal History Guidance; But Employers Must Not Overcorrect
+by:
+Jonathan E. Clark
+,
+Jennifer Risberg
+EPA’s Second OOOOb/c Proposal: Associated Gas Flaring, Super Emitter Program
+by:
+Nicole León
+,
+Lauren Hammon
+Beltway Buzz, October 30, 2026
+by:
+James J. Plunkett
+More from Bradley Arant Boult Cummings LLP
+New Executive Order Targets Mortgage Insurance, Manufactured Housing, and Title Insurance: What Lenders, Servicers, and Title Insurers Need to Know
+by:
+Christy W. Hancock
+New IRS Correction Program Gives IRA Custodians a Formal Path to Fix Account Errors
+by:
+Caleb L. Barron
+From the Time Clock to the Ballot Box: A Voting Leave Guide for Employers
+by:
+Emily A. Hopper
+,
+Jennifer M. Trulock
+NASA Insourcing: How Government Contractors Can Seek Relief Through REAs, Contract Claims, and Bid Protests
+by:
+Aron C. Beezley
+,
+Steven C. Herrera
+Brick by Brick: Federal Court Reviews LEGO’s Arguments Over a Piece of the ‘Queer Eye’ Set
+by:
+Adam Baker
+HB Ad Slot
+HB Mobile Ad Slot
+Upcoming Events
+Dec
+3-5
+2026
+2026 Winter Leadership Conference
+Nov
+3
+2026
+Deepfakes, Fraudulent Employees, and Laptop Farms: The New Risks of Remote Work
+Nov
+3
+2026
+Web Accessibility Under the ADA and State Laws: Best Practices and Compliance
+Nov
+4
+2026
+AI in Action: Protecting Assets, Unlocking Value & Transforming the Enterprise
+More Upcoming Events
+Print
+We collaborate with the world's leading lawyers to deliver news tailored for you. Sign Up for any (or all) of our 25+ Newsletters.
+FB
+twt
+mast
+link
+home
+Cookies & Privacy

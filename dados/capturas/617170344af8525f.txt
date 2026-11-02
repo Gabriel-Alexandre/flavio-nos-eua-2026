@@ -1,0 +1,66 @@
+TITULO: USTR Section 301 action on Brazil: 25% tariffs proposed
+
+This article is for internal use only.
+This article applies to:
+Product:
+ONESOURCE Global Trade
+USTR Section 301 action on Brazil: 25% tariffs proposed
+Date of publication: June 18, 2026
+Executive summary
+On
+June 1, 2026
+, the Office of the United States Trade Representative (USTR)
+issued a Notice of Determination and Request for Comments
+, finding that certain acts, policies, and practices of Brazil to be unreasonable or discriminatory and burdensome or restrictive to U.S. commerce under Section 301. The determination follows an investigation initiated on July 15, 2025, covering six areas: digital trade and electronic payment services; preferential tariffs; anti-corruption enforcement; intellectual property protection; ethanol market access; and illegal deforestation.
+As a proposed response, USTR is
+seeking public comment
+on applying additional tariffs of 25% on Brazilian-origin goods, subject to specified exemptions. Global trade customers importing Brazilian-origin goods into the United States should begin assessing potential duty exposure, reviewing HTS classifications against the proposed exemption list, and considering whether to submit comments to USTR.
+Key findings by USTR
+Digital trade and electronic payment services
+USTR determined that Brazil’s practices related to digital trade and electronic payment services are actionable. The agency cited Brazilian court orders directing U.S. social media companies to remove certain political content, suspend profiles, and refrain from disclosing orders to affected users. USTR also cited penalties for non-compliance, including fines, restrictions on access to assets and payment processing systems, and, in at least one case, the shutdown of a platform in Brazil.
+USTR also found that Brazil has unfairly advantaged Pix, Brazil’s instant payment system operated by the Central Bank of Brazil. According to USTR, the central bank’s dual role as regulator and owner/operator of Pix creates a conflict of interest and results in preferential treatment, including mandatory participation and display requirements for certain financial institutions and fee rules that favor Pix over competing payment services.
+Preferential tariffs for Mexico and India
+USTR found that Brazil’s preferential trade arrangements with Mexico and India disadvantage U.S. exporters in sectors where the United States is also globally competitive. The arrangements provide lower tariff treatment to hundreds of Mexican and Indian goods across sectors including agricultural products, motor vehicles and parts, minerals, chemicals, and machinery, disadvantaging competing U.S. exports.
+Anti-corruption enforcement
+USTR determined that Brazil has failed to combat bribery and corruption. USTR concluded that insufficient enforcement disadvantages U.S. companies, which remain subject to significant anti-corruption compliance obligations and potential liability when competing for trade and investment opportunities in Brazil.
+Intellectual property protection
+USTR found that Brazil’s intellectual property protection and enforcement remain inadequate. The cited concerns include insufficient criminal and customs enforcement against counterfeit goods, lack of deterrent penalties, insufficient customs resources, lengthy patent examination timelines—particularly for biopharmaceutical patents—and inconsistent anti-piracy enforcement.
+USTR noted that Brazil has been on the USTR Special 301 Watch List since 2007 and concluded that the country’s failure to address counterfeiting, patent pendency, and piracy harms U.S. businesses and workers in innovation- and creativity-driven sectors.
+Ethanol market access
+USTR determined that Brazil has failed to provide reciprocal treatment for U.S. ethanol exports. According to the notice, Brazil suspended a 20% ethanol import tariff in 2010, while the United States later allowed certain ethanol-related measures to expire. USTR stated that bilateral ethanol trade increased until Brazil changed course in 2017 by instituting a duty-free tariff-rate quota, with imports above quota subject to a 20% tariff. Brazil’s ethanol tariff has been set at 18% since February 2023, according to USTR.
+USTR reported that U.S. ethanol exports to Brazil declined significantly after Brazil reinstated tariffs, with 2025 exports totaling $96 million, down 87% from a 2018 peak of $761 million.
+Illegal deforestation
+USTR also determined that Brazil’s enforcement related to illegal deforestation is insufficient and that illegal deforestation contributes to unfair competition in agricultural and wood product markets. USTR concluded that insufficient enforcement of environmental laws can lower production costs for certain Brazilian agricultural and timber products, thereby disadvantaging U.S. producers and exporters.
+Proposed trade action: 25% additional tariffs
+USTR proposes to impose 25% additional duties on Brazilian-origin goods, subject to exemptions. The proposed exclusions include informational materials, donations, accompanied baggage, articles and parts of articles subject to Section 232 tariffs and certain products listed in the annex to the Federal Register notice.
+USTR explained that the annexed exclusions include certain raw materials, products that could cause economy-wide disruptions if tariffed, products that cannot be grown or produced in sufficient quantities in the United States or sourced elsewhere, and products for which additional tariffs may not substantially contribute to eliminating the challenged Brazilian practices.
+Importers should note that the proposed tariff coverage and exclusions are by tariff subheading.
+Key dates
+Date
+Event
+June 1, 2026
+Comment period opened
+June 22, 2026
+Deadline to request appearance at public hearing and submit testimony summary
+July 1, 2026
+Deadline for written comments
+July 6, 2026
+USTR public hearing at the U.S. International Trade Commission
+July 15, 2026
+Statutory deadline referenced by USTR for taking responsive action
+Practical considerations for importers and global trade teams
+Companies importing Brazilian-origin goods into the United States should consider the following actions:
+Map Brazilian-origin imports by HTSUS classification.
+Determine which products may be subject to the proposed 25% additional duty and which fall within the proposed exclusions.
+Review the annex carefully.
+Because exclusions are tied to HTSUS provisions, confirm classifications and identify whether any exclusions apply.
+Assess landed-cost exposure.
+Model the financial impact of a 25% additional duty, including effects on customs bonds, pricing, contracts, and inventory strategy.
+Evaluate supply-chain alternatives.
+For products not excluded, companies may need to assess non-Brazilian sourcing options.
+Consider submitting comments.
+USTR specifically requested comments on the scope of tariff coverage, whether products are necessary raw materials, whether alternative sources exist at reasonable prices or in sufficient quantities, and whether tariffs would cause serious supply disruptions.
+Monitor implementation timing.
+The proposal is not yet final. However, given the statutory deadline and scheduled hearing, companies should prepare for a potentially short implementation window if USTR finalizes the action.
+For more information on how ONESOURCE Global Trade solutions can assist you, please contact your Account Manager or Customer Success Manager.
+Print
