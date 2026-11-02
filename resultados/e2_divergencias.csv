@@ -1,0 +1,60 @@
+id,campo,a,b
+anaya,anfitriao,Estados Unidos (Texas),Estados Unidos
+aquino,tipo,oposicao,processado
+aquino,anfitriao,Estados Unidos (Boston),Estados Unidos
+aristide,regime_casa,democracia,autocracia
+aristide,anfitriao,Estados Unidos (Washington; antes Venezuela),Estados Unidos
+bhutto,anfitriao,Emirados Árabes Unidos (Dubai) e Reino Unido,Emirados Árabes (Dubai) e Reino Unido
+bhutto,saiu,1998,1999
+bhutto,anos_ate_voltar,9,8
+bosch,regime_casa,democracia,hibrido
+bosch,anos_ate_voltar,3,2
+carlos-andres-perez,anfitriao,Estados Unidos (Miami),Estados Unidos (e República Dominicana)
+carlos-andres-perez,saiu,2002,1999
+chalabi,anfitriao,Reino Unido e Estados Unidos,Estados Unidos e Reino Unido
+correa,regime_casa,hibrido,democracia
+diem,regime_casa,autocracia,hibrido
+diem,anfitriao,Estados Unidos (também Japão e Europa),Estados Unidos (e Bélgica)
+eduardo-bolsonaro,anfitriao,Estados Unidos (Texas),Estados Unidos
+evo,anfitriao,"México, depois Argentina",México
+fujimori,tipo,deposto,processado
+gonzalez,tipo,oposicao,derrotado_na_urna
+goulart,regime_casa,democracia,autocracia
+goulart,anfitriao,"Uruguai, depois Argentina",Uruguai
+guaido,tipo,oposicao,processado
+guaido,anfitriao,Estados Unidos (Miami),Estados Unidos
+jair-bolsonaro,anfitriao,Estados Unidos (Flórida),Estados Unidos
+jair-bolsonaro,anos_ate_voltar,1,0.25
+khomeini,anfitriao,"Turquia, depois Iraque e França",Iraque (depois França)
+kim-dae-jung,tipo,oposicao,processado
+kim-dae-jung,eua_apoio_declarado,nao,sim
+kim-dae-jung,anfitriao,Estados Unidos (Boston),Estados Unidos
+kim-dae-jung,anos_ate_voltar,3,2
+machado,anfitriao,Estados Unidos (após Noruega),Estados Unidos (e Noruega)
+machado,anos_ate_voltar,1,0.8
+mahuad,anfitriao,Estados Unidos (Boston),Estados Unidos
+martinelli,anfitriao,Estados Unidos (Miami),Estados Unidos
+perez-jimenez,anfitriao,Estados Unidos (antes República Dominicana),Estados Unidos (via República Dominicana)
+peron,regime_casa,democracia,autocracia
+peron,anfitriao,"Espanha (antes Paraguai, Panamá, Venezuela, República Dominicana)",Paraguai (depois Espanha)
+ramagem,anfitriao,Estados Unidos (Flórida),Estados Unidos
+reza-pahlavi,tipo,oposicao,deposto
+reza-pahlavi,saiu,1979,1978
+rhee,regime_casa,hibrido,autocracia
+saakashvili,anfitriao,Estados Unidos e depois Ucrânia,Estados Unidos e depois Ucrania
+sam-rainsy,tipo,processado,oposicao
+sanchez-lozada,eua_apoio_declarado,nao,sim
+sharif,regime_casa,democracia,autocracia
+somoza,anfitriao,"Estados Unidos (Miami, brevemente; asilo negado) e depois Paraguai","Estados Unidos (Miami), depois Bahamas e Paraguai"
+thaksin,regime_casa,hibrido,autocracia
+thaksin,anfitriao,Dubai e Reino Unido,Reino Unido e Emirados Árabes
+thaksin,saiu,2008,2006
+thaksin,anos_ate_voltar,15,17
+toledo,anfitriao,Estados Unidos (Califórnia),Estados Unidos
+tsikhanouskaya,tipo,oposicao,derrotado_na_urna
+tsikhanouskaya,eua_apoio_declarado,nao,sim
+tsikhanouskaya,anfitriao,Lituânia (escritório também na Polônia),Lituânia
+xa-ira,anfitriao,"Egito (também Marrocos, Bahamas, México, EUA, Panamá)","Egito (passagens por Marrocos, Bahamas, México, EUA e Panamá)"
+zelaya,regime_casa,democracia,hibrido
+zelaya,anfitriao,"Costa Rica, depois República Dominicana",Costa Rica
+zelaya,anos_ate_voltar,2,0

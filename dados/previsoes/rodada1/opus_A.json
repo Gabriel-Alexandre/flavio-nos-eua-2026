@@ -1,0 +1,31 @@
+{
+  "modelo": "opus",
+  "condicao": "A",
+  "perguntas": {
+    "P01": {"p": 2, "porque": "Operação terrestre não autorizada num país do tamanho do Brasil é raríssima na história recente da região, e o Departamento de Estado negou a hipótese."},
+    "P02": {"p": 3, "porque": "A designação terrorista e os ataques no Caribe abrem a porta, mas um ataque em território ou águas do Brasil tem custo muito maior que em alvos anteriores."},
+    "P03": {"p": 2, "porque": "O caso Guaidó exigiu base interna e aliados, e aqui Trump diz não se envolver, o PL reconheceu o resultado e a Reuters não vê planos de apoio."},
+    "P04": {"p": 13, "porque": "Trump já disse não ter planos e aliados caídos costumam ser mantidos à distância, embora a proximidade em Miami e a imprevisibilidade dele deixem uma chance."},
+    "P05": {"p": 55, "porque": "Trump diz gostar de Lula e o G20 cai no fim do prazo, mas a tensão atual pode adiar qualquer contato até depois da data."},
+    "P06": {"p": 50, "porque": "A imprensa diz que ele vai e líderes costumam ir ao G20, mas sem confirmação, com visto revogado, tarifa e Flávio morando na mesma região."},
+    "P07": {"p": 78, "porque": "Os EUA quase sempre mandam alguém, e um representante de nível baixo ou o encarregado de negócios já basta, mesmo com Trump chamando a eleição de fraudada."},
+    "P08": {"p": 55, "porque": "O governo Trump usou medidas contra o Brasil com frequência e o critério é amplo, mas a fala de não se envolver e a negociação em curso reduzem o ritmo."},
+    "P09": {"p": 28, "porque": "Tarifas da Seção 301 costumam durar e a abertura de negociação é recente, embora a inflação americana e isenções pontuais por acordo sejam caminho possível."},
+    "P10": {"p": 22, "porque": "O agrément é moeda de troca do Brasil e só tende a sair num pacote de distensão, o que em oito meses é possível mas não o mais provável."},
+    "P11": {"p": 12, "porque": "Há interesse americano em terras raras, porém o inquérito do Dino e a sensibilidade política tornam um texto assinado pouco provável até 2027."},
+    "P12": {"p": 45, "porque": "Fugitivos do mesmo campo tiveram prisão decretada depois de sair do país, e o limite do art. 53 cai em fevereiro, mas os inquéritos estão no início e o custo diplomático pesa."},
+    "P13": {"p": 25, "porque": "O pedido depende de prisão decretada e do trâmite, e precedentes mostram alguns meses de intervalo, com possível freio por ser inútil diante da posição americana."},
+    "P14": {"p": 2, "porque": "Trump disse que ele pode ficar quanto quiser e extradição de aliado político sob este governo é quase impensável."},
+    "P15": {"p": 78, "porque": "Ele deve pedir green card, Trump o protege e voltar traz risco de prisão, restando dúvida apenas sobre mudança de país ou falta de confirmação pública."},
+    "P16": {"p": 10, "porque": "Exilados políticos com processo aberto raramente voltam em dois anos sem anistia ou mudança de poder, que só viria depois de 2030."},
+    "P17": {"p": 28, "porque": "Teve 48% e o nome é forte, mas pode não haver pesquisa nominal para 2030 em 2027 e o exílio abre espaço para Tarcísio e outros."},
+    "P18": {"p": 20, "porque": "Os democratas devem ganhar a Câmara e têm interesse, mas o critério exige audiência em que o caso conste entre os temas e a agenda deles será concorrida."},
+    "P19": {"p": 8, "porque": "O Departamento de Estado costuma responder cartas da oposição tarde, de forma privada ou sem tratar as perguntas, e o prazo é curto."}
+  },
+  "cenarios": {
+    "C1": 58,
+    "C2": 22,
+    "C3": 18,
+    "C4": 2
+  }
+}

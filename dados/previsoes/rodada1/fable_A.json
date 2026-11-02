@@ -1,0 +1,31 @@
+{
+  "modelo": "fable",
+  "condicao": "A",
+  "perguntas": {
+    "P01": {"p": 2, "porque": "Invasão terrestre de democracia grande sem aval não tem precedente moderno; o próprio Departamento de Estado negou e o custo político e militar é alto demais."},
+    "P02": {"p": 6, "porque": "Os EUA já atacaram barcos no Caribe depois de designações terroristas, mas o Brasil não é a Venezuela e a prioridade declarada de Trump é não se envolver."},
+    "P03": {"p": 4, "porque": "OEA e Carter Center validaram, o PL e Tarcísio reconheceram, e Trump disse que gosta do Lula e não vai se envolver; reconhecer o Flávio contraria tudo isso."},
+    "P04": {"p": 25, "porque": "Trump recebeu Bolsonaros antes e Flávio está em Miami perto de Mar-a-Lago, mas a Casa Branca diz que não há plano de encontro e o custo diplomático subiu."},
+    "P05": {"p": 55, "porque": "Os dois já se falaram em 2025 e o G20 em Doral em dezembro cria ocasião natural; a parole do Flávio esfria mas não impede um telefonema."},
+    "P06": {"p": 55, "porque": "Lula costuma ir a cúpulas multilaterais e a imprensa diz que vai, mas sem confirmação oficial e com o Flávio abrigado na mesma cidade o boicote fica em cima da mesa."},
+    "P07": {"p": 78, "porque": "Os EUA mandam delegação a quase toda posse na região, mesmo em crise; um encarregado de negócios ou subsecretário já resolve o critério."},
+    "P08": {"p": 65, "porque": "Em 18 meses a conta tem tarifa, Magnitsky, vistos e designações; com o inquérito do Dino e o pedido de Interpol, alguma medida nova em 8 meses é mais provável que nenhuma."},
+    "P09": {"p": 30, "porque": "Trump já aliviou tarifas do Brasil em 2025 quando quis, mas a Seção 301 é processo formal e o caso Flávio tira o incentivo de curto prazo para acordo."},
+    "P10": {"p": 30, "porque": "O Brasil segura o agrément como moeda e, com o Flávio nos EUA, conceder agora pareceria recuo; só sai dentro de um acordo mais amplo."},
+    "P11": {"p": 25, "porque": "Os EUA pressionam por minerais críticos em toda parte, mas o Brasil resiste e o inquérito do Dino sobre terras raras torna assinatura política em 2027 cara para o Lula."},
+    "P12": {"p": 45, "porque": "Até 31/01 o art. 53 segura; depois ele é investigado, desobedeceu a entrega do passaporte e saiu do país, o que no STF costuma virar prisão preventiva, mas os inquéritos ainda não têm denúncia."},
+    "P13": {"p": 40, "porque": "O Brasil pediu extradição em casos como o do Allan dos Santos mesmo sabendo que os EUA não entregariam; depende de prisão decretada antes."},
+    "P14": {"p": 2, "porque": "Trump disse que ele pode ficar o quanto quiser; os EUA não entregaram nenhum aliado político nesse tipo de caso."},
+    "P15": {"p": 60, "porque": "A parole vale até 27/10/2027 e o pedido de green card ou asilo é o caminho esperado, mas processo pendente pode não contar como status confirmado e ele pode mudar de país."},
+    "P16": {"p": 15, "porque": "Exilados políticos com risco de prisão ficam anos fora, como o Eduardo; voltar antes de 2029 exigiria acordo ou queda das investigações."},
+    "P17": {"p": 45, "porque": "Ele teve 48% no 2º turno e o nome mais conhecido da direita, mas estar fora e sem reconhecer o resultado abre espaço para Tarcísio e Michelle nas pesquisas de 2030."},
+    "P18": {"p": 40, "porque": "Se os democratas levarem a Câmara nas midterms, audiências sobre a política externa de Trump são certas e o caso tende a entrar como tema, mas é um entre muitos."},
+    "P19": {"p": 25, "porque": "O Departamento de Estado raramente responde por escrito a cartas de deputados da oposição e, quando responde, nem sempre os autores divulgam."}
+  },
+  "cenarios": {
+    "C1": 55,
+    "C2": 22,
+    "C3": 20,
+    "C4": 3
+  }
+}

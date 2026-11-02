@@ -1,0 +1,318 @@
+{
+  "arquivo": "e5_literatura.json",
+  "gerado_em": "2026-11-02",
+  "pergunta": "O que a literatura diz sobre mudança de regime e sanções",
+  "trabalhos": [
+    {
+      "id": "orourke-covert-regime-change",
+      "autor": "Lindsey A. O'Rourke",
+      "obra": "Covert Regime Change: America's Secret Cold War (Cornell University Press, 2018)",
+      "periodo": "1947 a 1989",
+      "achados": [
+        {
+          "achado": "Foram 64 operações encobertas e 6 abertas de mudança de regime iniciadas pelos EUA na Guerra Fria, uma razão de 10 para 1. A contagem de 6 abertas foi conferida: aparece na página da própria autora e em duas passagens da mesa-redonda do H-Diplo.",
+          "valores": {
+            "encobertas": 64,
+            "abertas": 6,
+            "razao": "10 para 1"
+          },
+          "fontes": [
+            {
+              "url": "https://sites.google.com/site/lindseyorourke/Manuscript",
+              "trecho": "I show that the United States attempted an astonishing ten times more covert than overt regime changes — 64 covert versus 6 overt."
+            },
+            {
+              "url": "https://issforum.org/roundtables/13-3",
+              "trecho": "She documents 64 covert interventions by the United States from 1947 to 1989, as compared to 6 overt attempts, a ratio of 10 to 1."
+            },
+            {
+              "url": "https://issforum.org/roundtables/13-3",
+              "trecho": "initiating sixty-four covert and six overt operations between 1947 and 1989—one could imagine many more that, based simply on the desire to resolve real or potential threats, it could have"
+            }
+          ]
+        },
+        {
+          "achado": "Só 25 das 64 operações encobertas são codificadas como sucesso nominal, e foi por o cliente dos EUA assumir o poder; vários geraram reação adversa. A resenha do H-Diplo diz que a mudança encoberta 'geralmente falhou'.",
+          "valores": {
+            "sucesso_nominal": 25,
+            "total_encobertas": 64,
+            "proporcao": 0.391
+          },
+          "calculo": "25 dividido por 64 é 39%; conta feita aqui",
+          "fontes": [
+            {
+              "url": "https://issforum.org/roundtables/13-3",
+              "trecho": "She codes only 25 of these as a nominal success (because the U.S. client assumed power), but several of them created some dismal blowback."
+            },
+            {
+              "url": "https://issforum.org/roundtables/13-3",
+              "trecho": "O’Rourke’s careful research shows that covert regime change usually failed."
+            }
+          ]
+        },
+        {
+          "achado": "A autora diz que o governo americano preferiu a via encoberta à aberta porque pesou custos, apostas e expectativa de sucesso, e não por ideologia.",
+          "fontes": [
+            {
+              "url": "https://issforum.org/roundtables/13-3",
+              "trecho": "U.S. leaders chose covert action based on their calculations of the costs, the stakes, and the expectations of success."
+            }
+          ]
+        }
+      ],
+      "limites": "Cobre a Guerra Fria; não inclui 2025–2026. A página mostra a contagem, não a lista dos 6 casos abertos."
+    },
+    {
+      "id": "downes-monten-2013",
+      "autor": "Alexander B. Downes e Jonathan Monten",
+      "obra": "Forced to Be Free? Why Foreign-Imposed Regime Change Rarely Leads to Democratization (International Security, primavera de 2013)",
+      "periodo": "século XX (setenta casos); a base geral vai de 1816 em diante",
+      "achados": [
+        {
+          "achado": "O exame estatístico de 70 casos de mudança de regime imposta de fora no século XX mostra que reformas pró-democracia, como patrocinar eleições, não bastam para induzir a democratização.",
+          "valores": {
+            "casos_seculo_XX": 70
+          },
+          "fontes": [
+            {
+              "url": "https://www.belfercenter.org/publication/forced-be-free-why-foreign-imposed-regime-change-rarely-leads-democratization",
+              "trecho": "Astatistical examination of seventy instances of foreign-imposed regime change (FIRC) in the twentieth century shows that implementing prodemocratic institutional reforms, such as sponsoring elections, is not enough to induce democratization;"
+            },
+            {
+              "url": "https://issforum.org/articlereviews/26-forced-to-be-free",
+              "trecho": "They have collected data on 107 examples of this phenomenon from 1816 to the contemporary era, from Austria’s removal of revolutionaries from the government of the Kingdom of the Two"
+            }
+          ]
+        },
+        {
+          "achado": "Os interventores têm pouco sucesso a menos que o país-alvo tenha desenvolvimento econômico alto, homogeneidade social e experiência prévia com governo representativo. Como os alvos prováveis são países pobres e diversos, os autores dizem que os formuladores devem reduzir a expectativa de que a democracia floresça.",
+          "fontes": [
+            {
+              "url": "https://www.belfercenter.org/publication/forced-be-free-why-foreign-imposed-regime-change-rarely-leads-democratization",
+              "trecho": "interveners will meet with little success unless conditions in the target state—in the form of high levels of economic development and societal homogeneity, and previous experience with representative governance—are favorable to democracy."
+            },
+            {
+              "url": "https://www.belfercenter.org/publication/forced-be-free-why-foreign-imposed-regime-change-rarely-leads-democratization",
+              "trecho": "Given that prospective regime change operations are likely to target regimes in poor, diverse countries, policymakers should scale back their expectations that democracy will flourish after FIRC."
+            }
+          ]
+        },
+        {
+          "achado": "A resenha do H-Diplo resume: se uma nação estrangeira intervém só para impor um novo líder, a democracia dificilmente floresce, seja o interventor uma democracia ou uma autocracia.",
+          "fontes": [
+            {
+              "url": "https://issforum.org/articlereviews/26-forced-to-be-free",
+              "trecho": "argue persuasively that if foreign nations intervene in a state simply to impose a new leader on that state, democracy is unlikely to flourish regardless of whether the intervening state is democratic or autocratic."
+            }
+          ]
+        }
+      ],
+      "limites": "O H-Diplo registra críticas ao escopo (casos de tentativas fracassadas podem empurrar o resultado para o negativo) e uma réplica de Nomikos em 2013/14; a página não traz a taxa de democratização por caso."
+    },
+    {
+      "id": "hufbauer-schott-elliott-oegg",
+      "autor": "Gary C. Hufbauer, Jeffrey J. Schott, Kimberly A. Elliott e Barbara Oegg",
+      "obra": "Economic Sanctions Reconsidered, 3ª edição (Peterson Institute for International Economics, 2007), e atualização até 2014",
+      "periodo": "1914 a 2014",
+      "achados": [
+        {
+          "achado": "As sanções 'dão certo' em cerca de um terço dos casos, e a taxa depende muito do tipo de objetivo. Sucesso quer dizer que as sanções contribuíram de modo significativo para a conquista parcial ou total do objetivo.",
+          "valores": {
+            "taxa_geral": "cerca de um terço",
+            "casos_ate_2000": 204
+          },
+          "fontes": [
+            {
+              "url": "https://www.piie.com/sites/default/files/publications/papers/hufbauer0708ppt.pdf",
+              "trecho": "Sanctions “succeed” in about one-third of the cases overall, but the success rate depends importantly on the type of objectives sought { Success"
+            },
+            {
+              "url": "https://www.piie.com/sites/default/files/publications/papers/hufbauer0708ppt.pdf",
+              "trecho": "Success means sanctions contributed significantly to the partial or full achievement of the foreign policy goal"
+            }
+          ]
+        },
+        {
+          "achado": "Tabela 1 do ensaio de Hufbauer no Cato Unbound (nov/2014), tirada da 3ª edição e das atualizações do instituto: sucessos e fracassos por objetivo, em 1914-1969 e 1970-2014. Mudança de regime e democratização: 7 sucessos e 10 fracassos até 1969; 22 sucessos e 51 fracassos de 1970 a 2014.",
+          "valores": {
+            "mudanca_de_regime_e_democratizacao": {
+              "1914-1969": {
+                "sucessos": 7,
+                "fracassos": 10
+              },
+              "1970-2014": {
+                "sucessos": 22,
+                "fracassos": 51
+              }
+            },
+            "mudanca_modesta_de_politica": {
+              "1914-1969": {
+                "sucessos": 7,
+                "fracassos": 4
+              },
+              "1970-2014": {
+                "sucessos": 16,
+                "fracassos": 19
+              }
+            },
+            "interrupcao_de_aventuras_militares": {
+              "1914-1969": {
+                "sucessos": 4,
+                "fracassos": 6
+              },
+              "1970-2014": {
+                "sucessos": 0,
+                "fracassos": 10
+              }
+            },
+            "enfraquecimento_militar": {
+              "1914-1969": {
+                "sucessos": 3,
+                "fracassos": 6
+              },
+              "1970-2014": {
+                "sucessos": 7,
+                "fracassos": 16
+              }
+            },
+            "outras_mudancas_maiores": {
+              "1914-1969": {
+                "sucessos": 2,
+                "fracassos": 14
+              },
+              "1970-2014": {
+                "sucessos": 8,
+                "fracassos": 12
+              }
+            },
+            "casos_unilaterais_dos_EUA": {
+              "1914-1969": {
+                "sucessos": 10,
+                "fracassos": 9
+              },
+              "1970-2014": {
+                "sucessos": 11,
+                "fracassos": 43
+              }
+            }
+          },
+          "taxa_por_objetivo_calculada": {
+            "mudanca_de_regime_e_democratizacao": "29 de 90 = 32%; só 1970-2014: 22 de 73 = 30%",
+            "mudanca_modesta_de_politica": "23 de 46 = 50%",
+            "interrupcao_de_aventuras_militares": "4 de 20 = 20%",
+            "enfraquecimento_militar": "10 de 32 = 31%",
+            "outras_mudancas_maiores": "10 de 36 = 28%",
+            "unilaterais_dos_EUA_1970_2014": "11 de 54 = 20%"
+          },
+          "calculo": "as taxas são contas feitas aqui sobre os números da tabela; o artigo traz só as contagens",
+          "fontes": [
+            {
+              "url": "https://www.cato-unbound.org/print-issue/1849",
+              "trecho": "Table 1. Success and Failure by Period 1914-1969 1970-2014 Success cases Failure cases Success cases Failure cases Modest policy change 7 4 16 19 Regime change and democratization 7 10 22 51 Diruption of military adventures 4 6 0 10"
+            },
+            {
+              "url": "https://www.cato-unbound.org/print-issue/1849",
+              "trecho": "Regime change and democratization 7 10 22 51 Diruption of military adventures 4 6 0 10 Military impairment 3 6 7 16 Other major policy"
+            },
+            {
+              "url": "https://www.cato-unbound.org/print-issue/1849",
+              "trecho": "Unilateral US cases 10 9 11 43 Table 1 summarizes the record divided into two periods (1914 to 1969 and"
+            }
+          ]
+        },
+        {
+          "achado": "O mesmo ensaio diz que, entre 53 episódios de 1970 a 2014 com 'metas altas' (interrupção de aventura militar, enfraquecimento militar e outras mudanças maiores, sem contar mudança de regime), houve sucesso em só 15, ou 22%. Sanções raramente bastam sem uso ou ameaça de força.",
+          "valores": {
+            "metas_altas_1970_2014": {
+              "sucessos": 15,
+              "episodios": 53,
+              "taxa": "22%"
+            }
+          },
+          "fontes": [
+            {
+              "url": "https://www.cato-unbound.org/print-issue/1849",
+              "trecho": "success was achieved in only 15 cases, or 22 percent of the episodes."
+            },
+            {
+              "url": "https://www.cato-unbound.org/print-issue/1849",
+              "trecho": "To be sure, sanctions are often necessary to rally public opinion in the sender country; but they are seldom sufficient to achieve major objectives without the use or threat of force."
+            }
+          ]
+        },
+        {
+          "achado": "Os autores listam como mais prováveis de dar certo: metas limitadas e bem definidas e alvos amigos ou democráticos, em vez de inimigos e autocratas. Dizem para não esperar sucesso rápido contra regimes autocráticos.",
+          "fontes": [
+            {
+              "url": "https://www.piie.com/sites/default/files/publications/papers/hufbauer0708ppt.pdf",
+              "trecho": "Targets are friendly or democratic countries, rather than enemies, autocrats"
+            },
+            {
+              "url": "https://www.piie.com/sites/default/files/publications/papers/hufbauer0708ppt.pdf",
+              "trecho": "Do not expect quick success against autocratic regimes"
+            }
+          ]
+        }
+      ],
+      "limites": "A taxa por objetivo é conta feita aqui. A tabela da 3ª edição ('Success by Policy Goals') está em gráfico na apresentação do instituto e não saiu em texto; os números usados são da tabela do ensaio de 2014, de Hufbauer."
+    },
+    {
+      "id": "pape-1997",
+      "autor": "Robert A. Pape",
+      "obra": "Why Economic Sanctions Do Not Work (International Security, outono de 1997); réplica 'Why Economic Sanctions Still Do Not Work' (verão de 1998)",
+      "periodo": "115 casos de 1914 a 1990 da base de Hufbauer e Schott",
+      "achados": [
+        {
+          "achado": "Sobre os 115 casos de Hufbauer e Schott (1990), Pape julga que só 5 podem ser considerados sucessos: taxa de 4,3%. A taxa de Hufbauer, Schott e Elliott na 1ª edição era de 36% (39 de 103).",
+          "valores": {
+            "casos": 115,
+            "sucessos_segundo_pape": 5,
+            "taxa_pape": "4,3%",
+            "taxa_hse_1985": "36% (39 de 103)",
+            "taxa_hse_edicoes_seguintes": "34%"
+          },
+          "calculo": "5 de 115 dá 4,3%, conferido aqui",
+          "fontes": [
+            {
+              "url": "https://bookdown.org/zengyuleng/economicstatecraft/sanctions-effectiveness.html",
+              "trecho": "HSE (1985) notes that sanctions success rate is 36% (39 out 103 cases). In later editions of the book, the rate drops to 34%. Pape (1997) argues this rate is still overestimated."
+            },
+            {
+              "url": "https://bookdown.org/zengyuleng/economicstatecraft/sanctions-effectiveness.html",
+              "trecho": "Pape (1997, 93) argues that out of the 115 cases in HSE (1990), only 5 can be considered successes. That is, the success rate is only 4.3%."
+            }
+          ]
+        },
+        {
+          "achado": "O resultado depende de como se define sucesso: estudo de Morgan, Bapat e Kobayashi (2014) dá 27,2% a 37,5% pela definição restritiva e 40,8% a 56,3% contando acordos negociados.",
+          "valores": {
+            "restritiva": "27,2% a 37,5%",
+            "com_acordo_negociado": "40,8% a 56,3%"
+          },
+          "fontes": [
+            {
+              "url": "https://bookdown.org/zengyuleng/economicstatecraft/sanctions-effectiveness.html",
+              "trecho": "Using this definition, the success rate is between 40.8% and 56.3%. It should be noted that some scholars favor the more restrictive definition (i.e. excluding negotiated settlement)."
+            }
+          ]
+        },
+        {
+          "achado": "Elliott, coautora de Hufbauer, respondeu que o objetivo do estudo era saber se as sanções contribuíram para o resultado, e não se o causaram; Pape defendeu seus achados na réplica.",
+          "fontes": [
+            {
+              "url": "https://www.belfercenter.org/publication/why-economic-sanctions-still-do-not-work",
+              "trecho": "One of the study’s coauthors, Kimberly Ann Elliott of the Institute of International Economics, argues here that Pape mischaracterizes the principal objective of the work, which, according to Elliott, was to determine if and how economic sanctions contributed to desired"
+            }
+          ]
+        }
+      ],
+      "taxa_por_objetivo": null,
+      "limites": "Não achei, em página aberta, a taxa de Pape por objetivo; a página do Belfer traz só o resumo. O número de 4,3% e as taxas de sucesso por definição vêm de um capítulo de curso (bookdown), que resume os artigos.",
+      "incerto": true
+    }
+  ],
+  "contagens": {
+    "trabalhos": 4,
+    "achados": 13
+  }
+}

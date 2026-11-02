@@ -1,0 +1,585 @@
+{
+ "caso": "flavio-nos-eua-2026",
+ "parte": "E1",
+ "gerado_em": "2026-11-02",
+ "selos": [
+  "confirma",
+  "contraria",
+  "sem_fonte"
+ ],
+ "convencao": "Cada fonte tem url e trecho literal (8 a 40 palavras) da página aberta em 02/11/2026. 'selo' diz o que o achado faz com a afirmação do §1 (ou da linha do tempo) da PESQUISA.md do vídeo 22. 'incerto: true' = dúvida que o leitor deve resolver antes de usar.",
+ "itens": [
+  {
+   "id": "E1-a1",
+   "ref_pesquisa": "§1 A9; linha do tempo 29/out e 13/nov",
+   "afirmacao": "25 deputados democratas assinaram carta a Rubio e deram prazo até 13/11.",
+   "achado": "O original é um PDF no site da deputada Kamlager-Dove. A carta é datada de 29/10/2026, dirigida ao secretário Marco Rubio, e pede resposta por escrito até 13/11/2026 e um briefing para assessores do Congresso nesse período. O comunicado do gabinete, de 30/10, diz que Kamlager-Dove e Dina Titus lideraram 25 parlamentares e lista os outros 23 signatários. Confirma a pesquisa; só muda que a carta é de 29/10 e o comunicado de 30/10.",
+   "selo": "confirma",
+   "data_fato": "2026-10-29",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://kamlager-dove.house.gov/sites/evo-subsites/kamlager-dove.house.gov/files/evo-media-document/finalized-dos-bolsonaro-letter.pdf",
+     "trecho": "Given the significant questions raised by these reports, we request a written response to the foregoing questions by November 13, 2026."
+    },
+    {
+     "url": "https://kamlager-dove.house.gov/media/press-releases/kamlager-dove-titus-lead-probe-bolsonaros-entry-us",
+     "trecho": "led 25 Members of Congress in demanding answers from the State Department about its role in facilitating the reported departure of Brazilian Senator Flávio Bolsonaro from Brazil and his entry into the United States,"
+    }
+   ]
+  },
+  {
+   "id": "E1-a2",
+   "ref_pesquisa": "§2 'O que vem' (13/nov: 15 perguntas, carta, não intimação)",
+   "afirmacao": "A carta traz 15 perguntas e é um pedido de resposta, não uma intimação.",
+   "achado": "Contando os itens do PDF, são 15 perguntas (da primeira, sobre quando o Departamento de Estado soube da ordem do STF, até a última, sobre funcionário dos EUA na Argentina ou no Equador). O texto abre com 'We write to request', ou seja, é um pedido de 25 deputados individuais, sem poder de convocação.",
+   "selo": "confirma",
+   "data_fato": "2026-10-29",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://kamlager-dove.house.gov/sites/evo-subsites/kamlager-dove.house.gov/files/evo-media-document/finalized-dos-bolsonaro-letter.pdf",
+     "trecho": "We write to request an immediate accounting of the Department of State’s role, if any, in facilitating the reported departure of Brazilian Senator Flávio Bolsonaro from Brazil and his entry"
+    },
+    {
+     "url": "https://kamlager-dove.house.gov/sites/evo-subsites/kamlager-dove.house.gov/files/evo-media-document/finalized-dos-bolsonaro-letter.pdf",
+     "trecho": "Did any U.S. government official located in Argentina or Ecuador coordinate with Senator Bolsonaro on his travel itinerary?"
+    }
+   ],
+   "nota": "A contagem de 15 perguntas foi feita por mim no PDF original; a CubaHeadlines também diz 15 e a Telesur diz 12."
+  },
+  {
+   "id": "E1-a3",
+   "ref_pesquisa": "§0 e §1 A5/A9 (o que a carta prova)",
+   "afirmacao": "A carta dos democratas prova que os EUA ajudaram Flávio a sair do Brasil.",
+   "achado": "Não prova. A pergunta central da carta é se o Departamento de Estado, a embaixada ou outra agência ajudou, e o texto parte de reportagens ('reported' aparece em todo o texto). O comunicado do gabinete também fala em 'reported departure'. A carta não conclui nada.",
+   "selo": "contraria",
+   "data_fato": "2026-10-29",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://kamlager-dove.house.gov/sites/evo-subsites/kamlager-dove.house.gov/files/evo-media-document/finalized-dos-bolsonaro-letter.pdf",
+     "trecho": "The central question is straightforward: did the Department of State, the U.S. Embassy in Brazil, or any other U.S. government agency assist Senator Bolsonaro in traveling to or entering the United States"
+    },
+    {
+     "url": "https://kamlager-dove.house.gov/media/press-releases/kamlager-dove-titus-lead-probe-bolsonaros-entry-us",
+     "trecho": "The letter, which can be viewed in full here, raises a series of questions about whether U.S. officials were aware of, or involved in, arrangements for Bolsonaro’s departure and requests a congressional briefing by November 13."
+    }
+   ]
+  },
+  {
+   "id": "E1-a4",
+   "ref_pesquisa": "§1 A8 (entrou com visto) e A9 (parole)",
+   "afirmacao": "Flávio entrou nos EUA com visto.",
+   "achado": "A carta de 29/10 trata a entrada como visto: pergunta quem autorizou os 'visas' e qual a 'legal basis for issuing or approving visas'. No transcript oficial do Departamento de Estado (31/10), Rubio diz que Flávio 'had previously held a visa' (já tinha um visto antes), que Trump decidiu deixá-lo entrar e que, chegando a um porto de entrada, ele seria 'paroled', 'and he was'. A pesquisa registra só a parole; o visto anterior é acréscimo: o visto existia, mas a entrada foi por parole decidida pelo presidente. A carta é anterior à fala de Rubio.",
+   "selo": "confirma",
+   "data_fato": "2026-10-31",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://kamlager-dove.house.gov/sites/evo-subsites/kamlager-dove.house.gov/files/evo-media-document/finalized-dos-bolsonaro-letter.pdf",
+     "trecho": "What was the legal basis for issuing or approving visas for Senator Bolsonaro and his family?"
+    },
+    {
+     "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-a-press-availability-2/",
+     "trecho": "He had previously held a visa, and the President made the decision to allow him to enter the country, which we did."
+    },
+    {
+     "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-a-press-availability-2/",
+     "trecho": "But the President made clear that if he arrived in the United States in a port of entry, that he would be paroled into the country, and he was."
+    }
+   ]
+  },
+  {
+   "id": "E1-b1",
+   "ref_pesquisa": "§1 A1, A2 (ponte, jato LV-JQW, Guayaquil)",
+   "afirmacao": "A imigração argentina registrou a entrada às 22h50 e o embarque às 23h30 do dia 27/10, em jato da Baires Fly para Guayaquil.",
+   "achado": "O comunicado da Dirección Nacional de Migraciones, publicado no X em 28/10 e reproduzido pela Forbes Argentina, diz isso: entrada às 22:50 pela ponte Tancredo Neves dos quatro (Flavio, Fernanda, Carolina e Luiza), 'sin ningún impedimento legal', e às 23:30 embarque em voo privado da Baires Fly para Guayaquil. A matrícula LV-JQW e o modelo Gulfstream G400 aparecem no texto da Forbes. Confirma A1 e A2.",
+   "selo": "confirma",
+   "data_fato": "2026-10-27",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.forbesargentina.com/today/migraciones-confirmo-flavio-bolsonaro-salio-argentina-avion-privado-rumbo-ecuador-n101250",
+     "trecho": "La Dirección Nacional de Migraciones informa que a las 22:50 hs del dia 27/10, ingresaron por el paso fronterizo de Puente internacional Tancredo Neves en la provincia de Misiones,"
+    },
+    {
+     "url": "https://www.forbesargentina.com/today/migraciones-confirmo-flavio-bolsonaro-salio-argentina-avion-privado-rumbo-ecuador-n101250",
+     "trecho": "A las 23:30, los cuatro pasajeros abordaron un vuelo privado en una aeronave Gulfstream G400, matrícula argentina LV-JQW, despachado por Baires Fly S.A."
+    }
+   ]
+  },
+  {
+   "id": "E1-b2",
+   "ref_pesquisa": "§1 A1 e A3 (horários e van)",
+   "afirmacao": "O horário oficial de entrada (22h50) bate com os registros da imigração argentina.",
+   "achado": "Há conflito entre fontes. O Fantástico (01/11, via O Tempo), com base em documentos do sistema de imigração argentino, diz que Flávio teve três entradas na mesma van: 22h37 (passaporte italiano), 22h40 (carteira de motorista) e 23h11 (passaporte brasileiro), e que só a primeira ficou válida. Nenhuma dessas horas é 22h50, a hora do comunicado de Migraciones. O que foi publicado não resolve qual está certa.",
+   "selo": "contraria",
+   "data_fato": "2026-10-27",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://www.otempo.com.br/politica/judiciario/2026/11/1/fuga-de-flavio-para-eua-envolveu-agente-israelense-e-carros-diplomaticos-argentinos-revela-tv",
+     "trecho": "Em relação a Flávio Bolsonaro, o sistema registrou três entradas na mesma van: às 22h37 (com passaporte italiano), às 22h40 (com carteira de motorista) e às 23h11 (com passaporte brasileiro)."
+    },
+    {
+     "url": "https://www.forbesargentina.com/today/migraciones-confirmo-flavio-bolsonaro-salio-argentina-avion-privado-rumbo-ecuador-n101250",
+     "trecho": "La Dirección Nacional de Migraciones informa que a las 22:50 hs del dia 27/10, ingresaron por el paso fronterizo de Puente internacional Tancredo Neves en la provincia de Misiones,"
+    }
+   ]
+  },
+  {
+   "id": "E1-b3",
+   "ref_pesquisa": "§1 A13 ('Governo: nada a declarar')",
+   "afirmacao": "O governo argentino respondeu 'nada a declarar'.",
+   "achado": "Não encontrei essa resposta como posição do governo. O que está publicado: o chefe de Gabinete, Diego Santilli, falou em 29/10 em Rosario e defendeu o procedimento: 'Entró por Migraciones, no tenía impedimentos de Interpol'. Uma fonte anônima ligada ao governo (Letra P) também disse que Flávio 'pasó como cualquier ciudadano, aunque por supuesto monitoreado por nosotros'. O único silêncio registrado é o de Milei pessoalmente: o NYT, via Correio da Manhã, diz que ele 'não comentou o caso'.",
+   "selo": "contraria",
+   "data_fato": "2026-10-29",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://www.iprofesional.com/politica/467806-santilli-defendio-el-viaje-de-flavio-bolsonaro-a-eeuu-desde-la-argentina",
+     "trecho": "\"Entró por Migraciones, no tenía impedimentos de Interpol. Esa es la conclusión clara. Viajó a EEUU vía Guayaquil\""
+    },
+    {
+     "url": "https://www.letrap.com.ar/politica/el-gobierno-donald-trump-le-pidio-la-casa-rosada-que-colaborara-la-fuga-bolsonaro-brasil-n5427761",
+     "trecho": "\"Pasó como cualquier ciudadano, aunque por supuesto monitoreado por nosotros\""
+    },
+    {
+     "url": "https://www.correiodamanha.com.br/mundo/2026/10/331449-assessor-de-trump-confirma-que-providenciou-jato-usado-por-flavio-bolsonaro.html",
+     "trecho": "O presidente argentino, Javier Milei, não comentou o caso."
+    }
+   ]
+  },
+  {
+   "id": "E1-b4",
+   "ref_pesquisa": "§1 A13 ('Denúncia arquivada; investigação preliminar segue')",
+   "afirmacao": "A denúncia contra o governo Milei foi arquivada.",
+   "achado": "Não encontrei arquivamento. Em reportagem de 30-31/10, a fiscal Paloma Ochoa pediu medidas preliminares em denúncia contra Milei e outros por encobrimento, com a causa no juzgado de Capuchetti; em Puerto Iguazú, o fiscal Fabián Martínez pediu informes sobre uma denúncia da deputada Marcela Pagano. O governo diz que já entregou documentos à Justiça. 'Arquivada' fica sem fonte.",
+   "selo": "sem_fonte",
+   "data_fato": "2026-10-30",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://www.contextotucuman.com/nota/426959/fuga-de-bolsonaro-el-gobierno-afirma-que-ya-esta-colaborando-con-la-justicia-y-ratifica-que-no-hubo-irregularidades.html",
+     "trecho": "En Comodoro Py, la fiscal Paloma Ochoa solicitó medidas preliminares a partir de una denuncia contra el presidente Javier Milei y otros integrantes del Gobierno por presunto encubrimiento."
+    },
+    {
+     "url": "https://www.contextotucuman.com/nota/426959/fuga-de-bolsonaro-el-gobierno-afirma-que-ya-esta-colaborando-con-la-justicia-y-ratifica-que-no-hubo-irregularidades.html",
+     "trecho": "En paralelo, el fiscal federal de Puerto Iguazú, Fabián Martínez, requirió informes a distintos organismos nacionales por una denuncia presentada por la diputada Marcela Pagano."
+    }
+   ]
+  },
+  {
+   "id": "E1-c1",
+   "ref_pesquisa": "§1 A13 (Caputo e empresas ligadas à Embaixada)",
+   "afirmacao": "O Clarín traz Santiago Caputo no operativo e empresas ligadas à Embaixada dos EUA contratando o voo.",
+   "achado": "O texto original do Clarín (link curto do próprio jornal, que leva à matéria de 28/10) diz, citando fontes da Casa Rosada, que Caputo estava em Puerto Iguazú na noite de terça-feira e monitorou a operação desde a primeira hora, quando empresas ligadas à Embaixada dos EUA contrataram o Gulfstream LV-JQW da Baires Fly. Diz também que o avião esperou no aeroporto desde a noite de segunda e decolou às 0h21.",
+   "selo": "confirma",
+   "data_fato": "2026-10-28",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.clarin.com/politica/santiago-caputo-viajo-puerto-iguazu-mostrar-gobierno-detras-operativo-salida-bolsonaro_0_gHafuAKmCu.html",
+     "trecho": "Según fuentes de la Casa Rosada, Caputo monitoreó la operación desde la primera hora, cuando empresas vinculadas a la Embajada de Estados Unidos contrataron con la empresa argentina Baires Fly un vuelo en el avión modelo Gulfstream G400, matrícula LV-JQW."
+    },
+    {
+     "url": "https://www.clarin.com/politica/santiago-caputo-viajo-puerto-iguazu-mostrar-gobierno-detras-operativo-salida-bolsonaro_0_gHafuAKmCu.html",
+     "trecho": "Ese avión esperó en el aeropuerto de Puerto Iguazú desde el lunes por la noche hasta las 00:21 de este miércoles"
+    }
+   ]
+  },
+  {
+   "id": "E1-c2",
+   "ref_pesquisa": "§1 A13 ('Clarín traz [...] SIDE, jato-isca e ordem de Milei')",
+   "afirmacao": "O Clarín diz que Milei deu a ordem e que houve jato-isca e agentes da SIDE na pista.",
+   "achado": "No texto original do Clarín de 28/10 não achei ordem de Milei, jato-isca nem agentes da SIDE em campo. O Clarín diz que Caputo 'tiene el control de los servicios de Inteligencia de la SIDE' (descrição do poder dele, não uma operação da SIDE) e que a Casa Rosada diz que as autoridades brasileiras foram avisadas. Quem escreve 'por orden directa de Javier Milei', SIDE, Migraciones, Aduana e PSA em campo e um segundo jato (Sundown Jet, LV-JZQ) é o Diario Río Negro, em 29/10, que só atribui 'según Clarín' à parte do jato-isca. Pode haver outra matéria do Clarín com isso, que não consegui abrir.",
+   "selo": "contraria",
+   "data_fato": "2026-10-29",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://www.clarin.com/politica/santiago-caputo-viajo-puerto-iguazu-mostrar-gobierno-detras-operativo-salida-bolsonaro_0_gHafuAKmCu.html",
+     "trecho": "El asesor presidencial, apodado por la prensa como El Mago del Kremlin, que entre sus terminales tiene el control de los servicios de Inteligencia de la SIDE,"
+    },
+    {
+     "url": "https://www.rionegro.com.ar/politica/operacion-iguazu-la-participacion-de-santiago-caputo-en-la-salida-de-flavio-bolsonaro-por-argentina-a-estados-unidos-4776705/",
+     "trecho": "Por orden directa de Javier Milei, el asesor presidencial Santiago Caputo viajó a Misiones para coordinar un operativo confidencial"
+    },
+    {
+     "url": "https://www.rionegro.com.ar/politica/operacion-iguazu-la-participacion-de-santiago-caputo-en-la-salida-de-flavio-bolsonaro-por-argentina-a-estados-unidos-4776705/",
+     "trecho": "El despliegue en la pista del Aeropuerto de Iguazú incluyó, según Clarín, una jugada de distracción digna del espionaje internacional:"
+    }
+   ]
+  },
+  {
+   "id": "E1-c3",
+   "ref_pesquisa": "novidade de 01/11 (Clarín, via TMC)",
+   "afirmacao": "O Clarín publicou em 01/11 novos detalhes: Flávio 'entrou em pânico' e houve recusas no caminho.",
+   "achado": "A TMC resume a reportagem do Clarín de 01/11: autoridades argentinas dizem que Flávio estava 'muito, muito agitado' e 'só queria entrar no avião'; o dono de uma das aeronaves contratadas recusou levá-lo até a fronteira. É relato de fontes argentinas anônimas, em segunda mão; o original do Clarín não abriu.",
+   "selo": "confirma",
+   "data_fato": "2026-11-01",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://tmc.com.br/politica/flavio-panico-muito-agitado-deixou-brasil-diz-jornal-argentino/",
+     "trecho": "Autoridades argentinas procuradas pela reportagem relataram que Flávio “entrou em pânico” durante a operação para deixar o território brasileiro."
+    },
+    {
+     "url": "https://tmc.com.br/politica/flavio-panico-muito-agitado-deixou-brasil-diz-jornal-argentino/",
+     "trecho": "O dono de uma das aeronaves contratadas para a operação havia recusado levar Flávio até a fronteira."
+    }
+   ]
+  },
+  {
+   "id": "E1-d1",
+   "ref_pesquisa": "§1 A4, A20 (PF sem registro de saída; não é foragido)",
+   "afirmacao": "A PF disse que não há registro de saída e que Flávio não é foragido.",
+   "achado": "A íntegra da nota da PF, publicada pelo Poder360 em 28/10, diz: a PF representou ao STF em 25/10 por medidas cautelares, os passaportes comum e diplomático foram cancelados, foi inserido alerta migratório no sistema SONAR, ele foi intimado na manhã de 26/10 a entregar passaportes de outras nacionalidades em 24 horas, 'o que não ocorreu', e 'não há registro oficial de saída do parlamentar pelos postos de controle migratório brasileiros'. As restrições 'por si só' não caracterizam foragido nem autorizam prisão.",
+   "selo": "confirma",
+   "data_fato": "2026-10-28",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.poder360.com.br/poder-justica/decisao-de-moraes-nao-autorizava-prisao-de-flavio-diz-pf/",
+     "trecho": "Não há registro oficial de saída do parlamentar pelos postos de controle migratório brasileiros."
+    },
+    {
+     "url": "https://www.poder360.com.br/poder-justica/decisao-de-moraes-nao-autorizava-prisao-de-flavio-diz-pf/",
+     "trecho": "A existência de restrições relacionadas a documentos de viagem, por si só, não caracteriza a condição de foragido nem autoriza a realização de prisão, vigilância permanente ou outras medidas cautelares”"
+    }
+   ]
+  },
+  {
+   "id": "E1-d2",
+   "ref_pesquisa": "§1 A18 ('Sete minutos depois já havia decisão')",
+   "afirmacao": "Sete minutos depois do resultado já havia decisão de Moraes.",
+   "achado": "Sete minutos foi o pedido da PF, não a decisão: o Poder360 diz que a PF expediu o pedido de apreensão do passaporte 7 minutos depois de o TSE declarar o resultado, às 21h09 de 25/10 (ou seja, 21h16). O texto diz que Moraes 'avalizou o pedido', mas nenhuma fonte aberta traz a hora da decisão. A nota da PF também não dá horário.",
+   "selo": "confirma",
+   "data_fato": "2026-10-25",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.poder360.com.br/poder-justica/decisao-de-moraes-nao-autorizava-prisao-de-flavio-diz-pf/",
+     "trecho": "A Polícia Federal expediu um pedido de apreensão do passaporte de Flávio só 7 minutos depois de o Tribunal Superior Eleitoral ter declarado o resultado da eleição presidencial, às 21h09 de 25 de outubro de 2026"
+    },
+    {
+     "url": "https://www.poder360.com.br/poder-justica/decisao-de-moraes-nao-autorizava-prisao-de-flavio-diz-pf/",
+     "trecho": "O magistrado avalizou o pedido da PF para apreender os documentos de Flávio e proibi-lo de sair do país."
+    }
+   ],
+   "nota": "A hora exata da decisão de Moraes (não a do pedido da PF) não foi encontrada em fonte pública."
+  },
+  {
+   "id": "E1-d3",
+   "ref_pesquisa": "pedido: decisão de Moraes, se pública",
+   "afirmacao": "A decisão de Moraes é pública.",
+   "achado": "Não consegui abrir a decisão. A nota da PF cita o procedimento como Pet nº 16.877/DF, e o Conjur (27/10) diz que a PF cancelou os passaportes após o fim do prazo. Sem a decisão original, o que se sabe dela vem da nota da PF e da imprensa.",
+   "selo": "sem_fonte",
+   "data_fato": "2026-10-25",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://www.poder360.com.br/poder-justica/decisao-de-moraes-nao-autorizava-prisao-de-flavio-diz-pf/",
+     "trecho": "após identificar risco de saída do Brasil pelo senador Flávio Bolsonaro, investigado no âmbito da Pet nº 16.877/DF."
+    },
+    {
+     "url": "https://conjur.com.br/2026-out-27/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais/",
+     "trecho": "A Polícia Federal cancelou os passaportes do senador Flávio Bolsonaro (PL), candidato à Presidência derrotado no último domingo (25/10), uma vez que ele não cumpriu a decisão judicial de entrega dos documentos."
+    }
+   ]
+  },
+  {
+   "id": "E1-e1",
+   "ref_pesquisa": "§1 A25 e linha do tempo 31/out (Mar-a-Lago)",
+   "afirmacao": "Em 31/10 Trump disse que Flávio pode ficar nos EUA quanto quiser.",
+   "achado": "A Reuters (31/10, Palm Beach), sobre uma festa de Halloween no Mar-a-Lago, cita Trump: 'He can stay here as long as he wants' e 'In my opinion, the election was a disgrace'. A mesma Reuters diz que Trump afirmou não ter planos de encontrá-lo. A DW (via CartaCapital) traduz: 'Sem planos de encontrar, mas acho que ele foi tratado muito mal. Muito mal. Então ele pode ficar aqui o tempo que quiser'. Não achei a transcrição nem o vídeo original dessa conversa; o Poder360 tem um vídeo de 31 segundos que não abri.",
+   "selo": "confirma",
+   "data_fato": "2026-10-31",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.yahoo.com/news/articles/rubio-brazils-foreign-minister-meet-151229759.html",
+     "trecho": "\"He can stay here as long as he wants,\" Trump said of Bolsonaro, who left Brazil after losing the election to leftist incumbent Luiz Inacio Lula da Silva, despite leading in most opinion polls."
+    },
+    {
+     "url": "https://www.yahoo.com/news/articles/rubio-brazils-foreign-minister-meet-151229759.html",
+     "trecho": "Trump on Saturday said he has no plans to meet with Bolsonaro."
+    },
+    {
+     "url": "https://www.cartacapital.com.br/mundo/trump-flavio-bolsonaro-pode-ficar-nos-eua-pelo-tempo-que-quiser/",
+     "trecho": "“Sem planos de encontrar, mas acho que ele foi tratado muito mal. Muito mal. Então ele pode ficar aqui o tempo que quiser”"
+    }
+   ]
+  },
+  {
+   "id": "E1-e2",
+   "ref_pesquisa": "§1 A24 e linha do tempo 27/out (comício no Texas)",
+   "afirmacao": "No comício do Texas, em 27/10, Trump disse que o Brasil também fraudava eleição.",
+   "achado": "A transcrição do Roll Call Factbase do comício em Corpus Christi (27/10) traz: 'They're the greatest cheaters of elections, I think, in history, although Brazil is doing a pretty good job also, aren't they? Did you see that one? That was not nice.' E logo depois: 'I didn't take sides, but I didn't like -- it didn't look too good.' O alvo da frase são os democratas; o Brasil entra como comparação e 'That was not nice' pode ser lido como desaprovação. Trump não diz o que o Brasil teria feito. O Poder360 resumiu como 'o Brasil também está fazendo um bom trabalho nisso', com 'nisso' que não está na transcrição.",
+   "selo": "confirma",
+   "data_fato": "2026-10-27",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-speech-midterm-political-rally-corpus-christi-texas-october-27-2026/",
+     "trecho": "They're the greatest cheaters of elections, I think, in history, although Brazil is doing a pretty good job also, aren't they? Did you see that one? That was not nice."
+    },
+    {
+     "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-speech-midterm-political-rally-corpus-christi-texas-october-27-2026/",
+     "trecho": "I mean, I was -- I didn't take sides, but I didn't like -- it didn't look too good."
+    }
+   ]
+  },
+  {
+   "id": "E1-f1",
+   "ref_pesquisa": "§1 A36 ('aviso de deportação' é fala de candidato democrata do Texas)",
+   "afirmacao": "O 'aviso de deportação' é uma fala do democrata Isaiah Martin, não uma ordem.",
+   "achado": "Confirmado que é fala individual de Isaiah Martin, em publicações no X em 27 e 29/10, e não ato do governo: ele escreveu 'Quando Trump se for, os Bolsonaros devem ser deportados' (Congresso em Foco) e, no dia 27, 'Vamos deportá-lo no primeiro dia' (Diario de Pernambuco). A condição dele diverge: o JB o chama de candidato ao Congresso pelo Texas; o Diario de Pernambuco, de 'comentarista político democrata americano'. Não abri os posts originais no X. Nenhuma fonte mostra ordem do governo americano.",
+   "selo": "confirma",
+   "data_fato": "2026-10-29",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://www.congressoemfoco.com.br/noticia/129660/bolsonaros-devem-ser-deportados-quando-trump-se-for--diz-democrata",
+     "trecho": "\"Quando Trump se for, os Bolsonaros devem ser deportados\""
+    },
+    {
+     "url": "https://www.diariodepernambuco.com.br/politica/2026/10/11727805-adversario-de-trump-defende-deportacao-de-flavio-bolsonaro-dos-eua-vamos-deporta-lo-no-1-dia.html",
+     "trecho": "Vamos deportá-lo no primeiro dia. Aliás, deveríamos deixar o Brasil prendê-lo no meio da noite, de helicóptero"
+    },
+    {
+     "url": "https://www.jb.com.br/mundo/2026/10/1061396-democratas-criticam-vistos-e-defendem-deportacao-de-flavio-bolsonaro-dos-eua.html",
+     "trecho": "O candidato ao Congresso pelo Texas Isaiah Martin defendeu que o senador e integrantes de sua família sejam deportados caso os democratas voltem a ter poder para adotar essa medida."
+    }
+   ],
+   "nota": "A condição de Martin (candidato x comentarista) diverge entre fontes; o texto exato dos posts no X não foi aberto."
+  },
+  {
+   "id": "E1-g1",
+   "ref_pesquisa": "§1 A36 ('Casa Rosada admitiu colaboração')",
+   "afirmacao": "Um porta-voz da Casa Rosada admitiu colaboração com o governo Trump na saída de Flávio.",
+   "achado": "Não achei declaração de porta-voz. A posição oficial publicada é de negativa de irregularidade (Santilli, Migraciones). O que existe são fontes anônimas: o Contexto Tucumán (30-31/10) diz que 'otras fuentes oficiales reconocieron que existió una planificación vinculada con autoridades estadounidenses', e o Letra P diz, sem nome, que o governo Trump pediu à Casa Rosada que colaborasse. O Primicias registra que a Casa Rosada nega. Fica sem fonte o termo 'porta-voz' e a palavra 'admitiu'.",
+   "selo": "sem_fonte",
+   "data_fato": "2026-10-30",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://www.contextotucuman.com/nota/426959/fuga-de-bolsonaro-el-gobierno-afirma-que-ya-esta-colaborando-con-la-justicia-y-ratifica-que-no-hubo-irregularidades.html",
+     "trecho": "otras fuentes oficiales reconocieron que existió una planificación vinculada con autoridades estadounidenses."
+    },
+    {
+     "url": "https://www.primicias.ec/internacional/flavio-bolsonaro-brasil-argentina-estados-unidos-pedidos-explicaciones-136122/",
+     "trecho": "Brasil citó a encargada de negocios de Argentina, aunque la Casa Rosada lo niega."
+    }
+   ]
+  },
+  {
+   "id": "E1-h1",
+   "ref_pesquisa": "§1 A6 (Jason Miller arranjou o jato; NYT, WSJ, Reuters)",
+   "afirmacao": "Jason Miller, da Casa Branca, arranjou o jato (NYT, WSJ, Reuters).",
+   "achado": "Os originais do NYT e do WSJ são pagos e não abri. Cópias e resumos: o SBT News (29/10) diz que o WSJ afirma que o jato foi providenciado por Miller; o Midiamax (29/10) diz que o NYT afirma o mesmo; a AFP (30/10) escreve que NYT e WSJ reportaram que o avião foi fretado por Miller; a Reuters (30/10) diz que Miller 'helped arrange the flight from Argentina', segundo uma pessoa que conhece o assunto, e repete em 31/10 que ele ajudou a organizar a viagem. A Reuters o chama de 'Trump adviser'; o NYT, segundo o Midiamax, de funcionário de comunicações da Casa Branca.",
+   "selo": "confirma",
+   "data_fato": "2026-10-29",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/funcionario-da-casa-branca-articulou-voo-de-flavio-diz-nyt",
+     "trecho": "De acordo com a publicação, o jato particular utilizado pelo parlamentar e por sua família foi providenciado por Jason Miller, funcionário de comunicações da Casa Branca."
+    },
+    {
+     "url": "https://midiamax.com.br/brasil/2026/assessor-trump-conseguiu-jato-flavio-fugir-eua-afirma-nyt/",
+     "trecho": "De acordo com a publicação, o funcionário de comunicações da Casa Branca, Jason Miller, foi quem providenciou a aeronave."
+    },
+    {
+     "url": "https://www.thestar.com.my/news/world/2026/10/30/trump-not-planning-to-back-bolsonaro039s-claim-to-be-brazil039s-leader-sources-say",
+     "trecho": "Jason Miller, a Trump adviser who is close to the Bolsonaro family, helped arrange the flight from Argentina, the person familiar with the matter said."
+    },
+    {
+     "url": "https://macaubusiness.com/bolsonaros-getaway-plane-paid-for-from-us-bank-airline/",
+     "trecho": "Some US media, including the New York Times and the Wall Street Journal, have reported that the plane was chartered by Jason Miller, an adviser to Donald Trump."
+    }
+   ]
+  },
+  {
+   "id": "E1-h2",
+   "ref_pesquisa": "§1 A6 ('[...] e não comentou')",
+   "afirmacao": "Miller não comentou o caso.",
+   "achado": "Conflito. O SBT, resumindo NYT/WSJ, diz que Miller 'não quis comentar o caso' e que a Casa Branca remeteu às declarações de Trump. Já o Correio da Manhã (30/10) diz, citando o Metrópoles, que 'Jason Miller, assessor de comunicação da Casa Branca, confirmou ao Metrópoles que providenciou o avião particular'. Não consegui abrir o texto do Metrópoles. A Reuters de 31/10 diz que ele 'helped arrange', sem citar confirmação. Até conferir o Metrópoles, o 'não comentou' está contrariado por uma fonte.",
+   "selo": "contraria",
+   "data_fato": "2026-10-30",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/funcionario-da-casa-branca-articulou-voo-de-flavio-diz-nyt",
+     "trecho": "Procurada pelo The New York Times, a Casa Branca não comentou especificamente a participação de Jason Miller na organização do voo e fez referência a declarações públicas de Trump. Miller não quis comentar o caso."
+    },
+    {
+     "url": "https://www.correiodamanha.com.br/mundo/2026/10/331449-assessor-de-trump-confirma-que-providenciou-jato-usado-por-flavio-bolsonaro.html",
+     "trecho": "Jason Miller, assessor de comunicação da Casa Branca, confirmou ao Metrópoles que providenciou o avião particular utilizado pelo senador Flávio Bolsonaro (PL) e seus familiares na viagem da Argentina para os Estados Unidos, na quarta-feira (28/10)."
+    }
+   ],
+   "nota": "O Metrópoles original, que sustentaria a confirmação, não foi aberto."
+  },
+  {
+   "id": "E1-h3",
+   "ref_pesquisa": "§1 A16 (voo de US$ 150 mil via intermediário americano)",
+   "afirmacao": "O voo custou US$ 150 mil e foi pago por intermediário americano.",
+   "achado": "A AFP (30/10) ouviu o dono da Baires Fly, Luis Grande: contratado por um corretor que mora nos EUA, que transferiu US$ 150 mil de conta de empresa em banco americano para um banco argentino; o intermediário tem passaportes dos EUA e da Argentina e Grande não disse quem ele é nem para quem trabalhava. Quem pagou, em última instância, segue sem resposta.",
+   "selo": "confirma",
+   "data_fato": "2026-10-29",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://macaubusiness.com/bolsonaros-getaway-plane-paid-for-from-us-bank-airline/",
+     "trecho": "The intermediary, who holds US and Argentine passports and whose identity Grande declined to reveal, transferred $150,000 from his company’s account at a US bank to an Argentine bank."
+    },
+    {
+     "url": "https://macaubusiness.com/bolsonaros-getaway-plane-paid-for-from-us-bank-airline/",
+     "trecho": "Grande said he did not know for whom the intermediary was working."
+    }
+   ]
+  },
+  {
+   "id": "E1-h4",
+   "ref_pesquisa": "novidade (NYT, 29/10): residência permanente",
+   "afirmacao": "Flávio deve pedir green card em processo acelerado.",
+   "achado": "O NYT, resumido pelo Midiamax e pelo Correio da Manhã, cita uma autoridade americana: Flávio deve pedir green card, em rito acelerado como o de Eduardo, que teve a residência permanente em julho. O DN (Portugal) diz no título que ele 'recebe carta verde', mas o corpo do texto fala em autorização humanitária de permanência, e a Reuters não fala em green card concedido. Tratar green card como pedido futuro, não concedido.",
+   "selo": "confirma",
+   "data_fato": "2026-10-29",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://midiamax.com.br/brasil/2026/assessor-trump-conseguiu-jato-flavio-fugir-eua-afirma-nyt/",
+     "trecho": "Uma autoridade afirmou ao The New York Times que Flávio deve solicitar, futuramente, o green card, documento que fornece residência permanente nos Estados Unidos."
+    },
+    {
+     "url": "https://www.dn.pt/internacional/flvio-bolsonaro-com-carta-verde-nos-eua-trump-afirma-que-brasileiro-pode-ficar-pelo-tempo-que-quiser",
+     "trecho": "Ele, a esposa e as duas filhas foram admitidos nos Estados Unidos sob uma autorização de permanência por motivos humanitários, que, normalmente, tem duração de apenas um ano."
+    }
+   ]
+  },
+  {
+   "id": "E1-i1",
+   "ref_pesquisa": "linha do tempo 01/nov (Fantástico)",
+   "afirmacao": "O Fantástico de 01/11 trouxe novos detalhes: ex-agente do Mossad e três entradas na mesma van.",
+   "achado": "O resumo do Fantástico (O Tempo, 01/11, 22h26) diz que a operação envolveu três passagens pela Argentina em 40 minutos e a participação de Menachem Booky Halevy, apontado como ex-oficial do Mossad, que entrou no Brasil em 19/10. Diz também que, numa das versões apuradas, Flávio saiu de Brasília às 5h05 de 27/10 em jato ligado a Willer Tomaz, e que a família foi de Cascavel até Foz de van. O texto do Fantástico (g1) não foi aberto.",
+   "selo": "confirma",
+   "data_fato": "2026-11-01",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://www.otempo.com.br/politica/judiciario/2026/11/1/fuga-de-flavio-para-eua-envolveu-agente-israelense-e-carros-diplomaticos-argentinos-revela-tv",
+     "trecho": "Menachem, que tem registros em eventos ao lado de autoridades como o primeiro-ministro de Israel, Benjamin Netanyahu, havia entrado no Brasil em 19 de outubro pelo Aeroporto Internacional de Guarulhos"
+    },
+    {
+     "url": "https://www.otempo.com.br/politica/judiciario/2026/11/1/fuga-de-flavio-para-eua-envolveu-agente-israelense-e-carros-diplomaticos-argentinos-revela-tv",
+     "trecho": "Numa das versões apuradas, Flávio Bolsonaro deixou Brasília às 5h05 da terça-feira (27/10), em um jato Cessna Citation Excel ligado ao advogado Willer Tomaz, amigo do senador."
+    }
+   ]
+  },
+  {
+   "id": "E1-i2",
+   "ref_pesquisa": "entrevistas anunciadas por Flávio",
+   "afirmacao": "Flávio anunciou entrevistas para os próximos dias.",
+   "achado": "Em comunicado de 01/11 (relatado pela Infobae), Flávio diz que nos próximos dias vai conversar com grandes meios nacionais e internacionais, 'sin cortes, sin filtros'. A Infobae diz que ele acusou a TV Globo de recusar uma conversa sem edição. Não encontrei nenhuma entrevista já exibida até 02/11, nem veículo ou data confirmados.",
+   "selo": "confirma",
+   "data_fato": "2026-11-01",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.infobae.com/america/america-latina/2026/11/02/flavio-bolsonaro-volvio-a-denunciar-persecucion-en-su-contra-no-sere-blanco-de-un-juez-con-ganas-de-hacer-el-mal/",
+     "trecho": "En los próximos días voy a conversar con grandes medios nacionales e internacionales. Sin cortes, sin filtros."
+    },
+    {
+     "url": "https://www.infobae.com/america/america-latina/2026/11/02/flavio-bolsonaro-volvio-a-denunciar-persecucion-en-su-contra-no-sere-blanco-de-un-juez-con-ganas-de-hacer-el-mal/",
+     "trecho": "El senador brasileño Flávio Bolsonaro anunció este domingo que concederá entrevistas a medios de comunicación nacionales e internacionales desde Estados Unidos,"
+    }
+   ],
+   "nota": "Nenhuma entrevista concreta localizada até a manhã de 02/11."
+  },
+  {
+   "id": "E1-i3",
+   "ref_pesquisa": "Dino manda PF investigar interferência estrangeira (27/10)",
+   "afirmacao": "O ministro Flávio Dino mandou a PF investigar suspeita de interferência estrangeira nas eleições, incluindo suspeita de troca de apoio por terras raras.",
+   "achado": "Em 27/10, a pedido do PT, Dino determinou a abertura de inquérito na PF sobre possível financiamento externo de campanha, anúncios pagos por perfis estrangeiros e suspeita de troca de apoio político por acesso a terras raras. A abertura do inquérito não prova irregularidade. O fato não consta na pesquisa do vídeo 22.",
+   "selo": "sem_fonte",
+   "data_fato": "2026-10-27",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://acritica.net/eleicoes-2026/dino-manda-pf-investigar-suspeita-de-interferencia-estrangeira-nas-eleicoes/",
+     "trecho": "Investigação apura possível financiamento externo de campanha, anúncios pagos por perfis estrangeiros e suspeita de troca de apoio político por acesso a terras raras brasileiras"
+    }
+   ],
+   "nota": "'sem_fonte' aqui significa que o fato não consta na pesquisa; o texto da matéria sustenta o fato."
+  },
+  {
+   "id": "E1-i4",
+   "ref_pesquisa": "02/11 (notícias do dia)",
+   "afirmacao": "Há notícia nova de 02/11 sobre o caso.",
+   "achado": "Nada de 02/11 localizado sobre a saída de Flávio, a parole ou Rubio. A matéria mais nova que abri é do O Povo (02/11), sobre Miami como base de políticos conservadores da América Latina, sem fato novo do caso. As últimas notícias com fato novo são de 01/11 (Clarín, Fantástico, comunicado de Flávio).",
+   "selo": "sem_fonte",
+   "data_fato": "2026-11-02",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://www.opovo.com.br/noticias/mundo/2026/11/02/miami-a-base-de-politicos-conservadores-da-america-latina.html",
+     "trecho": "Fuga de Flávio Bolsonaro para Flórida usa rota iniciada há quase um século por líderes políticos e ex-ditadores de direita."
+    }
+   ]
+  },
+  {
+   "id": "E1-j1",
+   "ref_pesquisa": "§2 'O que vem': 14 e 15/dez G20 em Doral — Lula vai?",
+   "afirmacao": "Lula confirmou presença no G20 de Doral.",
+   "achado": "O SBT News (29/10) diz que Lula irá à cúpula do G20 em Miami, 14 e 15/12, no hotel de Trump, e que a informação foi confirmada 'com interlocutores próximos ao governo'. Não há comunicado do Planalto nem fala pública de Lula nas fontes abertas. O Poder360 tem matéria 'Lula retoma viagens internacionais e deve encontrar Trump no G20', com 'deve'. Confirmação oficial: não localizada.",
+   "selo": "confirma",
+   "data_fato": "2026-10-29",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/lula-ira-ao-g20-nos-eua-mesmo-apos-trump-questionar-eleicao",
+     "trecho": "O presidente Luiz Inácio Lula da Silva (PT) irá à cúpula do G20, realizada em Miami, nos Estados Unidos,"
+    },
+    {
+     "url": "https://sbtnews.sbt.com.br/noticia/politica/lula-ira-ao-g20-nos-eua-mesmo-apos-trump-questionar-eleicao",
+     "trecho": "A informação foi confirmada pelo SBT com interlocutores próximos ao governo."
+    }
+   ],
+   "nota": "Confirmação por interlocutores, não oficial."
+  },
+  {
+   "id": "E1-j2",
+   "ref_pesquisa": "§2 'O que vem': data da diplomação no TSE",
+   "afirmacao": "A diplomação de Lula no TSE tem data marcada.",
+   "achado": "A data específica da diplomação de Lula não foi encontrada. O calendário eleitoral publicado pelo Poder360 lista '18.dez – Diplomação dos eleitos pelo TSE', e o NSC Total diz que as cerimônias de 2026 devem ser concluídas até 18/12. Em 2022 a diplomação foi em 12/12, mas isso não vale para 2026.",
+   "selo": "sem_fonte",
+   "data_fato": "2026-12-18",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://www.poder360.com.br/poder-eleicoes/eleicoes-de-2026-leia-as-datas-e-regras-do-calendario-eleitoral/",
+     "trecho": "18.dez – Diplomação dos eleitos pelo TSE; 5.jan.2027 – Posse do presidente eleito"
+    },
+    {
+     "url": "https://www.nsctotal.com.br/politica/diplomacao-eleitos-18-dezembro-2026",
+     "trecho": "Cerimônias de diplomação dos eleitos em 2026 devem ser concluídas até 18 de dezembro"
+    }
+   ],
+   "nota": "18/12 é o prazo do calendário, não a data confirmada da cerimônia presidencial."
+  }
+ ],
+ "nao_encontrado": [
+  "Posts originais de @Migraciones_AR no X: não abertos; usei a reprodução da Forbes Argentina.",
+  "Reportagens originais do NYT e do WSJ sobre Jason Miller: não abertas (acesso pago). Usei SBT, Midiamax, AFP, Reuters e Correio da Manhã.",
+  "Texto do Metrópoles com a confirmação de Jason Miller: não localizado.",
+  "Transcrição ou vídeo de Trump no Mar-a-Lago em 31/10 (Roll Call Factbase): não localizado; usei Reuters e DW.",
+  "Posts originais de Isaiah Martin no X: não abertos.",
+  "Decisão de Moraes de 25/10 e hora em que foi assinada: não localizadas.",
+  "Declaração de porta-voz da Casa Rosada admitindo colaboração com os EUA: não localizada.",
+  "Matéria original do Fantástico (g1) e do Clarín de 01/11: não abertas; usei O Tempo e TMC.",
+  "Entrevistas de Flávio anunciadas para os 'próximos dias': nenhuma exibida até 02/11 nas fontes abertas.",
+  "Data da diplomação de Lula no TSE: não encontrada."
+ ]
+}

@@ -1,0 +1,636 @@
+{
+  "arquivo": "e5_sinais.json",
+  "gerado_em": "2026-11-02",
+  "pergunta": "O que veio antes da captura de Maduro (03/01/2026) e o que existe hoje em relação ao Brasil",
+  "sinais_antes_da_captura": [
+    {
+      "data": "2025-01-20",
+      "tipo": "designacao",
+      "sinal": "Trump assina ordem executiva que abre caminho para tratar cartéis como organizações terroristas estrangeiras; entre eles, o Tren de Aragua",
+      "fontes": [
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "Trump signs an executive order that paved the way for criminal organizations and drug cartels to be named “foreign terrorist organizations.” They included Tren de Aragua, a Venezuelan street gang."
+        }
+      ],
+      "fonte_unica": true
+    },
+    {
+      "data": "2025-02-20",
+      "tipo": "designacao",
+      "sinal": "Governo designa formalmente oito organizações criminosas latino-americanas como terroristas estrangeiras",
+      "fontes": [
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "The Trump administration formally designated eight Latin American crime organizations as foreign terrorist organizations."
+        }
+      ],
+      "fonte_unica": true
+    },
+    {
+      "data": "2025-08-07",
+      "tipo": "recompensa_acusacao",
+      "sinal": "EUA dobram a recompensa por Maduro para US$ 50 milhões, anunciada pela procuradora-geral Bondi",
+      "fontes": [
+        {
+          "url": "https://www.thestar.com.my/news/world/2025/08/08/us-increases-reward-for-arrest-of-venezeula039s-maduro-to-50-million",
+          "trecho": "The United States has doubled its reward for information leading to the arrest of Venezuelan President Nicolas Maduro to $50 million over allegations of drug trafficking and links to criminal groups, U.S. Attorney General Pam Bondi announced on Thursday."
+        }
+      ],
+      "fonte_unica": true
+    },
+    {
+      "data": "2025-08-08",
+      "tipo": "diretiva_militar",
+      "sinal": "Trump assina em segredo diretiva ao Pentágono para usar força militar contra cartéis da América Latina que o governo considera terroristas",
+      "fontes": [
+        {
+          "url": "https://www.wlrn.org/americas/2025-08-09/president-trump-directs-military-to-target-foreign-drug-cartels",
+          "trecho": "President Donald Trump has secretly signed a directive to the Pentagon to begin using military force against certain Latin American drug cartels that his administration has deemed terrorist organizations, according to people familiar with the matter."
+        }
+      ],
+      "nota": "data da notícia; a assinatura é anterior",
+      "fonte_unica": true
+    },
+    {
+      "data": "2025-08-19",
+      "tipo": "mobilizacao_naval",
+      "sinal": "Três destroieres com mísseis guiados são enviados para águas perto da Venezuela",
+      "fontes": [
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "The U.S. military deployed three guided-missile destroyers to the waters off Venezuela."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Operation_Southern_Spear",
+          "trecho": "In mid-August 2025, the US began deploying military forces to the Caribbean Sea, amid heightened tensions between the US and Venezuela during the crisis in Venezuela and as the Trump"
+        }
+      ]
+    },
+    {
+      "data": "2025-09",
+      "tipo": "mobilizacao_aerea",
+      "sinal": "Caças F-35 vão para Porto Rico e um submarino com mísseis de cruzeiro opera perto da América do Sul",
+      "fontes": [
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "The U.S. sent F-35 fighter jets to Puerto Rico in September, while a Navy submarine carrying cruise missiles operated off South America."
+        }
+      ],
+      "fonte_unica": true
+    },
+    {
+      "data": "2025-09-02",
+      "tipo": "ataque_barcos",
+      "sinal": "Primeiro ataque a um barco que Trump disse levar drogas e ter saído da Venezuela; 11 mortos",
+      "fontes": [
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "The U.S. carried out its first strike against what Trump said was a drug-carrying vessel that departed from Venezuela and was operated by Tren de Aragua."
+        },
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "Trump said all 11 people on the boat were killed. He posted a short video clip of a small vessel appearing to explode in flames."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Operation_Southern_Spear",
+          "trecho": "In September, the U.S. military began conducting airstrikes on vessels the Trump administration alleged were controlled by narco-terrorists."
+        }
+      ]
+    },
+    {
+      "data": "2025-10-02",
+      "tipo": "base_juridica",
+      "sinal": "Memorando declara os cartéis combatentes ilegais e diz que os EUA estão em conflito armado com eles",
+      "fontes": [
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "Trump declared drug cartels to be unlawful combatants and said the U.S. was now in an “armed conflict” with them, according to an administration memo obtained by The Associated Press."
+        }
+      ],
+      "fonte_unica": true
+    },
+    {
+      "data": "2025-10-15",
+      "tipo": "operacao_encoberta",
+      "sinal": "Trump confirma ter autorizado a CIA a agir em segredo dentro da Venezuela e diz estar avaliando operações em terra",
+      "fontes": [
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "Trump confirmed he has authorized the CIA to conduct covert operations inside Venezuela and said he was weighing carrying out land operations in the country."
+        }
+      ],
+      "fonte_unica": true
+    },
+    {
+      "data": "2025-10-16",
+      "tipo": "comando",
+      "sinal": "O almirante que comandava o Comando Sul, Alvin Holsey, anuncia que se aposentará em dezembro, menos de um ano depois de assumir; o posto costuma durar de três a quatro anos",
+      "fontes": [
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "The Navy admiral who oversaw military operations in the region said he will retire in December."
+        },
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "Adm. Alvin Holsey became leader of U.S. Southern Command only the previous November, overseeing an area that encompasses the Caribbean and waters off South America. Such postings typically last three years to four years."
+        }
+      ],
+      "fonte_unica": true
+    },
+    {
+      "data": "2025-10-23",
+      "tipo": "fala_presidente",
+      "sinal": "Trump diz a repórteres que a terra seria o próximo alvo, depois dos barcos",
+      "fontes": [
+        {
+          "url": "https://www.ksl.com/article/51398593/trump-says-he-is-not-considering-strikes-within-venezuela",
+          "trecho": "In recent weeks, Trump has publicly said his administration will carry out strikes against drug-related targets inside Venezuela."
+        }
+      ],
+      "data_aproximada": true,
+      "nota": "a Reuters diz 'semana passada' em texto de 31/10; a data exata do dia não está na página",
+      "fonte_unica": true
+    },
+    {
+      "data": "2025-10-24",
+      "tipo": "mobilizacao_naval",
+      "sinal": "Hegseth ordena ao porta-aviões USS Gerald R. Ford que vá à região",
+      "fontes": [
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "Hegseth ordered the U.S. military’s most advanced aircraft carrier, the USS Gerald R. Ford, to the region in a significant escalation of military firepower."
+        }
+      ],
+      "fonte_unica": true
+    },
+    {
+      "data": "2025-10-31",
+      "tipo": "negativa",
+      "sinal": "Trump diz que não está considerando ataques dentro da Venezuela, contradizendo a própria fala da semana anterior; 28 dias antes do fechamento do espaço aéreo e 64 dias antes da captura",
+      "fontes": [
+        {
+          "url": "https://www.ksl.com/article/51398593/trump-says-he-is-not-considering-strikes-within-venezuela",
+          "trecho": "President Donald Trump on Friday denied he was considering strikes inside Venezuela, appearing to contradict his own comments from last week and amid intensifying expectations that Washington may soon expand drug trafficking-related operations."
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-trump-denies-u-s-is-considering-strikes-against-venezuela",
+          "trecho": "President Donald Trump said \"no\" Friday when asked if he's considering strikes in Venezuela."
+        }
+      ],
+      "nota": "o 'não' foi dado a uma pergunta de repórter; a Reuters registrou que não ficou claro se ele descartava ataques futuros ou só dizia que não havia decisão final"
+    },
+    {
+      "data": "2025-11-13",
+      "tipo": "operacao_nomeada",
+      "sinal": "Hegseth dá o nome Operation Southern Spear à campanha",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Operation_Southern_Spear",
+          "trecho": "The campaign was formally named on 13 November 2025 by Pete Hegseth, US secretary of defense, as an expansion of an operation bearing the same name announced by the United"
+        }
+      ],
+      "fonte_unica": true
+    },
+    {
+      "data": "2025-11-16",
+      "tipo": "mobilizacao_naval",
+      "sinal": "O porta-aviões Ford chega ao Caribe e eleva para cerca de 12 mil o total de militares na região, em quase uma dúzia de navios",
+      "fontes": [
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "The Ford arrived in the Caribbean, a major moment in the Trump administration’s show of force."
+        },
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "The aircraft carrier’s arrival brought the total number of troops in the region to around 12,000 on nearly a dozen Navy ships in what Hegseth said was “Operation Southern Spear.”"
+        }
+      ],
+      "fonte_unica": true
+    },
+    {
+      "data": "2025-11-16",
+      "tipo": "designacao",
+      "sinal": "Rubio designa o Cartel de los Soles como organização terrorista estrangeira, ligando-o a Maduro; vale a partir da publicação no Federal Register em 24/11",
+      "fontes": [
+        {
+          "url": "https://www.kaxe.org/2025-11-24/u-s-designates-venezuelas-cartel-de-los-soles-a-foreign-terrorist-organization",
+          "trecho": "Secretary of State Marco Rubio has officially designated Venezuela's so-called Cartel de los Soles as a foreign terrorist organization, citing its role in drug trafficking."
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2025-11-24/html/2025-20750.htm",
+          "trecho": "Therefore, I hereby designate the aforementioned organization and its respective aliases as a Foreign Terrorist Organization pursuant to section 219 of the INA. This determination shall be published in the Federal Register. The designation goes into effect upon publication."
+        }
+      ]
+    },
+    {
+      "data": "2025-11-21",
+      "tipo": "aviso_aviacao",
+      "sinal": "A FAA alerta pilotos de que ameaças 'podem representar risco potencial para aeronaves em todas as altitudes' sobre a Venezuela; companhias cancelam voos",
+      "fontes": [
+        {
+          "url": "https://www.news4jax.com/news/world/2025/11/23/airlines-cancel-flights-to-venezuela-after-faa-warns-of-worsening-security-military-activity/",
+          "trecho": "On Friday, the FAA warned pilots that unspecified threats “could pose a potential risk to aircraft at all altitudes” as well planes taking off and landing in the country and even aircraft on the ground."
+        },
+        {
+          "url": "https://www.news4jax.com/news/world/2025/11/23/airlines-cancel-flights-to-venezuela-after-faa-warns-of-worsening-security-military-activity/",
+          "trecho": "The U.S. military has conducted bomber flights up to the coast of Venezuela, sometimes as part of a training exercise to simulate an attack, and sent the aircraft carrier USS Gerald R. Ford into"
+        }
+      ],
+      "fonte_unica": true
+    },
+    {
+      "data": "2025-11-21",
+      "tipo": "ultimato",
+      "sinal": "Em ligação de menos de 15 minutos, Trump diz a Maduro que ele tem uma semana para deixar a Venezuela com a família; Maduro pedia anistia total",
+      "fontes": [
+        {
+          "url": "https://www.bairdmaritime.com/security/trump-rejected-maduro-requests-on-call-options-narrow-for-venezuela-leader",
+          "trecho": "Trump rejected most of his requests on the call, which lasted less than 15 minutes, but told Maduro he had a week to leave Venezuela for the destination of his choice alongside his family members."
+        },
+        {
+          "url": "https://www.bairdmaritime.com/security/trump-rejected-maduro-requests-on-call-options-narrow-for-venezuela-leader",
+          "trecho": "The call, on November 21, came after months of increasing US pressure on Venezuela, including strikes against alleged drug-smuggling boats in the Caribbean, repeated threats by Trump to extend military"
+        },
+        {
+          "url": "https://www.salon.com/2025/12/01/trumps-ultimatum-to-maduro-leave-the-country-now",
+          "trecho": "you must leave the country now,” Trump reportedly said, saying that the leader’s safety wouldn’t be guaranteed otherwise."
+        }
+      ]
+    },
+    {
+      "data": "2025-11-29",
+      "tipo": "fechamento_espaco_aereo",
+      "sinal": "Trump publica que o espaço aéreo sobre e ao redor da Venezuela deve ser considerado fechado por completo; autoridades ouvidas pela Reuters não sabiam de operação para impor o fechamento",
+      "fontes": [
+        {
+          "url": "https://www.ksl.com/article/51412039/trump-says-venezuelan-airspace-should-be-considered-closed",
+          "trecho": "To all Airlines, Pilots, Drug Dealers, and Human Traffickers, please consider THE AIRSPACE ABOVE AND SURROUNDING VENEZUELA TO BE CLOSED IN ITS ENTIRETY,\" Trump said in a Truth Social post."
+        },
+        {
+          "url": "https://www.ksl.com/article/51412039/trump-says-venezuelan-airspace-should-be-considered-closed",
+          "trecho": "U.S. officials contacted by Reuters were surprised by Trump's announcement and unaware of any ongoing U.S. military operations to enforce a closure of Venezuelan airspace."
+        },
+        {
+          "url": "https://www.bairdmaritime.com/security/trump-rejected-maduro-requests-on-call-options-narrow-for-venezuela-leader",
+          "trecho": "That safe passage expired on Friday, prompting Trump to declare on Saturday that Venezuela's airspace was closed, two of the sources said."
+        }
+      ]
+    },
+    {
+      "data": "2025-12-10",
+      "tipo": "bloqueio",
+      "sinal": "EUA apreendem um petroleiro com cerca de 2 milhões de barris de óleo pesado na costa da Venezuela",
+      "fontes": [
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "The U.S. seized an oil tanker off the coast of Venezuela after the ship left that country with about 2 million barrels of heavy crude."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Operation_Southern_Spear",
+          "trecho": "In December, the Trump administration declared the Maduro government a Foreign Terrorist Organization, and began boarding and seizing sanctioned crude tankers."
+        }
+      ]
+    },
+    {
+      "data": "2025-12-16",
+      "tipo": "bloqueio",
+      "sinal": "Trump ordena bloqueio de todos os petroleiros sancionados que entram e saem da Venezuela",
+      "fontes": [
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "Trump said he was ordering a blockade of all “sanctioned oil tankers” going into and out of Venezuela, a move that seemed designed to put a tighter chokehold on the South American country’s oil-dependent economy."
+        }
+      ],
+      "fonte_unica": true
+    },
+    {
+      "data": "2025-12-30",
+      "tipo": "ataque_em_terra",
+      "sinal": "A CIA fez o ataque com drone a uma área de atracação usada por cartéis, primeira operação direta em solo venezuelano",
+      "fontes": [
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "The CIA was behind the drone strike at a docking area believed to have been used by Venezuelan drug cartels, according to two people familiar with details of the classified operation who requested anonymity to discuss it."
+        },
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "It was the first known direct operation on Venezuelan soil since the U.S. began strikes in September."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Operation_Southern_Spear",
+          "trecho": "In late December, the US made its first strike on a land target within Venezuela."
+        }
+      ]
+    },
+    {
+      "data": "2026-01-03",
+      "tipo": "captura",
+      "sinal": "Ataque de grande escala e captura de Maduro e da mulher, levados para os EUA",
+      "fontes": [
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "On Saturday, the U.S. conducted a “large-scale strike” against Venezuela and said that Maduro and his wife, Cilia Flores, had been captured and flown out of the country. Trump announced the operation on social media hours after the attack."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Operation_Southern_Spear",
+          "trecho": "On 3 January 2026, the US bombed targets in Caracas and other locations, and captured Maduro and flew him out of the country."
+        }
+      ]
+    }
+  ],
+  "tipos_de_sinal": [
+    {
+      "tipo": "designacao de organizacoes criminosas como terroristas",
+      "no_caso_venezuela": "Tren de Aragua e outros sete grupos em 20/02/2025; Cartel de los Soles em 16/11/2025",
+      "brasil_hoje": "existe",
+      "explicacao": "O Departamento de Estado designou o CV e o PCC como terroristas globais em 29/05/2026 e disse que pretendia incluí-los na lista de organizações terroristas estrangeiras com vigência em 05/06/2026. Uma reportagem da Jovem Pan data a vigência da designação global em 1º de julho, e a do Metrópoles diz que as duas designações já valiam em 5 de junho; as datas de vigência divergem.",
+      "fontes": [
+        {
+          "url": "https://br.usembassy.gov/terrorist-designation-of-comando-vermelho-and-primeiro-comando-da-capital/",
+          "trecho": "Today, the U.S. Department of State is designating Comando Vermelho (CV) and Primeiro Comando da Capital (PCC) as Specially Designated Global Terrorists (SDGTs) and intends to designate both groups as Foreign Terrorist Organizations (FTOs), effective June 5, 2026."
+        },
+        {
+          "url": "https://jovempan.com.br/mundo/eua-dizem-ser-absurda-hipotese-do-itamaraty-de-acao-militar-no-brasil-por-causa-de-pcc-e-cv/",
+          "trecho": "Desde 1º de julho, passou a valer a classificação do PCC e do CV como Terroristas Globais Especialmente Designados (SDGTs, na sigla em inglês) . Com o enquadramento, as autoridades norte-americanas podem aplicar medidas econômicas contra grupos ou indivíduos."
+        }
+      ],
+      "data_brasil": "2026-05-29",
+      "incerto": true
+    },
+    {
+      "tipo": "designacao do governo ou do chefe de Estado, acusacao formal e recompensa",
+      "no_caso_venezuela": "Maduro: recompensa de US$ 50 milhões em 07/08/2025 e acusação formal em Nova York; Cartel de los Soles apresentado como chefiado por ele",
+      "brasil_hoje": "nao",
+      "explicacao": "Nenhuma página lida mostra designação, acusação ou recompensa contra o presidente ou o governo brasileiro; as designações brasileiras citam só o CV e o PCC. É ausência em páginas abertas, não prova de que não exista nada.",
+      "fontes": [
+        {
+          "url": "https://br.usembassy.gov/terrorist-designation-of-comando-vermelho-and-primeiro-comando-da-capital/",
+          "trecho": "CV and PCC are two of the most violent criminal organizations in Brazil."
+        },
+        {
+          "url": "https://www.metropoles.com/mundo/eua-deixa-em-aberto-a-possibilidade-de-acao-militar-contra-pcc-e-cv",
+          "trecho": "Até o momento, o governo de Donald Trump tem sinalizado que as principais ações contra os dois grupos devem acontecer no âmbito econômico após a designação começar a valer, em 5 de junho."
+        }
+      ],
+      "incerto": true
+    },
+    {
+      "tipo": "sancoes, tarifas e punicao diplomatica",
+      "no_caso_venezuela": "bloqueio de petroleiros sancionados e sanções a empresas (dez/2025)",
+      "brasil_hoje": "existe",
+      "explicacao": "Os EUA impuseram tarifa de 25% a importações brasileiras em julho de 2026 e revogaram em 04/08/2026 o visto da embaixadora do Brasil em Washington, por demora do Brasil em aprovar o embaixador indicado por Trump, Daniel Perez. Há também o risco, citado pela imprensa, de nova rodada de sanções a autoridades brasileiras.",
+      "fontes": [
+        {
+          "url": "https://time.com/article/2026/07/16/brazil-condemns-us-tariffs-lula-trump-greer/",
+          "trecho": "The United States’ decision to impose a new 25% tariff on many imports from Brazil has been labeled a “lamentable milestone” by the office of Brazilian President Luiz Inácio Lula da Silva."
+        },
+        {
+          "url": "https://www.poder360.com.br/poder-governo/mucio-diz-que-abriria-o-portao-em-caso-de-invasao-dos-eua/",
+          "trecho": "Foi uma resposta a um atraso do governo brasileiro em aprovar o nome de Daniel Perez como embaixador dos EUA no Brasil."
+        },
+        {
+          "url": "https://www.correiobraziliense.com.br/mundo/2026/09/7505829-na-onu-trump-ameaca-usar-poder-militar-dos-eua-para-garantir-interesses-na-america-latina.html",
+          "trecho": "o risco de uma nova rodada de sanções do governo Trump contra autoridades brasileiras."
+        }
+      ],
+      "data_brasil": "2026-07-16"
+    },
+    {
+      "tipo": "mobilizacao naval ou aerea perto do pais",
+      "no_caso_venezuela": "destroieres em 19/08/2025, F-35 em Porto Rico em set/2025, porta-aviões Ford em 16/11/2025 e cerca de 12 mil militares",
+      "brasil_hoje": "nao",
+      "explicacao": "As forças e os ataques citados nas fontes estão no Caribe e no Pacífico Oriental, e os soldados do exército vão ao Panamá e a um comando em Miami. Nenhuma fonte aberta lida descreve navios ou aviões posicionados perto do Brasil. Analistas ouvidos pelo Correio da Manhã dizem que a chance de invasão ou intervenção militar no Brasil é baixa. É ausência em páginas abertas.",
+      "fontes": [
+        {
+          "url": "https://www.stripes.com/theaters/americas/2026-08-26/us-strike-kills-4-caribbean-sea-22664654.html",
+          "trecho": "Joint Task Force Western Hemisphere continues executing precise, lethal operations against the cartels,” Gen. Francis Donovan, who leads U.S. Southern Command, said in a news release."
+        },
+        {
+          "url": "https://www.correiodamanha.com.br/politica/2026/08/310159-acao-militar-e-improvavel-mas-intervencao-ja-comecou-diz-analista.html",
+          "trecho": "As chances de uma invasão ou intervenção militar americana no Brasil permanecem baixas."
+        }
+      ],
+      "incerto": true
+    },
+    {
+      "tipo": "tropas terrestres na regiao",
+      "no_caso_venezuela": "operações da CIA e ataque em terra em 30/12/2025 antes da captura; nenhum desembarque amplo antes de 03/01/2026",
+      "brasil_hoje": "parcial",
+      "explicacao": "O New York Times disse que cerca de 600 soldados da 10ª Divisão de Montanha iam ao Panamá, depois Colômbia e Honduras; o Task & Purpose, citando porta-voz da divisão, fala em cerca de 500 soldados na América Latina e uns 100 em um elemento de comando para Miami. A embaixada dos EUA no Panamá disse que a versão de 600 era 'categoricamente falsa' e que são 120 militares em curso de selva até 25/10. Nenhuma das fontes coloca esses soldados no Brasil. O número é disputado.",
+      "fontes": [
+        {
+          "url": "https://taskandpurpose.com/news/army-10th-mountain-division-latin-america/",
+          "trecho": "The Army is sending 500 soldiers from the 10th Mountain Division to Latin America and a headquarters company to Florida as the Army finds itself further involved in the U.S. campaign in the region against drug trafficking groups."
+        },
+        {
+          "url": "https://www.itatiaia.com.br/mundo/governo-trump-envia-600-soldados-para-a-america-latina-publica-jornal-dos-eua/",
+          "trecho": "Uma denúncia do jornal The New York Times (NYT) aponta que os Estados Unidos começaram a enviar cerca de 600 soldados do exército para a América Latina."
+        },
+        {
+          "url": "https://www.larepublica.co/globoeconomia/la-embajada-de-estados-unidos-desmiente-despliegue-de-600-soldados-en-panama-4503628",
+          "trecho": "La Embajada de Estados Unidos en Panamá desmintió la información sobre el supuesto despliegue de 600 soldados estadounidenses en el país centroamericano y calificó la versión como “categóricamente falsa”."
+        }
+      ],
+      "data_brasil": "2026-10-15",
+      "incerto": true
+    },
+    {
+      "tipo": "comando operacional dedicado, com sede em Miami",
+      "no_caso_venezuela": "Operation Southern Spear, nomeada em 13/11/2025, sob o Comando Sul",
+      "brasil_hoje": "parcial",
+      "explicacao": "O Comando Sul ativou em agosto de 2026 a Joint Task Force Western Hemisphere, que substitui a Southern Spear e integra 18 países parceiros. O Task & Purpose diz que cerca de 100 soldados da 10ª Divisão vão a Miami para reforçá-la. O comando existe, mas não está voltado ao Brasil e o Brasil não está entre os parceiros.",
+      "fontes": [
+        {
+          "url": "https://www.militarytimes.com/news/pentagon-congress/2026/08/06/southcom-replaces-southern-spear-with-western-hemisphere-task-force-targeting-criminal-networks/",
+          "trecho": "U.S. Southern Command has activated Joint Task Force Western Hemisphere, a new operational headquarters the command says will synchronize U.S. military operations with allies and partners across the region, replacing Operation Southern Spear."
+        },
+        {
+          "url": "https://taskandpurpose.com/news/army-10th-mountain-division-latin-america/",
+          "trecho": "A spokesperson for the 10th Mountain Division told Task & Purpose that roughly 100 soldiers of a headquarters element will head to Miami, where they will augment Joint Task Force-Western Hemisphere with “command and control, intelligence, planning, communications, and other"
+        }
+      ],
+      "data_brasil": "2026-08-04"
+    },
+    {
+      "tipo": "coalizao regional com acordos de operacoes conjuntas",
+      "no_caso_venezuela": "não houve; os vizinhos foram avisados por declarações e a Venezuela ficou isolada",
+      "brasil_hoje": "nao",
+      "explicacao": "O Brasil ficou fora da cúpula Escudo das Américas, de 07/03/2026, e fora da lista de 18 países da coalizão anticartel do Pentágono. Equador já fez operação conjunta; Guatemala, Honduras e Colômbia são citados em acordos anunciados ou contestados.",
+      "fontes": [
+        {
+          "url": "https://www.gisreportsonline.com/r/shield-of-the-americas-targets-cartels/",
+          "trecho": "Only right-wing presidents participated in the summit. Absent were the governments of Brazil, Colombia, Mexico, Uruguay and Venezuela, whose leftist presidents belong to the Sao Paulo Forum."
+        },
+        {
+          "url": "https://www.csmonitor.com/World/2026/0307/trump-coalition-drug-cartels",
+          "trecho": "Notably missing at the summit were the region’s two dominant powers – Brazil and Mexico – as well as Colombia, long the linchpin of U.S. anti-narcotics strategy in the region."
+        },
+        {
+          "url": "https://www.westhawaiitoday.com/?p=317078",
+          "trecho": "To date, 18 countries have joined the Pentagon-led counter-cartel coalition: Argentina, the Bahamas, Belize, Bolivia, Chile, Colombia, Costa Rica, the Dominican Republic, Ecuador, El Salvador, Guatemala, Guyana, Honduras, Jamaica, Panama, Paraguay, Peru and Trinidad and"
+        }
+      ],
+      "data_brasil": "2026-03-07"
+    },
+    {
+      "tipo": "fala do presidente ameacando usar a forca",
+      "no_caso_venezuela": "'a terra é a próxima' (cerca de 23/10/2025), seguida de negativa em 31/10/2025",
+      "brasil_hoje": "parcial",
+      "explicacao": "Trump disse na ONU, em 22/09/2026, que os EUA usariam seu poderio militar incomparável para garantir interesses vitais no hemisfério e citou as ações na Venezuela e a pressão sobre Cuba. O trecho publicado não cita o Brasil. Em 29/10/2026, Trump disse que Lula lhe pediu para não tomar partido na eleição e que falaria com ele.",
+      "fontes": [
+        {
+          "url": "https://www.correiobraziliense.com.br/mundo/2026/09/7505829-na-onu-trump-ameaca-usar-poder-militar-dos-eua-para-garantir-interesses-na-america-latina.html",
+          "trecho": "Nossas ações na Venezuela são prova de que os Estados Unidos não vão mais permitir que ameaças à América ganhem posição de destaque no hemisfério ocidental e, se necessário, usaremos nosso poderio militar incomparável para garantir os interesses nacionais vitais"
+        },
+        {
+          "url": "https://www.brasildefato.com.br/2026/10/29/trump-revela-que-lula-pediu-que-ele-nao-tomasse-partido-na-eleicao-e-diz-que-vai-conversar-com-presidente/",
+          "trecho": "afirmou nesta quinta-feira (29) que o presidente Luiz Inácio Lula da Silva (PT), reeleito no domingo (25), pediu que ele não interferisse nas eleições brasileiras. O mandatário disse que vai conversar com o petista."
+        }
+      ],
+      "data_brasil": "2026-09-22"
+    },
+    {
+      "tipo": "oficio ou alerta do governo alvo e negativa do governo dos EUA",
+      "no_caso_venezuela": "Maduro dizia que as ações eram um esforço velado para tirá-lo do poder; Trump negou ataques em terra em 31/10/2025",
+      "brasil_hoje": "existe",
+      "explicacao": "O Itamaraty enviou à Câmara, em 01/07/2026, ofício que diz haver 'risco de uso da força militar dos EUA contra o território nacional'. Em 07/07/2026, um porta-voz do Departamento de Estado chamou a avaliação de 'absurda'. Em 01/06/2026, a porta-voz Amanda Roberson disse que a lei das designações não contempla nenhum tipo de ação militar. O Metrópoles recebeu a resposta de que a designação não dá poderes adicionais às Forças Armadas, e chamou a resposta de inconclusiva. A negativa tem o mesmo desenho da de Trump sobre a Venezuela em 31/10/2025, que não impediu a captura.",
+      "fontes": [
+        {
+          "url": "https://www.poder360.com.br/poder-governo/governo-lula-diz-ver-risco-de-intervencao-militar-dos-eua-no-brasil/",
+          "trecho": "O documento sustenta que a designação abre a “possibilidade do uso da força militar dos Estados Unidos em território brasileiro”."
+        },
+        {
+          "url": "https://www.poder360.com.br/poder-governo/governo-lula-diz-ver-risco-de-intervencao-militar-dos-eua-no-brasil/",
+          "trecho": "A lei americana das designações é muito clara: não contempla nenhum tipo de ação militar. É o departamento de guerra que tem responsabilidade para ações militares no mundo."
+        },
+        {
+          "url": "https://jovempan.com.br/mundo/eua-dizem-ser-absurda-hipotese-do-itamaraty-de-acao-militar-no-brasil-por-causa-de-pcc-e-cv/",
+          "trecho": "Um porta-voz do Departamento de Estado dos Estados Unidos disse nesta terça-feira (7) ser “absurda” a indicação feita pelo Ministério das Relações Exteriores do Brasil a risco de ação militar norte-americana em território brasileiro ."
+        },
+        {
+          "url": "https://www.metropoles.com/mundo/eua-deixa-em-aberto-a-possibilidade-de-acao-militar-contra-pcc-e-cv",
+          "trecho": "A designação de uma organização terrorista não confere às Forças Armadas dos EUA quaisquer poderes adicionais que já não possuam”, afirmou um porta-voz da diplomacia norte-americana."
+        }
+      ],
+      "data_brasil": "2026-07-01"
+    },
+    {
+      "tipo": "declaracao do Departamento de Defesa (Guerra) sobre o pais",
+      "no_caso_venezuela": "Hegseth anunciou os ataques a barcos, a Southern Spear e a ordem do porta-aviões; nomeava a Venezuela",
+      "brasil_hoje": "nao",
+      "explicacao": "Não encontrei declaração do Departamento de Defesa ou de Guerra que cite o Brasil como alvo. O que existe são falas gerais: em Panamá, em agosto, Hegseth disse que há planos de ataques em terra contra traficantes e que Honduras e Colômbia aceitaram operações conjuntas. Uma coluna do Diário do Centro do Mundo lê a fala de Hegseth em Guantánamo (10/06) como incluindo o Brasil; é opinião, e o texto da fala citado não nomeia o Brasil.",
+      "fontes": [
+        {
+          "url": "https://trtworld.com/article/24caec342465",
+          "trecho": "The United States is planning land attacks against drug traffickers in Latin America, expanding an air strike campaign against presumed drug-running boats in international waters, US Secretary of Defense Pete Hegseth has said in Panama."
+        },
+        {
+          "url": "https://www.westhawaiitoday.com/?p=317078",
+          "trecho": "Hegseth said Wednesday that Honduras and Colombia had also agreed to allow joint operations."
+        },
+        {
+          "url": "https://www.diariodocentrodomundo.com.br/chefe-do-pentagono-anuncia-nova-guerra-ao-terror-com-o-brasil-entre-os-alvos-por-sara-vivacqua/",
+          "trecho": "Estamos caçando vocês como caçamos a Al-Qaeda e o ISIS no Oriente Médio — com as mesmas redes e a mesma inteligência”, declarou Hegseth às tropas, em trajes de exercício, invocando a Doutrina Monroe do"
+        }
+      ],
+      "incerto": true
+    },
+    {
+      "tipo": "ataques a embarcacoes ou alvos em territorio do pais",
+      "no_caso_venezuela": "35 ataques a barcos até 03/01/2026 e ataque da CIA a um cais em 30/12/2025",
+      "brasil_hoje": "nao",
+      "explicacao": "Os ataques declarados a barcos ocorreram no Caribe e no Pacífico Oriental, e as operações em terra citadas foram em países que aceitaram (Equador). Nenhuma fonte lida mostra ataque dos EUA em território ou águas do Brasil.",
+      "fontes": [
+        {
+          "url": "https://www.stripes.com/theaters/americas/2026-08-26/us-strike-kills-4-caribbean-sea-22664654.html",
+          "trecho": "The U.S. military killed four people in a strike Aug. 25, 2026, against an alleged drug boat in the Caribbean Sea."
+        },
+        {
+          "url": "https://www.csmonitor.com/World/2026/0307/trump-coalition-drug-cartels",
+          "trecho": "Ecuadorian and U.S. security forces attacked a refuge belonging to the Colombian illegal armed group Comandos de la Frontera in the Ecuadorian Amazon on Friday, authorities reported."
+        }
+      ],
+      "incerto": true
+    },
+    {
+      "tipo": "embaixada em crise: fechamento, evacuacao, sem chefe",
+      "no_caso_venezuela": "a embaixada em Caracas operava a partir da Colômbia, e a FAA mandou aeronaves evitar o espaço aéreo",
+      "brasil_hoje": "parcial",
+      "explicacao": "A embaixada em Brasília não tem embaixador; o indicado, Daniel Perez, espera o agrément que o Brasil não deu. Os EUA revogaram o visto da embaixadora brasileira em Washington em 04/08/2026. Não encontrei fonte sobre evacuação ou fechamento da embaixada em Brasília.",
+      "fontes": [
+        {
+          "url": "https://observador.pt/2026/08/05/brasil-acusa-eua-de-escalada-hostil-apos-revogacao-de-visto-de-embaixadora-em-washington/",
+          "trecho": "O Departamento de Estado norte-americano anunciou na terça-feira a revogação do visto da embaixadora do Brasil em Washington e sinalizou que a medida pode ser revertida caso o Brasil conceda o aval diplomático para que"
+        },
+        {
+          "url": "https://www.correiodamanha.com.br/politica/2026/08/310159-acao-militar-e-improvavel-mas-intervencao-ja-comecou-diz-analista.html",
+          "trecho": "a embaixadora do Brasil em Washington, Maria Luiza Ribeiro Viotti, teve seu visto revogado pelo governo dos EUA após o Brasil não aprovar a indicação do embaixador americano Daniel \"Danny\""
+        }
+      ],
+      "data_brasil": "2026-08-04",
+      "incerto": true
+    },
+    {
+      "tipo": "aviso a aviacao ou fechamento de espaco aereo",
+      "no_caso_venezuela": "NOTAM da FAA em 21/11/2025 e anúncio de espaço aéreo fechado em 29/11/2025",
+      "brasil_hoje": "nao",
+      "explicacao": "Nenhuma fonte lida mostra aviso da FAA ou anúncio de fechamento de espaço aéreo para o Brasil. É ausência em páginas abertas.",
+      "fontes": [],
+      "incerto": true
+    },
+    {
+      "tipo": "autorizacao publica de operacoes da CIA no pais",
+      "no_caso_venezuela": "Trump confirmou em 15/10/2025 ter autorizado a CIA a agir dentro da Venezuela",
+      "brasil_hoje": "nao",
+      "explicacao": "Nenhuma fonte lida mostra autorização pública de operação da CIA no Brasil. É ausência em páginas abertas.",
+      "fontes": [],
+      "incerto": true
+    },
+    {
+      "tipo": "ultimato direto ao chefe de governo",
+      "no_caso_venezuela": "ligação de 21/11/2025 com prazo de uma semana para Maduro deixar o país",
+      "brasil_hoje": "nao",
+      "explicacao": "Nenhuma fonte lida mostra ultimato a Lula. A última fala de Trump registrada diz que Lula pediu a ele para não tomar partido na eleição e que ele falaria com o presidente reeleito.",
+      "fontes": [
+        {
+          "url": "https://www.brasildefato.com.br/2026/10/29/trump-revela-que-lula-pediu-que-ele-nao-tomasse-partido-na-eleicao-e-diz-que-vai-conversar-com-presidente/",
+          "trecho": "afirmou nesta quinta-feira (29) que o presidente Luiz Inácio Lula da Silva (PT), reeleito no domingo (25), pediu que ele não interferisse nas eleições brasileiras. O mandatário disse que vai conversar com o petista."
+        }
+      ],
+      "incerto": true
+    },
+    {
+      "tipo": "base juridica interna para usar a forca contra grupos designados",
+      "no_caso_venezuela": "memorando de 02/10/2025 e diretiva de agosto de 2025",
+      "brasil_hoje": "parcial",
+      "explicacao": "A diretiva secreta de agosto de 2025 autoriza força contra cartéis que o governo considera terroristas, e o CV e o PCC passaram a ser designados em 2026. O Departamento de Estado diz que a designação não dá poderes adicionais às Forças Armadas. A base jurídica geral existe; falta ato específico sobre o Brasil.",
+      "fontes": [
+        {
+          "url": "https://www.wlrn.org/americas/2025-08-09/president-trump-directs-military-to-target-foreign-drug-cartels",
+          "trecho": "President Donald Trump has secretly signed a directive to the Pentagon to begin using military force against certain Latin American drug cartels that his administration has deemed terrorist organizations, according to people familiar with the matter."
+        },
+        {
+          "url": "https://www.metropoles.com/mundo/eua-deixa-em-aberto-a-possibilidade-de-acao-militar-contra-pcc-e-cv",
+          "trecho": "A designação de uma organização terrorista não confere às Forças Armadas dos EUA quaisquer poderes adicionais que já não possuam”, afirmou um porta-voz da diplomacia norte-americana."
+        }
+      ],
+      "incerto": true
+    }
+  ],
+  "contagens": {
+    "sinais": 23,
+    "tipos": 16,
+    "brasil_hoje": {
+      "existe": 3,
+      "nao": 8,
+      "parcial": 5
+    },
+    "tipos_com_incerto": 11
+  },
+  "leitura_do_levantamento": [
+    "'nao' sem fonte quer dizer que nenhuma página lida mostra o sinal; é ausência em páginas abertas, e vem marcado com incerto.",
+    "O Departamento de Estado dos EUA negou ação militar contra o Brasil (01/06 e 07/07/2026), e Trump negou ataques em terra na Venezuela em 31/10/2025, 64 dias antes da captura; a negativa sozinha não separa os dois casos.",
+    "Os sinais que antecederam Venezuela e que ainda não aparecem para o Brasil, nas páginas lidas: força naval e aérea perto do país, aviso da FAA, espaço aéreo declarado fechado, ultimato ao chefe de governo, autorização pública da CIA, bloqueio marítimo, acusação e recompensa contra o chefe de governo."
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "modelo": "opus",
+  "condicao": "B",
+  "perguntas": {
+    "P01": {"p": 2, "porque": "Taxa-base de força sem aval contra país deste tamanho é quase nula, 8 de 16 sinais prévios estão ausentes, e o prazo longo até 2030 só mantém um risco residual."},
+    "P02": {"p": 2, "porque": "PCC e CV estão designados, mas não há força naval perto do Brasil nem precedente de ataque sem aval em país tão grande, e os casos de 2026 em terra tiveram aval."},
+    "P03": {"p": 2, "porque": "Reconhecimento ocorreu em 8 de 9 derrotas do preferido, e Trump disse que gosta de Lula, não vai se envolver e não tem planos de apoiar a pretensão."},
+    "P04": {"p": 12, "porque": "Trump diz não ter planos de encontrá-lo e Rubio mantém distância, embora a proximidade na Flórida e a imprevisibilidade de Trump deixem alguma chance."},
+    "P05": {"p": 55, "porque": "O G20 em Doral cai dentro do prazo e há tom amistoso de Trump com Lula, mas o clima de eleição fraudada, a dependência de Lula ir e o prazo curto seguram a chance."},
+    "P06": {"p": 45, "porque": "A imprensa diz que vai, sem confirmação, e a presença em cúpula é a norma, mas o abrigo a Flávio, a tarifa e a crise de vistos dão motivo para mandar outro representante."},
+    "P07": {"p": 80, "porque": "EUA quase sempre mandam alguém a posses, mesmo em relação fria, e basta um encarregado de negócios, embora o nível possa ser baixo e haja chance de ausência como sinal."},
+    "P08": {"p": 72, "porque": "A escada teve 26 altas em 22 meses e o critério é amplo, mas a recente postura de Trump e a negociação em curso reduzem um pouco o ritmo."},
+    "P09": {"p": 28, "porque": "Medidas assim caem por negociação ou tribunal, e há canal Rubio-Vieira, mas 8 meses é pouco e a Seção 301 é mais resistente que o tarifaço anterior."},
+    "P10": {"p": 33, "porque": "Serve de moeda em um acordo, e em relação com embaixadores recíprocos tende a sair, mas o visto revogado de Viotti e o caso Flávio travam a concessão."},
+    "P11": {"p": 15, "porque": "Texto formal assinado exige acordo amplo, e a suspeita de terras raras em inquérito de Dino torna o tema politicamente caro no Brasil."},
+    "P12": {"p": 42, "porque": "Fuga depois da ordem sobre passaportes é fundamento clássico de preventiva e Moraes age rápido, mas a PF diz que não há mandado, ele é só investigado e o foro pode mudar após janeiro."},
+    "P13": {"p": 25, "porque": "Depende de prisão decretada ou condenação e de tempo processual, e sabendo da recusa americana o governo pode adiar, mas há precedentes de pedido em casos parecidos."},
+    "P14": {"p": 2, "porque": "Entregas de abrigados demoram anos, como Toledo e Martinelli, e Trump disse que ele pode ficar quanto quiser."},
+    "P15": {"p": 83, "porque": "Trump garantiu permanência e o caminho do green card é provável, com os riscos vindo de mudança de país ou de falta de confirmação pública do status."},
+    "P16": {"p": 9, "porque": "Quatro de sete casos parecidos voltaram, mas em prazos longos, e aqui a volta significa risco de prisão com a mesma Justiça ainda ativa até 2028."},
+    "P17": {"p": 30, "porque": "O recall de 48% dá chance em pesquisa, mas Tarcísio e outros nomes dentro do país tendem a passar um exilado, e nem toda sondagem o incluirá."},
+    "P18": {"p": 20, "porque": "Democratas à frente nas midterms podem assumir comissões em janeiro e já cobram Rubio, mas a América Latina tem pouca prioridade e o prazo é curto."},
+    "P19": {"p": 10, "porque": "Cartas da oposição raramente recebem resposta pública em dois meses, ainda mais de um Departamento de Estado que defende a própria versão."}
+  },
+  "cenarios": {
+    "C1": 58,
+    "C2": 22,
+    "C3": 19,
+    "C4": 1
+  }
+}

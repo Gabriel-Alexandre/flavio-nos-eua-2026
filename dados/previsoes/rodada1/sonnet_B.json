@@ -1,0 +1,21 @@
+{"modelo":"sonnet","condicao":"B","perguntas":{
+"P01":{"p":2,"porque":"Nenhuma operação terrestre dos EUA contra país desse porte sem aval; 0 de 9 usos de força após derrota e faltam os sinais de captura."},
+"P02":{"p":4,"porque":"Designação de PCC e CV como terroristas abre porta, mas 33 medidas contra o Brasil foram todas não militares e o Departamento de Estado negou risco de força."},
+"P03":{"p":2,"porque":"Trump diz 'I like Lula', 'I won't get involved', e 8 de 9 casos de derrota do preferido terminaram em reconhecimento."},
+"P04":{"p":15,"porque":"Flávio está em Miami e Trump o acolhe, mas disse não ter planos de encontrá-lo e Reuters aponta falta de apoio à pretensão."},
+"P05":{"p":50,"porque":"Rubio e Vieira já conversam e o G20 em Doral (14-15/12) é oportunidade, mas a presença de Lula não está oficialmente confirmada e a relação é tensa."},
+"P06":{"p":60,"porque":"A imprensa diz que Lula vai ao G20 em Doral, sem confirmação oficial, e o clima bilateral e o local (Flórida, onde Flávio está) pesam contra."},
+"P07":{"p":68,"porque":"Países costumam mandar algum representante à posse; mesmo com relação fria, uma delegação ou encarregado de negócios provavelmente comparece."},
+"P08":{"p":72,"porque":"Ritmo de 33 medidas em 22 meses (26 para cima) e um ano e meio de prazo tornam nova medida provável, apesar da aproximação Trump-Lula."},
+"P09":{"p":14,"porque":"Redução depende de acordo; a tarifa está ligada à Seção 301 e à tensão atual, e partes só caíram por decisão judicial."},
+"P10":{"p":20,"porque":"O agrément foi negado até agora; só sai num pacote de acordo (cenário C2), de probabilidade moderada."},
+"P11":{"p":14,"porque":"Terras raras interessam aos dois, mas há inquérito de Dino sobre troca de apoio por terras raras e acordo assinado em um ano é raro."},
+"P12":{"p":22,"porque":"Moraes já mandou entregar passaportes e o PT pediu preventiva, mas Flávio é senador até 31/01/2027 e está no exterior; a PF disse que não é foragido."},
+"P13":{"p":12,"porque":"Pedido de extradição exige prisão ou condenação e os EUA o acolheram; o Brasil pode pedir, mas é passo formal que costuma demorar."},
+"P14":{"p":3,"porque":"Dos exilados nos EUA, só 3 foram entregues e nenhum dos mais parecidos com apoio de aliado político em Washington."},
+"P15":{"p":55,"porque":"Parole vai até 27/10/2027 e o NYT diz que ele deve pedir green card, mas a confirmação pública de status renovado no prazo é incerta."},
+"P16":{"p":25,"porque":"4 de 7 casos parecidos voltaram ao país, mas em prazos longos; até 2028 ele pode voltar se a pressão judicial ceder ou para disputar 2030."},
+"P17":{"p":40,"porque":"Teve 48% no 2º turno e domina a base bolsonarista, mas Tarcísio e Michelle disputam o espaço e o exílio com inquéritos pesa nas pesquisas."},
+"P18":{"p":38,"porque":"Democratas pediram resposta a Rubio e podem ganhar a Câmara em 2027; audiência com o caso entre os temas num prazo de 6 meses é plausível mas não certa."},
+"P19":{"p":10,"porque":"Departamento de Estado raramente responde publicamente a cartas de parlamentares da oposição, e o prazo de 13/11 tende a passar sem resposta pública."}
+},"cenarios":{"C1":55,"C2":24,"C3":18,"C4":3}}

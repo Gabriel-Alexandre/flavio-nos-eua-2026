@@ -1,0 +1,21 @@
+{"modelo":"sonnet","condicao":"A","perguntas":{
+"P01":{"p":2,"porque":"Invasao terrestre sem aval contra um pais grande e sem precedente na regiao e muito rara; o Itamaraty falou em risco, mas o Departamento de Estado negou."},
+"P02":{"p":4,"porque":"Os EUA designaram PCC e CV como terroristas, mas atacar solo ou aguas brasileiras sem aval seria ruptura sem paralelo e Trump disse que nao vai se envolver."},
+"P03":{"p":2,"porque":"Reconhecer Flavio como presidente contradiria a validacao da OEA e do Carter Center e Trump disse nao ter planos de apoiar a pretensao dele."},
+"P04":{"p":12,"porque":"Flavio esta em Miami e Trump diz que ele pode ficar, mas Reuters informa que nao ha planos de encontro e o custo diplomatico de uma foto publica e alto."},
+"P05":{"p":45,"porque":"Trump diz gostar de Lula, Rubio e Vieira ja conversaram e ha G7 e G20 no periodo, mas a relacao esta tensa e o prazo e curto."},
+"P06":{"p":50,"porque":"A imprensa diz que Lula vai a Doral sem confirmacao oficial; o G20 e um foro multilateral dificil de faltar, mas ha atrito com o anfitriao."},
+"P07":{"p":70,"porque":"Os EUA costumam enviar alguem a posse mesmo em momentos frios, e qualquer representante do governo ja basta para resolver SIM."},
+"P08":{"p":50,"porque":"A escalada de tarifa, visto e designacoes vem sendo continua e ha oito meses de janela, embora o que ja esta em vigor nao conte."},
+"P09":{"p":15,"porque":"A reducao exigiria acordo, e hoje o quadro e de pressao; so ocorre se o cenario de negociacao entre Trump e Lula vingar."},
+"P10":{"p":25,"porque":"O agrement e uma moeda de negociacao simples de conceder se houver degelo, mas o Brasil vem recusando ha meses."},
+"P11":{"p":15,"porque":"Acordo assinado de minerais criticos exige negociacao longa e o Dino investiga suspeita de troca de apoio por terras raras, o que torna a assinatura politicamente cara."},
+"P12":{"p":25,"porque":"Ha dois inqueritos e pedido do PT, mas a PF diz que ele nao e foragido, nao ha mandado, e a decretacao de preventiva contra ex-candidato exigiria fato novo."},
+"P13":{"p":12,"porque":"Extradicao exige prisao ou condenacao previa e processo formal, entao o pedido em 2027 depende de uma sequencia de passos ainda nao dados."},
+"P14":{"p":2,"porque":"Os EUA dificilmente entregariam um aliado politico de Trump que tem parole humanitaria e processos de extradicao levam anos."},
+"P15":{"p":65,"porque":"Ha green card sendo pedido e apoio politico em Washington; o risco e a confirmacao publica do status ate outubro de 2027."},
+"P16":{"p":20,"porque":"Voltar significaria enfrentar inqueritos e possivel prisao; so ocorre se o quadro judicial mudar ou ele decidir se entregar."},
+"P17":{"p":35,"porque":"Flavio teve 48 por cento e e o nome mais conhecido, mas esta no exilio e investigado, e Tarcisio, Michelle e Ratinho disputam o espaco."},
+"P18":{"p":25,"porque":"Com democratas a frente nas midterms eles controlariam comissoes em 2027 e podem tratar do caso, mas audiencia exige agenda e prazo e ate junho e curto."},
+"P19":{"p":20,"porque":"O Departamento de Estado costuma responder cartas parlamentares tarde e de forma privada, e resposta publica ate dezembro e improvavel."}
+},"cenarios":{"C1":55,"C2":22,"C3":20,"C4":3}}

@@ -1,0 +1,31 @@
+{
+  "modelo": "fable",
+  "condicao": "B",
+  "perguntas": {
+    "P01": {"p": 3, "porque": "Em 18 casos de força no hemisfério nenhum alvo chegou perto do tamanho do Brasil, 11 dos 16 sinais que antecederam Maduro não existem, e a escada de 33 medidas não tem nada militar."},
+    "P02": {"p": 5, "porque": "A designação do PCC e do CV abre a porta jurídica, mas o padrão de 2026 é operação com aval (Equador) e não há força naval ou aérea perto do Brasil."},
+    "P03": {"p": 4, "porque": "Em 8 de 9 derrotas do preferido de Washington os EUA reconheceram o vencedor, Trump disse que não vai se envolver e Reuters registra ausência de planos de apoiar a pretensão."},
+    "P04": {"p": 25, "porque": "Flávio está em Miami com assessor de Trump ligado ao jato e parole concedida, mas a Casa Branca disse não ter planos de encontro e o custo diplomático é alto antes da posse."},
+    "P05": {"p": 50, "porque": "Trump repete que gosta do Lula e o G20 em Doral cria a ocasião, mas a relação está fria (tarifa, visto da embaixadora, sem embaixador) e o prazo é curto."},
+    "P06": {"p": 50, "porque": "A imprensa diz que Lula vai, mas não há confirmação oficial, a cúpula é na propriedade de Trump e Flávio está a poucos quilômetros, o que dá argumento para faltar."},
+    "P07": {"p": 65, "porque": "Reconhecimento em 8 de 9 casos parecidos e a rotina de mandar ao menos o encarregado de negócios; o risco é um boicote simbólico pela pauta da eleição roubada."},
+    "P08": {"p": 70, "porque": "A escada subiu em 26 de 33 medidas em 22 meses, há inquérito de Dino, prisão possível de Flávio e novo rodízio de pretextos; 8 meses é tempo de sobra para mais um degrau."},
+    "P09": {"p": 30, "porque": "A Suprema Corte já derrubou parte da tarifa e Trump negocia quando há algo a trocar, mas sem acordo amplo em vista e com Flávio como irritante a redução por acordo é minoritária."},
+    "P10": {"p": 30, "porque": "O Brasil segura o agrément como moeda; só sai num pacote de distensão que hoje não está desenhado."},
+    "P11": {"p": 18, "porque": "O interesse em terras raras existe nos dois lados, mas texto assinado entre governos em 14 meses exige uma relação que hoje é de tarifa e visto revogado."},
+    "P12": {"p": 40, "porque": "Dois inquéritos, fuga depois de ordem de entregar passaporte e o fim da imunidade em 31/01/2027 empurram para cima; a cautela do STF com o custo externo empurra para baixo."},
+    "P13": {"p": 30, "porque": "Pedido formal exige prisão decretada antes e o governo sabe que os EUA vão recusar; é provável só como gesto político depois de uma decisão do STF."},
+    "P14": {"p": 4, "porque": "Dos abrigados nos EUA só 3 de 22 foram entregues, nenhum sob proteção declarada do presidente; Trump disse que ele pode ficar o quanto quiser."},
+    "P15": {"p": 80, "porque": "Parole já concedida, pedido de green card previsto e apoio explícito de Trump; o cenário contrário exige mudança de governo ou de humor em Washington."},
+    "P16": {"p": 18, "porque": "4 de 7 casos parecidos voltaram ao país, mas com inquéritos no STF e prisão possível o retorno em 2 anos depende de anistia ou de o processo esvaziar."},
+    "P17": {"p": 45, "porque": "Com 48% no 2º turno ele parte na frente da direita, mas no exterior, sem mandato e sob inquérito, tende a ceder espaço a Tarcísio nas pesquisas de 2027."},
+    "P18": {"p": 40, "porque": "Democratas à frente nas midterms e 25 deputados já mobilizados tornam plausível uma audiência sobre o jato e a parole; sem a maioria, o caso entra só como tema lateral."},
+    "P19": {"p": 35, "porque": "O Departamento de Estado costuma responder cartas de parlamentares, mas em geral de forma privada; a resposta vir a público em 2 meses depende dos autores divulgarem."}
+  },
+  "cenarios": {
+    "C1": 55,
+    "C2": 20,
+    "C3": 22,
+    "C4": 3
+  }
+}

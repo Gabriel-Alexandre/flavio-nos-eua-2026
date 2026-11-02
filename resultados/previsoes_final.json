@@ -1,0 +1,397 @@
+{
+ "modelos": [
+  "fable",
+  "haiku",
+  "opus",
+  "sonnet"
+ ],
+ "n_respostas": 8,
+ "perguntas": [
+  {
+   "id": "P01",
+   "pergunta": "Tropas americanas entram em território brasileiro sem autorização do governo do Brasil",
+   "prazo": "2030-12-31",
+   "resolve_sim_se": "operação militar terrestre confirmada por pelo menos dois de Reuters, AP, AFP",
+   "sem_historia": 2.0,
+   "com_historia": 2.0,
+   "mudanca": 0.0,
+   "menor": 2,
+   "maior": 3,
+   "faixa": "quase nenhuma chance",
+   "por_modelo": {
+    "fable": 3,
+    "haiku": 2,
+    "opus": 2,
+    "sonnet": 2
+   }
+  },
+  {
+   "id": "P02",
+   "pergunta": "Os EUA fazem ataque militar em solo ou águas territoriais brasileiras contra PCC ou Comando Vermelho sem aval do Brasil",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "ataque confirmado pelo Pentágono ou por duas agências",
+   "sem_historia": 4.0,
+   "com_historia": 3.5,
+   "mudanca": -0.5,
+   "menor": 2,
+   "maior": 5,
+   "faixa": "quase nenhuma chance",
+   "por_modelo": {
+    "fable": 5,
+    "haiku": 3,
+    "opus": 2,
+    "sonnet": 4
+   }
+  },
+  {
+   "id": "P03",
+   "pergunta": "O governo dos EUA reconhece Flávio Bolsonaro como presidente ou líder legítimo do Brasil",
+   "prazo": "2027-01-05",
+   "resolve_sim_se": "declaração formal da Casa Branca ou do Departamento de Estado",
+   "sem_historia": 2.5,
+   "com_historia": 2.0,
+   "mudanca": -0.5,
+   "menor": 2,
+   "maior": 4,
+   "faixa": "quase nenhuma chance",
+   "por_modelo": {
+    "fable": 4,
+    "haiku": 2,
+    "opus": 2,
+    "sonnet": 2
+   }
+  },
+  {
+   "id": "P04",
+   "pergunta": "Trump se reúne em público com Flávio Bolsonaro",
+   "prazo": "2027-03-31",
+   "resolve_sim_se": "encontro presencial com foto ou confirmação da Casa Branca",
+   "sem_historia": 12.5,
+   "com_historia": 13.5,
+   "mudanca": 1.0,
+   "menor": 6,
+   "maior": 25,
+   "faixa": "muito improvável",
+   "por_modelo": {
+    "fable": 25,
+    "haiku": 6,
+    "opus": 12,
+    "sonnet": 15
+   }
+  },
+  {
+   "id": "P05",
+   "pergunta": "Trump e Lula conversam por telefone ou se encontram",
+   "prazo": "2026-12-15",
+   "resolve_sim_se": "confirmação de qualquer um dos dois governos",
+   "sem_historia": 50.0,
+   "com_historia": 50.0,
+   "mudanca": 0.0,
+   "menor": 35,
+   "maior": 55,
+   "faixa": "chance parecida",
+   "por_modelo": {
+    "fable": 50,
+    "haiku": 35,
+    "opus": 55,
+    "sonnet": 50
+   }
+  },
+  {
+   "id": "P06",
+   "pergunta": "Lula participa presencialmente da cúpula do G20 em Doral",
+   "prazo": "2026-12-15",
+   "resolve_sim_se": "presença confirmada na cúpula",
+   "sem_historia": 52.5,
+   "com_historia": 55.0,
+   "mudanca": 2.5,
+   "menor": 45,
+   "maior": 68,
+   "faixa": "chance parecida",
+   "por_modelo": {
+    "fable": 50,
+    "haiku": 68,
+    "opus": 45,
+    "sonnet": 60
+   }
+  },
+  {
+   "id": "P07",
+   "pergunta": "Lula toma posse e os EUA mandam representante à cerimônia",
+   "prazo": "2027-01-05",
+   "resolve_sim_se": "representante do governo americano presente na posse",
+   "sem_historia": 74.0,
+   "com_historia": 66.5,
+   "mudanca": -7.5,
+   "menor": 40,
+   "maior": 80,
+   "faixa": "provável",
+   "por_modelo": {
+    "fable": 65,
+    "haiku": 40,
+    "opus": 80,
+    "sonnet": 68
+   }
+  },
+  {
+   "id": "P08",
+   "pergunta": "O governo dos EUA anuncia nova medida contra autoridade setor ou economia do Brasil",
+   "prazo": "2027-06-30",
+   "resolve_sim_se": "sanção, tarifa adicional, revogação coletiva de vistos ou designação publicada, excluindo o que já está em vigor",
+   "sem_historia": 57.5,
+   "com_historia": 72.0,
+   "mudanca": 14.5,
+   "menor": 70,
+   "maior": 72,
+   "faixa": "provável",
+   "por_modelo": {
+    "fable": 70,
+    "haiku": 72,
+    "opus": 72,
+    "sonnet": 72
+   }
+  },
+  {
+   "id": "P09",
+   "pergunta": "Os EUA reduzem a tarifa de 25% da Seção 301 contra o Brasil",
+   "prazo": "2027-06-30",
+   "resolve_sim_se": "ato do USTR ou da Casa Branca reduzindo a taxa ou ampliando isenção relevante por acordo",
+   "sem_historia": 29.0,
+   "com_historia": 23.0,
+   "mudanca": -6.0,
+   "menor": 14,
+   "maior": 30,
+   "faixa": "improvável",
+   "por_modelo": {
+    "fable": 30,
+    "haiku": 18,
+    "opus": 28,
+    "sonnet": 14
+   }
+  },
+  {
+   "id": "P10",
+   "pergunta": "O Brasil concede agrément a Danny Perez como embaixador dos EUA",
+   "prazo": "2027-06-30",
+   "resolve_sim_se": "anúncio de qualquer um dos governos",
+   "sem_historia": 25.0,
+   "com_historia": 30.0,
+   "mudanca": 5.0,
+   "menor": 20,
+   "maior": 33,
+   "faixa": "improvável",
+   "por_modelo": {
+    "fable": 30,
+    "haiku": 30,
+    "opus": 33,
+    "sonnet": 20
+   }
+  },
+  {
+   "id": "P11",
+   "pergunta": "Brasil e EUA assinam acordo governamental sobre minerais críticos",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "texto assinado pelos dois governos",
+   "sem_historia": 20.0,
+   "com_historia": 16.5,
+   "mudanca": -3.5,
+   "menor": 14,
+   "maior": 25,
+   "faixa": "muito improvável",
+   "por_modelo": {
+    "fable": 18,
+    "haiku": 25,
+    "opus": 15,
+    "sonnet": 14
+   }
+  },
+  {
+   "id": "P12",
+   "pergunta": "O STF decreta a prisão de Flávio Bolsonaro",
+   "prazo": "2027-06-30",
+   "resolve_sim_se": "decisão de ministro ou turma, tornada pública",
+   "sem_historia": 37.5,
+   "com_historia": 37.5,
+   "mudanca": 0.0,
+   "menor": 22,
+   "maior": 42,
+   "faixa": "improvável",
+   "por_modelo": {
+    "fable": 40,
+    "haiku": 35,
+    "opus": 42,
+    "sonnet": 22
+   }
+  },
+  {
+   "id": "P13",
+   "pergunta": "O Brasil pede formalmente a extradição de Flávio Bolsonaro",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "pedido confirmado pelo Ministério da Justiça ou pelo STF",
+   "sem_historia": 23.5,
+   "com_historia": 22.5,
+   "mudanca": -1.0,
+   "menor": 12,
+   "maior": 30,
+   "faixa": "improvável",
+   "por_modelo": {
+    "fable": 30,
+    "haiku": 20,
+    "opus": 25,
+    "sonnet": 12
+   }
+  },
+  {
+   "id": "P14",
+   "pergunta": "Os EUA entregam Flávio Bolsonaro ao Brasil",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "extradição ou deportação executada",
+   "sem_historia": 2.0,
+   "com_historia": 3.0,
+   "mudanca": 1.0,
+   "menor": 2,
+   "maior": 4,
+   "faixa": "quase nenhuma chance",
+   "por_modelo": {
+    "fable": 4,
+    "haiku": 3,
+    "opus": 2,
+    "sonnet": 3
+   }
+  },
+  {
+   "id": "P15",
+   "pergunta": "Flávio segue nos EUA com autorização renovada residência ou asilo depois da parole",
+   "prazo": "2027-10-27",
+   "resolve_sim_se": "status confirmado por governo, advogado ou duas agências",
+   "sem_historia": 62.5,
+   "com_historia": 67.5,
+   "mudanca": 5.0,
+   "menor": 45,
+   "maior": 83,
+   "faixa": "provável",
+   "por_modelo": {
+    "fable": 80,
+    "haiku": 45,
+    "opus": 83,
+    "sonnet": 55
+   }
+  },
+  {
+   "id": "P16",
+   "pergunta": "Flávio volta ao Brasil",
+   "prazo": "2028-12-31",
+   "resolve_sim_se": "retorno confirmado",
+   "sem_historia": 17.5,
+   "com_historia": 21.5,
+   "mudanca": 4.0,
+   "menor": 9,
+   "maior": 25,
+   "faixa": "improvável",
+   "por_modelo": {
+    "fable": 18,
+    "haiku": 25,
+    "opus": 9,
+    "sonnet": 25
+   }
+  },
+  {
+   "id": "P17",
+   "pergunta": "Flávio lidera entre os nomes da direita numa pesquisa nacional para 2030",
+   "prazo": "2027-12-31",
+   "resolve_sim_se": "Datafolha ou Quaest com Flávio à frente dos demais nomes da direita",
+   "sem_historia": 35.0,
+   "com_historia": 35.0,
+   "mudanca": 0.0,
+   "menor": 25,
+   "maior": 45,
+   "faixa": "improvável",
+   "por_modelo": {
+    "fable": 45,
+    "haiku": 25,
+    "opus": 30,
+    "sonnet": 40
+   }
+  },
+  {
+   "id": "P18",
+   "pergunta": "Câmara dos EUA faz audiência pública com o caso Flávio Bolsonaro entre os temas",
+   "prazo": "2027-06-30",
+   "resolve_sim_se": "audiência registrada em comissão",
+   "sem_historia": 30.0,
+   "com_historia": 30.0,
+   "mudanca": 0.0,
+   "menor": 20,
+   "maior": 40,
+   "faixa": "improvável",
+   "por_modelo": {
+    "fable": 40,
+    "haiku": 22,
+    "opus": 20,
+    "sonnet": 38
+   }
+  },
+  {
+   "id": "P19",
+   "pergunta": "Departamento de Estado responde publicamente às 15 perguntas dos 25 democratas",
+   "prazo": "2026-12-31",
+   "resolve_sim_se": "resposta escrita pública ou divulgada pelos autores",
+   "sem_historia": 22.5,
+   "com_historia": 16.0,
+   "mudanca": -6.5,
+   "menor": 10,
+   "maior": 35,
+   "faixa": "muito improvável",
+   "por_modelo": {
+    "fable": 35,
+    "haiku": 22,
+    "opus": 10,
+    "sonnet": 10
+   }
+  }
+ ],
+ "cenarios": [
+  {
+   "id": "C1",
+   "cenario": "A pressão longa",
+   "descricao": "Flávio nos EUA sem poder; posse normal; tarifa e visto como moeda; conversa intermitente; sem ruptura e sem acordo amplo até o fim de 2027",
+   "sem_historia": 55.0,
+   "com_historia": 55.0,
+   "menor": 42,
+   "maior": 58,
+   "com_historia_normalizado": 54.5
+  },
+  {
+   "id": "C2",
+   "cenario": "O acordo",
+   "descricao": "Trump e Lula negociam: tarifa e minerais em troca do embaixador e de cooperação; Flávio perde importância para Washington",
+   "sem_historia": 22.0,
+   "com_historia": 23.0,
+   "menor": 20,
+   "maior": 28,
+   "com_historia_normalizado": 22.8
+  },
+  {
+   "id": "C3",
+   "cenario": "A escalada",
+   "descricao": "Nova sanção forte, bancos ou Pix atingidos pela designação, autoridades de volta à lista, prisão decretada com recusa americana; sem ação militar",
+   "sem_historia": 20.0,
+   "com_historia": 20.5,
+   "menor": 18,
+   "maior": 28,
+   "com_historia_normalizado": 20.3
+  },
+  {
+   "id": "C4",
+   "cenario": "A força",
+   "descricao": "Ação militar americana em território brasileiro sem aval do Brasil",
+   "sem_historia": 3.0,
+   "com_historia": 2.5,
+   "menor": 1,
+   "maior": 3,
+   "com_historia_normalizado": 2.5
+  }
+ ],
+ "mudanca_media_absoluta": 3.1,
+ "discordancia_media_entre_modelos": 16.3
+}

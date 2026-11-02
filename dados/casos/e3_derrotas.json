@@ -1,0 +1,897 @@
+{
+ "gerado_em": "2026-11-02",
+ "tarefa": "E3 - derrotas do candidato preferido pelo governo dos EUA em eleicao nacional no exterior, desde 1960, e o que os EUA fizeram nos 12 meses seguintes",
+ "criterios": {
+  "preferencia": "tem de ter fonte; se so secundaria, incerto",
+  "reconheceu": "sim | tardou | nao",
+  "sancao_ou_tarifa_nova": "medida nova contra o pais ou o governo vencedor nos 12 meses (nao vale medida contra regime de golpe a favor do vencedor)",
+  "apoio_a_golpe_ou_oposicao": "acao do governo dos EUA para derrubar ou minar o vencedor; apoio so retorico = nao",
+  "forca_militar": "uso ou ameaca concreta de forca nos 12 meses",
+  "relacao_em_12m": "normal | fria | ruptura"
+ },
+ "base_rate_contexto": {
+  "descricao": "Quantas eleicoes os EUA tentaram influenciar entre 1946 e 2000 (Levin). Nao diz quantas o preferido perdeu.",
+  "fontes": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Foreign_electoral_intervention",
+    "trecho": "the United States intervened in 81 foreign elections, while the Soviet Union or Russia intervened in 36 foreign elections.",
+    "campo": "contexto"
+   }
+  ]
+ },
+ "resumo_contagem": {
+  "n_casos": 9,
+  "reconheceu": {
+   "sim": 8,
+   "nao": 1
+  },
+  "sancao_ou_tarifa_nova": {
+   "sim": 3,
+   "nao": 6
+  },
+  "apoio_a_golpe_ou_oposicao": {
+   "sim": 3,
+   "nao": 6
+  },
+  "forca_militar": {
+   "nao": 9
+  },
+  "relacao_em_12m": {
+   "fria": 2,
+   "normal": 5,
+   "ruptura": 2
+  },
+  "casos_com_incerteza": [
+   "haiti-1990",
+   "israel-1996",
+   "palestina-2006",
+   "argentina-2019",
+   "alemanha-2025",
+   "hungria-2026"
+  ],
+  "janela_parcial": [
+   "hungria-2026"
+  ],
+  "aviso": "Amostra pequena, escolhida pelo que tem fonte aberta; nao e censo. Varios campos 'nao' de sancao, golpe e forca sao por ausencia de fonte, nao por fonte afirmando que nao houve. Caso a caso, ver campos_incertos."
+ },
+ "casos": [
+  {
+   "id": "chile-1970",
+   "pais": "Chile",
+   "eleicao": "1970-09-04",
+   "candidato_preferido_eua": "Jorge Alessandri (independente/Partido Nacional), apoiado só indiretamente; o objetivo declarado era impedir Allende",
+   "vencedor": "Salvador Allende (Unidade Popular), 1º lugar por 36,6% a 35,3% e confirmado pelo Congresso em 24/10/1970",
+   "preferencia": {
+    "descricao": "A política oficial não era apoiar candidato; o governo Nixon usou dinheiro encoberto para impedir a eleição de Allende (campanha de 'spoiling' aprovada pelo Comitê 40, com CIA e embaixador Korry). Alessandri recebeu dinheiro de empresas americanas (ITT pelo menos US$ 350 mil), com a CIA indicando o canal seguro e sabendo do repasse, mas sem pôr dinheiro próprio na campanha dele. Em 15/09/1970, depois da votação e antes do Congresso, Nixon mandou a CIA promover um golpe militar (Track II).",
+    "quem_nos_eua": "Presidente Nixon, Comitê 40 (Kissinger), CIA e embaixador Edward Korry",
+    "tipo": "documentada"
+   },
+   "janela_12m": "completa",
+   "reconheceu": "sim",
+   "sancao_ou_tarifa_nova": "sim",
+   "apoio_a_golpe_ou_oposicao": "sim",
+   "forca_militar": "nao",
+   "relacao_em_12m": "fria",
+   "obs": "Caso de 'impedir Allende', não de apoiar Alessandri: o dinheiro foi para a oposição em geral e, indiretamente, para Alessandri via ITT. Os EUA tentaram barrar a posse (Track I e II, de 15/09 a 24/10/1970; Track II incluiu armas passadas a oficiais e o sequestro fracassado que matou o general Schneider). Allende tomou posse em 03/11/1970; não há ato formal de reconhecimento nas fontes lidas, mas as relações diplomáticas continuaram, em tom 'frio' (NSDM 93, 09/11/1970), com o 'bloqueio invisível' de crédito (Banco Mundial, BID, Eximbank) em menos de um mês e a CIA autorizada a financiar a oposição (US$ 8 mi até 1973). Sem fonte de ameaça militar americana no período: 'nao' por ausência.",
+   "campos_incertos": [
+    "forca_militar"
+   ],
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://history.state.gov/milestones/1969-1976/allende",
+     "trecho": "The U.S. Government used covert funds in Chile during this election period, not for any one candidate’s use but to prevent Allende’s election.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://archive.org/stream/Covert-Action-In-Chile-1963-1973/94chile_djvu.txt",
+     "trecho": "Geneen offered to make available to the CIA a substantial amount of money to be used in support of the Alessandri campaign.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://archive.org/stream/Covert-Action-In-Chile-1963-1973/94chile_djvu.txt",
+     "trecho": "Eventually at least $350,000 was passed by ITT to this campaign. A roughly equal amount was passed by other U.S. companies; the CIA learned of this funding but did not assist in it.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://history.state.gov/historicaldocuments/frus1969-76v21/d38",
+     "trecho": "The additional measures are required to reduce the increased threat of a presidential victory by Socialist Salvador Allende , candidate of the Popular Unity",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://history.state.gov/milestones/1969-1976/allende",
+     "trecho": "After Allende’s inauguration, Nixon stated that U.S. relations with Chile would continue, but would be cooler than during previous administrations.",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB8/nsaebb8i.htm",
+     "trecho": "this memo directs U.S. agencies to adopt a \"cool\" posture toward Allende's government, in order to prevent his consolidation of power",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://archive.org/stream/Covert-Action-In-Chile-1963-1973/94chile_djvu.txt",
+     "trecho": "Following the September 4 elections, the United States government adopted a policy of economic pressure directed against Chile",
+     "campo": "sancao"
+    },
+    {
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB8/nsaebb8i.htm",
+     "trecho": "the Nixon administration did engage in an invisible economic blockade against Allende, intervening at the World Bank, IDB, and Export-Import bank to curtail or terminate credits and loans to Chile",
+     "campo": "sancao"
+    },
+    {
+     "url": "https://archive.org/stream/Covert-Action-In-Chile-1963-1973/94chile_djvu.txt",
+     "trecho": "the CIA was directed to undertake an effort to promote a military coup in Chile to prevent the accession to power of Salvador Allende.",
+     "campo": "apoio_golpe_ou_oposicao"
+    },
+    {
+     "url": "https://archive.org/stream/Covert-Action-In-Chile-1963-1973/94chile_djvu.txt",
+     "trecho": "When the coup attempt failed and Allende was inaugurated Presi- dent, the CIA was authorized by the 40 Committee to fund groups in opposition to Allende in Chile.",
+     "campo": "apoio_golpe_ou_oposicao"
+    },
+    {
+     "url": "https://history.state.gov/milestones/1969-1976/allende",
+     "trecho": "After Allende’s inauguration, Nixon stated that U.S. relations with Chile would continue, but would be cooler than during previous administrations.",
+     "campo": "relacao"
+    }
+   ]
+  },
+  {
+   "id": "haiti-1990",
+   "pais": "Haiti",
+   "eleicao": "1990-12-16",
+   "candidato_preferido_eua": "Marc Bazin (ANDP), ex-funcionário do Banco Mundial",
+   "vencedor": "Jean-Bertrand Aristide (FNCD), 67,5% contra 14,2% de Bazin",
+   "preferencia": {
+    "descricao": "Fontes secundárias descrevem Bazin como o candidato favorecido ou apoiado pelos EUA (Wikipedia, que cita livros) e como um ex-funcionário do Banco Mundial com bons contatos na embaixada; a embaixada e a USAID tinham antipatia por Aristide. Não achei declaração pública nem documento desclassificado de preferência por Bazin.",
+    "quem_nos_eua": "Embaixada dos EUA em Porto Príncipe e governo Bush (atribuição de segunda mão)",
+    "tipo": "documentada"
+   },
+   "janela_12m": "completa",
+   "reconheceu": "sim",
+   "sancao_ou_tarifa_nova": "nao",
+   "apoio_a_golpe_ou_oposicao": "nao",
+   "forca_militar": "nao",
+   "relacao_em_12m": "normal",
+   "obs": "Encaixe fraco na classe: o governo Bush reconheceu a vitória de Aristide no dia seguinte e trabalhou com ele (posse em 07/02/1991). A medida nova dos 12 meses, o corte de ajuda e o embargo comercial (outubro de 1991), foi contra o regime do golpe de 30/09/1991 e a favor do vencedor, não contra ele; os EUA se recusaram a reconhecer o governo provisório e Bush descartou enviar tropas. Preferência por Bazin só em fontes secundárias, por isso o caso fica incerto. Depois do golpe, em 1992, Washington passou a tolerar Bazin como primeiro-ministro do regime. AJUSTE DE CRITERIO: o corte de ajuda e o embargo de out/1991 foram contra o regime do golpe e a favor do vencedor; por isso sancao_ou_tarifa_nova = nao (contra o vencedor/pais eleito). Pelo criterio 'qualquer sancao nova no pais', seria sim.",
+   "campos_incertos": [
+    "preferencia"
+   ],
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Jean-Bertrand_Aristide",
+     "trecho": "He notably defeated Marc Bazin , the U.S.-favored conservative candidate, and Roger Lafontant , a Tonton Macoute leader under Duvalier.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/1991_Haitian_coup_d%27%C3%A9tat",
+     "trecho": "The United States attempted to back neoliberal economist Marc Bazin for the presidency.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://www.nybooks.com/articles/1993/12/02/the-fall-of-the-prophet/",
+     "trecho": "his closest challenger was Marc Bazin, a former World Bank official with good contacts at the US embassy, with just over 14 percent.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://newrepublic.com/article/72477/love-and-haiti",
+     "trecho": "the U.S. Embassy and the U.S. Agency for International Development in Haiti harbored a deep antipathy to Aristide, whom the embassy had labeled \"a radical firebrand\"",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://web.archive.org/web/20150525200351/https://www.nytimes.com/1990/12/18/world/haitians-overwhelmingly-elect-populist-priest-to-the-presidency.html",
+     "trecho": "We fully respect him as the apparent president-elect and look forward to working with him.",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://www.nybooks.com/articles/1993/12/02/the-fall-of-the-prophet/",
+     "trecho": "the American ambassador and the assistant secretary of state offered statements almost immediately recognizing the legitimacy of Aristide’s victory.",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://www.everycrsreport.com/reports/95-602.html",
+     "trecho": "Measures included: cutting off assistance to the Haitian government; imposing trade embargoes, as called for by the Organization of American States (OAS) and the United Nations (U.N.)",
+     "campo": "sancao"
+    },
+    {
+     "url": "https://www.latimes.com/archives/la-xpm-1991-10-09-mn-249-story.html",
+     "trecho": "Economic sanctions are already in place, and a delegation of seven Latin foreign ministers and a top-level U.S. official failed to persuade the Haitian military to relinquish its hold on power.",
+     "campo": "sancao"
+    },
+    {
+     "url": "https://www.latimes.com/archives/la-xpm-1991-10-09-mn-249-story.html",
+     "trecho": "President Aristide was forced from office illegally by force of arms. The Parliament acted . . . at gunpoint.",
+     "campo": "apoio_golpe_ou_oposicao"
+    },
+    {
+     "url": "https://www.latimes.com/archives/la-xpm-1991-10-09-mn-249-story.html",
+     "trecho": "President Bush has not changed his view that it would be a mistake to send U.S. troops to Haiti.",
+     "campo": "forca"
+    },
+    {
+     "url": "https://web.archive.org/web/20150525200351/https://www.nytimes.com/1990/12/18/world/haitians-overwhelmingly-elect-populist-priest-to-the-presidency.html",
+     "trecho": "We congratulated him on his victory and told him the United States supports the democratic process in Haiti,\" said Bernard W. Aronson",
+     "campo": "relacao"
+    }
+   ]
+  },
+  {
+   "id": "israel-1996",
+   "pais": "Israel",
+   "eleicao": "1996-05-29",
+   "candidato_preferido_eua": "Shimon Peres (Trabalhista)",
+   "vencedor": "Benjamin Netanyahu (Likud)",
+   "preferencia": {
+    "descricao": "Clinton ajudou Peres na campanha, sem se envolver abertamente (admitido por ele em entrevista de 2018 à TV israelense): visita a Israel em março de 1996, pacote de ajuda de US$ 100 milhões para antiterrorismo (mais US$ 200 milhões para o Arrow) e acordo antiterror assinado com Peres em abril. Clinton disse que ajudou porque Peres 'apoiava mais o processo de paz'.",
+    "quem_nos_eua": "Bill Clinton (presidente)",
+    "tipo": "ambas"
+   },
+   "janela_12m": "completa",
+   "reconheceu": "sim",
+   "sancao_ou_tarifa_nova": "nao",
+   "apoio_a_golpe_ou_oposicao": "nao",
+   "forca_militar": "nao",
+   "relacao_em_12m": "normal",
+   "obs": "Clinton telefonou a Netanyahu, o convidou à Casa Branca e Christopher disse esperar boa relação de trabalho (Wikipedia, que cita o NY Daily News, bloqueado com 403). O reconhecimento tem só uma fonte aberta (Wikipedia). A cúpula de Sharm el-Sheikh (13/03/1996) não foi aberta em fonte própria: o que há é só a visita de março e o pacote de ajuda. Relação: aliança mantida, com atrito sobre assentamentos e processo de paz; Clinton convocou cúpula emergencial em Washington após os tumultos do túnel (out/1996) e Netanyahu disse a Clinton que sabia que ele 'não estava com ele'. Clinton voltou a pender para Barak em 1999 (fora da janela). Sem medida punitiva dos EUA contra Israel, apoio à oposição nem força militar nos 12 meses: 'nao' por ausência de fonte.",
+   "campos_incertos": [
+    "reconheceu",
+    "sancao_ou_tarifa_nova",
+    "apoio_a_golpe_ou_oposicao",
+    "forca_militar"
+   ],
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://www.jns.org/israel-news/bill-clinton-admits-quiet-campaign-against-netanyahu-during-1996-election",
+     "trecho": "Clinton stated in an interview on Israel’s Channel 10 news that it “would be fair to say” that he assisted in the process to elect Shimon Peres",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://www.jns.org/israel-news/bill-clinton-admits-quiet-campaign-against-netanyahu-during-1996-election",
+     "trecho": "I did try to be helpful to him because I thought he was more supportive of the peace process.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/1996_Israeli_general_election",
+     "trecho": "During the campaign, US president Bill Clinton attempted to influence the results of the election in favor of Peres",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Israel%E2%80%93United_States_relations",
+     "trecho": "Following a March 1996 visit to Israel, President Clinton offered $100 million in aid for Israel's anti-terror activities",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu",
+     "trecho": "who had preferred Netanyahu's opponent, Shimon Peres , in that election.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/1996_Israeli_general_election",
+     "trecho": "U.S. President Bill Clinton called Netanyahu and congratulated him on his election victory.",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://www.jns.org/israel-news/bill-clinton-admits-quiet-campaign-against-netanyahu-during-1996-election",
+     "trecho": "“wanted me to know that he knew I wasn’t for him, and he beat us anyway.”",
+     "campo": "relacao"
+    },
+    {
+     "url": "https://ciaotest.cc.columbia.edu/olj/meria/meria97_peters.html",
+     "trecho": "an emergency Washington summit--convened by President Clinton in the immediate aftermath of the rioting in order to prevent the crisis between Israel and the Palestinians",
+     "campo": "relacao"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Israel%E2%80%93United_States_relations",
+     "trecho": "President Clinton disagreed with Prime Minister Benjamin Netanyahu 's policy of expanding Jewish settlements in the Palestinian territories",
+     "campo": "relacao"
+    }
+   ]
+  },
+  {
+   "id": "palestina-2006",
+   "pais": "Território Palestino",
+   "eleicao": "2006-01-25",
+   "candidato_preferido_eua": "Fatah / Mahmoud Abbas (eleição legislativa)",
+   "vencedor": "Hamas (74 de 132 cadeiras)",
+   "preferencia": {
+    "descricao": "Apoio a Abbas e à Fatah como parceiros: Bush insistiu que a eleição acontecesse e, segundo a Wikipedia, esperava a vitória da Fatah; a USAID gastou US$ 2,3 milhões em projetos que, segundo acusações, reforçavam a imagem de Abbas e da Fatah (sem a marca habitual); Rice elogiou 'Abu Mazen e sua equipe'; depois da derrota, a Vanity Fair e o Guardian relatam plano aprovado por Bush e Rice para armar a Fatah de Dahlan e derrubar o governo do Hamas. Não houve endosso explícito a uma lista antes do voto.",
+    "quem_nos_eua": "George W. Bush, Condoleezza Rice, Elliott Abrams, USAID",
+    "tipo": "documentada"
+   },
+   "janela_12m": "completa",
+   "reconheceu": "sim",
+   "sancao_ou_tarifa_nova": "sim",
+   "apoio_a_golpe_ou_oposicao": "sim",
+   "forca_militar": "nao",
+   "relacao_em_12m": "ruptura",
+   "obs": "Reconheceu o resultado como legítimo (Bush, 26/01: a eleição 'lembra o poder da democracia'; a Wikipedia, citando CRS, diz que o governo Bush aceitou o resultado) mas NÃO tratou com o governo do Hamas: Rice (29/01) disse que os EUA não financiariam organização que defende a destruição de Israel; o governo da Fatah devolveu US$ 50 milhões de ajuda americana em 17/02; EUA, Israel e UE se recusaram a lidar com o governo do Hamas e impuseram sanções (Quarteto, três condições). Apoio à oposição: Vanity Fair (2008) e Guardian relatam plano aprovado por Bush e Rice para a Fatah derrubar o Hamas (pacote de US$ 59 milhões em abr/2007, no limite da janela); o governo Bush negou, segundo a Wikipedia (Voice of America). 'Ruptura' vale para o governo do Hamas, não para a Autoridade Palestina de Abbas. Sem força militar dos EUA contra o território: 'nao' por ausência. Preferência indireta (sem endosso explícito antes do voto), daí incerto.",
+   "campos_incertos": [
+    "preferencia",
+    "forca_militar"
+   ],
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/2006_Palestinian_legislative_election",
+     "trecho": "The United States spent $2.3 million in USAID on support for the Palestinian elections, allegedly designed to bolster the image of President Abbas and his Fatah party.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/2006_Palestinian_legislative_election",
+     "trecho": "Abu Mazen (Abbas) was confident that Fatah would win the elections, as was Bush, who urged that the elections should take place.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://www.theguardian.com/world/2008/mar/04/usa.israelandthepalestinians",
+     "trecho": "The Bush administration plan sought to undo the results of elections in the West Bank and Gaza in January 2006 which, to the chagrin of White House and State Department officials",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://2001-2009.state.gov/secretary/rm/2006/60016.htm",
+     "trecho": "I just want to say a word about Abu Mazen and some of his team. They had a long history of corruption to deal with",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2006/01/20060126.html",
+     "trecho": "the results of which remind me about the power of democracy. You see, when you give people the vote, you give people a chance to express themselves at the polls",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/2006_Palestinian_legislative_election",
+     "trecho": "The Bush Administration accepted the outcome of the Palestinian legislative elections and praised the PA for holding free and fair elections.",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://2001-2009.state.gov/secretary/rm/2006/60016.htm",
+     "trecho": "the United States is not prepared to fund an organization that advocates the destruction of Israel, that advocates violence and that refuses its obligations under the roadmap",
+     "campo": "sancao"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/2006_Palestinian_legislative_election",
+     "trecho": "the then Fatah-led government returned $50 million US aid that Washington did not want to come in the hands of the new government.",
+     "campo": "sancao"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Fatah%E2%80%93Hamas_conflict",
+     "trecho": "a substantial part of the international community, especially Israel, the United States and European Union countries, refused to deal with the Hamas government and imposed sanctions.",
+     "campo": "sancao"
+    },
+    {
+     "url": "http://www.vanityfair.com/politics/features/2008/04/gaza200804",
+     "trecho": "a covert initiative, approved by Bush and implemented by Secretary of State Condoleezza Rice and Deputy National Security Adviser Elliott Abrams, to provoke a Palestinian civil war.",
+     "campo": "apoio_golpe_ou_oposicao"
+    },
+    {
+     "url": "https://www.theguardian.com/world/2008/mar/04/usa.israelandthepalestinians",
+     "trecho": "Bush and the secretary of state, Condoleezza Rice, signed off on a plan for the Palestinian president, Mahmoud Abbas, to remove the Hamas authorities in Gaza.",
+     "campo": "apoio_golpe_ou_oposicao"
+    },
+    {
+     "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2006/01/20060126.html",
+     "trecho": "I made it very clear that the United States does not support political parties that want to destroy our ally, Israel, and that people must renounce that part of their platform.",
+     "campo": "relacao"
+    }
+   ]
+  },
+  {
+   "id": "nicaragua-2006",
+   "pais": "Nicaragua",
+   "eleicao": "2006-11-05",
+   "candidato_preferido_eua": "Eduardo Montealegre (Aliança Liberal Nicaraguense); a oposição declarada era a Daniel Ortega",
+   "vencedor": "Daniel Ortega (FSLN), 38,1% contra 29,0% de Montealegre",
+   "preferencia": {
+    "descricao": "Autoridades americanas se opuseram abertamente a Ortega antes da votação: o embaixador Paul Trivelli incentivou os opositores conservadores a se unirem sob um candidato único para derrotá-lo, o secretário de Comércio Carlos Gutierrez disse que uma vitória dele poderia pôr em risco o acordo de livre comércio e afastar investidores, e o deputado Dan Burton disse que a ajuda seria cortada. Que o favorito de Washington era Montealegre (e, em segundo plano, o dissidente sandinista Edmundo Jarquín) vem da Wikipedia, que diz que o embaixador endossou abertamente a candidatura dele.",
+    "quem_nos_eua": "Embaixador Paul Trivelli, secretário de Comércio Carlos Gutierrez, deputado Dan Burton",
+    "tipo": "publica"
+   },
+   "janela_12m": "completa",
+   "reconheceu": "sim",
+   "sancao_ou_tarifa_nova": "nao",
+   "apoio_a_golpe_ou_oposicao": "nao",
+   "forca_militar": "nao",
+   "relacao_em_12m": "normal",
+   "obs": "As ameaças de corte de ajuda e de tarifa vieram antes da eleição e não se cumpriram nas fontes lidas: o governo Bush disse que trabalharia com os líderes que apoiassem a democracia, chamou Ortega de 'presidente eleito' e manteve o acordo de US$ 175 mi da Millennium Challenge, e Ortega tomou posse em 10/01/2007. Os campos 'nao' (sanção, apoio a oposição, força) são ausência: nenhuma fonte lida registra a medida nos 12 meses. A relação 'normal' também é inferida do que o Departamento de Estado descreve em 2008 (reconhece como legítimas as forças que respeitam a democracia, cooperação seguiu), sem fonte que classifique o tom.",
+   "campos_incertos": [
+    "sancao_ou_tarifa_nova",
+    "apoio_a_golpe_ou_oposicao",
+    "forca_militar",
+    "relacao_em_12m"
+   ],
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.npr.org/templates/story/story.php?storyId=6423982&from=mobile",
+     "trecho": "The American ambassador in Managua, Paul Trivelli, has actively encouraged conservative opponents of Ortega to unify under a single candidate, the better to defeat him.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://www.npr.org/templates/story/story.php?storyId=6423982&from=mobile",
+     "trecho": "U.S. Commerce Secretary Carlos Gutierrez has warned that a Daniel Ortega victory could endanger a free-trade agreement with the United States -- and scare off foreign investors.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "http://news.bbc.co.uk/2/hi/americas/6117704.stm",
+     "trecho": "Washington had previously warned that Mr Ortega's election could lose Nicaragua US aid.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/2006_Nicaraguan_general_election",
+     "trecho": "U.S. officials have openly opposed Daniel Ortega's and José Rizo's candidacies, and supported Eduardo Montealegre and Sandinista dissident Edmundo Jarquín.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "http://news.bbc.co.uk/2/hi/americas/6117704.stm",
+     "trecho": "The US pledged to work with Nicaragua's leaders, if they back democracy.",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://2001-2009.state.gov/r/pa/prs/ps/2006/75928.htm",
+     "trecho": "Question: Has Nicaraguan President-Elect Daniel Ortega sent representatives to Washington to discuss future bilateral relations? Answer: No.",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://2001-2009.state.gov/r/pa/ei/bgn/1850.htm",
+     "trecho": "FSLN candidate Daniel Ortega won the presidential elections of November 5, 2006 with 38% of the vote, defeating a divided opposition.",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://2001-2009.state.gov/r/pa/ei/bgn/1850.htm",
+     "trecho": "It recognizes as legitimate all political forces that abide by the democratic process and eschew violence.",
+     "campo": "relacao"
+    },
+    {
+     "url": "https://2001-2009.state.gov/r/pa/ei/bgn/1850.htm",
+     "trecho": "The Millennium Challenge Corporation's 5-year, $175 million compact with the Republic of Nicaragua entered into force on May 26, 2006.",
+     "campo": "sancao"
+    }
+   ]
+  },
+  {
+   "id": "argentina-2019",
+   "pais": "Argentina",
+   "eleicao": "2019-10-27",
+   "candidato_preferido_eua": "Mauricio Macri (presidente em exercício, Juntos por el Cambio)",
+   "vencedor": "Alberto Fernández (Frente de Todos), eleito no 1º turno",
+   "preferencia": {
+    "descricao": "O governo Trump tratou Macri como peça-chave contra um eixo peronista/populista e usou o peso dos EUA no FMI para sustentar o governo dele antes da eleição (empréstimo de cerca de US$ 57 bi). Segundo o Infobae, com base no então assessor de Trump Mauricio Claver-Carone, Trump apoiou Macri também em público; não achei a declaração pública em si em nenhuma página aberta, por isso a preferência está marcada como incerta quanto a esse ponto. A Foreign Policy confirma que Trump era aliado próximo de Macri.",
+    "quem_nos_eua": "Donald Trump; Mauricio Claver-Carone (representante dos EUA no FMI e depois assessor de Trump para o Hemisfério Ocidental)",
+    "tipo": "documentada"
+   },
+   "janela_12m": "completa",
+   "reconheceu": "sim",
+   "sancao_ou_tarifa_nova": "nao",
+   "apoio_a_golpe_ou_oposicao": "nao",
+   "forca_militar": "nao",
+   "relacao_em_12m": "normal",
+   "obs": "Trump ligou a Fernández em 01/11/2019 (5 dias depois da eleição), a Casa Branca confirmou a ligação para felicitá-lo e Trump disse ter instruído o FMI a trabalhar com ele; dois dias antes o secretário do Tesouro, Mnuchin, havia lembrado que a Argentina tem um compromisso com o FMI. Em fev/2020 Trump recebeu o embaixador de Fernández e mandou dizer que ele pode contar com este presidente. Atritos: em 02/12/2019 Trump anunciou que restauraria tarifas sobre aço e alumínio de Brasil e Argentina; segundo a Wikipedia, não levou isso adiante (por isso sancao = nao: foi ameaça, não medida em vigor). Em dez/2019 Claver-Carone, em entrevista ao Clarín, cobrou de Fernández definição entre defensor da democracia e apologista de ditaduras. Nenhuma fonte lida registra apoio dos EUA a oposição/golpe nem uso ou ameaça de força: nao por ausência.",
+   "campos_incertos": [
+    "preferencia",
+    "apoio_a_golpe_ou_oposicao",
+    "forca_militar"
+   ],
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://www.infobae.com/politica/2020/07/28/un-asesor-de-trump-revelo-por-que-ayudaron-al-gobierno-de-macri-a-acceder-a-un-rescate-del-fondo-monetario-internacional/",
+     "trecho": "el presidente de los Estados Unidos no solo apoyó a Macri en público, sino que también utilizó en secreto toda su poder global para que el Fondo Monetario Internacional (FMI) saltara todos sus límites financieros",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://www.infobae.com/politica/2020/07/28/un-asesor-de-trump-revelo-por-que-ayudaron-al-gobierno-de-macri-a-acceder-a-un-rescate-del-fondo-monetario-internacional/",
+     "trecho": "Estados Unidos debía apoyar al gobierno de Cambiemos para tener su voto permanente frente a Venezuela y evitar que la crisis económica facilitara el regreso del peronismo a Balcarce 50.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://foreignpolicy.com/2019/10/24/macri-fernandez-kirchner-argentina-president-elections-economy-imf-debt/",
+     "trecho": "A Peronist government would have few friends; U.S. President Donald Trump is a close ally of Macri’s, and the leaders of Brazil and Colombia have expressed unease",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://www.lanacion.com.ar/politica/trump-hablo-con-fernandez-y-le-prometio-su-apoyo-ante-el-fmi-nid2303045",
+     "trecho": "La Casa Blanca confirmó anoche oficialmente el llamado de Trump a Fernández para \"felicitarlo por su reciente victoria electoral\".",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://www.lanacion.com.ar/politica/trump-hablo-con-fernandez-y-le-prometio-su-apoyo-ante-el-fmi-nid2303045",
+     "trecho": "\"He instruido al FMI para trabajar con usted. No dude en llamarme\", dijo el mandatario de los Estados Unidos al presidente electo argentino",
+     "campo": "relacao"
+    },
+    {
+     "url": "https://www.lanacion.com.ar/politica/trump-hablo-con-fernandez-y-le-prometio-su-apoyo-ante-el-fmi-nid2303045",
+     "trecho": "\"La Argentina tiene un compromiso con el FMI. Nuestra expectativa es que el gobierno [de Fernández] cumpla con ese compromiso\", manifestó.",
+     "campo": "relacao"
+    },
+    {
+     "url": "https://www.lanacion.com.ar/politica/alberto-fernandez-recibio-al-embajador-estados-unidos-nid2309984",
+     "trecho": "Estados Unidos espera colaborar con el gobierno del presidente electo Fernández para el beneficio mutuo de ambos pueblos",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://www.infobae.com/politica/2020/02/22/el-plan-oficial-para-concretar-este-ano-la-reunion-entre-alberto-fernandez-y-donald-trump/",
+     "trecho": "Argüello ya presentó cartas credenciales ante Trump, lo que hizo como embajador “en comisión”, ya que todavía no se habían podido formalizar los pasos necesarios en el Senado.",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://www.bbc.com/news/business-50633500",
+     "trecho": "US President Donald Trump has said he will place tariffs on steel and aluminium imports from Brazil and Argentina.",
+     "campo": "sancao"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Tariffs_in_the_first_Trump_administration",
+     "trecho": "In December 2019, President Trump threatened to reinstate steel and aluminium tariffs against Brazil and Argentina, although did not in the end pursue this.",
+     "campo": "sancao"
+    },
+    {
+     "url": "https://www.clarin.com/politica/durisimo-mensaje-ee-uu-alberto-f-queremos-saber-va-abogado-democracia-apologista-dictaduras-_0_jrVM8upG.html",
+     "trecho": "Queremos saber si Alberto Fernández va a ser un abogado de la democracia o apologista de las dictaduras y caudillos de la región, sean Maduro, Correa o Morales",
+     "campo": "relacao"
+    },
+    {
+     "url": "https://www.lanacion.com.ar/politica/trump-jorge-arguello-digale-al-presidente-fernandez-nid2331350",
+     "trecho": "Trump a Jorge Argüello: \"Dígale al Presidente Fernández que puede contar con este presidente\"",
+     "campo": "relacao"
+    }
+   ]
+  },
+  {
+   "id": "venezuela-2024",
+   "pais": "Venezuela",
+   "eleicao": "2024-07-28",
+   "candidato_preferido_eua": "Edmundo González Urrutia (candidato da oposição unificada; María Corina Machado, vencedora das primárias, estava inabilitada)",
+   "vencedor": "Nicolás Maduro, proclamado pelo CNE e validado pelo TSJ; os EUA sustentam que González venceu",
+   "resultado_contestado": true,
+   "preferencia": {
+    "descricao": "Governo Biden apoiou a oposição democrática: afirmou em 01/08/2024 que os dados eleitorais mostram que González teve mais votos, em 06/01/2025 o recebeu na Casa Branca e em 10/01/2025 o chamou de presidente eleito. Caso especial: resultado oficialmente contestado; perdeu apenas pelo resultado proclamado pelo CNE.",
+    "quem_nos_eua": "Antony Blinken (Departamento de Estado), Joe Biden",
+    "tipo": "publica"
+   },
+   "janela_12m": "completa (28/07/2024 a 28/07/2025); para o período seguinte, ver obs",
+   "reconheceu": "nao",
+   "sancao_ou_tarifa_nova": "sim",
+   "apoio_a_golpe_ou_oposicao": "sim",
+   "forca_militar": "nao",
+   "relacao_em_12m": "ruptura",
+   "obs": "Os EUA nunca reconheceram a vitória de Maduro (Blinken, 01/08/2024: González teve mais votos; 10/01/2025: não reconhece Maduro como presidente e chama González de presidente eleito). Em ago/2024 evitaram chamá-lo de presidente eleito. Sanções novas na janela: 16 autoridades (12/09/2024), 21 (27/11/2024), 8 mais recompensa de até US$ 25 mi por Maduro (10/01/2025) e, já no governo Trump, tarifa de 25% sobre países que importam petróleo venezuelano (EO de 24/03/2025). Apoio à oposição: Biden recebeu González em 06/01/2025. Relação em ruptura: sem laços diplomáticos formais desde 2019. Força militar: dentro dos 12 meses (até 28/07/2025) as fontes lidas não registram uso ou ameaça concreta; a mobilização no Caribe começou em meados de ago/2025, houve ataques a barcos desde set/2025 e em 03/01/2026 uma operação militar dos EUA capturou Maduro, ou seja, de 12 a 17 meses depois da eleição, fora da janela. Campo marcado como incerto por estar na fronteira da janela. Caso diferente dos demais: o vencedor proclamado era o adversário dos EUA e acabou deposto por intervenção.",
+   "campos_incertos": [
+    "forca_militar"
+   ],
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.bbc.co.uk/news/articles/cd1d10453zno",
+     "trecho": "Electoral data overwhelmingly demonstrate the will of the Venezuelan people: democratic opposition candidate Edmundo González won the most votes in Sunday’s election.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://2021-2025.state.gov/office-of-the-spokesperson/releases/2025/01/condemning-nicolas-maduros-illegitimate-attempt-to-seize-power-in-venezuela-and-announcing-new-actions-against-maduro-and-his-representatives-and-to-support-the-venezuelan-people/",
+     "trecho": "President-elect Edmundo González Urrutia should be sworn in, and the democratic transition should begin.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://www.elmundo.es/internacional/2025/01/06/677c1c5efdddffd0278b4592.html",
+     "trecho": "El presidente de EEUU recibió en la Casa Blanca al ganador de las elecciones venezolanas",
+     "campo": "apoyo_golpe_ou_oposicao"
+    },
+    {
+     "url": "https://2021-2025.state.gov/office-of-the-spokesperson/releases/2025/01/condemning-nicolas-maduros-illegitimate-attempt-to-seize-power-in-venezuela-and-announcing-new-actions-against-maduro-and-his-representatives-and-to-support-the-venezuelan-people/",
+     "trecho": "The United States rejects the National Electoral Council’s fraudulent announcement that Maduro won the presidential election and does not recognize Nicolás Maduro as the president of Venezuela.",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/2024_Venezuelan_political_crisis",
+     "trecho": "He called for talks and a peaceful transition, [ 36 ] but the US has not referred to González as president-elect .",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://home.treasury.gov/news/press-releases/jy2577",
+     "trecho": "Today, the Department of the Treasury’s Office of Foreign Assets Control (OFAC) designated 16 Maduro-aligned officials who obstructed",
+     "campo": "sancao"
+    },
+    {
+     "url": "https://home.treasury.gov/news/press-releases/jy2730",
+     "trecho": "Today, the Department of the Treasury’s Office of Foreign Assets Control (OFAC) is sanctioning 21 security and cabinet-level officials aligned with Nicolas Maduro.",
+     "campo": "sancao"
+    },
+    {
+     "url": "https://2021-2025.state.gov/office-of-the-spokesperson/releases/2025/01/condemning-nicolas-maduros-illegitimate-attempt-to-seize-power-in-venezuela-and-announcing-new-actions-against-maduro-and-his-representatives-and-to-support-the-venezuelan-people/",
+     "trecho": "These designations represent the third tranche of such measures since Venezuela’s July 28 election.",
+     "campo": "sancao"
+    },
+    {
+     "url": "https://www.whitehouse.gov/presidential-actions/2025/03/imposing-tariffs-on-countries-importing-venezuelan-oil/",
+     "trecho": "On or after April 2, 2025, a tariff of 25 percent may be imposed on all goods imported into the United States from any country that imports Venezuelan oil",
+     "campo": "sancao"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Operation_Southern_Spear",
+     "trecho": "In mid-August 2025, the US began deploying military forces to the Caribbean Sea , amid heightened tensions between the US and Venezuela",
+     "campo": "forca"
+    },
+    {
+     "url": "https://www.cnn.com/2025/10/19/world/us-military-build-up-caribbean-trump-pressures-venezuela",
+     "trecho": "The US military has been steadily massing a large number of troops, naval and air assets in the Caribbean over the last two months",
+     "campo": "forca"
+    },
+    {
+     "url": "https://www.aljazeera.com/news/2026/1/5/delcy-rodriguez-sworn-in-as-venezuelas-president-after-maduro-abduction",
+     "trecho": "following the abduction of Nicolas Maduro in a United States military operation",
+     "campo": "forca"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Venezuela%E2%80%93United_States_relations",
+     "trecho": "resulting in the Maduro administration severing formal diplomatic relations with Washington",
+     "campo": "relacao"
+    }
+   ]
+  },
+  {
+   "id": "alemanha-2025",
+   "pais": "Alemanha",
+   "eleicao": "2025-02-23",
+   "candidato_preferido_eua": "AfD (Alice Weidel), como preferência de integrantes do governo; sem endosso formal de Trump",
+   "vencedor": "Friedrich Merz (CDU/CSU); AfD ficou em 2º",
+   "preferencia": {
+    "descricao": "Preferência indireta e parcial: o vice Vance, na Conferência de Segurança de Munique (14/02/2025), atacou a 'barreira' dos partidos contra a AfD e se reuniu com a copresidente Alice Weidel (e com o líder da oposição Merz), mas não com o chanceler Scholz; a BBC diz que dois dos principais nomes de Trump apoiaram abertamente a AfD antes do voto (Vance e Musk) e Merz chamou a interferência do governo Trump de inaceitável. Trump não mencionou a AfD ao parabenizar os vencedores. Musk, que apoiou a AfD, não conta como governo pelo critério do projeto.",
+    "quem_nos_eua": "JD Vance (vice-presidente); Trump não endossou",
+    "tipo": "documentada"
+   },
+   "janela_12m": "completa",
+   "reconheceu": "sim",
+   "sancao_ou_tarifa_nova": "nao",
+   "apoio_a_golpe_ou_oposicao": "nao",
+   "forca_militar": "nao",
+   "relacao_em_12m": "fria",
+   "obs": "CASO FRACO: não há endosso explícito de Trump a candidato, e a AfD (20,8%) nunca foi candidata real à chefia do governo; manter só se o projeto aceitar 'preferência de integrante do governo'. Reconheceu: Trump parabenizou os vencedores no Truth Social na noite da eleição, sem citar Merz nem a AfD (Politico, BBC). Apoio à oposição: só retórico; em 2/05/2025 Vance e Rubio criticaram a classificação da AfD como extremista pelo serviço de inteligência alemão (Rubio: 'tirania disfarçada'); fonte lida: Wikipedia (a matéria do Telegraph está atrás de paywall). Sanção/tarifa: as tarifas americanas de 2025 atingiram a UE inteira (confusor, não medida contra a Alemanha ou o governo Merz); nenhuma fonte lida registra medida específica. Relação: Merz esteve no Salão Oval em 5/06/2025; a Wikipedia descreve tensões crescentes no segundo mandato de Trump e só 27% dos alemães veem a relação como positiva; atribuir isso à eleição é impossível (confusores: Ucrânia, OTAN, comércio). Nada lido sobre ameaça militar contra a Alemanha: 'nao' por ausência. AJUSTE DE CRITERIO: o apoio a AfD foi so retorico (Vance, Rubio), sem acao do governo para derrubar ou minar o governo Merz; por isso apoio_a_golpe_ou_oposicao = nao. Pelo criterio 'apoio retorico a oposicao', seria sim.",
+   "campos_incertos": [
+    "preferencia",
+    "sancao_ou_tarifa_nova",
+    "apoio_a_golpe_ou_oposicao",
+    "forca_militar",
+    "relacao_em_12m"
+   ],
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/2025_Munich_Security_Conference",
+     "trecho": "Vance also met with Alice Weidel , co-chairwoman of the far-right Alternative for Germany (AfD), and with opposition leader Friedrich Merz .",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://www.bbc.com/news/articles/cvgenlw94n3o",
+     "trecho": "two of his leading figures have openly backed the AfD in the run-up to the vote. Vice-President JD Vance was accused of meddling in the vote during a visit to Munich",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://www.theguardian.com/world/2025/feb/24/germany-election-far-right-surge-friedrich-merz-warning",
+     "trecho": "He also made reference to interference from the Trump administration in Germany’s election campaign, calling it unacceptable.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://www.politico.eu/article/donald-trump-congratulates-germany-election-results-2025-winners-friedrich-merz-cdu/",
+     "trecho": "Trump didn’t mention the far-right Alternative for Germany party favored by influential advisor Elon Musk.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://www.bbc.com/news/articles/cvgenlw94n3o",
+     "trecho": "President Trump did welcome Merz's victory. He said it was proof that Germans were, like Americans, tired of",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://www.politico.eu/article/donald-trump-congratulates-germany-election-results-2025-winners-friedrich-merz-cdu/",
+     "trecho": "the president of the United States offered warm congratulations to Germany’s election winners on Sunday.",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Alternative_for_Germany",
+     "trecho": "US secretary of state Marco Rubio also wrote \"Germany just gave its spy agency new powers to surveil the opposition. That's not democracy – it's tyranny in disguise.\"",
+     "campo": "apoio_golpe_ou_oposicao"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Germany%E2%80%93United_States_relations",
+     "trecho": "tensions escalating during Donald Trump 's second term; as of 2025–2026 under Chancellor Friedrich Merz , only about 27% of Germans view the relationship positively.",
+     "campo": "relacao"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Germany%E2%80%93United_States_relations",
+     "trecho": "German Chancellor Friedrich Merz and U.S. President Donald Trump in the Oval Office of the White House on 5 June 2025",
+     "campo": "relacao"
+    }
+   ]
+  },
+  {
+   "id": "hungria-2026",
+   "pais": "Hungria",
+   "eleicao": "2026-04-12",
+   "candidato_preferido_eua": "Viktor Orbán (Fidesz-KDNP)",
+   "vencedor": "Péter Magyar (Tisza)",
+   "preferencia": {
+    "descricao": "Apoio público e explícito da Casa Branca ao primeiro-ministro em exercício: Vance foi a Budapeste cinco dias antes da votação dizer que estava lá 'para ajudá-lo' e pediu no comício que os húngaros ficassem com Orbán; Trump falou por viva-voz no comício, endossou Orbán várias vezes e prometeu 'poder econômico' dos EUA se ele fosse reeleito; Rubio visitou Budapeste em fevereiro (segundo a Newsweek, disse a Orbán que Trump estava 'profundamente comprometido com o seu sucesso'). Depois, Vance disse à Fox que os EUA sabiam que Orbán provavelmente perderia e apoiaram mesmo assim.",
+    "quem_nos_eua": "Donald Trump (presidente), JD Vance (vice), Marco Rubio (secretário de Estado)",
+    "tipo": "publica"
+   },
+   "janela_12m": "parcial até 2026-11-02",
+   "reconheceu": "sim",
+   "sancao_ou_tarifa_nova": "nao",
+   "apoio_a_golpe_ou_oposicao": "nao",
+   "forca_militar": "nao",
+   "relacao_em_12m": "normal",
+   "obs": "Janela PARCIAL (6,7 de 12 meses). Reconhecimento: nenhuma felicitação formal localizada; Trump não comentou em 13/04 mesmo quando perguntado e só falou em 15/04 (Corriere/ABC): 'não foi a minha eleição', Orbán 'era meu amigo', Magyar 'um bom homem' que 'vai fazer um bom trabalho'; Vance (Fox) disse ter certeza de que os EUA podem trabalhar bem com Magyar. Sanção/tarifa: nenhuma fonte lida registra medida nova dos EUA contra a Hungria ou o governo Magyar; o que mudou foi que a isenção das sanções ao petróleo russo, que Trump deu a Orbán em nov/2025 e tratou como acordo pessoal, deixou de valer com a derrota (BBC, Hungary Today) e o governo Magyar pediu a mesma isenção em set/2026; a Câmara dos EUA aprovou em 16/09 o 'Sanctioning Russia Act' (262 a 159), lei geral, não dirigida à Hungria. Relação: em 29/10 Rubio e a chanceler Anita Orbán assinaram dois acordos (infraestrutura de petróleo e gás; cooperação policial), mas o encontro foi adiado a pedido dos EUA e Rubio não foi à data nacional de 23/10 a que Magyar o convidou. Hungary Today e Magyar Nemzet são alinhados a Orbán: os fatos foram cruzados com Daily News Hungary. Sem fonte de apoio dos EUA a oposição/golpe nem de ameaça militar: 'nao' por ausência.",
+   "campos_incertos": [
+    "reconheceu",
+    "sancao_ou_tarifa_nova",
+    "apoio_a_golpe_ou_oposicao",
+    "forca_militar"
+   ],
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://bbc.com/news/articles/cyv16lq2rp1o",
+     "trecho": "Standing beside Orbán, Vance said he was in Budapest \"to help him in this campaign cycle\" although he conceded the US would \"work with whoever wins this election\".",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://bbc.com/news/articles/cyv16lq2rp1o",
+     "trecho": "He ended his speech urging those present to \"go to the polls in the weekend, stand with Viktor Orbán, because he stands for you\".",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://www.theguardian.com/world/2026/apr/12/viktor-orban-concedes-defeat-as-opposition-wins-hungarian-election",
+     "trecho": "Donald Trump had also repeatedly endorsed Orbán, most recently on Friday when he vowed to bring US “economic might” to the country if Orbán was re-elected.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://www.politico.eu/article/hungary-election-results-peter-magyar-viktor-orban/",
+     "trecho": "Trump offered several personal endorsements before the race — backed up by visits from Secretary of State Marco Rubio and Vice President JD Vance",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://www.newsweek.com/maga-europe-trump-orban-loses-hungary-11816855",
+     "trecho": "Secretary of State Marco Rubio, in his own visit to the Hungarian capital in February, proclaimed to Orbán: \"Trump is deeply committed to your success.\"",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://hungarytoday.hu/j-d-vance-on-the-reasons-behind-u-s-campaign-support-for-viktor-orban/",
+     "trecho": "We knew, of course, that Viktor Orbán would likely lose. But we decided to act because he was one of the few European politicians willing to stand up to the Brussels bureaucracy",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://hungarytoday.hu/donald-trump-breaks-silence-on-viktor-orbans-election-defeat/",
+     "trecho": "“I think the new man’s going to do a good job — he’s a good man,” Trump is quoted as saying.",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://hungarytoday.hu/j-d-vance-on-the-reasons-behind-u-s-campaign-support-for-viktor-orban/",
+     "trecho": "It is a shame he lost. I am sure we can work well with the new Hungarian Prime Minister, Péter Magyar.",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://www.corriere.it/esteri/26_aprile_15/trump-meloni-full-interview-fcd90877-6181-4fba-95dc-a73ca76c9xlk.shtml",
+     "trecho": "Well, he was a friend of mine. I mean, it wasn’t my election, but he was a friend of mine. He’s a good man, he was a good man.",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/2026_Hungarian_parliamentary_election",
+     "trecho": "Trump, a close ally of Orbán, [ 331 ] did not comment on the election on 13 April (one day after the election) even when directly asked to.",
+     "campo": "reconheceu"
+    },
+    {
+     "url": "https://bbc.com/news/articles/cyv16lq2rp1o",
+     "trecho": "Trump later made clear that the exemption was a personal deal between himself and Orbán – implying that if Orbán lost this election, his successor would have to re-apply.",
+     "campo": "sancao"
+    },
+    {
+     "url": "https://hungarytoday.hu/magyar-pleads-with-trump-for-viktor-orban-era-russian-oil-exemption/",
+     "trecho": "Following the April 12 election, that was no longer the case, which meant that the question of how this exemption would evolve with the inauguration of the TISZA government",
+     "campo": "sancao"
+    },
+    {
+     "url": "https://dailynewshungary.com/hungary-us-sign-deals-energy-and-law/",
+     "trecho": "Hungary and the United States have signed two cooperation agreements covering regional oil and natural gas infrastructure and law enforcement against crimes committed by radical organisations",
+     "campo": "relacao"
+    },
+    {
+     "url": "https://dailynewshungary.com/hungary-us-sign-deals-energy-and-law/",
+     "trecho": "Hungarian Prime Minister Péter Magyar later invited Rubio to attend the 23 October commemorations in Hungary, but the US secretary of state ultimately did not attend the event.",
+     "campo": "relacao"
+    },
+    {
+     "url": "https://hungarytoday.hu/marco-rubio-postpones-meeting-with-foreign-minister-anita-orban/",
+     "trecho": "has been postponed to the second half of the week at the request of the U.S. side",
+     "campo": "relacao"
+    }
+   ]
+  }
+ ],
+ "descartados": [
+  {
+   "id": "honduras-2021",
+   "motivo": "Sem fonte de preferência do governo Biden por Nasry Asfura/Partido Nacional. As páginas abertas (Wikipedia, Guardian, NPR) mostram apenas que Blinken parabenizou Xiomara Castro minutos depois da concessão de Asfura, sem endosso prévio a candidato.",
+   "fontes": [
+    {
+     "url": "https://www.theguardian.com/world/2021/dec/01/honduras-to-get-first-female-president-after-ruling-party-concedes-defeat",
+     "trecho": "The US secretary of state, Antony Blinken, congratulated Castro minutes later.",
+     "campo": "reconheceu"
+    }
+   ]
+  },
+  {
+   "id": "brasil-2022",
+   "motivo": "Sem preferência documentada do governo Biden. Bolsonaro pediu ajuda a Biden contra Lula (Bloomberg, via Wikipedia) e Biden mudou de assunto e reiterou a integridade da eleição; o Departamento de Estado falou em eleições livres e transparência, sem apoiar candidato. Biden parabenizou Lula no dia da vitória.",
+   "fontes": [
+    {
+     "url": "https://www1.folha.uol.com.br/mundo/2022/06/biden-disse-a-bolsonaro-que-confia-no-sistema-eleitoral-do-brasil-afirma-porta-voz.shtml",
+     "trecho": "Eles têm todas as instituições democráticas para realizar eleições livres e justas",
+     "campo": "preferencia"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/2022_Brazilian_general_election",
+     "trecho": "Biden changed the subject when approached but emphasized the importance of keeping the integrity of Brazil's elections.",
+     "campo": "preferencia"
+    }
+   ]
+  },
+  {
+   "id": "colombia-2022",
+   "motivo": "Sem fonte de preferência do governo Biden por Fico Gutiérrez ou Rodolfo Hernández. Há apenas a ligação de Biden a Petro para parabenizá-lo e elogiar eleições livres e justas, e a de Blinken. Nenhum endosso prévio a candidato.",
+   "fontes": [
+    {
+     "url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/21/readout-of-president-bidens-call-with-president-elect-gustavo-petro-of-colombia/",
+     "trecho": "President Biden commended the Colombian people for holding free and fair elections and reaffirmed U.S. support for Colombia.",
+     "campo": "preferencia"
+    }
+   ]
+  },
+  {
+   "id": "honduras-2025-e-colombia-2026",
+   "motivo": "Nao verificados: a pesquisa do projeto nao registra que o candidato preferido tenha perdido (Asfura em Honduras e de la Espriella na Colombia aparecem como vencedores).",
+   "fontes": []
+  },
+  {
+   "id": "venezuela-1998",
+   "motivo": "Pedido expressamente. Nenhuma fonte de preferencia dos EUA por Salas Romer (ou contra Chavez) foi achada; a unica reacao lida e a do embaixador Maisto, cautelosa e sem favorito.",
+   "fontes": []
+  },
+  {
+   "id": "bolivia-2005",
+   "motivo": "Pedido expressamente. Nenhuma fonte de preferencia por Jorge Quiroga em 2005 foi achada. As ameacas documentadas do embaixador Manuel Rocha sao de 2002, quando Evo Morales perdeu (o preferido, Sanchez de Lozada, ganhou). Nao se encaixa na classe.",
+   "fontes": []
+  },
+  {
+   "id": "jamaica-1976",
+   "motivo": "So ha a acusacao de Philip Agee (CIA armando apoiadores do JLP), que Seaga negou. Sem preferencia documentada pelo JLP.",
+   "fontes": []
+  },
+  {
+   "id": "romenia-2025",
+   "motivo": "Pedido expressamente. Nenhuma fonte lida documenta preferencia do governo Trump, de Vance ou de Noem por George Simion. Ha so Simion se declarando admirador de Trump e Vance criticando a anulacao da eleicao de 2024. Trump telefonou a Nicusor Dan em 27/05/2025 (Wikipedia).",
+   "fontes": []
+  },
+  {
+   "id": "canada-2025",
+   "motivo": "Pedido expressamente. Nenhuma fonte lida registra preferencia de Trump por Poilievre; Trump parabenizou Carney. Sem preferencia, o caso sai da classe.",
+   "fontes": []
+  },
+  {
+   "id": "espanha-2004",
+   "motivo": "A Wikipedia so mostra o alinhamento Aznar e Bush, sem preferencia na eleicao de 2004. Nao aprofundado.",
+   "fontes": []
+  },
+  {
+   "id": "franca-2017",
+   "motivo": "Preferencia ambigua: Trump disse que Le Pen era a mais forte em fronteiras, mas sem endosso, e a Casa Branca disse que ele nao tinha preferencia. Consequencias nos 12 meses nao levantadas. Candidato a entrar se o projeto aceitar preferencia sem endosso.",
+   "fontes": [
+    {
+     "url": "http://www.politico.eu/article/trump-expresses-support-for-french-candidate-le-pen/",
+     "trecho": "President Donald Trump expressed support for far-right French presidential candidate Marine Le Pen, but stopped short of a complete endorsement.",
+     "campo": "preferencia"
+    },
+    {
+     "url": "http://www.politico.eu/article/trump-expresses-support-for-french-candidate-le-pen/",
+     "trecho": "Earlier on Friday, White House Press Secretary Sean Spicer said Trump didn’t have a preference in the election.",
+     "campo": "preferencia"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,742 @@
+{
+  "arquivo": "e5_forca.json",
+  "gerado_em": "2026-11-02",
+  "pergunta": "Os EUA vão usar a força contra o Brasil? (E5, indicadores e alerta)",
+  "escopo": "usos de força americana no hemisfério ocidental de 1954 a 2026, abertos ou com apoio decisivo, mais bloqueios e contingências não acionadas",
+  "como_ler": {
+    "tipo": [
+      "invasao",
+      "operacao_limitada",
+      "encoberta",
+      "conjunta_com_aval",
+      "bloqueio",
+      "contingencia"
+    ],
+    "status": [
+      "executada",
+      "nao_acionada",
+      "em_curso",
+      "acordo_contestado"
+    ],
+    "governo_eleito": "se o governo que estava no poder no país-alvo chegou lá por eleição; 'incerto' quando a eleição é contestada. Codificação do analista, sustentada só pelas fontes citadas em cada caso",
+    "aval_local": "se o governo do país-alvo (ou o reconhecido como legítimo) aceitou a ação: sim, nao, parcial ou incerto. Codificação do analista",
+    "populacao_alvo_mi": "milhões de habitantes na época, com a estimativa e a fonte em populacao_nota; null quando o alvo não é um país",
+    "pib_relativo": "null em todos: não achei, em página aberta, o PIB do alvo contra o dos EUA para os 18 casos",
+    "fontes": "cada item tem url e trecho literal de 8 a 40 palavras; 'campo' diz o que o trecho sustenta",
+    "incerto": "true quando o fato central é contestado ou só uma fonte o sustenta"
+  },
+  "casos": [
+    {
+      "id": "guatemala-1954",
+      "ano": 1954,
+      "pais": "Guatemala",
+      "nome": "PBSuccess (golpe contra Árbenz)",
+      "tipo": "encoberta",
+      "status": "executada",
+      "populacao_alvo_mi": 3.52,
+      "populacao_nota": "estimativa da ONU para 1954 (3.521.000), tabela de demografia",
+      "pib_relativo": null,
+      "governo_eleito": "sim",
+      "aval_local": "nao",
+      "justificativa_oficial": "Washington denunciou publicamente o governo guatemalteco como infiltrado por comunistas; o plano interno falava em livrar o hemisfério do comunismo internacional",
+      "resultado": "Árbenz deposto em 1954; instalada a ditadura militar de Castillo Armas",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27%C3%A9tat",
+          "trecho": "The democratically elected Guatemalan president Jacobo Árbenz was deposed in a coup d'état in 1954, marking the end of the Guatemalan Revolution.",
+          "campo": "resultado"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27%C3%A9tat",
+          "trecho": "Washington issued a series of statements denouncing the Guatemalan government, alleging that it had been infiltrated by communists.",
+          "campo": "justificativa_oficial"
+        },
+        {
+          "url": "https://history.state.gov/historicaldocuments/frus1952-54Guat/intro",
+          "trecho": "an active plot to oust Jacobo Arbenz and free the hemisphere from the perceived dangers of Soviet-inspired international communism.",
+          "campo": "justificativa_oficial"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Demographics_of_Guatemala",
+          "trecho": "1954 3,521,000 162,773 58,132 104,641 48.9 17.4 31.4 −2.8 1955 3,619,000 158,856",
+          "campo": "populacao"
+        }
+      ]
+    },
+    {
+      "id": "cuba-1961",
+      "ano": 1961,
+      "pais": "Cuba",
+      "nome": "Baía dos Porcos",
+      "tipo": "encoberta",
+      "status": "executada",
+      "populacao_alvo_mi": 7.29,
+      "populacao_nota": "estimativa de 1961 (7.290.000)",
+      "pib_relativo": null,
+      "governo_eleito": "nao",
+      "aval_local": "nao",
+      "justificativa_oficial": "Kennedy concluiu que Fidel Castro era um cliente soviético e uma ameaça a toda a América Latina; a CIA organizou a invasão de exilados (Brigada 2506)",
+      "resultado": "derrota em dois dias; Castro saiu fortalecido e declarou o socialismo",
+      "fontes": [
+        {
+          "url": "https://history.state.gov/milestones/1961-1968/bay-of-pigs",
+          "trecho": "Following his election in November 1960, President John F. Kennedy learned of the invasion plan, concluded that Fidel Castro was a Soviet client posing a threat to all of Latin America and, after consultations with his advisors, gave his consent",
+          "campo": "justificativa_oficial"
+        },
+        {
+          "url": "https://history.state.gov/milestones/1961-1968/bay-of-pigs",
+          "trecho": "The failed invasion strengthened the position of Castro’s administration, which proceeded to openly proclaim its intention to adopt socialism and pursue closer ties with the Soviet Union.",
+          "campo": "resultado"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion",
+          "trecho": "The Bay of Pigs Invasion, also known as Playa Girón in Cuba, after the beach where the battle took place, was a failed military landing operation on the southwestern coast of Cuba in April 1961 by the United States and",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Demographics_of_Cuba",
+          "trecho": "1961 7,290,000 231,811 46,066 185,745 32.9 6.4 26.5 -5.1 — — 1962",
+          "campo": "populacao"
+        }
+      ]
+    },
+    {
+      "id": "cuba-1962-quarentena",
+      "ano": 1962,
+      "pais": "Cuba",
+      "nome": "Crise dos Mísseis (quarentena naval)",
+      "tipo": "bloqueio",
+      "status": "executada",
+      "populacao_alvo_mi": 7.45,
+      "populacao_nota": "estimativa de 1962 (7.450.000)",
+      "pib_relativo": null,
+      "governo_eleito": "nao",
+      "aval_local": "nao",
+      "justificativa_oficial": "impedir a entrega de armas ofensivas soviéticas a Cuba; o termo quarentena evitava a figura legal do bloqueio e rendeu o apoio da OEA",
+      "resultado": "os soviéticos desmontaram as armas ofensivas em troca da declaração pública de que os EUA não invadiriam Cuba",
+      "fontes": [
+        {
+          "url": "https://history.state.gov/milestones/1961-1968/cuban-missile-crisis",
+          "trecho": "On October 22, he ordered a naval “quarantine” of Cuba. The use of “quarantine” legally distinguished this action from a blockade, which assumed a state of war existed;",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis",
+          "trecho": "An agreement was eventually reached between Kennedy and Khrushchev. The Soviets would dismantle their offensive weapons in Cuba, subject to United Nations verification, in exchange for a US public declaration and agreement not to invade Cuba again.",
+          "campo": "resultado"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Demographics_of_Cuba",
+          "trecho": "1962 7,450,000 249,113 50,621 198,492 35.9 7.1 28.8 -5.3 — — 1963",
+          "campo": "populacao"
+        }
+      ]
+    },
+    {
+      "id": "brasil-1964-brother-sam",
+      "ano": 1964,
+      "pais": "Brasil",
+      "nome": "Operação Brother Sam (não acionada)",
+      "tipo": "contingencia",
+      "status": "nao_acionada",
+      "populacao_alvo_mi": 84.13,
+      "populacao_nota": "estimativa da ONU para 1965 (84.130 mil); 1964 ficaria perto de 81 mi",
+      "pib_relativo": null,
+      "governo_eleito": "sim",
+      "aval_local": "nao",
+      "justificativa_oficial": "o telegrama de 31/03/1964 diz que o envio dos petroleiros e da força naval era 'exercício naval normal' e que a ajuda só viria se um grupo com reivindicação de legitimidade a pedisse",
+      "resultado": "o golpe venceu sem a força americana; os navios e os aviões não chegaram a ser usados",
+      "nota": "Goulart era o vice eleito que assumiu em 1961; a força seria pedida por golpistas, não pelo governo",
+      "fontes": [
+        {
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v31/d198fn2",
+          "trecho": "Immediate dispatch of naval task force for overt exercises off Brazil.",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v31/d198fn2",
+          "trecho": "Dispatch of tankers from Aruba and of naval task force does not immediately involve us in Brazilian situation and is regarded by us as normal naval exercise.",
+          "campo": "justificativa_oficial"
+        },
+        {
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v31/d198fn2",
+          "trecho": "would require further development politico-military situation to point where some group having reasonable claim to legitimacy could formally request recognition and aid from us and if possible from other American Republics.",
+          "campo": "justificativa_oficial"
+        },
+        {
+          "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB118/index.htm",
+          "trecho": "naval task force to intimidate Goulart's backers and be in position to intervene militarily if fighting became protracted.",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Operation_Brother_Sam",
+          "trecho": "However, the opposition military in Brazil quickly overthrew the Goulart government, and Castelo Branco reported that logistical support would not be needed.",
+          "campo": "resultado"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Demographics_of_Brazil",
+          "trecho": "1965 84 130 43.6% 53.0% 3.4% 1970 95 982 42.3% 54.2% 3.5%",
+          "campo": "populacao"
+        }
+      ]
+    },
+    {
+      "id": "republica-dominicana-1965",
+      "ano": 1965,
+      "pais": "República Dominicana",
+      "nome": "Operação Power Pack",
+      "tipo": "invasao",
+      "status": "executada",
+      "populacao_alvo_mi": 3.9,
+      "populacao_nota": "estimativa da ONU para 1965 (3.900 mil)",
+      "pib_relativo": null,
+      "governo_eleito": "nao",
+      "aval_local": "parcial",
+      "justificativa_oficial": "suposto apoio comunista aos rebeldes; Johnson dizia não querer acordar com Castro no comando",
+      "resultado": "ocupação que virou força da OEA; Bosch perdeu a eleição de 1966 para Balaguer e as tropas saíram",
+      "nota": "o governo em exercício era uma junta militar; o alvo foram os rebeldes que apoiavam o eleito Bosch",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dominican_Civil_War",
+          "trecho": "Allegations of communist support for the rebels led to a United States invasion (codenamed Operation Power Pack), which later became an Organization of American States occupation of the country by the Inter-American Peace Force.",
+          "campo": "justificativa_oficial"
+        },
+        {
+          "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB513/",
+          "trecho": "Dominican Intervention 50 Years Ago Sparked Mainly by Fear of Communists: \"I Sure Don't Want to Wake Up ...",
+          "campo": "justificativa_oficial"
+        },
+        {
+          "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB513/",
+          "trecho": "Johnson ordered U.S. Marines into Santo Domingo 50 years ago today.",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dominican_Civil_War",
+          "trecho": "In 1966, Bosch lost the presidential election to Joaquín Balaguer. Foreign troops left later that year.",
+          "campo": "resultado"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Demographics_of_the_Dominican_Republic",
+          "trecho": "1965 3 900 48.9% 48.5% 2.6% 1970 4 524 47.7% 49.7% 2.7%",
+          "campo": "populacao"
+        }
+      ]
+    },
+    {
+      "id": "chile-1973",
+      "ano": 1973,
+      "pais": "Chile",
+      "nome": "Golpe contra Allende (apoio, sem tropas)",
+      "tipo": "encoberta",
+      "status": "executada",
+      "populacao_alvo_mi": 10.08,
+      "populacao_nota": "estimativa de 1973 (10.076.000)",
+      "pib_relativo": null,
+      "governo_eleito": "sim",
+      "aval_local": "nao",
+      "justificativa_oficial": "o governo Nixon descrevia Allende como um comunista perigoso; não há justificativa pública de um golpe, que o governo americano nunca assumiu",
+      "resultado": "Pinochet tomou o poder em 11/09/1973 e o governo Nixon reconheceu a junta",
+      "nota": "a extensão do papel americano em 1973 é disputada: o Comitê Church viu pouca evidência de apoio direto; documentos liberados depois mostram que Nixon e Kissinger sabiam dos planos",
+      "incerto": true,
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat",
+          "trecho": "The Nixon administration, which had played a role in creating favorable conditions for the coup, promptly recognized the junta government and supported its efforts to consolidate power.",
+          "campo": "resultado"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat",
+          "trecho": "In 2023, declassified documents showed that Nixon, Henry Kissinger, and the United States government, which had described Allende as a dangerous communist, were aware of the military's plans to overthrow Allende in the days before the coup d'état.",
+          "campo": "justificativa_oficial"
+        },
+        {
+          "url": "https://history.state.gov/milestones/1969-1976/allende",
+          "trecho": "it concluded that there was little evidence to link the U.S. Government to covert support of Pinochet’s coup.",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB437/",
+          "trecho": "Kissinger pressed Nixon to overthrow the democratically elected Allende government because his \"'model' effect can be insidious,\" documents show",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Demographics_of_Chile",
+          "trecho": "1973 10,076,000 276,650 80,994 195,656 27.5 8.0 19.5 -2.7 1974 10,244,000 267,977",
+          "campo": "populacao"
+        }
+      ]
+    },
+    {
+      "id": "nicaragua-anos-1980",
+      "ano": 1981,
+      "ano_fim": 1990,
+      "pais": "Nicarágua",
+      "nome": "Contras e minagem de portos",
+      "tipo": "encoberta",
+      "status": "executada",
+      "populacao_alvo_mi": 3.71,
+      "populacao_nota": "estimativa da ONU para 1985 (3.710 mil)",
+      "pib_relativo": null,
+      "governo_eleito": "nao",
+      "aval_local": "nao",
+      "justificativa_oficial": "o governo Reagan apoiou os Contras contra o governo sandinista, que veio ao poder pela revolução de 1979; a CIA pagou, treinou e deu inteligência",
+      "resultado": "a Corte Internacional de Justiça decidiu em 1986 que os EUA violaram o direito internacional ao apoiar os Contras e minar os portos",
+      "nota": "os sandinistas fizeram eleição em 1984, contestada; a ajuda dos EUA começou antes dela",
+      "incerto": true,
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nicaragua_v._United_States",
+          "trecho": "the International Court of Justice (ICJ) held that the U.S. had violated international law by supporting the Contras in their rebellion against the Sandinistas and by mining Nicaragua's harbors.",
+          "campo": "resultado"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Contras",
+          "trecho": "The United States began to support Contra activities against the Sandinista government by December 1981, with the CIA at the forefront of operations. The CIA supplied the funds and the equipment, coordinated training programs, and provided intelligence and target lists.",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://www.icj-cij.org/case/70",
+          "trecho": "On 9 April 1984 Nicaragua filed an Application instituting proceedings against the United States of America, together with a Request for the indication of provisional measures concerning a dispute relating to responsibility for military and paramilitary activities in and against",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Demographics_of_Nicaragua",
+          "trecho": "1985 3 710 47.1% 50.0% 2.9% 1990 4 138 46.0% 50.9% 3.2%",
+          "campo": "populacao"
+        }
+      ]
+    },
+    {
+      "id": "granada-1983",
+      "ano": 1983,
+      "pais": "Granada",
+      "nome": "Operação Urgent Fury",
+      "tipo": "invasao",
+      "status": "executada",
+      "populacao_alvo_mi": 0.089,
+      "populacao_nota": "censo de 1981 (89.088)",
+      "pib_relativo": null,
+      "governo_eleito": "nao",
+      "aval_local": "nao",
+      "justificativa_oficial": "proteger os cidadãos americanos (cerca de 600 estudantes de medicina), facilitar a evacuação e ajudar a restaurar instituições democráticas, depois de pedido da OECS",
+      "resultado": "ocupação em poucos dias; governo interino e eleições gerais em dezembro de 1984; a ONU condenou (Assembleia Geral, 108 a 9)",
+      "nota": "Eagleburger disse depois que os estudantes eram pretexto; o governador-geral Scoon deu pedido secreto, mas só assinou o convite em 26/10",
+      "fontes": [
+        {
+          "url": "https://history.state.gov/historicaldocuments/frus1981-88v04/d128",
+          "trecho": "urgent, formal request from the five member nations of the Organization of Eastern Caribbean States (OECS) to assist in a joint effort to restore order and democracy on the island of Grenada.",
+          "campo": "justificativa_oficial"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States_invasion_of_Grenada",
+          "trecho": "Reagan stated that he felt compelled to act due to \"concerns over the 600 U.S. medical students on the island\" and fears of a repeat of the Iran hostage crisis, which ended less than three years earlier.",
+          "campo": "justificativa_oficial"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States_invasion_of_Grenada",
+          "trecho": "The United States and a coalition of Caribbean countries invaded the island nation of Grenada at dawn on 25 October 1983. It was codenamed Operation Urgent Fury by the U.S. military, and resulted in military occupation within a few days.",
+          "campo": "resultado"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Demographics_of_Grenada",
+          "trecho": "1946 72,387 +0.35% 1960 88,677 +1.46% 1970 92,775 +0.45% 1981 89,088 −0.37% 1991 85,123 −0.45% 2001 103,137 +1.94% 2011 105,539",
+          "campo": "populacao"
+        }
+      ]
+    },
+    {
+      "id": "panama-1989",
+      "ano": 1989,
+      "pais": "Panamá",
+      "nome": "Operação Just Cause",
+      "tipo": "invasao",
+      "status": "executada",
+      "populacao_alvo_mi": 2.41,
+      "populacao_nota": "estimativa de 1989 (2.413.043)",
+      "pib_relativo": null,
+      "governo_eleito": "nao",
+      "aval_local": "nao",
+      "justificativa_oficial": "Bush disse ter ordenado a operação para proteger a vida de cidadãos americanos no Panamá e levar Noriega à Justiça nos EUA",
+      "resultado": "Noriega se rendeu em 03/01/1990; as Forças de Defesa foram dissolvidas e Endara assumiu; ONU, OEA e Parlamento Europeu condenaram",
+      "nota": "Noriega anulou a eleição de maio de 1989, que a oposição de Endara venceu",
+      "fontes": [
+        {
+          "url": "https://www.airandspaceforces.com/article/1209panama/",
+          "trecho": "Speaking from the White House at 7 a.m., President Bush said he had ordered the operation “to protect the lives of American citizens in Panama and to bring General Noriega to justice in the United States.”",
+          "campo": "justificativa_oficial"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States_invasion_of_Panama",
+          "trecho": "On December 20, the U.S. invasion of Panama began. Panamanian forces were rapidly overwhelmed, although operations continued for several weeks. Endara was sworn in as president shortly after the start of the invasion.",
+          "campo": "resultado"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States_invasion_of_Panama",
+          "trecho": "The United States invasion of Panama began in mid-December 1989 during the presidency of George H. W. Bush.",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Demographics_of_Panama",
+          "trecho": "1989 2,413,043 59,069 9,557 49,512 25.1 4.1 21.0 -0.3 1990 2,463,727 59,904",
+          "campo": "populacao"
+        }
+      ]
+    },
+    {
+      "id": "haiti-1994",
+      "ano": 1994,
+      "pais": "Haiti",
+      "nome": "Operação Uphold Democracy",
+      "tipo": "conjunta_com_aval",
+      "status": "executada",
+      "populacao_alvo_mi": 7.49,
+      "populacao_nota": "estimativa de 1994 (7.486.000)",
+      "pib_relativo": null,
+      "governo_eleito": "nao",
+      "aval_local": "sim",
+      "justificativa_oficial": "restaurar o presidente eleito Aristide, derrubado em 1991; a Resolução 940 do Conselho de Segurança autorizou o uso da força",
+      "resultado": "o regime militar cedeu na véspera, depois da missão de Carter; a operação virou transição pacífica e Aristide voltou em 15/10/1994",
+      "nota": "o alvo era a junta de Cédras (não eleita); o presidente eleito, no exílio, pedia a ação",
+      "fontes": [
+        {
+          "url": "https://history.state.gov/milestones/1993-2000/haiti",
+          "trecho": "July 31 the Security Council passed UNSCR 940, the first resolution authorizing the use of force to restore democracy for a member nation.",
+          "campo": "justificativa_oficial"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Operation_Uphold_Democracy",
+          "trecho": "Military preparations for Operation Uphold Democracy were completed in September 1994, with 25,000 troops and two aircraft carriers from the U.S. Armed Forces assigned to the mission.",
+          "campo": "resultado"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Demographics_of_Haiti",
+          "trecho": "1994 7,486,000 262,000 95,000 167,000 34.9 12.6 22.3 -3.6 4.99 90.5 54.65",
+          "campo": "populacao"
+        }
+      ]
+    },
+    {
+      "id": "haiti-2004",
+      "ano": 2004,
+      "pais": "Haiti",
+      "nome": "Saída de Aristide e Operation Secure Tomorrow",
+      "tipo": "operacao_limitada",
+      "status": "executada",
+      "populacao_alvo_mi": 8.96,
+      "populacao_nota": "estimativa de 2004 (8.961.000)",
+      "pib_relativo": null,
+      "governo_eleito": "sim",
+      "aval_local": "incerto",
+      "justificativa_oficial": "Aristide teria renunciado e sido levado por pessoal militar e de segurança americano; depois 2.700 soldados estrangeiros entraram para evitar o colapso da ordem",
+      "resultado": "governo interino de Latortue; a operação foi substituída pela missão de estabilização da ONU",
+      "nota": "as circunstâncias da renúncia são controversas (Aristide diz ter sido forçado)",
+      "incerto": true,
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2004_Haitian_coup_d%27%C3%A9tat",
+          "trecho": "A coup d'état in Haiti on 29 February 2004, following several weeks of conflict, resulted in the removal of President Jean-Bertrand Aristide from office.",
+          "campo": "resultado"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2004_Haitian_coup_d%27%C3%A9tat",
+          "trecho": "On the morning of 29 February, Aristide resigned under controversial circumstances and was flown from Haiti by U.S. military and security personnel.",
+          "campo": "justificativa_oficial"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Demographics_of_Haiti",
+          "trecho": "2004 8,961,000 264,000 91,000 173,000 29.5 10.2 19.3 -2.7 3.94 70.7 58.48",
+          "campo": "populacao"
+        }
+      ],
+      "fonte_unica": true
+    },
+    {
+      "id": "bolivia-1986-blast-furnace",
+      "ano": 1986,
+      "pais": "Bolívia",
+      "nome": "Operation Blast Furnace",
+      "tipo": "conjunta_com_aval",
+      "status": "executada",
+      "populacao_alvo_mi": 6.04,
+      "populacao_nota": "estimativa da ONU para 1985 (6.041 mil)",
+      "pib_relativo": null,
+      "governo_eleito": "sim",
+      "aval_local": "sim",
+      "justificativa_oficial": "destruir laboratórios de cocaína em Beni e prender traficantes, sob pressão do Congresso americano",
+      "resultado": "mais de 150 soldados americanos a partir de julho de 1986; o governo boliviano sobreviveu à oposição interna",
+      "nota": "o governo boliviano entrou em segredo; a esquerda alegou que precisava de aprovação do Congresso",
+      "fontes": [
+        {
+          "url": "https://country-studies.com/bolivia/the-united-states.html",
+          "trecho": "Simultaneously, however, the Bolivian government secretly entered into Operation Blast Furnace, a joint Bolivian-United States effort aimed at destroying cocaine laboratories in Beni Department and arresting drug traffickers.",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Demographics_of_Bolivia",
+          "trecho": "1985 6,041 238 72 166 37.1 11.3 25.8 5.00 1990 6,794 259",
+          "campo": "populacao"
+        }
+      ]
+    },
+    {
+      "id": "venezuela-dez-2025-bloqueio",
+      "ano": 2025,
+      "pais": "Venezuela",
+      "nome": "Bloqueio de petroleiros sancionados",
+      "tipo": "bloqueio",
+      "status": "executada",
+      "populacao_alvo_mi": 28.52,
+      "populacao_nota": "estimativa de 2025 (28.516.896)",
+      "pib_relativo": null,
+      "governo_eleito": "incerto",
+      "aval_local": "nao",
+      "justificativa_oficial": "Trump alegou que a Venezuela usava o petróleo para financiar tráfico de drogas, terrorismo e outros crimes",
+      "resultado": "três petroleiros apreendidos ou perseguidos até 22/12/2025; sanções a quatro empresas em 31/12",
+      "nota": "a eleição de 2024 foi contestada",
+      "fontes": [
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "Trump said he was ordering a blockade of all “sanctioned oil tankers” going into and out of Venezuela, a move that seemed designed to put a tighter chokehold on the South American country’s oil-dependent economy.",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "The U.S. seized an oil tanker off the coast of Venezuela after the ship left that country with about 2 million barrels of heavy crude.",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Demographics_of_Venezuela",
+          "trecho": "2024 28,405,543 432,648 218,109 214,539 15.2 7.7 7.6 1.72 2025 28,516,896 436,134 222,194",
+          "campo": "populacao"
+        },
+        {
+          "url": "https://www.thestar.com.my/news/world/2025/08/08/us-increases-reward-for-arrest-of-venezeula039s-maduro-to-50-million",
+          "trecho": "first anniversary of his victory in the disputed July 28 presidential election, in Caracas, Venezuela July 28, 2025.",
+          "campo": "governo_eleito"
+        }
+      ]
+    },
+    {
+      "id": "venezuela-jan-2026",
+      "ano": 2026,
+      "pais": "Venezuela",
+      "nome": "Operação Absolute Resolve (captura de Maduro)",
+      "tipo": "operacao_limitada",
+      "status": "executada",
+      "populacao_alvo_mi": 28.52,
+      "populacao_nota": "estimativa de 2025 (28.516.896)",
+      "pib_relativo": null,
+      "governo_eleito": "incerto",
+      "aval_local": "nao",
+      "justificativa_oficial": "a Casa Branca disse estar em conflito armado com cartéis e acusou Maduro de apoiar o tráfico; Bondi anunciou acusação formal em Nova York",
+      "resultado": "Maduro e a mulher capturados e levados aos EUA em 03/01/2026; Washington passou a endossar Delcy Rodríguez como presidente interina legítima",
+      "nota": "eleição de 2024 contestada; precedente central do projeto",
+      "fontes": [
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "On Saturday, the U.S. conducted a “large-scale strike” against Venezuela and said that Maduro and his wife, Cilia Flores, had been captured and flown out of the country. Trump announced the operation on social media hours after the attack.",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "The White House said Washington was in “armed conflict” with drug cartels to halt the flow of narcotics into the United States, while U.S. officials alleged that Maduro supported the international drug trade.",
+          "campo": "justificativa_oficial"
+        },
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "Attorney General Pam Bondi said Maduro and Flores, would face charges after an indictment in New York.",
+          "campo": "justificativa_oficial"
+        },
+        {
+          "url": "https://www.usnews.com/news/us/articles/2026-03-12/venezuelas-machado-calls-trump-a-fundamental-ally-despite-us-support-for-delcy-rodriguez",
+          "trecho": "Venezuelan opposition leader María Corina Machado on Thursday reiterated that the Trump administration remains a “fundamental ally” for the country’s democratic transition, even as Washington has repeatedly endorsed acting President Delcy Rodríguez as Venezuela’s legitimate president.",
+          "campo": "resultado"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Demographics_of_Venezuela",
+          "trecho": "2024 28,405,543 432,648 218,109 214,539 15.2 7.7 7.6 1.72 2025 28,516,896 436,134 222,194",
+          "campo": "populacao"
+        }
+      ]
+    },
+    {
+      "id": "barcos-2025-2026",
+      "ano": 2025,
+      "ano_fim": 2026,
+      "pais": "Caribe e Pacífico Oriental (barcos)",
+      "nome": "Ataques a barcos (Operation Southern Spear)",
+      "tipo": "operacao_limitada",
+      "status": "em_curso",
+      "populacao_alvo_mi": null,
+      "populacao_nota": "o alvo são embarcações, não um país",
+      "pib_relativo": null,
+      "governo_eleito": null,
+      "aval_local": "nao",
+      "justificativa_oficial": "a Casa Branca disse estar em conflito armado com cartéis de drogas",
+      "resultado": "até 25/08/2026, ao menos 227 mortos em 68 ataques (Stars and Stripes); a Airwars contava 243 mortes declaradas em 71 incidentes na captura de 02/11/2026",
+      "nota": "sem provas públicas de que os barcos levassem drogas; a ONU diz que violam o direito internacional",
+      "fontes": [
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "The U.S. carried out its first strike against what Trump said was a drug-carrying vessel that departed from Venezuela and was operated by Tren de Aragua.",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://www.stripes.com/theaters/americas/2026-08-26/us-strike-kills-4-caribbean-sea-22664654.html",
+          "trecho": "The death toll from the Trump administration’s nearly year-long campaign to stop alleged traffickers in Latin America has reached at least 227 after 68 strikes.",
+          "campo": "resultado"
+        },
+        {
+          "url": "https://airwars.org/conflict/u-s-military-in-latin-america-and-the-caribbean/",
+          "trecho": "The United States has declared 243 deaths 220 confirmed dead 23 survivors now presumed dead across 71 incidents destroying 73 vessels in the Caribbean and the Pacific",
+          "campo": "resultado"
+        },
+        {
+          "url": "https://www.nashuatelegraph.com/news/local-news/2026/01/03/a-timeline-of-the-us-militarys-buildup-and-strikes-against-venezuela-leading-to-maduros-capture",
+          "trecho": "Trump declared drug cartels to be unlawful combatants and said the U.S. was now in an “armed conflict” with them, according to an administration memo obtained by The Associated Press.",
+          "campo": "justificativa_oficial"
+        }
+      ]
+    },
+    {
+      "id": "equador-2026",
+      "ano": 2026,
+      "pais": "Equador",
+      "nome": "Operações conjuntas contra Comandos de la Frontera",
+      "tipo": "conjunta_com_aval",
+      "status": "em_curso",
+      "populacao_alvo_mi": 18.16,
+      "populacao_nota": "estimativa de 2025 (18.163.160)",
+      "pib_relativo": null,
+      "governo_eleito": "sim",
+      "aval_local": "sim",
+      "justificativa_oficial": "operações contra organizações designadas como terroristas; o Pentágono anunciou ações conjuntas",
+      "resultado": "bombardeio conjunto de um campo de treino da dissidência das Farc em Sucumbíos; primeira operação conjunta anunciada em solo equatoriano",
+      "nota": "a data varia entre as fontes (3 ou 6 de março)",
+      "incerto": true,
+      "fontes": [
+        {
+          "url": "https://en.mercopress.com/2026/03/07/ecuador-and-u.s.-forces-destroy-farc-dissident-training-camp-in-amazon-region",
+          "trecho": "Ecuadorian and U.S. military forces bombed and destroyed a training camp belonging to the Comandos de la Frontera, a dissident faction of Colombia's former FARC guerrilla organization, in the Amazon border province of Sucumbíos on Tuesday, both governments confirmed Friday.",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://www.csmonitor.com/World/2026/0307/trump-coalition-drug-cartels",
+          "trecho": "Ecuadorian and U.S. security forces attacked a refuge belonging to the Colombian illegal armed group Comandos de la Frontera in the Ecuadorian Amazon on Friday, authorities reported.",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Operation_Southern_Spear",
+          "trecho": "On 6 March 2026, the operation expanded to Ecuador when U.S. forces bombed Comandos de la Frontera as part of the Ecuadorian conflict (2024–present).",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Demographics_of_Ecuador",
+          "trecho": "2024 17,966,573 216,360 89,547 126,813 12.0 5.0 7.0 0.3 1.7 2025 18,163,160 208,985 11.5",
+          "campo": "populacao"
+        }
+      ]
+    },
+    {
+      "id": "guatemala-2026",
+      "ano": 2026,
+      "pais": "Guatemala",
+      "nome": "Acordo de ataques conjuntos (contestado)",
+      "tipo": "conjunta_com_aval",
+      "status": "acordo_contestado",
+      "populacao_alvo_mi": 18.08,
+      "populacao_nota": "estimativa de 2025 (18.079.810)",
+      "pib_relativo": null,
+      "governo_eleito": "sim",
+      "aval_local": "incerto",
+      "justificativa_oficial": "cooperar contra organizações de tráfico, segundo carta do governo guatemalteco a Hegseth",
+      "resultado": "o New York Times disse que Arévalo aceitou ataques aéreos; o governo negou acordo; operação conjunta confirmada não encontrada",
+      "nota": "em agosto, segundo o Stars and Stripes, Hegseth afirmou no Panamá que Colômbia, Guatemala e Honduras aceitaram operações conjuntas; sem operação confirmada",
+      "incerto": true,
+      "fontes": [
+        {
+          "url": "https://www.sanjuandailystar.com/post/guatemala-agrees-to-joint-strikes-with-us-against-drug-gangs",
+          "trecho": "Guatemala has agreed to carry out joint strikes with the United States military inside its territory to target drug trafficking groups, according to three people familiar with the talks, in a further expansion of the Trump administration’s military campaign across",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://www.democracynow.org/2026/5/29/headlines/guatemala_denies_reports_it_agreed_to_allow_us_strikes_against_narcotraffickers",
+          "trecho": "Guatemala’s government has denied reports that it agreed to allow the Trump administration to carry out military strikes against accused drug traffickers inside the Central American country.",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://www.stripes.com/theaters/americas/2026-08-26/us-strike-kills-4-caribbean-sea-22664654.html",
+          "trecho": "Defense Secretary Pete Hegseth said last week during a visit to Panama that Colombia, Guatemala and Honduras had agreed to allow the U.S. to carry out joint military operations against criminal groups on their soil.",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Demographics_of_Guatemala",
+          "trecho": "2024 17,843,132 299,256 99,593 199,693 16.8 5.6 11.2 2.3 1.906 2025",
+          "campo": "populacao"
+        }
+      ]
+    },
+    {
+      "id": "cuba-2026-bloqueio-petroleo",
+      "ano": 2026,
+      "pais": "Cuba",
+      "nome": "Bloqueio de petróleo (EO 14380)",
+      "tipo": "bloqueio",
+      "status": "em_curso",
+      "populacao_alvo_mi": 9.44,
+      "populacao_nota": "estimativa do órgão cubano de estatística para 2025 (9.436.440), segundo a tabela de demografia",
+      "pib_relativo": null,
+      "governo_eleito": "nao",
+      "aval_local": "nao",
+      "justificativa_oficial": "a ordem executiva descreve o governo cubano como 'ameaça incomum e extraordinária' à segurança nacional e prevê tarifas a quem vender petróleo a Cuba",
+      "resultado": "falta de combustível e crise econômica; Díaz-Canel confirmou conversas com os EUA em 13/03/2026 e Cuba soltou mais de 2.000 presos em 03/04",
+      "fontes": [
+        {
+          "url": "https://www.aljazeera.com/news/2026/1/30/trump-threatens-tariffs-on-countries-supplying-cuba-with-much-needed-oil",
+          "trecho": "describes the Cuban government as an “unusual and extraordinary threat” to US national security.",
+          "campo": "justificativa_oficial"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Cuban_crisis",
+          "trecho": "Since January 2026, the United States has been imposing a fuel blockade on Cuba, causing an ongoing fuel shortage and economic crisis in the latter.",
+          "campo": "natureza"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Cuban_crisis",
+          "trecho": "On 13 March 2026, Cuban Communist Party first secretary Miguel Díaz-Canel publicly confirmed for the first time that his government was engaged in diplomatic talks with the United States aimed at addressing the severe U.S.‑imposed oil and energy blockade that",
+          "campo": "resultado"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Demographics_of_Cuba",
+          "trecho": "2025 9,436,440 68,064 136,214 -68,150 7.1 14.2 -7.1 -25.6 1.29 9.9 Source:",
+          "campo": "populacao"
+        }
+      ]
+    }
+  ],
+  "contagens": {
+    "casos": 18,
+    "por_tipo": {
+      "encoberta": 4,
+      "bloqueio": 3,
+      "contingencia": 1,
+      "invasao": 3,
+      "conjunta_com_aval": 4,
+      "operacao_limitada": 3
+    },
+    "governo_eleito": {
+      "sim": 7,
+      "nao": 8,
+      "incerto": 2,
+      "None": 1
+    },
+    "aval_local": {
+      "nao": 12,
+      "parcial": 1,
+      "sim": 3,
+      "incerto": 2
+    },
+    "com_incerto": 5
+  }
+}

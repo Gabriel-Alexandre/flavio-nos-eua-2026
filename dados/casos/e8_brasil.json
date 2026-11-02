@@ -1,0 +1,1243 @@
+{
+ "caso": "flavio-nos-eua-2026",
+ "parte": "E8",
+ "gerado_em": "2026-11-02",
+ "convencao": "Cada fonte tem url e trecho literal da página aberta em 02/11/2026. Para API (ComexStat e Banco Central), o trecho é o objeto JSON da resposta (tipo 'resposta_api_json') e vem com a requisição. 'incerto: true' = divergência ou lacuna que o leitor deve resolver antes de usar. 'derivado' = conta feita por mim sobre os números das fontes.",
+ "itens": [
+  {
+   "id": "E8-01",
+   "bloco": "comercio",
+   "indicador": "Exportações do Brasil para os EUA em 2025",
+   "valor": 37.68,
+   "unidade": "US$ bilhões (FOB)",
+   "periodo": "jan-dez/2025",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"export\", \"monthDetail\": false, \"period\": {\"from\": \"2025-01\", \"to\": \"2025-12\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249, 160]}], \"details\": [\"country\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2025\",\"country\":\"Estados Unidos\",\"metricFOB\":\"37682246914\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://www.poder360.com.br/poder-economia/balanca-comercial-atinge-superavit-de-us-683-bi-em-2025/",
+     "trecho": "Estados Unidos – US$ 37,72 bilhões (queda de 6,6%);"
+    }
+   ],
+   "nota": "Valor da API do ComexStat/MDIC consultada em 02/11/2026 (US$ 37.682.246.914). O Poder360, com o fechamento de janeiro de 2026, tinha 37,72 bi (queda de 6,6%): a diferença é revisão da base."
+  },
+  {
+   "id": "E8-02",
+   "bloco": "comercio",
+   "indicador": "Exportações do Brasil para a China em 2025",
+   "valor": 99.94,
+   "unidade": "US$ bilhões (FOB)",
+   "periodo": "jan-dez/2025",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"export\", \"monthDetail\": false, \"period\": {\"from\": \"2025-01\", \"to\": \"2025-12\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249, 160]}], \"details\": [\"country\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2025\",\"country\":\"China\",\"metricFOB\":\"99940244710\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://www.poder360.com.br/poder-economia/balanca-comercial-atinge-superavit-de-us-683-bi-em-2025/",
+     "trecho": "China – US$ 100,02 bilhões (avanço de 6,0%);"
+    }
+   ],
+   "nota": "API: US$ 99.940.244.710. Poder360 (janeiro de 2026): 100,02 bi, alta de 6,0%."
+  },
+  {
+   "id": "E8-03",
+   "bloco": "comercio",
+   "indicador": "Importações do Brasil vindas dos EUA em 2025",
+   "valor": 45.14,
+   "unidade": "US$ bilhões (FOB)",
+   "periodo": "jan-dez/2025",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"import\", \"monthDetail\": false, \"period\": {\"from\": \"2025-01\", \"to\": \"2025-12\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249, 160]}], \"details\": [\"country\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2025\",\"country\":\"Estados Unidos\",\"metricFOB\":\"45141941682\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://www.poder360.com.br/poder-economia/balanca-comercial-atinge-superavit-de-us-683-bi-em-2025/",
+     "trecho": "Estados Unidos – US$ 45,25 bilhões (aumento de 11,3%);"
+    }
+   ]
+  },
+  {
+   "id": "E8-04",
+   "bloco": "comercio",
+   "indicador": "Importações do Brasil vindas da China em 2025",
+   "valor": 70.92,
+   "unidade": "US$ bilhões (FOB)",
+   "periodo": "jan-dez/2025",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"import\", \"monthDetail\": false, \"period\": {\"from\": \"2025-01\", \"to\": \"2025-12\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249, 160]}], \"details\": [\"country\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2025\",\"country\":\"China\",\"metricFOB\":\"70915558414\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://www.poder360.com.br/poder-economia/balanca-comercial-atinge-superavit-de-us-683-bi-em-2025/",
+     "trecho": "China – US$ 70,93 bilhões (alta de 11,5%);"
+    }
+   ]
+  },
+  {
+   "id": "E8-05",
+   "bloco": "comercio",
+   "indicador": "Saldo comercial do Brasil com os EUA em 2025",
+   "valor": -7.46,
+   "unidade": "US$ bilhões (negativo = déficit do Brasil)",
+   "periodo": "jan-dez/2025",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"export\", \"monthDetail\": false, \"period\": {\"from\": \"2025-01\", \"to\": \"2025-12\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249, 160]}], \"details\": [\"country\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2025\",\"country\":\"Estados Unidos\",\"metricFOB\":\"37682246914\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"import\", \"monthDetail\": false, \"period\": {\"from\": \"2025-01\", \"to\": \"2025-12\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249, 160]}], \"details\": [\"country\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2025\",\"country\":\"Estados Unidos\",\"metricFOB\":\"45141941682\"}",
+     "tipo": "resposta_api_json"
+    }
+   ],
+   "derivado": "exportações menos importações, ambas da API do ComexStat"
+  },
+  {
+   "id": "E8-06",
+   "bloco": "comercio",
+   "indicador": "Saldo comercial do Brasil com a China em 2025",
+   "valor": 29.02,
+   "unidade": "US$ bilhões (positivo = superávit do Brasil)",
+   "periodo": "jan-dez/2025",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"export\", \"monthDetail\": false, \"period\": {\"from\": \"2025-01\", \"to\": \"2025-12\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249, 160]}], \"details\": [\"country\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2025\",\"country\":\"China\",\"metricFOB\":\"99940244710\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"import\", \"monthDetail\": false, \"period\": {\"from\": \"2025-01\", \"to\": \"2025-12\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249, 160]}], \"details\": [\"country\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2025\",\"country\":\"China\",\"metricFOB\":\"70915558414\"}",
+     "tipo": "resposta_api_json"
+    }
+   ],
+   "derivado": "exportações menos importações, ambas da API do ComexStat"
+  },
+  {
+   "id": "E8-07",
+   "bloco": "comercio",
+   "indicador": "Exportações do Brasil para os EUA, jan-set 2026",
+   "valor": {
+    "2026": 27.46,
+    "mesmo_periodo_2025": 29.37,
+    "variacao_pct": -6.5
+   },
+   "unidade": "US$ bilhões (FOB)",
+   "periodo": "jan-set/2026",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"export\", \"monthDetail\": false, \"period\": {\"from\": \"2026-01\", \"to\": \"2026-09\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249, 160]}], \"details\": [\"country\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2026\",\"country\":\"Estados Unidos\",\"metricFOB\":\"27462418858\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"export\", \"monthDetail\": false, \"period\": {\"from\": \"2025-01\", \"to\": \"2025-09\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249, 160]}], \"details\": [\"country\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2025\",\"country\":\"Estados Unidos\",\"metricFOB\":\"29370649840\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://www.canalrural.com.br/economia/exportacoes-aos-eua-sobem-319-em-setembro-enquanto-china-reduz-compras-do-brasil/",
+     "trecho": "No acumulado de janeiro a setembro de 2026, as exportações brasileiras para os Estados Unidos recuaram 6,5% na comparação com o mesmo período do ano anterior, totalizando US$ 27,46 bilhões."
+    }
+   ],
+   "nota": "A variação é calculada com a API (−6,5%) e bate com o texto do Canal Rural/Secex."
+  },
+  {
+   "id": "E8-08",
+   "bloco": "comercio",
+   "indicador": "Importações do Brasil vindas dos EUA, jan-set 2026",
+   "valor": {
+    "2026": 31.79,
+    "mesmo_periodo_2025": 34.22,
+    "variacao_pct": -7.1
+   },
+   "unidade": "US$ bilhões (FOB)",
+   "periodo": "jan-set/2026",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"import\", \"monthDetail\": false, \"period\": {\"from\": \"2026-01\", \"to\": \"2026-09\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249, 160]}], \"details\": [\"country\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2026\",\"country\":\"Estados Unidos\",\"metricFOB\":\"31792901519\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"import\", \"monthDetail\": false, \"period\": {\"from\": \"2025-01\", \"to\": \"2025-09\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249, 160]}], \"details\": [\"country\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2025\",\"country\":\"Estados Unidos\",\"metricFOB\":\"34224067816\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://www.folhape.com.br/economia/exportacoes-brasileiras-para-os-eua-sobem-319-em-setembro-ante/516906/",
+     "trecho": "As importações caíram 7,1% e totalizaram US$ 31,79 bilhões."
+    }
+   ]
+  },
+  {
+   "id": "E8-09",
+   "bloco": "comercio",
+   "indicador": "Exportações do Brasil para a China, jan-set 2026",
+   "valor": {
+    "2026": 84.68,
+    "mesmo_periodo_2025": 75.58,
+    "variacao_pct": 12.0
+   },
+   "unidade": "US$ bilhões (FOB)",
+   "periodo": "jan-set/2026",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"export\", \"monthDetail\": false, \"period\": {\"from\": \"2026-01\", \"to\": \"2026-09\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249, 160]}], \"details\": [\"country\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2026\",\"country\":\"China\",\"metricFOB\":\"84677382774\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"export\", \"monthDetail\": false, \"period\": {\"from\": \"2025-01\", \"to\": \"2025-09\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249, 160]}], \"details\": [\"country\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2025\",\"country\":\"China\",\"metricFOB\":\"75583368598\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://www.canalrural.com.br/economia/exportacoes-aos-eua-sobem-319-em-setembro-enquanto-china-reduz-compras-do-brasil/",
+     "trecho": "Nos nove primeiros meses de 2026, as exportações para a China cresceram 12%, para US$ 84,64 bilhões, enquanto as importações subiram 9,9%, para US$ 58,62 bilhões."
+    }
+   ],
+   "nota": "O Canal Rural/Secex (divulgação de 06/10) diz US$ 84,64 bi; a API em 02/11 dá 84,68 bi: revisão."
+  },
+  {
+   "id": "E8-10",
+   "bloco": "comercio",
+   "indicador": "Importações do Brasil vindas da China, jan-set 2026",
+   "valor": {
+    "2026": 58.62,
+    "mesmo_periodo_2025": 53.35,
+    "variacao_pct": 9.9
+   },
+   "unidade": "US$ bilhões (FOB)",
+   "periodo": "jan-set/2026",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"import\", \"monthDetail\": false, \"period\": {\"from\": \"2026-01\", \"to\": \"2026-09\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249, 160]}], \"details\": [\"country\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2026\",\"country\":\"China\",\"metricFOB\":\"58622895561\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"import\", \"monthDetail\": false, \"period\": {\"from\": \"2025-01\", \"to\": \"2025-09\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249, 160]}], \"details\": [\"country\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2025\",\"country\":\"China\",\"metricFOB\":\"53353295433\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://www.canalrural.com.br/economia/exportacoes-aos-eua-sobem-319-em-setembro-enquanto-china-reduz-compras-do-brasil/",
+     "trecho": "enquanto as importações subiram 9,9%, para US$ 58,62 bilhões."
+    }
+   ]
+  },
+  {
+   "id": "E8-11",
+   "bloco": "comercio",
+   "indicador": "Saldo comercial jan-set 2026: EUA e China",
+   "valor": {
+    "EUA": -4.33,
+    "China": 26.05
+   },
+   "unidade": "US$ bilhões (negativo = déficit do Brasil)",
+   "periodo": "jan-set/2026",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.canalrural.com.br/economia/exportacoes-aos-eua-sobem-319-em-setembro-enquanto-china-reduz-compras-do-brasil/",
+     "trecho": "Com isso, o déficit comercial com os norte-americanos chegou a US$ 4,33 bilhões no período."
+    },
+    {
+     "url": "https://www.canalrural.com.br/economia/exportacoes-aos-eua-sobem-319-em-setembro-enquanto-china-reduz-compras-do-brasil/",
+     "trecho": "O superávit com o país alcançou US$ 26,05 bilhões."
+    }
+   ],
+   "derivado": "exportações menos importações da API do ComexStat; os valores batem com os do Canal Rural/Secex (EUA −4,33; China +26,05)"
+  },
+  {
+   "id": "E8-12",
+   "bloco": "comercio",
+   "indicador": "Participação dos EUA e da China nas exportações do Brasil",
+   "valor": {
+    "EUA": {
+     "2024": "12%",
+     "2025": "10,8%"
+    },
+    "China": {
+     "2024": "28%",
+     "2025": "28,7%"
+    }
+   },
+   "unidade": "% do total exportado",
+   "periodo": "2024 e 2025",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://tagdlaw.com.br/novo-tarifaco-ameaca-quase-metade-das-exportacoes-do-brasil-aos-eua/",
+     "trecho": "Em 2024 os EUA absorveram 12% da exportação brasileira, participação que caiu para 10,8% no ano passado. Em igual período a fatia da China subiu de 28% para 28,7%."
+    }
+   ],
+   "nota": "Texto do Valor Econômico reproduzido pelo escritório TAGD (junho de 2026)."
+  },
+  {
+   "id": "E8-13",
+   "bloco": "produtos",
+   "indicador": "Principais produtos (SH4) vendidos aos EUA em 2025",
+   "valor": [
+    {
+     "sh4": "2709",
+     "produto": "Óleos brutos de petróleo ou de minerais betuminosos",
+     "us_bi": 4.7,
+     "pct_das_exportacoes_aos_eua": 12.5
+    },
+    {
+     "sh4": "8802",
+     "produto": "Outros veículos aéreos (por exemplo: helicópteros, aviões); veículos espaciais (incluídos ",
+     "us_bi": 2.73,
+     "pct_das_exportacoes_aos_eua": 7.2
+    },
+    {
+     "sh4": "7207",
+     "produto": "Produtos semimanufacturados de ferro ou aço não ligado",
+     "us_bi": 2.6,
+     "pct_das_exportacoes_aos_eua": 6.9
+    },
+    {
+     "sh4": "0901",
+     "produto": "Café, mesmo torrado ou descafeinado; cascas e películas de café; sucedâneos do café conten",
+     "us_bi": 1.92,
+     "pct_das_exportacoes_aos_eua": 5.1
+    },
+    {
+     "sh4": "2710",
+     "produto": "Óleos de petróleo ou de minerais betuminosos, exceto óleos brutos; preparações não especif",
+     "us_bi": 1.63,
+     "pct_das_exportacoes_aos_eua": 4.3
+    },
+    {
+     "sh4": "2009",
+     "produto": "Sumos de frutas (incluídos os mostos de uvas) ou de produtos hortícolas, não fermentados, ",
+     "us_bi": 1.61,
+     "pct_das_exportacoes_aos_eua": 4.3
+    },
+    {
+     "sh4": "7201",
+     "produto": "Ferro fundido bruto e ferro spiegel (especular), em lingotes, linguados ou outras formas p",
+     "us_bi": 1.39,
+     "pct_das_exportacoes_aos_eua": 3.7
+    },
+    {
+     "sh4": "8429",
+     "produto": "Bulldozers, angledozers, niveladoras, raspo-transportadoras (scrapers), pás mecânicas, esc",
+     "us_bi": 1.33,
+     "pct_das_exportacoes_aos_eua": 3.5
+    },
+    {
+     "sh4": "4703",
+     "produto": "Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução",
+     "us_bi": 1.23,
+     "pct_das_exportacoes_aos_eua": 3.3
+    },
+    {
+     "sh4": "0202",
+     "produto": "Carnes de animais da espécie bovina, congeladas",
+     "us_bi": 1.09,
+     "pct_das_exportacoes_aos_eua": 2.9
+    }
+   ],
+   "unidade": "US$ bilhões (FOB) e % do total",
+   "periodo": "jan-dez/2025",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"export\", \"monthDetail\": false, \"period\": {\"from\": \"2025-01\", \"to\": \"2025-12\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249]}], \"details\": [\"heading\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2025\",\"headingCode\":\"2709\",\"heading\":\"\\u00d3leos brutos de petr\\u00f3leo ou de minerais betuminosos\",\"metricFOB\":\"4701513968\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"export\", \"monthDetail\": false, \"period\": {\"from\": \"2025-01\", \"to\": \"2025-12\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249]}], \"details\": [\"heading\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2025\",\"headingCode\":\"8802\",\"heading\":\"Outros ve\\u00edculos a\\u00e9reos (por exemplo: helic\\u00f3pteros, avi\\u00f5es); ve\\u00edculos espaciais (inclu\\u00eddos os sat\\u00e9lites) e seus ve\\u00edculos de lan\\u00e7amento e ve\\u00edculos suborbitais\",\"metricFOB\":\"2731320364\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"export\", \"monthDetail\": false, \"period\": {\"from\": \"2025-01\", \"to\": \"2025-12\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249]}], \"details\": [\"heading\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2025\",\"headingCode\":\"7207\",\"heading\":\"Produtos semimanufacturados de ferro ou a\\u00e7o n\\u00e3o ligado\",\"metricFOB\":\"2597296686\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"export\", \"monthDetail\": false, \"period\": {\"from\": \"2025-01\", \"to\": \"2025-12\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249]}], \"details\": [\"heading\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2025\",\"headingCode\":\"0901\",\"heading\":\"Caf\\u00e9, mesmo torrado ou descafeinado; cascas e pel\\u00edculas de caf\\u00e9; suced\\u00e2neos do caf\\u00e9 contendo caf\\u00e9 em qualquer propor\\u00e7\\u00e3o\",\"metricFOB\":\"1916636154\"}",
+     "tipo": "resposta_api_json"
+    }
+   ],
+   "nota": "Total exportado aos EUA na consulta: US$ 37.68 bi. A lista completa de 1.059 posições está na resposta da API; aqui, os 10 maiores. Os trechos mostram os 4 primeiros itens como prova."
+  },
+  {
+   "id": "E8-14",
+   "bloco": "produtos",
+   "indicador": "Principais produtos (SH4) vendidos aos EUA, jan-set 2026",
+   "valor": [
+    {
+     "sh4": "2709",
+     "produto": "Óleos brutos de petróleo ou de minerais betuminosos",
+     "us_bi": 2.49,
+     "pct_das_exportacoes_aos_eua": 9.1
+    },
+    {
+     "sh4": "8802",
+     "produto": "Outros veículos aéreos (por exemplo: helicópteros, aviões); veículos espaciais (incluídos ",
+     "us_bi": 2.0,
+     "pct_das_exportacoes_aos_eua": 7.3
+    },
+    {
+     "sh4": "7207",
+     "produto": "Produtos semimanufacturados de ferro ou aço não ligado",
+     "us_bi": 2.0,
+     "pct_das_exportacoes_aos_eua": 7.3
+    },
+    {
+     "sh4": "0202",
+     "produto": "Carnes de animais da espécie bovina, congeladas",
+     "us_bi": 1.54,
+     "pct_das_exportacoes_aos_eua": 5.6
+    },
+    {
+     "sh4": "2710",
+     "produto": "Óleos de petróleo ou de minerais betuminosos, exceto óleos brutos; preparações não especif",
+     "us_bi": 1.48,
+     "pct_das_exportacoes_aos_eua": 5.4
+    },
+    {
+     "sh4": "0901",
+     "produto": "Café, mesmo torrado ou descafeinado; cascas e películas de café; sucedâneos do café conten",
+     "us_bi": 1.22,
+     "pct_das_exportacoes_aos_eua": 4.4
+    },
+    {
+     "sh4": "8429",
+     "produto": "Bulldozers, angledozers, niveladoras, raspo-transportadoras (scrapers), pás mecânicas, esc",
+     "us_bi": 1.1,
+     "pct_das_exportacoes_aos_eua": 4.0
+    },
+    {
+     "sh4": "4703",
+     "produto": "Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução",
+     "us_bi": 1.02,
+     "pct_das_exportacoes_aos_eua": 3.7
+    },
+    {
+     "sh4": "7201",
+     "produto": "Ferro fundido bruto e ferro spiegel (especular), em lingotes, linguados ou outras formas p",
+     "us_bi": 0.89,
+     "pct_das_exportacoes_aos_eua": 3.2
+    },
+    {
+     "sh4": "8504",
+     "produto": "Transformadores elétricos, conversores elétricos estáticos (rectificadores, por exemplo), ",
+     "us_bi": 0.69,
+     "pct_das_exportacoes_aos_eua": 2.5
+    },
+    {
+     "sh4": "2009",
+     "produto": "Sumos de frutas (incluídos os mostos de uvas) ou de produtos hortícolas, não fermentados, ",
+     "us_bi": 0.67,
+     "pct_das_exportacoes_aos_eua": 2.4
+    },
+    {
+     "sh4": "7224",
+     "produto": "Outras ligas de aço, em lingotes ou outras formas primárias; produtos semimanufacturados, ",
+     "us_bi": 0.59,
+     "pct_das_exportacoes_aos_eua": 2.1
+    }
+   ],
+   "unidade": "US$ bilhões (FOB) e % do total",
+   "periodo": "jan-set/2026",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"export\", \"monthDetail\": false, \"period\": {\"from\": \"2026-01\", \"to\": \"2026-09\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249]}], \"details\": [\"heading\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2026\",\"headingCode\":\"2709\",\"heading\":\"\\u00d3leos brutos de petr\\u00f3leo ou de minerais betuminosos\",\"metricFOB\":\"2493426374\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"export\", \"monthDetail\": false, \"period\": {\"from\": \"2026-01\", \"to\": \"2026-09\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249]}], \"details\": [\"heading\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2026\",\"headingCode\":\"0202\",\"heading\":\"Carnes de animais da esp\\u00e9cie bovina, congeladas\",\"metricFOB\":\"1536124766\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://api-comexstat.mdic.gov.br/general",
+     "metodo": "POST",
+     "corpo_da_requisicao": "{\"flow\": \"export\", \"monthDetail\": false, \"period\": {\"from\": \"2026-01\", \"to\": \"2026-09\"}, \"filters\": [{\"filter\": \"country\", \"values\": [249]}], \"details\": [\"heading\"], \"metrics\": [\"metricFOB\"]}",
+     "trecho": "{\"year\":\"2026\",\"headingCode\":\"8504\",\"heading\":\"Transformadores el\\u00e9tricos, conversores el\\u00e9tricos est\\u00e1ticos (rectificadores, por exemplo), bobinas de react\\u00e2ncia e de auto-indu\\u00e7\\u00e3o\",\"metricFOB\":\"691701011\"}",
+     "tipo": "resposta_api_json"
+    }
+   ],
+   "nota": "Total na consulta: US$ 27.46 bi. Carne bovina congelada (0202) passou de 2,9% para 5,6% do total; transformadores (8504) entraram entre os 12 maiores."
+  },
+  {
+   "id": "E8-15",
+   "bloco": "tarifa",
+   "indicador": "Quanto das importações americanas de produtos brasileiros paga a tarifa cheia de 25% (Seção 301)",
+   "valor": {
+    "total_importado_2024_us_bi": 39.6,
+    "paga_25_cheio_us_bi": 8.5,
+    "isento_pelo_anexo_us_bi": 20.1,
+    "ja_na_secao_232_us_bi": 7.3,
+    "avioes_us_bi": 3.2,
+    "pct_paga_cheio": 21.5
+   },
+   "unidade": "US$ bilhões (base: importações dos EUA em 2024) e %",
+   "periodo": "em vigor desde 22/07/2026",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://digitalpolicyalert.org/blog/brazil-section-301-final-action",
+     "trecho": "Of $39.6bn in 2024 US imports of Brazilian products, $8.5bn pays the full rate."
+    },
+    {
+     "url": "https://digitalpolicyalert.org/blog/brazil-section-301-final-action",
+     "trecho": "The annex exemptions cover $20.1bn, led by crude oil and coffee."
+    },
+    {
+     "url": "https://digitalpolicyalert.org/blog/brazil-section-301-final-action",
+     "trecho": "Goods under Section 232 account for a further $7.3bn, carved out of the Section 301 because they already pay the metal, lumber or vehicle tariffs."
+    },
+    {
+     "url": "https://digitalpolicyalert.org/blog/brazil-section-301-final-action",
+     "trecho": "Aircraft lines worth $3.2bn pay an effective 2.5% under the civil-aircraft carve-out"
+    }
+   ],
+   "derivado": "pct_paga_cheio = 8,5 / 39,6",
+   "nota": "Cálculo da Global Trade Alert/Digital Policy Alert sobre importações dos EUA de 2024; não são exportações do Brasil de 2025."
+  },
+  {
+   "id": "E8-16",
+   "bloco": "tarifa",
+   "indicador": "Fatia das exportações do Brasil aos EUA fora da tarifa de 25%",
+   "valor": {
+    "anexo_de_isencoes_pct": 44,
+    "ja_taxado_pela_secao_232_pct": 13,
+    "provisoes_especiais_pct": 9,
+    "total_fora_da_301": "dois de cada três dólares"
+   },
+   "unidade": "% das exportações do Brasil aos EUA",
+   "periodo": "em vigor desde 22/07/2026",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://www.piie.com/blogs/realtime-economics/2026/trumps-new-tariffs-brazil-reflect-weakness-us-trade-strategy",
+     "trecho": "The USTR's exemption annex covers some 400 tariff subheadings and spares 44 percent of Brazil's exports to the United States,"
+    },
+    {
+     "url": "https://www.piie.com/blogs/realtime-economics/2026/trumps-new-tariffs-brazil-reflect-weakness-us-trade-strategy",
+     "trecho": "Another 13 percent Brazil's exports escapes the Section 301 action altogether because they are already covered by tariffs on steel, aluminum, copper, autos, and lumber under Section 232 of the Trade Expansion Act of 1962."
+    },
+    {
+     "url": "https://www.piie.com/blogs/realtime-economics/2026/trumps-new-tariffs-brazil-reflect-weakness-us-trade-strategy",
+     "trecho": "The exempted goods, together with those already covered by other tariff regimes, account for two of every three dollars' worth of goods the country sells to the United States."
+    }
+   ],
+   "nota": "O PIIE dá 44% pelo anexo; a conta da Global Trade Alert (item E8-15) dá US$ 20,1 bi de US$ 39,6 bi, ou cerca de 51%, mas inclui aviões e outra base. As duas medidas não coincidem; usar a faixa e citar a fonte."
+  },
+  {
+   "id": "E8-17",
+   "bloco": "tarifa",
+   "indicador": "Principais produtos brasileiros isentos e produtos sujeitos à tarifa de 25%",
+   "valor": {
+    "isentos": [
+     "café",
+     "suco de laranja",
+     "carne bovina",
+     "cacau",
+     "castanhas",
+     "frutas tropicais",
+     "minério de ferro e manganês",
+     "celulose química",
+     "petróleo bruto e refinado",
+     "aviões civis",
+     "ferro-gusa"
+    ],
+    "sujeitos": [
+     "máquinas",
+     "equipamentos elétricos",
+     "granito",
+     "ouro",
+     "pneus",
+     "açúcar",
+     "vestuário"
+    ]
+   },
+   "unidade": "lista",
+   "periodo": "em vigor desde 22/07/2026",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.piie.com/blogs/realtime-economics/2026/trumps-new-tariffs-brazil-reflect-weakness-us-trade-strategy",
+     "trecho": "including coffee, orange juice, beef, cocoa, nuts and tropical fruit, iron and manganese ore, chemical wood pulp, crude and refined petroleum, as well as civil aircraft."
+    },
+    {
+     "url": "https://www.piie.com/blogs/realtime-economics/2026/trumps-new-tariffs-brazil-reflect-weakness-us-trade-strategy",
+     "trecho": "The products subject to the new 25 percent duty are concentrated in machinery, electrical equipment, granite, gold, tires, sugar, and apparel."
+    },
+    {
+     "url": "https://www.thompsoncoburn.com/insights/85-july-29-2026-administration-implements-section-301-tariffs-on-brazil/",
+     "trecho": "The product exclusions exempts certain major exports of Brazil including coffee, beef, avocados, Brazil nuts, petroleum oils, and aircraft parts."
+    }
+   ]
+  },
+  {
+   "id": "E8-18",
+   "bloco": "tarifa",
+   "indicador": "Tarifa efetiva dos EUA sobre o Brasil (média ponderada pelo comércio)",
+   "valor": {
+    "antes_de_22_jul": "11,0%",
+    "a_partir_de_22_jul": "17,5%",
+    "depois_de_24_jul": "cerca de 17,7%"
+   },
+   "unidade": "% (Global Trade Alert)",
+   "periodo": "jul/2026",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://digitalpolicyalert.org/blog/brazil-section-301-final-action",
+     "trecho": "We estimate that Brazil's trade-weighted US tariff rises from 11.0% today to 17.5% on 22 July, and stays around 17.7% after 24 July."
+    },
+    {
+     "url": "https://digitalpolicyalert.org/blog/brazil-section-301-final-action",
+     "trecho": "a separate Section 301 tariff on forced labour takes effect on 24 July, the same day the Section 122 surcharge lapses, and roughly replaces it."
+    }
+   ],
+   "nota": "Estimativa de terceiros, não oficial. A mesma Global Trade Alert diz que a tarifa do trabalho forçado toma o lugar da sobretaxa de 10% da Seção 122, que expira em 24/07."
+  },
+  {
+   "id": "E8-19",
+   "bloco": "tarifa",
+   "indicador": "Tarifa adicional de 12,5% por trabalho forçado e soma de 37,5%",
+   "valor": {
+    "trabalho_forcado": "12,5%",
+    "soma_com_a_301_do_Brasil": "37,5%"
+   },
+   "unidade": "% ad valorem",
+   "periodo": "proposta de jun/2026; final de 23-24/jul/2026",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://www.thompsoncoburn.com/insights/85-july-29-2026-administration-implements-section-301-tariffs-on-brazil/",
+     "trecho": "There is no exemption for goods subject to Section 301 investigations on forced labor, so the 12.5% forced labor tariff on goods covered by these Brazilian tariffs will face a total additional tariff rate of 37.5%."
+    },
+    {
+     "url": "https://www.piie.com/blogs/realtime-economics/2026/trumps-new-tariffs-brazil-reflect-weakness-us-trade-strategy",
+     "trecho": "Stacked, the tariffs would rebuild a 37.5 percent trade barrier, a number closer to the unlawful 50 percent imposed in 2025."
+    }
+   ],
+   "nota": "Dois escritórios/centros divergem: a Thompson Coburn e o PIIE falam em 12,5% empilhado com os 25% (37,5%); a Global Trade Alert diz que o tributo do trabalho forçado só substitui a Seção 122, sem somar. A ordem final para o Brasil não foi aberta no Federal Register."
+  },
+  {
+   "id": "E8-20",
+   "bloco": "tarifa",
+   "indicador": "Estimativa da Amcham do impacto da proposta de 25% (versão preliminar de junho)",
+   "valor": {
+    "exportacoes_atingidas_us_bi": 15,
+    "pct_das_importacoes_americanas_do_Brasil": 35,
+    "maior_item": "ferro-gusa, US$ 1,54 bi"
+   },
+   "unidade": "US$ bilhões (base 2024) e %",
+   "periodo": "proposta de 01/06/2026",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://tagdlaw.com.br/novo-tarifaco-ameaca-quase-metade-das-exportacoes-do-brasil-aos-eua/",
+     "trecho": "A Câmara Americana de Comércio (Amcham) afirma que a nova tarifa pode impactar cerca de US$ 15 bilhões em exportações aos EUA, ou 35,5% dos embarques brasileiros, em cálculo que usou a base de dados de 2024 dos EUA."
+    },
+    {
+     "url": "https://static.poder360.com.br/2026/06/relatorio-amcham-2-jun-2026.pdf",
+     "trecho": "Entre os setores potencialmente mais impactados estão segmentos da indústria de base, máquinas e equipamentos, agronegócio, produtos florestais e alimentos processados."
+    },
+    {
+     "url": "https://tagdlaw.com.br/novo-tarifaco-ameaca-quase-metade-das-exportacoes-do-brasil-aos-eua/",
+     "trecho": "o ferro-gusa poderá ser o produto mais impactado, com US$ 1,54 bilhão em exportações sujeitas à tarifa."
+    }
+   ],
+   "nota": "É a versão preliminar. Na ordem final de 15/07, ferro-gusa e outros itens foram para a lista de isentos (PIIE; Thompson Coburn), então esses números superestimam."
+  },
+  {
+   "id": "E8-21",
+   "bloco": "setores",
+   "indicador": "Setores mais expostos à tarifa de 25%",
+   "valor": {
+    "PIIE": "máquinas, equipamentos elétricos, granito, ouro, pneus, açúcar e vestuário",
+    "EY": "calçados, têxteis, máquinas e equipamentos",
+    "MDIC": "máquinas e equipamentos"
+   },
+   "unidade": "lista",
+   "periodo": "jul/2026",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.piie.com/blogs/realtime-economics/2026/trumps-new-tariffs-brazil-reflect-weakness-us-trade-strategy",
+     "trecho": "The products subject to the new 25 percent duty are concentrated in machinery, electrical equipment, granite, gold, tires, sugar, and apparel."
+    },
+    {
+     "url": "https://taxnews.ey.com/news/2026-1556-brazilian-exporters-must-consider-implications-of-latest-us-tariffs",
+     "trecho": "while sectors related to shoes, textiles, machinery and equipment remain on the sanction list and will face the new 25% tariff in addition to"
+    },
+    {
+     "url": "https://tagdlaw.com.br/novo-tarifaco-ameaca-quase-metade-das-exportacoes-do-brasil-aos-eua/",
+     "trecho": "Ele citou os setores de máquinas e equipamentos entre os mais impactados, com “muito prejuízo” para emprego, renda e indústria."
+    }
+   ]
+  },
+  {
+   "id": "E8-22",
+   "bloco": "setores",
+   "indicador": "Empregos expostos à tarifa",
+   "valor": null,
+   "unidade": "sem número",
+   "periodo": "jun-nov/2026",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://tagdlaw.com.br/novo-tarifaco-ameaca-quase-metade-das-exportacoes-do-brasil-aos-eua/",
+     "trecho": "Ele citou os setores de máquinas e equipamentos entre os mais impactados, com “muito prejuízo” para emprego, renda e indústria."
+    },
+    {
+     "url": "https://www.portaltela.com/noticias/economia/2026/06/03/cni-impactos-da-nova-taxa-dos-eua-sobre-o-brasil-sao-relevantes/",
+     "trecho": "em regiões com forte dependência do mercado dos EUA, a consequência pode incluir perda de empregos caso as exportações sejam prejudicadas."
+    }
+   ],
+   "nota": "Não encontrei estudo da CNI, Amcham, Fiesp ou Ipea com número de empregos. Só há avisos qualitativos: do ministro do MDIC (Valor/TAGD, 03/06) e da CNI (resumo gerado por IA do Portal Tela, 03/06, sobre a proposta de 12,5%). Tratar como lacuna."
+  },
+  {
+   "id": "E8-23",
+   "bloco": "pcc_cv",
+   "indicador": "Designação de PCC e CV: datas",
+   "valor": {
+    "SDGT": "28/05/2026, efeito imediato",
+    "FTO": "efetiva em 05/06/2026"
+   },
+   "unidade": "datas",
+   "periodo": "mai-jun/2026",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.whitecase.com/insight-alert/united-states-designates-brazilian-criminal-organizations-foreign-terrorist",
+     "trecho": "On May 28, 2026, the United States announced the designations of Primeiro Comando da Capital (PCC) and Comando Vermelho (CV) – two of Brazil’s largest and most powerful criminal organizations – as Foreign Terrorist Organizations (FTOs), effective June 5, and"
+    },
+    {
+     "url": "https://www.stblaw.com/docs/default-source/memos/reportfromwashington_06_05_26",
+     "trecho": "On May 28, 2026, the U.S. Department of State announced that it would designate Comando Vermelho (CV) and Primeiro Comando da Capital (PCC) as Specially Designated Global Terrorists (SDGTs) and"
+    }
+   ],
+   "nota": "O White & Case (01/06) dá 'effective June 5' para FTO e 'effective immediately' para SDGT; a data completa está no cabeçalho da página."
+  },
+  {
+   "id": "E8-24",
+   "bloco": "pcc_cv",
+   "indicador": "Risco para bancos brasileiros: contas correspondentes (OFAC e FinCEN)",
+   "valor": {
+    "OFAC_CAPTA": "bancos estrangeiros que facilitem transações significativas para CV/PCC podem entrar na lista CAPTA; bancos dos EUA não podem manter contas correspondentes com eles",
+    "FinCEN_medidas_especiais": "pode proibir bancos estrangeiros de manter contas correspondentes nos EUA; para um banco brasileiro dependente de dólar, 'could be existential' (White & Case)"
+   },
+   "unidade": "texto",
+   "periodo": "jun/2026",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.aoshearman.com/en/insights/us-set-to-impose-foreign-terrorist-organization-designations",
+     "trecho": "creates significant risk for any Brazilian or other non-U.S. banks that are, or have, engaged in transactions with CV or PCC of being targeted by CAPTA sanctions, severely undermining their ability to engage with U.S. correspondent banks."
+    },
+    {
+     "url": "https://www.whitecase.com/insight-alert/united-states-designates-brazilian-criminal-organizations-foreign-terrorist",
+     "trecho": "For a Brazilian bank reliant on US dollar-denominated trade finance or correspondent banking, the imposition of special measures could be existential"
+    }
+   ]
+  },
+  {
+   "id": "E8-25",
+   "bloco": "pcc_cv",
+   "indicador": "Alcance extraterritorial e responsabilidade penal (18 U.S.C. § 2339B)",
+   "valor": {
+    "jurisdicao": "qualquer transação em dólar ou via sistema financeiro dos EUA cria vínculo suficiente",
+    "pena": "crime federal de apoio material"
+   },
+   "unidade": "texto",
+   "periodo": "jun/2026",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.hoganlovells.com/en/publications/us-government-designates-brazils-primeiro-comando-da-capital-pcc-and-comando-vermelho",
+     "trecho": "Any transaction denominated in U.S. dollars or routed through the U.S. financial system creates sufficient nexus for U.S. jurisdiction, including asset blocking by OFAC and potential criminal prosecution."
+    },
+    {
+     "url": "https://www.quinnemanuel.com/the-firm/publications/client-alert-terrorist-designation-of-comando-vermelho-and-primeiro-comando-da-capital-what-u-s-and-brazilian-companies-need-to-know/",
+     "trecho": "it is a federal felony to knowingly provide an FTO with ‘material support or resources’—a term defined expansively to include currency, property, financial services,"
+    },
+    {
+     "url": "https://www.whitecase.com/insight-alert/united-states-designates-brazilian-criminal-organizations-foreign-terrorist",
+     "trecho": "Any company or financial institution with any connection to the United States – including US dollar-denominated transactions, US correspondent banking relationships, US email or cloud accounts, or US-based personnel – is potentially subject to US jurisdiction and may be affected."
+    }
+   ]
+  },
+  {
+   "id": "E8-26",
+   "bloco": "pcc_cv",
+   "indicador": "Fintechs: exposição apontada pelos escritórios",
+   "valor": {
+    "NatLawReview": "PCC ligado a cerca de US$ 8,5 bi em lucros ilícitos movidos por fintechs e empresas de fachada; sugere diligência reforçada em fintechs",
+    "Simpson_Thacher": "lista fintechs entre os setores infiltrados",
+    "Reuters": "cerca de US$ 5 bi lavados em 4 anos por fintechs e fundos da Faria Lima"
+   },
+   "unidade": "texto",
+   "periodo": "mai-jun/2026",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://natlawreview.com/article/brazilian-gang-terrorist-designations-what-us-financial-institutions-need-know",
+     "trecho": "The PCC alone has been linked to approximately $8.5 billion in illicit profits moved through fintech platforms and front companies"
+    },
+    {
+     "url": "https://www.stblaw.com/docs/default-source/memos/reportfromwashington_06_05_26",
+     "trecho": "and sectors such as agribusiness, entertainment, fintechs, gas stations, mining, real estate and civil construction, logistics and utility services;"
+    },
+    {
+     "url": "https://www.thestar.com.my/news/world/2026/06/05/us-terrorist-label-for-brazil-gangs-risks-higher-business-costs",
+     "trecho": "Another phase of the investigations last week found some $5 billion of money laundering over four years via fintechs and investment funds headquartered along the prestigious Avenida Faria Lima in Sao Paulo, the heart of Brazilian finance."
+    }
+   ],
+   "nota": "O artigo da NatLawReview não vem de um dos três escritórios pedidos; White & Case, Hogan Lovells e Simpson Thacher citam bancos e 'payment systems', mas só a Simpson Thacher cita fintechs."
+  },
+  {
+   "id": "E8-27",
+   "bloco": "pcc_cv",
+   "indicador": "Pix: o que os escritórios dizem",
+   "valor": null,
+   "unidade": "sem menção",
+   "periodo": "mai-jun/2026",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://www.opovo.com.br/agencia/bbc/2026/05/29/os-riscos-economicos-para-o-brasil-com-a-designacao-de-faccoes-criminosas-como-terroristas-pelos-eua.html",
+     "trecho": "se o governo americano de repente considerar que o Pix e o sistema bancário brasileiro têm infiltração das facções criminosas, e que por isso precisa ser descartado do sistema internacional, ele pode agir."
+    },
+    {
+     "url": "https://www.thompsoncoburn.com/insights/85-july-29-2026-administration-implements-section-301-tariffs-on-brazil/",
+     "trecho": "certain of Brazil’s acts, policies, and practices related to digital trade and electronic payment services; unfair, preferential tariffs; anti-corruption enforcement; intellectual property protection; ethanol market access; and illegal deforestation"
+    }
+   ],
+   "nota": "Procurei 'Pix' nos textos de White & Case, Hogan Lovells, Simpson Thacher, A&O Shearman, Latham, Mayer Brown, Quinn Emanuel e NatLawReview: nenhum cita o Pix. A menção ao Pix como alvo de sanção vem de um professor da FGV (BBC, hipótese dele, dita em novembro de 2025). O Pix aparece em outro processo: a investigação Seção 301 do USTR sobre 'electronic payment services', que gerou a tarifa de 25%. Hogan Lovells cita só 'payment systems' ligados a cadeias de combustível, logística e agro."
+  },
+  {
+   "id": "E8-28",
+   "bloco": "pcc_cv",
+   "indicador": "Precedente do México: bancos cortados do sistema dos EUA",
+   "valor": {
+    "FinCEN_jun_2025": "3 instituições mexicanas com medidas especiais",
+    "Reuters": "2 bancos comerciais menores e uma corretora fechados"
+   },
+   "unidade": "contagem",
+   "periodo": "2025",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.whitecase.com/insight-alert/united-states-designates-brazilian-criminal-organizations-foreign-terrorist",
+     "trecho": "In June 2025, FinCEN imposed special measures on three Mexican financial institutions designated as being of “primary money laundering concern,” prohibiting US financial institutions from transmitting funds to or from them"
+    },
+    {
+     "url": "https://www.thestar.com.my/news/world/2026/06/05/us-terrorist-label-for-brazil-gangs-risks-higher-business-costs",
+     "trecho": "In Mexico, where U.S. terrorist designations for drug traffickers last year also brought scrutiny to money laundering operations, Washington shut down just two smaller commercial banks and a brokerage over their ties to cartels."
+    }
+   ]
+  },
+  {
+   "id": "E8-29",
+   "bloco": "mercado",
+   "indicador": "Dólar PTAX de venda (Banco Central)",
+   "valor": {
+    "23/10": 5.0377,
+    "26/10": 5.5007,
+    "27/10": 5.3346,
+    "30/10": 5.4212,
+    "alta_23_a_26_pct": 9.2,
+    "alta_23_a_30_pct": 7.6
+   },
+   "unidade": "R$ por US$",
+   "periodo": "23 a 30/10/2026",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)?@dataInicial='10-19-2026'&@dataFinalCotacao='11-02-2026'&$format=json",
+     "metodo": "GET",
+     "trecho": "{\"cotacaoCompra\":5.03710,\"cotacaoVenda\":5.03770,\"dataHoraCotacao\":\"2026-10-23 13:07:14.754567\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)?@dataInicial='10-19-2026'&@dataFinalCotacao='11-02-2026'&$format=json",
+     "metodo": "GET",
+     "trecho": "{\"cotacaoCompra\":5.49980,\"cotacaoVenda\":5.50070,\"dataHoraCotacao\":\"2026-10-26 13:09:51.106105\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)?@dataInicial='10-19-2026'&@dataFinalCotacao='11-02-2026'&$format=json",
+     "metodo": "GET",
+     "trecho": "{\"cotacaoCompra\":5.42060,\"cotacaoVenda\":5.42120,\"dataHoraCotacao\":\"2026-10-30 13:04:18.706316\"}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://mercadoeconsumo.com.br/27/10/2026/mc-capital/bolsa-oscila-depois-de-tombo-pos-eleicao-mas-ainda-nao-recupera-perdas-dolar-recua/amp/",
+     "trecho": "Por volta de 12h22, a moeda americana era negociada a R$ 5,3409, queda de 0,62% em relação ao fechamento anterior, de R$ 5,3741."
+    }
+   ],
+   "derivado": "variações calculadas por mim sobre a PTAX de venda",
+   "nota": "PTAX é a média de 4 janelas; o dia 26/10 inclui o pico. O fechamento comercial foi R$ 5,3741 em 26/10 e R$ 5,4443 em 30/10. Ptax de 02/11 ainda não publicada na consulta."
+  },
+  {
+   "id": "E8-30",
+   "bloco": "mercado",
+   "indicador": "Dólar comercial e Ibovespa na semana da reeleição",
+   "valor": {
+    "dolar_23_out": 4.993,
+    "dolar_30_out": 5.4443,
+    "dolar_alta_semana_pct": 9.04,
+    "ibov_23_out": 205082.56,
+    "ibov_26_out": 176608,
+    "ibov_26_queda_dia_pct": 13.88,
+    "ibov_30_out": 167921.8,
+    "ibov_queda_semana_pct": 18.12
+   },
+   "unidade": "R$ por US$ e pontos",
+   "periodo": "23 a 30/10/2026",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://soubrasilia.com/dolar-bolsa-semana-pos-eleicao-30-outubro-2026-copom/",
+     "trecho": "O dólar comercial fechou a semana a R$ 5,44 e o Ibovespa, a 167.921 pontos, depois de cinco pregões sob o efeito da reeleição de Luiz Inácio Lula da Silva (PT)."
+    },
+    {
+     "url": "https://soubrasilia.com/dolar-bolsa-semana-pos-eleicao-30-outubro-2026-copom/",
+     "trecho": "Na segunda-feira, 26, a Bolsa caiu 13,88% e fechou em 176.608 pontos, a maior queda em um dia desde 16 de março de 2020."
+    },
+    {
+     "url": "https://timesbrasil.com.br/investimentos/bolsa/ibovespa-despenca-181-na-semana-apos-reeleicao-de-lula-dolar-dispara-9-e-fecha-a-r-544/",
+     "trecho": "Dólar à vista avançou 1,05%, a R$ 5,4443, acumulando valorização de 9,04% na semana e 5,20% em outubro."
+    },
+    {
+     "url": "https://timesbrasil.com.br/investimentos/bolsa/ibovespa-despenca-181-na-semana-apos-reeleicao-de-lula-dolar-dispara-9-e-fecha-a-r-544/",
+     "trecho": "Na semana, a queda acumulada chegou a 18,12%."
+    }
+   ],
+   "nota": "Sou Brasília e Times Brasil divergem em centavos e em até 0,1 ponto percentual na semana; a Folhapress fala em alta de 9,18% e queda de 17,5%."
+  },
+  {
+   "id": "E8-31",
+   "bloco": "mercado",
+   "indicador": "Juros futuros (DI) após a eleição",
+   "valor": {
+    "DI_jan2031": {
+     "23/10": "12,64%",
+     "30/10": "15,3%",
+     "variacao": "+266 pontos-base"
+    },
+    "DI_jan2029": {
+     "26/10": "15,22%",
+     "27/10_manha": "14,94%"
+    },
+    "DI_jan2028": {
+     "26/10": "14,82%",
+     "27/10_manha": "14,57%"
+    },
+    "26/10": "juros futuros dispararam mais de 200 pontos-base"
+   },
+   "unidade": "% ao ano",
+   "periodo": "23 a 30/10/2026",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://soubrasilia.com/dolar-bolsa-semana-pos-eleicao-30-outubro-2026-copom/",
+     "trecho": "a taxa do contrato de DI com vencimento em janeiro de 2031 foi de 12,64%, na sexta-feira anterior, para 15,3%, alta de 266 pontos-base."
+    },
+    {
+     "url": "https://mercadoeconsumo.com.br/27/10/2026/mc-capital/bolsa-oscila-depois-de-tombo-pos-eleicao-mas-ainda-nao-recupera-perdas-dolar-recua/amp/",
+     "trecho": "O contrato de DI com vencimento em janeiro de 2029 passou de 15,22% para 14,94% ao ano, queda de 28 pontos-base"
+    },
+    {
+     "url": "https://www.jornaldocomercio.com/economia/2026/10/1268365-taxas-de-juros-recuam-em-linha-com-dolar-e-apos-nova-intervencao-do-tesouro-em-leiloes.html",
+     "trecho": "Após dispararem mais de 200 pontos-base ontem em reação à reeleição do presidente Luiz Inácio Lula da Silva (PT), os juros futuros recuam nesta terça-feira (27)"
+    }
+   ],
+   "nota": "A taxa de 15,3% do DI jan/2031 vem de uma só fonte (Sou Brasília, citando Folhapress). Não achei o fechamento de 30/10 dos outros vencimentos."
+  },
+  {
+   "id": "E8-32",
+   "bloco": "mercado",
+   "indicador": "Selic e decisão do Copom",
+   "valor": {
+    "Selic_meta": "13,75% ao ano",
+    "desde": "17/09/2026",
+    "Copom": "decide em 04/11 (reunião de 3 e 4/11)",
+    "expectativa": "mercado vê pausa em 13,75%"
+   },
+   "unidade": "% ao ano",
+   "periodo": "set a nov/2026",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://soubrasilia.com/dolar-bolsa-semana-pos-eleicao-30-outubro-2026-copom/",
+     "trecho": "A Selic está em 13,75% ao ano desde 17 de setembro, depois de cinco cortes seguidos de 0,25 ponto percentual."
+    },
+    {
+     "url": "https://soubrasilia.com/dolar-bolsa-semana-pos-eleicao-30-outubro-2026-copom/",
+     "trecho": "O Comitê de Política Monetária (Copom) se reúne em 3 e 4 de novembro e anuncia a decisão na quarta-feira."
+    },
+    {
+     "url": "https://soubrasilia.com/dolar-bolsa-semana-pos-eleicao-30-outubro-2026-copom/",
+     "trecho": "Segundo o Metrópoles, a avaliação do mercado é que o comitê não vai cortar a taxa desta vez."
+    },
+    {
+     "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados/ultimos/6?formato=json",
+     "metodo": "GET",
+     "trecho": "{\"data\":\"30/10/2026\",\"valor\":\"13.75\"}",
+     "tipo": "resposta_api_json"
+    }
+   ],
+   "nota": "A expectativa de pausa é do mercado segundo o Metrópoles, não do Banco Central."
+  },
+  {
+   "id": "E8-33",
+   "bloco": "mercado",
+   "indicador": "Boletim Focus mais recente disponível (dados até 23/10, antes do resultado)",
+   "valor": {
+    "data": "2026-10-23",
+    "Selic_fim_2026_mediana": 13.25,
+    "Selic_fim_2027_mediana": 11.75,
+    "Cambio_fim_2026_mediana": 5.0495
+   },
+   "unidade": "% ao ano e R$/US$",
+   "periodo": "23/10/2026",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?$top=30&$filter=Indicador%20eq%20'Selic'%20and%20DataReferencia%20eq%20'2026'%20and%20Data%20ge%20'2026-10-12'%20and%20baseCalculo%20eq%200&$orderby=Data%20desc&$format=json",
+     "metodo": "GET",
+     "trecho": "{\"Indicador\":\"Selic\",\"IndicadorDetalhe\":null,\"Data\":\"2026-10-23\",\"DataReferencia\":\"2026\",\"Media\":13.3139,\"Mediana\":13.2500,\"DesvioPadrao\":0.1838,\"Minimo\":13.0000,\"Maximo\":14.0000,\"numeroRespondentes\":137,\"baseCalculo\":0}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?$top=30&$filter=Indicador%20eq%20'Selic'%20and%20DataReferencia%20eq%20'2027'%20and%20Data%20ge%20'2026-10-12'%20and%20baseCalculo%20eq%200&$orderby=Data%20desc&$format=json",
+     "metodo": "GET",
+     "trecho": "{\"Indicador\":\"Selic\",\"IndicadorDetalhe\":null,\"Data\":\"2026-10-23\",\"DataReferencia\":\"2027\",\"Media\":11.6029,\"Mediana\":11.7500,\"DesvioPadrao\":0.7750,\"Minimo\":9.0000,\"Maximo\":14.0000,\"numeroRespondentes\":136,\"baseCalculo\":0}",
+     "tipo": "resposta_api_json"
+    },
+    {
+     "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?$top=30&$filter=Indicador%20eq%20'Câmbio'%20and%20DataReferencia%20eq%20'2026'%20and%20Data%20ge%20'2026-10-12'%20and%20baseCalculo%20eq%200&$orderby=Data%20desc&$format=json",
+     "metodo": "GET",
+     "trecho": "{\"Indicador\":\"Câmbio\",\"IndicadorDetalhe\":null,\"Data\":\"2026-10-23\",\"DataReferencia\":\"2026\",\"Media\":5.0502,\"Mediana\":5.0495,\"DesvioPadrao\":0.1609,\"Minimo\":4.5000,\"Maximo\":5.4000,\"numeroRespondentes\":112,\"baseCalculo\":0}",
+     "tipo": "resposta_api_json"
+    }
+   ],
+   "nota": "Última data disponível na API do Banco Central em 02/11. Os Focus de 26/10 e 30/10 usam dados de antes do resultado ou da semana; o Focus de 02/11 ainda não estava na base. O Sou Brasília diz que o Focus de IPCA 2026 (5,19%) foi coletado antes de o dólar ir a R$ 5,60."
+  },
+  {
+   "id": "E8-34",
+   "bloco": "minerais",
+   "indicador": "Política Nacional de Minerais Críticos e Estratégicos (PNMCE)",
+   "valor": {
+    "sancionada_em": "16/09/2026",
+    "cria": "Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (Cimce)",
+    "credito_fiscal": "até 20% de gastos elegíveis, teto de R$ 1 bi por ano de 2030 a 2034"
+   },
+   "unidade": "texto",
+   "periodo": "set/2026",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://eixos.com.br/politica/eleicoes/eleicoes-2026/lula-volta-a-atacar-traidores-da-patria-ao-sancionar-politica-de-minerais-criticos/",
+     "trecho": "Lula (PT) sancionou nesta quarta-feira (16/9) a lei que cria a Política Nacional de Minerais Críticos e Estratégicos (PNMCE)"
+    },
+    {
+     "url": "https://eixos.com.br/politica/eleicoes/eleicoes-2026/lula-volta-a-atacar-traidores-da-patria-ao-sancionar-politica-de-minerais-criticos/",
+     "trecho": "O texto também cria o Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (Cimce), vinculado à Presidência da República,"
+    },
+    {
+     "url": "https://www.mining.com/lulas-brazil-win-puts-rare-earths-in-trumps-crosshairs/",
+     "trecho": "Provisions include tax credits of up to 20% for eligible processing, transformation and urban-mining expenditures, capped at 1 billion reais ($192 million) annually from 2030 through 2034."
+    }
+   ]
+  },
+  {
+   "id": "E8-35",
+   "bloco": "minerais",
+   "indicador": "Serra Verde, única produtora comercial de terras raras do Brasil",
+   "valor": {
+    "compra_USA_Rare_Earth": "US$ 2,8 bi",
+    "financiamento_DFC": "US$ 565 mi",
+    "participacao_do_governo_dos_EUA_na_USA_Rare_Earth": "10%",
+    "contrato": "15 anos de fornecimento com preços mínimos",
+    "disputa": "ação no STF do partido Rede"
+   },
+   "unidade": "texto",
+   "periodo": "fev a out/2026",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.mining.com/lulas-brazil-win-puts-rare-earths-in-trumps-crosshairs/",
+     "trecho": "The country’s only commercial rare earth producer, Serra Verde, was acquired by USA Rare Earth (Nasdaq: USAR) in which the US government holds a 10% stake,"
+    },
+    {
+     "url": "https://eixos.com.br/politica/eleicoes/eleicoes-2026/lula-volta-a-atacar-traidores-da-patria-ao-sancionar-politica-de-minerais-criticos/",
+     "trecho": "A mineradora foi adquirida pela USA Rare Earth em uma transação de US$ 2,8 bilhões."
+    },
+    {
+     "url": "https://www.thestar.com.my/news/regional/2026/05/11/lula-wont-sideline-china-or-anyone-in-rare-earths-tells-trump-refining-stays-in-brazil",
+     "trecho": "Serra Verde had previously ended long-term supply contracts with Chinese buyers and secured US$565 million in financing from Washington’s Development Finance Corporation."
+    },
+    {
+     "url": "https://www.thestar.com.my/news/regional/2026/05/11/lula-wont-sideline-china-or-anyone-in-rare-earths-tells-trump-refining-stays-in-brazil",
+     "trecho": "The deal includes a 15-year supply agreement for part of the mine’s output to a special-purpose vehicle backed by US government agencies, with guaranteed minimum prices for neodymium, praseodymium, dysprosium, and terbium."
+    },
+    {
+     "url": "https://www.thestar.com.my/news/regional/2026/05/11/lula-wont-sideline-china-or-anyone-in-rare-earths-tells-trump-refining-stays-in-brazil",
+     "trecho": "The Rede Sustentabilidade party filed a constitutional complaint, arguing that the current regulatory framework fails to provide sufficient protection of the national interest when strategic mineral assets change hands."
+    }
+   ],
+   "nota": "Não confirmei se a compra da Serra Verde pela USA Rare Earth já fechou. A participação de 10% do governo dos EUA é na USA Rare Earth, não na mina diretamente."
+  },
+  {
+   "id": "E8-36",
+   "bloco": "minerais",
+   "indicador": "Reservas brasileiras de terras raras",
+   "valor": {
+    "reservas_Mt": 21,
+    "posicao": "2ª do mundo, atrás da China (44 Mt)"
+   },
+   "unidade": "milhões de toneladas",
+   "periodo": "USGS 2025",
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://modeldiplomat.com/story/brazil-the-swing-state-in-mineral-wars",
+     "trecho": "Brazil holds 21 million metric tons of rare-earth reserves — second globally, behind China's 44 million"
+    }
+   ],
+   "nota": "Dado do USGS 2025 citado pelo Model Diplomat; o Mining.com repete 21 Mt."
+  },
+  {
+   "id": "E8-37",
+   "bloco": "minerais",
+   "indicador": "Acordo de minerais críticos entre EUA e Brasil",
+   "valor": {
+    "situacao": "sem acordo assinado localizado até 02/11/2026",
+    "proposta_dos_EUA": "modelo parecido com o da Austrália, sem exclusividade e com preços mínimos (abril)",
+    "posicao_de_Lula": "abre a qualquer investidor, exige refino no Brasil"
+   },
+   "unidade": "texto",
+   "periodo": "abr a out/2026",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://olhardigital.com.br/2026/04/09/pro/brasil-eua-propoem-acordo-por-minerais-criticos-sem-exclusividade-e-com-precos-minimos/",
+     "trecho": "Proposta é considerada semelhante ao acordo firmado entre EUA e Austrália, atualmente visto como referência no setor, mas também incorpora elementos inspirados em memorando posterior assinado com a Tailândia"
+    },
+    {
+     "url": "https://forbes.com.br/forbes-money/2026/05/acordo-sobre-minerais-criticos-entre-eua-e-brasil-ainda-esta-fora-de-alcance/",
+     "trecho": "Acordo sobre Minerais Críticos entre EUA e Brasil Ainda Está Fora de Alcance"
+    },
+    {
+     "url": "https://www.mining.com/lulas-brazil-win-puts-rare-earths-in-trumps-crosshairs/",
+     "trecho": "Washington has already signalled a willingness to support Brazilian processing and refining as part of its efforts to diversify critical minerals supply chains."
+    },
+    {
+     "url": "https://modeldiplomat.com/story/brazil-the-swing-state-in-mineral-wars",
+     "trecho": "Washington has pushed $8 billion into Brazilian bauxite, rare earths and vanadium in eighteen months — but Lula is refusing to sign the Australia-style pact Trump wants."
+    }
+   ],
+   "nota": "A conclusão 'sem acordo' é por ausência: nenhuma fonte aberta fala em assinatura. A Forbes Brasil é de maio e o Model Diplomat é um texto de análise."
+  },
+  {
+   "id": "E8-38",
+   "bloco": "minerais",
+   "indicador": "Terras raras e minerais críticos na tarifa de 25%",
+   "valor": {
+    "proposta_de_junho": "minerais críticos e estratégicos livres da tarifa (Valor)"
+   },
+   "unidade": "texto",
+   "periodo": "jun/2026",
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://tagdlaw.com.br/novo-tarifaco-ameaca-quase-metade-das-exportacoes-do-brasil-aos-eua/",
+     "trecho": "Entre os itens que, segundo o relatório do USTR, devem ficar livres da nova tarifa estão aeronaves e partes, suco de laranja, alguns alimentos como café e carnes, celulose, determinados minerais, fertilizantes, minerais críticos e estratégicos."
+    }
+   ],
+   "nota": "É a proposta de 01/06 citada pelo Valor. Não confirmei na lista final de isenções de 15/07 se terras raras entraram."
+  }
+ ],
+ "nao_encontrado": [
+  "Estudos com número de empregos expostos à tarifa (CNI, Amcham, Fiesp, Ipea): não encontrei; só avisos qualitativos.",
+  "Nenhum dos escritórios pedidos (White & Case, Hogan Lovells, Simpson Thacher) cita o Pix.",
+  "Ordem final do USTR de 15/07 e ordem de trabalho forçado de 23/07 no Federal Register: não abertas; usei análises de escritórios e do PIIE/Global Trade Alert.",
+  "Fechamento de 30/10 dos DI jan/2028 e jan/2029, e Focus posterior a 23/10: não encontrados.",
+  "Dólar e juros de 02/11: não disponíveis até a consulta.",
+  "Acordo de minerais críticos entre os governos: sem assinatura localizada; lista final de isenções de 15/07 sobre terras raras não verificada."
+ ]
+}

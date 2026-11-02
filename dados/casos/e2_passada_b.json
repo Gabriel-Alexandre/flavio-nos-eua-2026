@@ -1,0 +1,1061 @@
+[
+ {
+  "id": "bosch",
+  "saiu": 1963,
+  "anfitriao": "Porto Rico (EUA)",
+  "tipo": "deposto",
+  "regime_casa": "hibrido",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 2,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Golpe de set/1963; exílio em Porto Rico. A Britannica diz volta em set/1965, a Encyclopedia.com diz 1966. Perdeu em 1966 e em todas as eleições seguintes (última em 1994). Havia exílios anteriores (contra Trujillo); codificado o de 1963. regime_casa: junta militar pós-golpe (híbrido).",
+  "fontes": [
+   {
+    "url": "https://britannica.com/print/article/74607",
+    "trecho": "Bosch was allowed to return, and he reluctantly agreed to take part in the new elections. Fearful for his safety, he campaigned half-heartedly, making no public appearances, and lost to"
+   },
+   {
+    "url": "https://encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/bosch-gavino-juan-1909-2001",
+    "trecho": "he was deposed after only seven months by a military coup backed by elements of the military"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Juan_Bosch_(politician)",
+    "trecho": "Later he ran unsuccessfully for president as the PLD candidate in 1978, 1982, 1986, 1990, and 1994."
+   }
+  ]
+ },
+ {
+  "id": "fujimori",
+  "saiu": 2000,
+  "anfitriao": "Japão",
+  "tipo": "processado",
+  "regime_casa": "hibrido",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 7,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "sim",
+  "incerto": false,
+  "obs": "Fugiu ao Japão em 2000 em meio ao escândalo de corrupção e renunciou de lá. Em 2005 foi preso no Chile e extraditado ao Peru em 2007 (volta involuntária). Condenado a 25 anos, perdoado e solto em dez/2023; morreu em 2024. Nunca voltou a chefiar o Executivo.",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Alberto-Fujimori",
+    "trecho": "charges of fraud and unconstitutionality surrounded his election to a third term in 2000, and he fled to Japan amid growing corruption allegations."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Alberto_Fujimori",
+    "trecho": "he was arrested by the Carabineros de Chile at the request of Peru, and extradited to Lima to face charges in 2007."
+   }
+  ]
+ },
+ {
+  "id": "goulart",
+  "saiu": 1964,
+  "anfitriao": "Uruguai",
+  "tipo": "deposto",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "nao",
+  "anos_ate_voltar": null,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Deposto pelo golpe militar de 1964; foi ao Uruguai e depois à Argentina, onde morreu em dez/1976 sem voltar ao Brasil em vida. regime_casa: regime militar instalado pelo golpe.",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Joao-Goulart",
+    "trecho": "He was deposed by a military coup in 1964 and died in exile at his ranch in northern Argentina"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Goulart",
+    "trecho": "Goulart would stay on his farmland until 4 April, when he finally boarded the plane for the last time, heading for Montevideo"
+   }
+  ]
+ },
+ {
+  "id": "leopoldo-lopez",
+  "saiu": 2020,
+  "anfitriao": "Espanha",
+  "tipo": "processado",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "sim",
+  "voltou_ao_pais": "nao",
+  "anos_ate_voltar": null,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": true,
+  "obs": "Condenado em 2015, prisão domiciliar, refúgio na embaixada espanhola em 2019 e saída para Madri em out/2020. Exilado na Espanha até pelo menos 20/07/2026 (AFP), sem notícia de volta depois; Maduro foi capturado em jan/2026 mas ele segue fora. Os EUA apoiam a oposição venezuelana (apoio ao grupo, não a ele em particular). Incerto por falta de fonte posterior a jul/2026.",
+  "fontes": [
+   {
+    "url": "https://english.elpais.com/international/2026-03-25/leopoldo-lopez-there-is-still-no-clarity-on-the-political-transition-in-venezuela.html",
+    "trecho": "The opposition leader, now living in exile in Spain, insists that the priority must be demanding elections."
+   },
+   {
+    "url": "https://caracol.com.co/2026/07/20/que-suceda-en-2026-opositor-venezolano-leopoldo-lopez-pidio-crear-un-nuevo-consejo-electoral/",
+    "trecho": "que se exilió en España en 2020, pidió este lunes la constitución de un nuevo Consejo Nacional Electoral (CNE) en su país"
+   }
+  ]
+ },
+ {
+  "id": "saakashvili",
+  "saiu": 2013,
+  "anfitriao": "Estados Unidos e depois Ucrania",
+  "tipo": "processado",
+  "regime_casa": "hibrido",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 8,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Saiu ao fim do mandato em 2013; processado na Geórgia a partir de 2014 (condenado à revelia em 2018). Volta voluntária em out/2021, preso na chegada; segue preso (transferido da clínica de volta à prisão em nov/2025). Teve outra fase na Ucrânia (governador de Odessa), sem poder nacional. Apoio declarado dos EUA ao retorno dele não encontrado.",
+  "fontes": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Mikheil_Saakashvili",
+    "trecho": "In late 2013, ex-President Saakashvili left Georgia. In 2014, the Prosecutor's Office of Georgia filed criminal charges against him."
+   },
+   {
+    "url": "https://www.aljazeera.com/news/2021/10/1/georgia-arrests-ex-president-mikheil-saakashvili-return-exile",
+    "trecho": "The arrest comes after Saakashvili returned from eight years in exile and a day before key municipal elections in Georgia."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Mikheil_Saakashvili",
+    "trecho": "In 2021, he began serving the six-year in absentia prison sentence imposed in 2018."
+   }
+  ]
+ },
+ {
+  "id": "yanukovych",
+  "saiu": 2014,
+  "anfitriao": "Rússia",
+  "tipo": "deposto",
+  "regime_casa": "hibrido",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "nao",
+  "anos_ate_voltar": null,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Destituído pelo Parlamento após o Maidan em fev/2014 e fugiu à Rússia; condenado à revelia em 2019 a 13 anos por alta traição. Segue na Rússia (reportagem de jul/2026 o situa em Sochi). Nunca voltou ao poder, nem em 2022. EUA apoiaram o novo governo, não ele.",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Viktor-Yanukovych",
+    "trecho": "Parliament impeached him, and he fled to Russia ahead of criminal charges."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Viktor_Yanukovych",
+    "trecho": "In 2019, he was sentenced in absentia to a thirteen-year prison term for high treason by a Ukrainian court."
+   },
+   {
+    "url": "https://meduza.io/en/news/2026/07/27/viktor-yanukovych-fled-ukraine-in-disgrace-in-2014-a-new-investigation-says-he-now-lives-in-sochi-under-his-mother-s-maiden-name",
+    "trecho": "Former Ukrainian President Viktor Yanukovych is now living in Sochi and using documents in the name of"
+   }
+  ]
+ },
+ {
+  "id": "sam-rainsy",
+  "saiu": 2015,
+  "anfitriao": "França",
+  "tipo": "oposicao",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "nao",
+  "anos_ate_voltar": null,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Líder da oposição cambojana. Saiu em 2005 e voltou em 2006 por perdão real; saiu de novo em 2009 e voltou em 2013 por perdão; fugiu de vez em nov/2015 (mandado de prisão) e está na França. Codificado o exílio de 2015, o mais relevante e ainda em curso (out/2026: assembleia no exterior criada em Paris). Nunca chefiou o Executivo.",
+  "fontes": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Sam_Rainsy",
+    "trecho": "Since 2015, he has lived in exile, having been banned from entering the country."
+   },
+   {
+    "url": "https://gazettekhmer.com/en/cambodian-parliament-condemns-establishment-of-sam-rainsy-led-overseas-assembly-28102026/",
+    "trecho": "In a statement dated 27 October 2026, the National Assembly said the body, established in Paris, France, on 24 October, did not represent the will of the Cambodian people"
+   }
+  ]
+ },
+ {
+  "id": "zelaya",
+  "saiu": 2009,
+  "anfitriao": "Costa Rica",
+  "tipo": "deposto",
+  "regime_casa": "hibrido",
+  "eua_apoio_declarado": "sim",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 0,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Deposto por golpe militar em 28/jun/2009 e enviado à Costa Rica; voltou clandestinamente em 21/set/2009 (embaixada do Brasil) e não foi restituído; deixou o país em 2010 para a Rep. Dominicana e voltou em 2011 por acordo mediado. Obama declarou que ele seguia sendo o presidente. regime_casa: governo de facto de Micheletti, eleições em nov/2009.",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Manuel-Zelaya",
+    "trecho": "However, he was ousted from office in a military coup. The United Nations condemned the ouster and continued to recognize Zelaya as the rightful Honduran president."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Manuel_Zelaya",
+    "trecho": "On 21 September 2009, he returned to Honduras clandestinely and resurfaced in the Brazilian embassy in Tegucigalpa"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Manuel_Zelaya",
+    "trecho": "We believe that the coup was not legal and that President Zelaya remains the President of Honduras."
+   }
+  ]
+ },
+ {
+  "id": "correa",
+  "saiu": 2017,
+  "anfitriao": "Bélgica",
+  "tipo": "processado",
+  "regime_casa": "democracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "nao",
+  "anos_ate_voltar": null,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Deixou o poder ao fim do mandato (2017) e foi viver na Bélgica; condenado à revelia em 2020 a 8 anos por corrupção; a Bélgica não o entregou. Segue no exterior (em mar/2026 Noboa disse não saber onde ele está, mas sem fonte de mudança de país). Saída voluntária, depois processado.",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Rafael-Correa",
+    "trecho": "In 2020, Correa was tried in absentia, found guilty, and sentenced to eight years in prison for participating in a bribery scheme involving government contracts."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Rafael_Correa",
+    "trecho": "Since 2017, he has been living with his family in Belgium"
+   }
+  ]
+ },
+ {
+  "id": "evo",
+  "saiu": 2019,
+  "anfitriao": "México",
+  "tipo": "deposto",
+  "regime_casa": "hibrido",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 1,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Renunciou em nov/2019 sob protestos, pressão militar e acusações de fraude (ele fala em golpe); asilo no México e depois na Argentina; voltou em nov/2020 após a vitória de Arce. Não voltou à chefia do Executivo: perdeu o controle do MAS em 2024 e há ordens de prisão contra ele em 2026. Classificado como deposto por simplicidade; a causa é disputada.",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Evo-Morales",
+    "trecho": "Allegations of election irregularities in 2019 led to Morales's resignation and exile."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Evo_Morales",
+    "trecho": "Morales resigned and went into temporary exile. Returning in 2020, he was removed as MAS leader in 2024 and formed EVO Pueblo as an alternative."
+   },
+   {
+    "url": "https://ahoradigital.net/politica/06/08/2026/rodrigo-paz-instruye-ejecutar-con-prioridad-la-captura-de-evo-morales/",
+    "trecho": "El Gobierno nacional reafirmó que la ejecución de la orden de aprehensión contra el expresidente Evo Morales figura entre sus principales prioridades."
+   }
+  ]
+ },
+ {
+  "id": "tsikhanouskaya",
+  "saiu": 2020,
+  "anfitriao": "Lituânia",
+  "tipo": "derrotado_na_urna",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "sim",
+  "voltou_ao_pais": "nao",
+  "anos_ate_voltar": null,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Candidata da oposição na eleição de ago/2020 (resultado oficial a favor de Lukashenko, tido como fraudulento por observadores); fugiu para a Lituânia dias depois e lidera a oposição no exílio (escritório anunciado para Varsóvia em jan/2026). EUA declararam apoio à oposição sob Biden; em 2025 o governo Trump passou a negociar com Lukashenko, então o apoio é do período inicial.",
+  "fontes": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Sviatlana_Tsikhanouskaya",
+    "trecho": "Since fleeing to Lithuania, Tsikhanouskaya has established an opposition government. In 2020 she set up a Coordination Council and in 2022 a United Transitional Cabinet"
+   },
+   {
+    "url": "https://ies.lublin.pl/en/comments/where-is-the-center-of-the-belarusian-opposition-today-the-relocation-of-sviatlana-tsikhanouskayas-office/",
+    "trecho": "Since the 2020 presidential election, Belarusian opposition leader Sviatlana Tsikhanouskaya has resided in Lithuania due to fears of political repression in Belarus."
+   },
+   {
+    "url": "https://newunionpost.eu/2026/09/30/interview-tsikhanouskaya-belarus-eu/",
+    "trecho": "the democratic forces she coordinates from exile in Lithuania are strengthening relations with Kyiv in the prospect of a pro-EU alliance"
+   }
+  ]
+ },
+ {
+  "id": "gonzalez",
+  "saiu": 2024,
+  "anfitriao": "Espanha",
+  "tipo": "derrotado_na_urna",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "sim",
+  "voltou_ao_pais": "nao",
+  "anos_ate_voltar": null,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Candidato da oposição em jul/2024 (resultado oficial deu Maduro; atas da oposição e governos como o dos EUA apontam vitória dele). Deixou a Venezuela em set/2024 com asilo na Espanha. Maduro foi capturado por forças dos EUA em 03/jan/2026, mas González não assumiu; em 25/out/2026 anunciou que voltará, sem data (Machado voltou nessa data). Nunca exerceu o cargo.",
+  "fontes": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Edmundo_Gonz%C3%A1lez_Urrutia",
+    "trecho": "he was granted asylum in Spain, leaving Venezuela on 7 September 2024."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Edmundo_Gonz%C3%A1lez_Urrutia",
+    "trecho": "On 1 August, U.S. Secretary of State Antony Blinken stated that there was \"overwhelming evidence\" that González won the presidential election."
+   },
+   {
+    "url": "https://www.estrelladigital.es/mundo/maria-corina-machado-reaparece-venezuela-edmundo-gonzalez-anuncia-regreso-madrid-es-final/20261025182244452495.html",
+    "trecho": "Edmundo González confirma que también volverá y reafirma su compromiso con el cambio político"
+   }
+  ]
+ },
+ {
+  "id": "thaksin",
+  "saiu": 2006,
+  "anfitriao": "Reino Unido e Emirados Árabes",
+  "tipo": "deposto",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 17,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Derrubado por golpe militar em set/2006 quando estava fora do país. Voltou em fev/2008 e saiu de novo em ago/2008 após condenação; a Britannica conta 15 anos de exílio (2008-2023). Retornou em 22/ago/2023, foi preso, teve indulto parcial e liberdade condicional. Aliados (a irmã Yingluck, a filha Paetongtarn) chefiaram governos, mas ele próprio não voltou à chefia do Executivo.",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Thaksin-Shinawatra",
+    "trecho": "Thaksin was ousted by a military coup in 2006, leading to his self-imposed exile."
+   },
+   {
+    "url": "https://britannica.com/biography/Thaksin-Shinawatra",
+    "trecho": "Thaksin returned to Thailand on August 22, 2023, after a 15-year self-imposed exile, amid speculation of a deal to reduce his prison sentence."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Thaksin_Shinawatra",
+    "trecho": "He returned to Thailand on 22 August 2023, where he was taken into custody before later receiving a royal pardon and parole."
+   }
+  ]
+ },
+ {
+  "id": "sharif",
+  "saiu": 2000,
+  "anfitriao": "Arábia Saudita",
+  "tipo": "deposto",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 7,
+  "voltou_ao_poder": "sim",
+  "caminho": "eleicao",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Derrubado por golpe militar de Musharraf em 1999, preso e mandado ao exílio na Arábia Saudita em dez/2000; tentou voltar em set/2007 e foi reexpulso, voltando de fato em nov/2007. Voltou a primeiro-ministro após a eleição de 2013. Teve um segundo exílio (2019-2023, Londres), não codificado.",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Nawaz-Sharif",
+    "trecho": "Nawaz Sharif was overthrown in a military coup d’état by Gen. Pervez Musharraf and went into exile from 2000 until 2007."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Nawaz_Sharif",
+    "trecho": "This made Nawaz eligible to again become prime minister, which he did in 2013."
+   }
+  ]
+ },
+ {
+  "id": "bhutto",
+  "saiu": 1999,
+  "anfitriao": "Emirados Árabes (Dubai) e Reino Unido",
+  "tipo": "processado",
+  "regime_casa": "hibrido",
+  "eua_apoio_declarado": "sim",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 8,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Codificado o exílio de fins dos anos 1990 (a Britannica conta 8 anos; outras fontes dão 1998), motivado por acusações de corrupção após a queda do governo dela em 1996. Voltou em 18/out/2007 por acordo de anistia com Musharraf, mediado em parte pelos EUA, e foi assassinada em 27/dez/2007 durante a campanha, antes de assumir. Tivera outro exílio em 1984-86.",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Benazir-Bhutto",
+    "trecho": "Nevertheless, in October 2007 Bhutto returned to Karachi from Dubai after eight years of self-imposed exile."
+   },
+   {
+    "url": "https://britannica.com/biography/Benazir-Bhutto",
+    "trecho": "Bhutto was assassinated in December in a similar attack while campaigning for upcoming parliamentary elections."
+   },
+   {
+    "url": "https://britannica.com/biography/Benazir-Bhutto",
+    "trecho": "Bhutto remained in exile in London and Dubai from the late 1990s."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Benazir_Bhutto",
+    "trecho": "Following the United States–brokered negotiations with Pakistani president Pervez Musharraf"
+   }
+  ]
+ },
+ {
+  "id": "khomeini",
+  "saiu": 1964,
+  "anfitriao": "Iraque (depois França)",
+  "tipo": "oposicao",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 15,
+  "voltou_ao_poder": "sim",
+  "caminho": "colapso_revolucao",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Exilado à força pelo xá em nov/1964 (Turquia, Iraque; expulso do Iraque em 1978 e instalado em Neauphle-le-Château, França). Voltou em 01/fev/1979, duas semanas depois da fuga do xá, e tornou-se líder supremo da república islâmica. Caminho: revolução que derrubou a monarquia.",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Ruhollah-Khomeini",
+    "trecho": "After a year’s imprisonment, Khomeini was forcibly exiled from Iran on November 4, 1964."
+   },
+   {
+    "url": "https://britannica.com/biography/Ruhollah-Khomeini",
+    "trecho": "massive demonstrations, strikes, and civil unrest in late 1978 forced the departure of the shah from Iran on January 16, 1979. Khomeini arrived in Tehrān in triumph on February 1, 1979"
+   }
+  ]
+ },
+ {
+  "id": "peron",
+  "saiu": 1955,
+  "anfitriao": "Paraguai (depois Espanha)",
+  "tipo": "deposto",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 17,
+  "voltou_ao_poder": "sim",
+  "caminho": "eleicao",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Derrubado por revolta militar em set/1955; exílio no Paraguai, Venezuela, Panamá, República Dominicana e Espanha. Visita breve em nov/1972 a convite da junta de Lanusse; volta definitiva em jun/1973 e eleito presidente em out/1973 (peronismo proscrito até então). Há ambiguidade sobre a data da volta (1972 ou 1973): usado o retorno definitivo (17-18 anos).",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Juan-Peron",
+    "trecho": "he was overthrown and fled to Paraguay on September 19, 1955, after an army-navy revolt"
+   },
+   {
+    "url": "https://britannica.com/biography/Juan-Peron",
+    "trecho": "Perón was welcomed back to Argentina with wild excitement. In October, in a special election, he was elected president"
+   }
+  ]
+ },
+ {
+  "id": "carlos-andres-perez",
+  "saiu": 1999,
+  "anfitriao": "Estados Unidos (e República Dominicana)",
+  "tipo": "processado",
+  "regime_casa": "democracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "nao",
+  "anos_ate_voltar": null,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Removido da presidência em 1993, processado por peculato e preso em casa até 1996; eleito senador em 1998 e saiu da Venezuela em 1999 após a constituinte de Chávez; extradição pedida em 2002 e não atendida; morreu em Miami em dez/2010. Teve outro exílio em 1948-58 (ditadura de Pérez Jiménez), não codificado.",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Carlos-Andres-Perez",
+    "trecho": "He left Venezuela the following year, in the wake of Chávez’s drafting of a new constitution, thereafter spending most of his time in the Dominican Republic and the United States."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Carlos_Andr%C3%A9s_P%C3%A9rez",
+    "trecho": "On 3 February 2002, he was formally asked in extradition. After that, he self-exiled in Miami"
+   }
+  ]
+ },
+ {
+  "id": "reza-pahlavi",
+  "saiu": 1978,
+  "anfitriao": "Estados Unidos",
+  "tipo": "deposto",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "nao",
+  "anos_ate_voltar": null,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Príncipe herdeiro; estava nos EUA em treino militar em 1978 e a monarquia caiu em 1979, de modo que não houve saída forçada dele próprio (deposto = dinastia). Declarou-se xá no exílio em 1980. Em jan/2026, em meio a protestos e depois a uma guerra no país, prometeu voltar ao Irã; em out/2026 seguia no exterior. Trump disse em 2026 que ele parece 'muito simpático' mas duvidou de seu apoio interno, sem declarar apoio.",
+  "fontes": [
+   {
+    "url": "https://www.middleeastmonitor.com/20260119-reza-pahlavi-pledges-to-return-to-iran-after-claiming-calls-from-the-people-to-lead/",
+    "trecho": "Reza Pahlavi, the son of Iran’s deposed shah, has pledged to return to Iran from his exile in the United States."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reza_Pahlavi",
+    "trecho": "he moved to the United States to undergo pilot training at Reese Air Force Base in 1978. The following year, his father left Iran and the monarchy was abolished"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reza_Pahlavi",
+    "trecho": "In a 2026 interview, U.S. President Donald Trump said that Reza Pahlavi appeared \"very nice\" but questioned his ability to mobilize sufficient domestic support within Iran to assume power."
+   }
+  ]
+ },
+ {
+  "id": "anaya",
+  "saiu": 2021,
+  "anfitriao": "Estados Unidos",
+  "tipo": "processado",
+  "regime_casa": "democracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 3,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Candidato à presidência em 2018 (perdeu para López Obrador); investigado por lavagem e suborno no caso Lozoya, anunciou 'exílio' nos EUA em 2021 alegando perseguição (o INM diz que saiu em 05/jul/2021). Voltou em ago/2024 para registrar-se como senador, cargo que ocupa; nunca chefiou o Executivo.",
+  "fontes": [
+   {
+    "url": "https://es.wikipedia.org/wiki/Ricardo_Anaya_Cort%C3%A9s",
+    "trecho": "Anaya anunció su exilio del país el 23 de agosto de 2021, acusando persecución política"
+   },
+   {
+    "url": "https://www.lavozdemichoacan.com.mx/mexico/tras-tres-anos-de-autoexilio-en-estados-unidos-ricardo-anaya-vuelve-a-mexico-para-registrarse-como-senador/",
+    "trecho": "Tras tres años de “autoexilio” en Estados Unidos, Ricardo Anaya vuelve a México para registrarse como senador"
+   }
+  ]
+ },
+ {
+  "id": "ramagem",
+  "saiu": 2025,
+  "anfitriao": "Estados Unidos",
+  "tipo": "processado",
+  "regime_casa": "democracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "nao",
+  "anos_ate_voltar": null,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Deputado federal e ex-diretor da Abin, condenado pelo STF na trama golpista; saiu do Brasil em set/2025 sem autorização e foi para a Flórida. Preso pelo serviço de imigração dos EUA em 13/abr/2026 e solto em 15/abr; em out/2026 o DHS diz que ele é imigrante ilegal e que pode ser deportado ou detido. Não entregue até 02/nov/2026. Apoio declarado do governo dos EUA a ele não encontrado.",
+  "fontes": [
+   {
+    "url": "https://noticias.r7.com/prisma/natalia-martins/trecho-de-carro-voo-comum-passaporte-cancelado-como-foi-a-fuga-de-ramagem-para-miami-19112025/",
+    "trecho": "Condenado pela chamada trama golpista, Ramagem burlou o sistema brasileiro e saiu do país sem autorização do STF"
+   },
+   {
+    "url": "https://g1.globo.com/mundo/noticia/2026/04/15/alexandre-ramagem-deixa-a-prisao-nos-estados-unidos.ghtml",
+    "trecho": "Alexandre Ramagem foi preso na segunda-feira (13), em Orlando, na Flórida, por questões migratórias, segundo a Polícia Federal (PF)."
+   },
+   {
+    "url": "https://apublica.org/2026/10/departamento-de-imigracao-dos-eua-diz-que-ramagem-e-imigrante-ilegal-e-violou-leis/",
+    "trecho": "Foragido, ex-diretor da Abin ainda pode ser deportado ou detido, diz Departamento de Segurança Interna"
+   }
+  ]
+ },
+ {
+  "id": "eduardo-bolsonaro",
+  "saiu": 2025,
+  "anfitriao": "Estados Unidos",
+  "tipo": "processado",
+  "regime_casa": "democracia",
+  "eua_apoio_declarado": "sim",
+  "voltou_ao_pais": "nao",
+  "anos_ate_voltar": null,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Deputado federal que se mudou aos EUA em mar/2025; perdeu o mandato por faltas, foi condenado por coação no curso do processo (4 anos e 2 meses) e em 08/out/2026 Moraes mandou iniciar a pena e cancelou os passaportes. Mora nos EUA e o mandado só tem efeito se voltar; sem extradição até 02/nov/2026. Apoio declarado: o governo Trump agiu publicamente contra o STF pela causa dele (sanções, tarifas); a chefia do Executivo nacional nunca foi dele.",
+  "fontes": [
+   {
+    "url": "https://www.correiobraziliense.com.br/politica/2026/10/7517592-moraes-determina-prisao-de-eduardo-bolsonaro-pena-e-de-4-anos.html",
+    "trecho": "Eduardo Bolsonaro reside nos Estados Unidos desde março de 2025, período no qual teve o mandato parlamentar cassado pela Mesa Diretora da Câmara dos Deputados em razão do excesso de faltas"
+   },
+   {
+    "url": "https://bpmoney.com.br/politica/eduardo-bolsonaro-mandado-prisao-eua-extradicao-entenda/",
+    "trecho": "Morando de forma permanente nos EUA desde 2025, Eduardo segue fora do alcance imediato da ordem."
+   }
+  ]
+ },
+ {
+  "id": "jair-bolsonaro",
+  "saiu": 2022,
+  "anfitriao": "Estados Unidos",
+  "tipo": "derrotado_na_urna",
+  "regime_casa": "democracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 0.25,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Viajou a Orlando dois dias antes do fim do mandato (30/dez/2022), derrotado por Lula, e voltou em 30/mar/2023 (cerca de 3 meses). Depois foi condenado a 27 anos e 3 meses pela trama golpista e cumpre pena em prisão domiciliar humanitária (decisão de jul/2026). Não voltou à presidência. No episódio de 2022-23 o governo Biden não declarou apoio; o apoio explícito de Trump veio em 2025.",
+  "fontes": [
+   {
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2023/03/30/bolsonaro-chega-ao-brasil-apos-tres-meses-nos-estados-unidos.ghtml",
+    "trecho": "Na véspera do fim do mandato, ele viajou para a cidade americana de Orlando, onde passou os últimos 90 dias."
+   },
+   {
+    "url": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-ex-presidente-bolsonaro-em-prisao-domiciliar/",
+    "trecho": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), decidiu manter o ex-presidente Jair Bolsonaro em prisão domiciliar humanitária."
+   }
+  ]
+ },
+ {
+  "id": "machado",
+  "saiu": 2025,
+  "anfitriao": "Estados Unidos (e Noruega)",
+  "tipo": "oposicao",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "sim",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 0.8,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Líder da oposição, inabilitada em 2024; estava escondida na Venezuela e saiu em dez/2025 para receber o Nobel da Paz em Oslo, ficando fora do país até 25/out/2026 (a imprensa chama de exílio). EUA (Trump, Rubio) declararam apoio a ela em jan/2026. Voltou sem assumir cargo executivo; Delcy Rodríguez chefia o governo interino. Saída talvez não seja exílio no sentido estrito: caso de fronteira.",
+  "fontes": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Corina_Machado",
+    "trecho": "Machado left Venezuela in December 2025 through irregular routes in a covert operation."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Corina_Machado",
+    "trecho": "On October 25, 2026, Machado announced that she has returned to Venezuela after more than 10 months."
+   },
+   {
+    "url": "https://caracol.com.co/2026/10/25/edmundo-gonzalez-asegura-que-maria-corina-machado-regreso-a-venezuela-tras-10-meses-en-el-exilio/",
+    "trecho": "María Corina Machado ha regresado a Venezuela tras permanecer diez meses en el exilio"
+   }
+  ]
+ },
+ {
+  "id": "guaido",
+  "saiu": 2023,
+  "anfitriao": "Estados Unidos",
+  "tipo": "processado",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "sim",
+  "voltou_ao_pais": "nao",
+  "anos_ate_voltar": null,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": true,
+  "obs": "Reconhecido pelos EUA e outros países como presidente interino de 2019 a 2023 (nunca controlou o Estado); fugiu para os EUA em abr/2023 por medo de prisão; Maduro emitiu mandado em out/2023. Em jun/2026 disse que voltará à Venezuela, sem data; não achei notícia de volta até 02/nov/2026, mas a busca não é exaustiva. Mesmo com a captura de Maduro em jan/2026, ele não assumiu cargo.",
+  "fontes": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Juan_Guaid%C3%B3",
+    "trecho": "In April 2023 he fled to the United States citing fears of his arrest."
+   },
+   {
+    "url": "https://noticierodigital.com/2026/06/guaido-confirmo-que-planea-regresar-a-venezuela-y-respaldo-a-mcm/",
+    "trecho": "El dirigente opositor Juan Guaidó aseguró que regresará a Venezuela y afirmó que respaldaría a María Corina Machado"
+   }
+  ]
+ },
+ {
+  "id": "martinelli",
+  "saiu": 2015,
+  "anfitriao": "Estados Unidos",
+  "tipo": "processado",
+  "regime_casa": "democracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 3,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "sim",
+  "incerto": false,
+  "obs": "Saiu do Panamá em jan/2015 diante de acusações de grampos e peculato e viveu na Flórida; preso em Miami em jun/2017 a pedido do Panamá e extraditado em jun/2018 (absolvido em 2019). Segundo exílio, não codificado: condenado em 2023 por lavagem, refugiou-se na embaixada da Nicarágua em fev/2024 e foi para a Colômbia com asilo em mai/2025. Nunca voltou a presidir o país.",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Ricardo-Martinelli",
+    "trecho": "Facing these charges, Martinelli left Panama in January 2015. He was arrested in Florida in 2017 and extradited to Panama in June 2018 to stand trial."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Ricardo_Martinelli",
+    "trecho": "Martinelli was arrested in Miami by U.S. Marshals on June 12, 2017, to face extradition to Panama. He was extradited to Panama on June 11, 2018, to face the wiretapping charges."
+   }
+  ]
+ },
+ {
+  "id": "toledo",
+  "saiu": 2017,
+  "anfitriao": "Estados Unidos",
+  "tipo": "processado",
+  "regime_casa": "democracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 6,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "sim",
+  "incerto": false,
+  "obs": "Deixou o poder em 2006; investigado desde 2016 no caso Odebrecht e foragido nos EUA (a saída de 2016-17 não tem data exata na fonte; usado 2017, ano do mandado). Preso na Califórnia em 16/jul/2019 e extraditado em 23/abr/2023; condenado a 20 anos em out/2024. Saída voluntária, não deposição.",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Alejandro-Toledo",
+    "trecho": "later faced investigations into his wealth and involvement in an influence-peddling scandal, leading to his arrest and extradition request from Peru."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Alejandro_Toledo",
+    "trecho": "On 23 April 2023, Toledo was extradited from the US to Peru."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Alejandro_Toledo",
+    "trecho": "On 16 July 2019, Toledo was arrested in the United States for an extradition order to Peru"
+   }
+  ]
+ },
+ {
+  "id": "sanchez-lozada",
+  "saiu": 2003,
+  "anfitriao": "Estados Unidos",
+  "tipo": "deposto",
+  "regime_casa": "democracia",
+  "eua_apoio_declarado": "sim",
+  "voltou_ao_pais": "nao",
+  "anos_ate_voltar": null,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Renunciou em 17/out/2003, no auge da Guerra do Gás (cerca de 70 a 80 mortos), e voou para os EUA; condenado em ausência em 2018 por Bolívia; pedidos de extradição rejeitados (2012). O apoio declarado dos EUA foi dado ao governo dele na crise, antes da queda (nota de 13/out/2003), e não ao retorno. Segue nos EUA.",
+  "fontes": [
+   {
+    "url": "https://www.democracynow.org/2003/10/20/bolivian_president_steps_down_and_flees",
+    "trecho": "The unpopular U.S.-educated Sánchez de Lozada resigned in a letter to Congress and then boarded a flight for the United States with six family members and three former Cabinet officials."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Gonzalo_S%C3%A1nchez_de_Lozada",
+    "trecho": "The governments of Evo Morales and Luis Arce unsuccessfully sought his extradition from the U.S. to stand trial for the events of 2003."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Bolivian_Gas_War",
+    "trecho": "The United States Department of State issued a statement on October 13 declaring its support for Sánchez de Lozada"
+   }
+  ]
+ },
+ {
+  "id": "mahuad",
+  "saiu": 2000,
+  "anfitriao": "Estados Unidos",
+  "tipo": "deposto",
+  "regime_casa": "democracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "nao",
+  "anos_ate_voltar": null,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Deposto em jan/2000 por um levante indigena-militar após o congelamento de depósitos e a dolarização, assumindo o vice Noboa; foi para os EUA. Condenado por peculato (8 anos); em jan/2026 ainda falava dos EUA, onde vive há anos, e recorria a instâncias internacionais. Nunca voltou ao poder. Declaração dos EUA a favor dele não verificada.",
+  "fontes": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Jamil_Mahuad",
+    "trecho": "he was eventually deposed in a coup d'état led by Lucio Gutiérrez"
+   },
+   {
+    "url": "https://kchcomunicacion.com/2026/01/20/existen-dos-o-tres-opciones-expresidente-jamil-mahuad-anuncia-que-llevara-su-caso-a-instancias-internacionales/",
+    "trecho": "en una rueda de prensa desde Estados Unidos, donde vive hace varios años"
+   }
+  ]
+ },
+ {
+  "id": "chalabi",
+  "saiu": 1958,
+  "anfitriao": "Estados Unidos e Reino Unido",
+  "tipo": "oposicao",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "sim",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 45,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": true,
+  "obs": "Saiu criança com a família após a revolução de 1958 (a Al Jazeera diz 1956); fundou o Congresso Nacional Iraquiano (1992), financiado e apoiado pelos EUA, e voltou ao Iraque em abr/2003 com a invasão. Foi presidente rotativo do Conselho Interino de Governo (set/2003, órgão coletivo), vice-primeiro-ministro (2005-06) e ministro do Petróleo; nunca foi chefe do Executivo nem favorito eleitoral (não elegeu cadeira em 2005). Incerto se conta como 'cargo equivalente de comando'; codificado nao. Se contasse, o caminho seria forca_estrangeira. Condenado em ausência na Jordânia (Petra Bank).",
+  "fontes": [
+   {
+    "url": "https://www.aljazeera.com/news/2015/11/3/veteran-iraqi-politician-ahmed-chalabi-dies-at-71",
+    "trecho": "Having lived in exile for decades as head of the Iraqi National Congress, Chalabi was a top proponent of the invasion to topple Saddam"
+   },
+   {
+    "url": "https://www.aljazeera.com/news/2015/11/3/veteran-iraqi-politician-ahmed-chalabi-dies-at-71",
+    "trecho": "He had close ties to many in the Bush administration, who viewed him as a favourite to lead Iraq after the 2003 invasion."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Ahmed_Chalabi",
+    "trecho": "Chalabi left Iraq with his family in 1958, following the 14 July Revolution"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Ahmed_Chalabi",
+    "trecho": "founder of the Iraqi National Congress (INC) who served as the President of the Governing Council of Iraq"
+   }
+  ]
+ },
+ {
+  "id": "aristide",
+  "saiu": 1991,
+  "anfitriao": "Estados Unidos",
+  "tipo": "deposto",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "sim",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 3,
+  "voltou_ao_poder": "sim",
+  "caminho": "forca_estrangeira",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Golpe militar de 30/set/1991; exílio nos EUA (Washington); ameaça e invasão americana (Operação Uphold Democracy) tiraram a junta e ele voltou ao cargo em 15/out/1994, completando o mandato até 1996. Segundo exílio (2004, África do Sul, após rebelião e pressão dos EUA e da França; volta em 2011 sem poder) não codificado. Uma negociação com a junta (Governors Island, 1993) falhou antes da força.",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Jean-Bertrand-Aristide",
+    "trecho": "leading to his ousting in a coup in September 1991. Aristide then lived in exile until a U.S. invasion enabled his return to power in October 1994."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Jean-Bertrand_Aristide",
+    "trecho": "went into exile because of the coup, and after negotiations with the military regime did not resolve the crisis, United States pressure and threat of force during Operation Uphold Democracy caused its removal"
+   }
+  ]
+ },
+ {
+  "id": "kim-dae-jung",
+  "saiu": 1982,
+  "anfitriao": "Estados Unidos",
+  "tipo": "processado",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "sim",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 2,
+  "voltou_ao_poder": "sim",
+  "caminho": "eleicao",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Líder da oposição condenado à morte em 1980 (pena comutada com intervenção do governo dos EUA); em 23/dez/1982 o governo Chun o mandou a Washington/Boston (Harvard) e ele voltou em 08/fev/1985, preso em casa na chegada. Elegeu-se presidente em dez/1997 (primeira alternância de oposição). Houve um exílio anterior (Japão, 1972-73, depois sequestrado). Exílio imposto pelo regime, saída negociada; apoio dos EUA foi à libertação.",
+  "fontes": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Exile_of_Kim_Dae-jung",
+    "trecho": "On 23 December 1982, after a two-week negotiation with Kim and his wife, the South Korean government suddenly and discreetly flew him and his family to Washington, DC."
+   },
+   {
+    "url": "http://news.bbc.co.uk/2/hi/asia-pacific/2195358.stm",
+    "trecho": "Following the intervention of the US government the sentence was commuted to 20 years in prison and, in 1982, he went to live in Boston where he taught at Harvard University."
+   },
+   {
+    "url": "http://news.bbc.co.uk/2/hi/asia-pacific/2195358.stm",
+    "trecho": "Finally released, he staged two unsuccessful bids for the presidency before finally achieving his ambition in 1997, at the height of the Asian economic crisis."
+   }
+  ]
+ },
+ {
+  "id": "aquino",
+  "saiu": 1980,
+  "anfitriao": "Estados Unidos",
+  "tipo": "processado",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 3,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Principal opositor de Marcos, preso desde 1972 e condenado à morte em 1977; em 1980 Marcos comutou a pena e o deixou ir aos EUA para cirurgia cardíaca (Harvard e MIT). Voltou em 21/ago/1983 e foi assassinado no aeroporto de Manila ao descer do avião: conta-se como volta ao país (chegou ao solo filipino), mas morreu na chegada. A morte impulsionou a viúva Corazon Aquino, eleita em 1986.",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Benigno-Aquino-Jr",
+    "trecho": "In 1980 Marcos commuted the death sentence and allowed Aquino to go to the United States for heart-bypass surgery."
+   },
+   {
+    "url": "https://britannica.com/biography/Benigno-Aquino-Jr",
+    "trecho": "Two years after martial law was lifted in the Philippines, he flew home, intending to campaign in promised elections. He was shot in the head while leaving the airplane at Manila Airport under security guard."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Benigno_Aquino_Jr.",
+    "trecho": "He was assassinated at the Manila International Airport on August 21, 1983, upon returning from his self-imposed exile."
+   }
+  ]
+ },
+ {
+  "id": "marcos",
+  "saiu": 1986,
+  "anfitriao": "Estados Unidos (Havaí)",
+  "tipo": "deposto",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "nao",
+  "anos_ate_voltar": null,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Saiu em 25/fev/1986, levado de helicóptero e avião dos EUA depois da revolução do Poder do Povo, da fraude da eleição relâmpago e da retirada do apoio militar e americano. Morreu em Honolulu em 28/set/1989 sem voltar; o corpo voltou em 1993. A família voltou em 1991 e o filho Ferdinand Jr. foi eleito presidente em 2022 (o exilado em si não voltou). Os EUA não declararam apoio ao retorno dele; os planos de Marcos de voltar foram barrados.",
+  "fontes": [
+   {
+    "url": "https://www.ebsco.com/research-starters/politics-and-government/marcos-flees-philippines",
+    "trecho": "Marcos and his family were airlifted from the presidential palace to exile in Hawaii on February 25, 1986."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Marcos",
+    "trecho": "The Aquino government initially refused to allow Marcos's body to be brought back to the Philippines, which ultimately happened four years later."
+   }
+  ]
+ },
+ {
+  "id": "xa-ira",
+  "saiu": 1979,
+  "anfitriao": "Egito (passagens por Marrocos, Bahamas, México, EUA e Panamá)",
+  "tipo": "deposto",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "nao",
+  "anos_ate_voltar": null,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Fugiu da revolução em 16/jan/1979; passou por vários países e entrou nos EUA em 22/out/1979 para tratamento de câncer, o que levou à tomada da embaixada americana em Teerã; os EUA rejeitaram entregá-lo. Asilo no Egito de Sadat, onde morreu em 27/jul/1980. O governo Carter o apoiou até a revolução, mas não declarou apoio a uma volta dele; por isso nao.",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Mohammad-Reza-Shah-Pahlavi",
+    "trecho": "was the shah of Iran from 1941 to 1979, when he fled the Iranian Revolution and his rule officially ended following a constitutional referendum"
+   },
+   {
+    "url": "https://britannica.com/biography/Mohammad-Reza-Shah-Pahlavi",
+    "trecho": "demanded Mohammad Reza’s extradition from the U.S. in return for their release. The U.S. rejected the demand."
+   }
+  ]
+ },
+ {
+  "id": "somoza",
+  "saiu": 1979,
+  "anfitriao": "Estados Unidos (Miami), depois Bahamas e Paraguai",
+  "tipo": "deposto",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "nao",
+  "anos_ate_voltar": null,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": false,
+  "obs": "Renunciou em 17/jul/1979 diante da insurreição sandinista, depois que Carter retirou o apoio dos EUA; foi a Miami, depois Bahamas e Paraguai, onde foi assassinado em 17/set/1980. Os sandinistas ficaram no poder. regime_casa: a ditadura dinástica dele.",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Anastasio-Somoza-Debayle",
+    "trecho": "Pres. Jimmy Carter withdrew U.S. support (which Somoza blamed for his downfall) and the Conservative Party and the Sandinistas demanded Somoza’s resignation. He resigned July 17, 1979."
+   },
+   {
+    "url": "https://britannica.com/biography/Anastasio-Somoza-Debayle",
+    "trecho": "In 1979 Somoza fled before Sandinista forces and went first to Miami"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Anastasio_Somoza_Debayle",
+    "trecho": "in July 1979, Somoza fled Nicaragua. Power was ceded to the Junta of National Reconstruction"
+   }
+  ]
+ },
+ {
+  "id": "perez-jimenez",
+  "saiu": 1958,
+  "anfitriao": "Estados Unidos (via República Dominicana)",
+  "tipo": "deposto",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 5,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "sim",
+  "incerto": false,
+  "obs": "Derrubado por golpe militar e revolta popular em 23/jan/1958; foi para a República Dominicana e depois Miami. Extraditado pelos EUA em 1963 (peculato) e preso; solto em 1968, foi para a Espanha; tentou candidatura em 1972 e a eleição ao Senado de 1969 foi anulada. Nunca voltou ao poder. Houve volta breve a Caracas em 1972.",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Marcos-Perez-Jimenez",
+    "trecho": "In 1963 Pérez Jiménez was extradited by the United States to stand trial for embezzlement of government funds. After serving five years in jail, he was released and went to Spain in August 1968."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Marcos_P%C3%A9rez_Jim%C3%A9nez",
+    "trecho": "Pèrez fled to the United States, where he lived until 1963, when he was extradited to Venezuela on charges of embezzling $200 million during his presidential tenure."
+   }
+  ]
+ },
+ {
+  "id": "diem",
+  "saiu": 1950,
+  "anfitriao": "Estados Unidos (e Bélgica)",
+  "tipo": "oposicao",
+  "regime_casa": "hibrido",
+  "eua_apoio_declarado": "sim",
+  "voltou_ao_pais": "sim",
+  "anos_ate_voltar": 4,
+  "voltou_ao_poder": "sim",
+  "caminho": "acordo",
+  "entregue": "nao",
+  "incerto": true,
+  "obs": "Nacionalista católico condenado à morte em ausência pelo Viet Minh (1950) e sem proteção francesa; saiu em ago/1950 (Japão, Roma, EUA, Bélgica) e voltou em 1954 a convite do imperador Bao Dai, para ser primeiro-ministro de um governo apoiado pelos EUA; derrotou Bao Dai em plebiscito controlado em 1955 e virou presidente. Caminho codificado como acordo (nomeação negociada, com forte pressão e apoio dos EUA e da França); alguém poderia ler como forca_estrangeira, daí o incerto. Foi morto no golpe de 1963.",
+  "fontes": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Ng%C3%B4_%C4%90%C3%ACnh_Di%E1%BB%87m",
+    "trecho": "Recognizing his political status, Diệm decided to leave Vietnam in 1950."
+   },
+   {
+    "url": "https://britannica.com/biography/Ngo-Dinh-Diem",
+    "trecho": "In 1954 Diem returned at Bao Dai’s request to serve as prime minister of a U.S.-backed government in what in the following year would be proclaimed as the Republic of Vietnam"
+   },
+   {
+    "url": "https://britannica.com/biography/Ngo-Dinh-Diem",
+    "trecho": "Diem rejected the proposal, however, and went into self-imposed exile, living abroad for most of the next decade."
+   }
+  ]
+ },
+ {
+  "id": "rhee",
+  "saiu": 1960,
+  "anfitriao": "Estados Unidos (Havaí)",
+  "tipo": "deposto",
+  "regime_casa": "autocracia",
+  "eua_apoio_declarado": "nao",
+  "voltou_ao_pais": "nao",
+  "anos_ate_voltar": null,
+  "voltou_ao_poder": "nao",
+  "caminho": "nenhum",
+  "entregue": "nao",
+  "incerto": true,
+  "obs": "Codificado o exílio de 1960 (renúncia em 27/abr/1960 após protestos contra a fraude eleitoral, com o governo dos EUA apoiando as exigências de renúncia; morreu em Honolulu em 1965 sem voltar). Dúvida de enquadramento: Rhee passou 1912-1945 nos EUA como ativista da independência e foi levado de volta à Coreia em 1945 pelos americanos, chegando à presidência em 1948 pela eleição; esse exílio começa antes de 1945 e não entra na regra, mas outro codificador pode escolhê-lo (saiu 1912, 33 anos, voltou ao poder por eleição sob administração militar dos EUA).",
+  "fontes": [
+   {
+    "url": "https://britannica.com/biography/Syngman-Rhee",
+    "trecho": "These demands were supported by the unanimous vote of the National Assembly and by the U.S. government. Rhee resigned on April 27, 1960, and went into exile in Hawaii."
+   },
+   {
+    "url": "https://britannica.com/biography/Syngman-Rhee",
+    "trecho": "After the war, since Rhee was the only Korean leader well known to Americans, he was returned to Korea ahead of the other members of the Provisional Government."
+   }
+  ]
+ }
+]

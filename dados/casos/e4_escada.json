@@ -1,0 +1,1916 @@
+{
+ "gerado_em": "2026-11-02",
+ "tarefa": "E4 - escada de medidas do governo Trump 2 contra o Brasil (jan/2025 a 02/11/2026) e linhas curtas de comparacao",
+ "convencoes": {
+  "tipo": "tarifa | sancao | visto | designacao | investigacao | diplomatica | ajuda (ajuda so na comparacao, corte de ajuda)",
+  "direcao": "sobe = escalada; desce = recuo ou alivio",
+  "veio_junto": "o que acontecia na politica do pais no momento",
+  "medidas_do_Brasil": "br-017, br-025 e br-028 sao medidas do governo brasileiro contra os EUA; a descricao diz isso e entram como 'sobe' da escalada bilateral"
+ },
+ "pontos_que_mudam_a_pesquisa_do_video": [
+  "Visto de Viotti: revogado em 04/08/2026, nao em 11/08 (br-026).",
+  "A tarifa de 40% (50% no total) caiu em 20/02/2026, quando a Suprema Corte decidiu contra a IEEPA, e foi trocada pela tarifa global da Secao 122 (br-016).",
+  "Os 12,5% de 24/07/2026 sao uma acao global sobre cerca de 60 economias, nao dirigida ao Brasil; somados aos 25% do Brasil dao 37,5% em parte dos produtos (br-024).",
+  "Embaixador: Daniel Perez foi indicado em 01/06 e confirmado pelo Senado em 07/08/2026 (51 a 47); falta o agrement do Brasil (br-021, br-027).",
+  "Designacao de PCC e CV: a nota da embaixada tem data de 29/05, a imprensa fala em quinta-feira 28/05; usado 28/05 (br-019).",
+  "Os vistos e a parole do Flavio (27 e 28/10) nao sao medida contra o Brasil; entram como diplomatica por serem o tema do video (br-031, br-032)."
+ ],
+ "sem_confirmar": [
+  "Quem chefia hoje a missao americana em Brasilia: nenhuma fonte lida diz.",
+  "Medida reciproca de vistos dos EUA em marco de 2026: a fonte (Baltimore Sun) deu 403 e ficou fora.",
+  "Brasil na pausa diaria de vistos de imigrante para 75 paises (jan/2026): so uma fonte, medida global, nao entrou.",
+  "Cambio e bolsa no dia de cada tarifa: sem fonte lida; os efeitos citados sao de exportacoes, precos e reacao do governo.",
+  "Qualquer medida depois de 02/11/2026. A busca na web esgotou o limite antes de varrer set/out de 2026."
+ ],
+ "brasil": [
+  {
+   "id": "br-001",
+   "data": "2025-03-12",
+   "tipo": "tarifa",
+   "direcao": "sobe",
+   "descricao": "Tarifa de 25% sobre aço e alumínio de todos os países (Seção 232) passa a valer e atinge o Brasil; em junho de 2025 sobe a 50%. Medida global, não dirigida ao Brasil.",
+   "efeito_reportado": "Em 2024 só o Canadá vendeu mais aço aos EUA que o Brasil (Agência Brasil); o governo brasileiro escolheu negociar.",
+   "central": false,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://agenciabrasil.ebc.com.br/en/economia/noticia/2025-03/we-must-negotiate-not-retaliate-says-minister-us-tariffs",
+     "trecho": "The 25 percent tax on steel and aluminum by the US came into force on Wednesday (12), after having been confirmed the previous day by the US government."
+    },
+    {
+     "url": "https://thepeninsulaqatar.com/article/13/03/2025/brazil-not-planning-to-retaliate-against-us-steel-tariffs",
+     "trecho": "Brazil, the second-biggest supplier of steel to the United States, is not planning to retaliate against the tariffs imposed by President Donald Trump on its steel exports, Finance Minister Fernando Haddad said yesterday."
+    },
+    {
+     "url": "https://datamarnews.com/?p=67879",
+     "trecho": "June 2025: Steel and aluminum tariffs raised to 50% under Section 232."
+    }
+   ],
+   "veio_junto": "Ainda sem ligação com o processo de Bolsonaro. O ministro Haddad disse que Lula decidiu negociar e não retaliar."
+  },
+  {
+   "id": "br-002",
+   "data": "2025-04-02",
+   "tipo": "tarifa",
+   "direcao": "sobe",
+   "descricao": "Tarifa-base de 10% sobre todas as exportações brasileiras (tarifa recíproca do 'Dia da Libertação'); aço e alumínio ficam à parte, com 25%.",
+   "efeito_reportado": "O governo brasileiro disse que a medida viola compromissos dos EUA na OMC; o Brasil recebeu a menor alíquota da primeira rodada.",
+   "central": false,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.gov.br/mre/en/contact-us/press-area/press-releases/trade-measures-adopted-by-the-united-states-government-on-april-2-2025-joint-mre-mdic-press-release",
+     "trecho": "The Brazilian government regrets the decision taken by the United States government today, April 2, to impose additional tariffs of 10% on all Brazilian exports to that country."
+    },
+    {
+     "url": "https://agenciabrasil.ebc.com.br/en/economia/noticia/2025-04/brazil-adopts-reciprocity-law-response-trumps-trade-war",
+     "trecho": "Regarding Brazil, the tariff imposed by the US was 10 percent on all products exported to the US."
+    },
+    {
+     "url": "https://datamarnews.com/?p=67879",
+     "trecho": "April 2025: Trump introduces a 10% “reciprocal” tariff on Brazilian imports."
+    }
+   ],
+   "veio_junto": "Medida global. No mesmo mês o Brasil sancionou a Lei da Reciprocidade (Lei 15.122), em vigor em 14/04, e priorizou negociar."
+  },
+  {
+   "id": "br-003",
+   "data": "2025-07-09",
+   "tipo": "tarifa",
+   "direcao": "sobe",
+   "descricao": "Carta de Trump a Lula anuncia tarifa de 50% sobre os produtos brasileiros, a valer em 1º de agosto, ligada ao julgamento de Jair Bolsonaro; pede o fim do processo.",
+   "efeito_reportado": "Lula respondeu que o Brasil é soberano e que a Lei da Reciprocidade seria aplicada; o USTR mostra superávit americano de US$ 7,4 bi com o Brasil em 2024.",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.thefiscaltimes.com/2025/07/09/Trump-Hits-Brazil-50-Tariff-Claiming-Witch-Hunt-Against-Former-Leader",
+     "trecho": "\"This Trial should not be taking place,\" Trump wrote. \"It is a Witch Hunt that should end IMMEDIATELY!\""
+    },
+    {
+     "url": "https://www.irishtimes.com/world/americas/2025/07/10/trump-pledges-50-tariffs-against-brazil-citing-witch-hunt-against-bolsonaro",
+     "trecho": "In a letter to Brazilian president Luiz Inácio Lula da Silva, Mr Trump wrote that the new tariffs would take effect August 1st."
+    },
+    {
+     "url": "https://www.foxbusiness.com/fox-news-world/brazil-claps-back-trumps-50-tariff-he-decries-witch-hunt-bolsonaro-alleged-coup-attempt",
+     "trecho": "Therefore, any unilateral tariff increases will be addressed in accordance with Brazil's Economic Reciprocity Law."
+    },
+    {
+     "url": "https://www.business-standard.com/world-news/trump-tariff-brazil-bolsonaro-trial-lula-response-trade-war-125071000258_1.html",
+     "trecho": "According to the Office of the US Trade Representative, the US ran a $7.4 billion trade surplus with Brazil in 2024, exporting $49.7 billion and importing $42.3 billion."
+    }
+   ],
+   "veio_junto": "Bolsonaro era réu no STF por tentativa de golpe. Trump chamou o julgamento de 'caça às bruxas' e citou também ordens de censura do STF a plataformas americanas."
+  },
+  {
+   "id": "br-004",
+   "data": "2025-07-15",
+   "tipo": "investigacao",
+   "direcao": "sobe",
+   "descricao": "O USTR abre investigação da Seção 301 sobre o Brasil: comércio digital e pagamentos eletrônicos (Pix), tarifas preferenciais, combate à corrupção, propriedade intelectual, acesso do etanol e desmatamento ilegal.",
+   "efeito_reportado": "Terminou, um ano depois, em tarifa de 25% (ver br-023).",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.thomsonreuters.com/en-us/help/onesource-global-trade/regulatory-insights/2026/june-18th/ustr-section-301-action-br-25-tariffs-proposed",
+     "trecho": "The determination follows an investigation initiated on July 15, 2025, covering six areas: digital trade and electronic payment services; preferential tariffs; anti-corruption enforcement; intellectual property protection; ethanol market access; and illegal deforestation."
+    },
+    {
+     "url": "https://www.supplychaindive.com/news/USTR-begins-section-301-investigation-brazil-trump-tariffs/753252/",
+     "trecho": "The U.S. officially initiated a Section 301 investigation into the trade practices of Brazil on Tuesday, according to a Federal Register filing"
+    },
+    {
+     "url": "https://www.supplychaindive.com/news/USTR-begins-section-301-investigation-brazil-trump-tariffs/753252/",
+     "trecho": "President Donald Trump said he would order such a review in a letter posted to Truth Social last week."
+    }
+   ],
+   "veio_junto": "Aberta uma semana depois da carta de 9/07, na qual Trump disse que ordenaria a revisão. É a base legal das tarifas de julho de 2026."
+  },
+  {
+   "id": "br-005",
+   "data": "2025-07-18",
+   "tipo": "visto",
+   "direcao": "sobe",
+   "descricao": "O secretário de Estado Rubio manda revogar os vistos de Alexandre de Moraes, de aliados dele no STF e de seus familiares diretos.",
+   "efeito_reportado": "Lula chamou a medida de 'arbitrária' e 'sem fundamento'; o STF manteve a decisão de Moraes no mesmo dia.",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://aljazeera.com/news/2025/7/19/us-restricts-visas-for-brazilian-officials-over-bolsonaro-witch-hunt",
+     "trecho": "I have therefore ordered visa revocations for Moraes and his allies on the court, as well as their immediate family members, effective immediately"
+    },
+    {
+     "url": "https://home.treasury.gov/news/press-releases/sb0211",
+     "trecho": "Today’s action follows the U.S. Department of State’s revocation of de Moraes’s visa and those of his immediate family members on July 18, 2025"
+    },
+    {
+     "url": "https://aljazeera.com/news/2025/7/19/us-restricts-visas-for-brazilian-officials-over-bolsonaro-witch-hunt",
+     "trecho": "calling it “arbitrary” and “baseless”, adding that the action violated fundamental principles of respect and sovereignty between nations."
+    }
+   ],
+   "veio_junto": "Dias depois de o STF mandar buscas e tornozeleira contra Bolsonaro. A imprensa disse que 8 dos 11 ministros foram atingidos, sem confirmação oficial."
+  },
+  {
+   "id": "br-006",
+   "data": "2025-07-30",
+   "tipo": "sancao",
+   "direcao": "sobe",
+   "descricao": "O Tesouro (OFAC) sanciona Alexandre de Moraes pela Lei Global Magnitsky (Ordem Executiva 13818), por 'detenções arbitrárias' e censura.",
+   "efeito_reportado": "A sanção não parou o julgamento, que terminou em condenação em setembro (ver br-010).",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://home.treasury.gov/news/press-releases/sb0211",
+     "trecho": "Alexandre de Moraes has taken it upon himself to be judge and jury in an unlawful witch hunt against U.S. and Brazilian citizens and companies"
+    },
+    {
+     "url": "https://www.thestar.com.my/news/world/2026/10/25/inside-the-trump-administration-campaign-to-return-brazils-bolsonaro-clan-to-power",
+     "trecho": "The US announced Magnitsky sanctions against Moraes in July 2025, citing his alleged violations of free-speech rights by censoring anti-government social-media posts."
+    },
+    {
+     "url": "https://www.thestar.com.my/news/world/2025/12/13/us-removes-sanctions-on-brazilian-top-court-justice-moraes",
+     "trecho": "The U.S. had sanctioned Moraes under the Global Magnitsky Act in July."
+    }
+   ],
+   "veio_junto": "Eduardo Bolsonaro pedia a sanção desde 2024 (Reuters); o julgamento de Jair Bolsonaro estava em curso no STF."
+  },
+  {
+   "id": "br-007",
+   "data": "2025-07-30",
+   "tipo": "tarifa",
+   "direcao": "sobe",
+   "descricao": "A Ordem Executiva 14323, com base na lei IEEPA, declara emergência nacional e impõe 40% adicionais sobre produtos do Brasil, levando o total a 50%, com anexo de isenções.",
+   "efeito_reportado": "Reuters: as tarifas ajudaram a popularidade do governo Lula, segundo analistas brasileiros.",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-addresses-threats-to-the-united-states-from-the-government-of-brazil",
+     "trecho": "Today, President Donald J. Trump signed an Executive Order implementing an additional 40% tariff on Brazil, bringing the total tariff amount to 50%"
+    },
+    {
+     "url": "https://www.presidency.ucsb.edu/node/378230",
+     "trecho": "imported into the customs territory of the United States shall be, consistent with law, subject to an additional ad valorem rate of duty of 40 percent."
+    },
+    {
+     "url": "https://www.thestar.com.my/news/world/2026/10/25/inside-the-trump-administration-campaign-to-return-brazils-bolsonaro-clan-to-power",
+     "trecho": "while the tariffs boosted the Lula government's poll numbers, the analysts said."
+    }
+   ],
+   "veio_junto": "O texto cita 'perseguição' a Jair Bolsonaro e a milhares de apoiadores e a censura a empresas americanas pelo ministro Moraes."
+  },
+  {
+   "id": "br-008",
+   "data": "2025-08-06",
+   "tipo": "tarifa",
+   "direcao": "sobe",
+   "descricao": "Entram em vigor os 40% adicionais (sete dias depois da ordem de 30/07), com exceções por produto; a carne bovina passa a pagar 76%.",
+   "efeito_reportado": "Carne: volumes pela metade (Argus). Café: queda de 16,7% nas exportações aos EUA de agosto a outubro (Datamar). Café no varejo americano subiu até 40% no ano (Reuters).",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.presidency.ucsb.edu/node/378230",
+     "trecho": "This rate of duty shall be effective with respect to goods entered for consumption, or withdrawn from warehouse for consumption, on or after 12:01 a.m. eastern daylight time 7 days after the date of this order"
+    },
+    {
+     "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2754649-trump-trims-brazil-beef-coffee-fruit-tariffs-by-10pc",
+     "trecho": "Starting in early August, a combination of tariffs equaling 76pc were imposed on US imports of Brazilian beef, cutting those volumes in half"
+    },
+    {
+     "url": "https://datamarnews.com/?p=66036",
+     "trecho": "However, between August and October, with the tariff hike, the sector lost momentum, falling 16.7% from USD 428.3 million in 2024 to USD 356.7 million in 2025."
+    },
+    {
+     "url": "https://www.ksl.com/article/51408507/trump-signs-order-to-remove-tariffs-from-brazilian-beef-coffee",
+     "trecho": "Retail coffee prices rose as much as 40% this year due to the tariffs and other market factors such as weather-induced production shortfalls."
+    }
+   ],
+   "veio_junto": "Mesmo mês: a Lei da Reciprocidade vira consulta interna e o Brasil leva o caso à OMC."
+  },
+  {
+   "id": "br-009",
+   "data": "2025-08-13",
+   "tipo": "visto",
+   "direcao": "sobe",
+   "descricao": "O Departamento de Estado revoga os vistos de dois servidores ligados ao Mais Médicos (Mozart Sales e Alberto Kleiman); dois dias depois cancela os vistos da mulher e da filha de 10 anos do ministro da Saúde, Alexandre Padilha.",
+   "efeito_reportado": "Em mar/2026 Lula vinculou o veto ao assessor Darren Beattie à liberação do visto de Padilha (ver br-017).",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.infomoney.com.br/?p=2987538",
+     "trecho": "O Departamento de Estado dos EUA revogou os vistos de Mozart Julio Tabosa Sales, secretário de Atenção Especializada à Saúde, e de Alberto Kleiman"
+    },
+    {
+     "url": "https://www.infomoney.com.br/?p=2987538",
+     "trecho": "O governo dos Estados Unidos cancelou os vistos da esposa e da filha, de 10 anos, do ministro da Saúde, Alexandre Padilha (PT)."
+    },
+    {
+     "url": "https://jovempan.com.br/noticias/mundo/eua-cancelam-vistos-da-filha-e-da-esposa-do-ministro-alexandre-padilha.html",
+     "trecho": "Em comunicado, o secretário de Estado norte-americano, Marco Rubio, justifica que os servidores teriam contribuído para um “esquema de exportação de trabalho forçado do regime cubano” por meio do Mais Médicos."
+    }
+   ],
+   "veio_junto": "O programa foi acusado de 'exportação de trabalho forçado' de médicos cubanos. O visto do próprio Padilha estava vencido desde 2024."
+  },
+  {
+   "id": "br-010",
+   "data": "2025-09-11",
+   "tipo": "diplomatica",
+   "direcao": "sobe",
+   "descricao": "O STF condena Jair Bolsonaro a 27 anos por trama golpista; Rubio diz que os EUA vão 'responder de acordo' a essa 'caça às bruxas'.",
+   "efeito_reportado": "O Itamaraty chamou as palavras de Rubio de ameaça inapropriada que não intimidaria o governo (PBS).",
+   "central": false,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.pbs.org/newshour/world/brazil-braces-for-potential-new-u-s-sanctions-after-bolsonaros-conviction-angers-trump",
+     "trecho": "U.S. Secretary of State Marco Rubio said on his X account that the U.S. government would \"respond accordingly to this witch hunt.\""
+    },
+    {
+     "url": "https://www.thestar.com.my/news/world/2026/10/25/inside-the-trump-administration-campaign-to-return-brazils-bolsonaro-clan-to-power",
+     "trecho": "After Bolsonaro received a 27-year sentence in September 2025, the two men pivoted to supporting the candidacy of his son"
+    }
+   ],
+   "veio_junto": "Condenação pelo STF; analistas esperavam novas sanções Magnitsky contra outros ministros."
+  },
+  {
+   "id": "br-011",
+   "data": "2025-09-22",
+   "tipo": "sancao",
+   "direcao": "sobe",
+   "descricao": "O Tesouro sanciona a mulher de Moraes, Viviane Barci de Moraes, e o Instituto Lex (empresa da família), pela Lei Magnitsky.",
+   "efeito_reportado": "Foi a resposta ao 'responder de acordo' de Rubio após a condenação; revertida em dezembro (br-015).",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://home.treasury.gov/news/press-releases/sb0257",
+     "trecho": "Also designated today is Viviane Barci de Moraes ( Viviane ), de Moraes’ wife, who serves as the head of the Lex Institute."
+    },
+    {
+     "url": "https://news.bloomberglaw.com/business-and-practice/us-sanctions-brazilian-justice-moraes-wife-under-magnitsky-act",
+     "trecho": "The US Treasury Department sanctioned the wife of Brazilian Supreme Court Justice Alexandre de Moraes under the Magnitsky Act on Monday"
+    }
+   ],
+   "veio_junto": "Logo depois, a Procuradoria-Geral denunciou Eduardo Bolsonaro, que estava nos EUA."
+  },
+  {
+   "id": "br-012",
+   "data": "2025-10-26",
+   "tipo": "diplomatica",
+   "direcao": "desce",
+   "descricao": "Trump e Lula se encontram em Kuala Lumpur (cúpula da Asean) e combinam que as equipes se reúnam 'imediatamente' para tratar de tarifas e sanções.",
+   "efeito_reportado": "Trump previu 'bons acordos'; Lula disse esperar acordo comercial.",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://gulfnews.com/world/should-be-able-to-make-some-pretty-good-deals-trump-after-meeting-brazilian-pm-lula-at-asean-1.500322303",
+     "trecho": "We agreed that our teams will meet immediately to advance in the search for solutions to the tariffs and sanctions against Brazilian authorities"
+    },
+    {
+     "url": "https://en.mercopress.com/2025/10/27/lula-and-trump-make-progress-in-malaysian-gathering",
+     "trecho": "Lula and Trump would also have their teams work on finding solutions to the 50% tariffs imposed by Washington on Brazilian products and related sanctions."
+    }
+   ],
+   "veio_junto": "Primeira reunião formal dos dois; o chanceler Vieira disse que Lula se ofereceu como interlocutor entre EUA e Venezuela (Mercopress)."
+  },
+  {
+   "id": "br-013",
+   "data": "2025-11-14",
+   "tipo": "tarifa",
+   "direcao": "desce",
+   "descricao": "Ordem que tira a tarifa recíproca de 10% de carne bovina, café e frutas brasileiras (retroativa a 13/11); os 40% de agosto continuam.",
+   "efeito_reportado": "Os produtos ainda pagavam 40%; a Argus diz que a carne tinha tarifa de 76,4% fora da cota e passou a 10 pontos a menos.",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2754649-trump-trims-brazil-beef-coffee-fruit-tariffs-by-10pc",
+     "trecho": "US president Donald Trump lifted 10pc tariffs on imports of Brazilian beef, coffee and fruits imposed in April, but 40pc tariffs imposed in August and other quota-tied fees remain in effect."
+    },
+    {
+     "url": "https://www.ksl.com/article/51408507/trump-signs-order-to-remove-tariffs-from-brazilian-beef-coffee",
+     "trecho": "The move follows a similar order by the administration last Friday to remove tariffs on several agricultural products from other countries"
+    }
+   ],
+   "veio_junto": "Parte de uma ordem global sobre alimentos, depois da alta de preços nos EUA e da queda da popularidade de Trump."
+  },
+  {
+   "id": "br-014",
+   "data": "2025-11-20",
+   "tipo": "tarifa",
+   "direcao": "desce",
+   "descricao": "A Ordem Executiva 14361 tira os 40% adicionais de uma lista de produtos agrícolas brasileiros (carne, café, cacau, frutas), 'diante de progresso inicial nas negociações'.",
+   "efeito_reportado": "A AP diz que o Brasil chamou de 'progresso significativo' e quis mais isenções. Entre agosto e outubro, o agro brasileiro tinha perdido US$ 240 milhões em exportações.",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.presidency.ucsb.edu/documents/executive-order-14361-modifying-the-scope-tariffs-the-government-brazil",
+     "trecho": "certain agricultural products shall not be subject to the additional ad valorem rate of duty imposed under Executive Order 14323"
+    },
+    {
+     "url": "https://www.ksl.com/article/51408507/trump-signs-order-to-remove-tariffs-from-brazilian-beef-coffee",
+     "trecho": "Trump's executive order on Thursday did not mention the actions against Brazilian authorities involved in the prosecution and conviction"
+    },
+    {
+     "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/brazil-hails-us-tariff-rollback-as-significant-progress-and-seeks-more-exemptions/",
+     "trecho": "Brazil hails U.S. tariff rollback as ‘significant progress’ and seeks more exemptions"
+    },
+    {
+     "url": "https://datamarnews.com/?p=66036",
+     "trecho": "The reversal of the additional 40% tariffs imposed by the United States involves USD 240 million in Brazilian agribusiness exports."
+    }
+   ],
+   "veio_junto": "Depois do encontro de 26/10. A ordem não menciona as medidas contra as autoridades do processo de Bolsonaro."
+  },
+  {
+   "id": "br-015",
+   "data": "2025-12-12",
+   "tipo": "sancao",
+   "direcao": "desce",
+   "descricao": "O Tesouro retira Alexandre de Moraes, a mulher dele e o Instituto Lex da lista da Lei Magnitsky.",
+   "efeito_reportado": "Moraes chamou de 'triplo ganho' para a democracia, a Justiça e a soberania; Flávio Bolsonaro, que acabara de lançar candidatura, viu 'grande gesto' à direita (Reuters).",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.thestar.com.my/news/world/2025/12/13/us-removes-sanctions-on-brazilian-top-court-justice-moraes",
+     "trecho": "The United States removed sanctions imposed on Brazilian Supreme Court Justice Alexandre de Moraes, a statement from the Treasury Department's Office of Foreign Assets Control showed on Friday."
+    },
+    {
+     "url": "https://www.ksl.com/article/51418531/us-lifts-sanctions-on-brazil-judge-targeted-by-trump",
+     "trecho": "The United States sees the passage of an important amnesty bill by Brazil's lower house as a step in the right direction that signals lawfare conditions in Brazil are improving"
+    },
+    {
+     "url": "https://www.ksl.com/article/51418531/us-lifts-sanctions-on-brazil-judge-targeted-by-trump",
+     "trecho": "In my conversation with Trump last week, he asked, 'Is this good for you?' I said it is good for Brazil and for Brazilian democracy"
+    }
+   ],
+   "veio_junto": "Dias depois de a Câmara aprovar o projeto de anistia, que o governo americano citou como sinal de melhora; Lula pediu a retirada em telefonema a Trump."
+  },
+  {
+   "id": "br-016",
+   "data": "2026-02-20",
+   "tipo": "tarifa",
+   "direcao": "desce",
+   "descricao": "A Suprema Corte dos EUA decide que a IEEPA não autoriza tarifas: caem a tarifa de 10% e os 40% adicionais sobre o Brasil; em seu lugar entra, a partir de 24/02, uma tarifa global temporária (Seção 122) de 10%, anunciada depois como 15%.",
+   "efeito_reportado": "Alckmin: cerca de 22% das exportações brasileiras aos EUA pagavam os 40%.",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://chambers.com/articles/u-s-government-repeals-additional-tariffs-of-40-on-brazilian-products-and-imposes-new-tariffs-of-u",
+     "trecho": "After the decision, the government chose to revoke the tariffs, including the additional rates of 40% that were still levied on several Brazilian products."
+    },
+    {
+     "url": "https://datamarnews.com/?p=67879",
+     "trecho": "In practical terms, the Supreme Court’s ruling eliminated the IEEPA-based tariffs — including the 10% reciprocal levy and the 40% surcharge on Brazilian products."
+    },
+    {
+     "url": "https://datamarnews.com/?p=67879",
+     "trecho": "Before the court’s intervention, about 22% of Brazilian exports to the United States were subject to the 40% surcharge, Alckmin said."
+    }
+   ],
+   "veio_junto": "Decisão americana interna, sem relação com a política brasileira; aço e alumínio (Seção 232, 50%) ficaram."
+  },
+  {
+   "id": "br-017",
+   "data": "2026-03-13",
+   "tipo": "visto",
+   "direcao": "sobe",
+   "descricao": "Medida do Brasil: o governo revoga o visto de Darren Beattie, assessor do Departamento de Estado que supervisiona a política para o Brasil, que pedira para visitar Bolsonaro na prisão; Moraes proibiu a visita.",
+   "efeito_reportado": "A Reuters lista o veto como um dos reveses da campanha de Beattie e Pita.",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.aljazeera.com/news/2026/3/13/brazil-pulls-visa-of-trump-adviser-who-asked-to-visit-bolsonaro-in-prison",
+     "trecho": "That American guy who said he was coming here to visit Jair Bolsonaro was prohibited from visiting, and I forbade him from coming to Brazil until they release the visa for my health minister"
+    },
+    {
+     "url": "https://www.thestar.com.my/news/world/2026/10/25/inside-the-trump-administration-campaign-to-return-brazils-bolsonaro-clan-to-power",
+     "trecho": "in March Brazil barred Beattie from entering the country to visit Bolsonaro in prison."
+    }
+   ],
+   "veio_junto": "Bolsonaro cumpria pena; Lula ligou o veto à liberação do visto do ministro Padilha (ver br-009)."
+  },
+  {
+   "id": "br-018",
+   "data": "2026-05-07",
+   "tipo": "diplomatica",
+   "direcao": "desce",
+   "descricao": "Lula é recebido por Trump na Casa Branca, reunião fechada de cerca de três horas, com almoço; sem anúncio de acordo.",
+   "efeito_reportado": "Trump disse que a reunião foi 'muito produtiva' e que haveria novas reuniões; não houve alívio de tarifas.",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://mercadoeconsumo.com.br/07/05/2026/economia/lula-e-donald-trump-discutem-tarifas-e-relacoes-comerciais-em-encontro/",
+     "trecho": "A reunião foi muito produtiva. Nossos representantes têm reuniões agendadas para discutir alguns pontos-chave. Outras reuniões serão agendadas nos próximos meses, conforme necessário"
+    },
+    {
+     "url": "https://www.band.com.br/politica/noticias/governo-repudia-alteracao-de-visto-de-embaixadora-nos-eua-medidas-hostis-202608042017",
+     "trecho": "De acordo com a Secom, o presidente Luiz Inácio Lula da Silva chegou a solicitar pessoalmente a Donald Trump o levantamento de tais restrições durante reunião em Washington em maio, sem sucesso."
+    }
+   ],
+   "veio_junto": "Pré-campanha: Flávio Bolsonaro já se apresentava como candidato. Lula pediu, sem sucesso, o fim das restrições de vistos."
+  },
+  {
+   "id": "br-019",
+   "data": "2026-05-28",
+   "tipo": "designacao",
+   "direcao": "sobe",
+   "descricao": "O Departamento de Estado designa o Comando Vermelho (CV) e o PCC como terroristas globais (SDGT) e, em 5 de junho, como organizações terroristas estrangeiras (FTO). A nota na embaixada em Brasília tem data de 29/05.",
+   "efeito_reportado": "Lula: os EUA 'brincam com a nossa soberania'; em 1º/07 o Itamaraty alertou a Câmara para risco de ação militar (br-022). Bancos americanos devem bloquear ativos ligados aos grupos.",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://br.usembassy.gov/terrorist-designation-of-comando-vermelho-and-primeiro-comando-da-capital/",
+     "trecho": "Today, the U.S. Department of State is designating Comando Vermelho (CV) and Primeiro Comando da Capital (PCC) as Specially Designated Global Terrorists (SDGTs) and intends to designate both groups as Foreign Terrorist Organizations (FTOs), effective June 5, 2026."
+    },
+    {
+     "url": "https://www.theamericanconservative.com/u-s-designates-two-brazilian-gangs-terrorist-groups/",
+     "trecho": "Lula, speaking at an event in Brazil’s northeast Friday, said Washington was “playing games with our sovereignty.”"
+    },
+    {
+     "url": "https://btlaw.com/en/insights/alerts/2026/us-designates-brazils-comando-vermelho-and-primeiro-comando-da-capital-as-terrorist-organizations",
+     "trecho": "Financial institutions are required to block any funds or assets associated with the designated entities and report them to the U.S. Treasury Department's Office of Foreign Assets Control (OFAC)."
+    },
+    {
+     "url": "https://www.thestar.com.my/news/world/2026/10/25/inside-the-trump-administration-campaign-to-return-brazils-bolsonaro-clan-to-power",
+     "trecho": "The State Department announced the designation the following day."
+    }
+   ],
+   "veio_junto": "Dois dias depois de Flávio Bolsonaro ser recebido por Trump na Casa Branca; Reuters diz que ele havia pedido a designação a Beattie e Landau. O Itamaraty soube minutos antes."
+  },
+  {
+   "id": "br-020",
+   "data": "2026-06-01",
+   "tipo": "investigacao",
+   "direcao": "sobe",
+   "descricao": "O USTR conclui que práticas do Brasil são 'irrazoáveis' e acionáveis na Seção 301 e propõe, para consulta pública, tarifa adicional de 25%.",
+   "efeito_reportado": "O governo Lula disse que apresentou evidências contra cada alegação e que a motivação seria política.",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-section-301-determination-brazils-unreasonable-acts-policies-and-practices",
+     "trecho": "has proposed responsive action for public comment, while the United States continues to engage intensively with Brazil to seek resolution of U.S. concerns"
+    },
+    {
+     "url": "https://www.thomsonreuters.com/en-us/help/onesource-global-trade/regulatory-insights/2026/june-18th/ustr-section-301-action-br-25-tariffs-proposed",
+     "trecho": "As a proposed response, USTR is seeking public comment on applying additional tariffs of 25% on Brazilian-origin goods, subject to specified exemptions."
+    },
+    {
+     "url": "https://mercadoeconsumo.com.br/16/07/2026/noticias/lula-repudia-tarifaco-fala-em-acionar-lei-de-reciprocidade-e-responsabiliza-cla-bolsonaro/",
+     "trecho": "O senador e pré-candidato à Presidência da República Flávio Bolsonaro (PL-RJ) participou no início do mês de audiência no Escritório do Representante de Comércio dos Estados Unidos (USTR), em Washington, sobre as investigações comerciais contra o Brasil."
+    }
+   ],
+   "veio_junto": "Flávio Bolsonaro, pré-candidato, participou no início de julho de audiência do USTR em Washington sobre a investigação."
+  },
+  {
+   "id": "br-021",
+   "data": "2026-06-01",
+   "tipo": "diplomatica",
+   "direcao": "sobe",
+   "descricao": "A Casa Branca indica o deputado estadual da Flórida Daniel (Danny) Perez para embaixador no Brasil; o posto está vago desde jan/2025. Quem chefia a missão em Brasília não aparece nas fontes lidas; Darren Beattie é assessor sênior do Departamento de Estado para o Brasil, não embaixador.",
+   "efeito_reportado": "O Brasil segurou o agrément e os EUA responderam com o visto da embaixadora (br-026).",
+   "central": false,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.metropoles.com/mundo/eua-alega-acao-reciproca-ao-cancelar-visto-de-embaixadora-do-brasil",
+     "trecho": "Pérez foi indicado para assumir a Embaixada dos EUA no Brasil em 1º de junho pelo governo Trump."
+    },
+    {
+     "url": "https://www.metropoles.com/mundo/eua-alega-acao-reciproca-ao-cancelar-visto-de-embaixadora-do-brasil",
+     "trecho": "A Embaixada dos EUA no Brasil segue sem embaixador desde janeiro de 2025"
+    },
+    {
+     "url": "https://www.opovo.com.br/noticias/politica/2026/08/04/governo-trump-cancela-visto-de-embaixadora-do-brasil-nos-eua.html",
+     "trecho": "A indicação de Daniel Perez, ao cargo de embaixador americano no Brasil, foi anunciada pela Casa Branca em 1º de junho."
+    }
+   ],
+   "veio_junto": "O Itamaraty só soube pela lista pública da Casa Branca, sem consulta prévia (agrément), o que o governo diz violar a Convenção de Viena."
+  },
+  {
+   "id": "br-022",
+   "data": "2026-07-01",
+   "tipo": "diplomatica",
+   "direcao": "sobe",
+   "descricao": "Ofício do Itamaraty à Câmara diz que a designação de PCC e CV pelos EUA 'abre caminho' para uso de força militar americana no Brasil; o Departamento de Estado havia negado essa leitura em 1º/06.",
+   "efeito_reportado": "Não aparece nenhuma medida militar contra o Brasil; a porta-voz americana diz que a lei das designações 'não contempla nenhum tipo de ação militar'.",
+   "central": false,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.poder360.com.br/poder-governo/governo-lula-diz-ver-risco-de-intervencao-militar-dos-eua-no-brasil/",
+     "trecho": "a classificação do PCC (Primeiro Comando da Capital) e do CV (Comando Vermelho) como organizações terroristas pelos Estados Unidos abre caminho para o uso da força militar norte-americana no Brasil."
+    },
+    {
+     "url": "https://www.poder360.com.br/poder-governo/governo-lula-diz-ver-risco-de-intervencao-militar-dos-eua-no-brasil/",
+     "trecho": "A lei americana das designações é muito clara: não contempla nenhum tipo de ação militar."
+    },
+    {
+     "url": "https://www.correiobraziliense.com.br/politica/2026/07/7456830-camara-analisara-convocacao-de-vieira-apos-documento-citar-risco-de-acao-militar-dos-eua.html",
+     "trecho": "No texto, o ministério afirma que uma eventual classificação do Primeiro Comando da Capital (PCC) e do Comando Vermelho (CV) como organizações terroristas pelos Estados Unidos pode abrir espaço para o emprego de força militar norte-americana em território brasileiro."
+    }
+   ],
+   "veio_junto": "A comissão da Câmara passou a analisar a convocação do chanceler Mauro Vieira."
+  },
+  {
+   "id": "br-023",
+   "data": "2026-07-15",
+   "tipo": "tarifa",
+   "direcao": "sobe",
+   "descricao": "O USTR conclui a Seção 301 e impõe tarifa de 25% sobre a maior parte das importações do Brasil, a valer em 22/07, com isenções (aeronaves, energia, farmacêuticos, ferro-gusa, café, cacau, parte da carne e do suco de laranja).",
+   "efeito_reportado": "Lula/Secom: data 'marco lastimável'; iniciaria os trâmites da Lei da Reciprocidade e voltaria à OMC.",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://br.usembassy.gov/fact-sheet-president-trump-directs-ustr-section-301-action-in-response-to-brazils-unreasonable-acts-policies-and-practices/",
+     "trecho": "Today, at the direction of President Trump, the Office of the U.S. Trade Representative (USTR) concludes its Section 301 Investigation of Brazil’s Unreasonable Acts, Policies, and Practices by imposing a 25% tariff on certain imports from Brazil."
+    },
+    {
+     "url": "https://alstontrade.com/ustr-imposes-25-percent-section-301-tariff-against-brazil/",
+     "trecho": "imposing a 25 percent tariff on certain goods from Brazil under Section 301 of the Trade Act of 1974, effective July 22, 2026"
+    },
+    {
+     "url": "https://mercadoeconsumo.com.br/16/07/2026/noticias/lula-repudia-tarifaco-fala-em-acionar-lei-de-reciprocidade-e-responsabiliza-cla-bolsonaro/",
+     "trecho": "iniciará imediatamente os trâmites para acionar os instrumentos previstos na Lei de Reciprocidade"
+    },
+    {
+     "url": "https://uhy-us.com/insights/news/2026/july/tariff-reset-section-122-expires-as-section-301-duties-expand",
+     "trecho": "The tariff applies broadly, but important exemptions include certain beef, orange juice, aircraft and aircraft parts, energy products, and other designated materials."
+    }
+   ],
+   "veio_junto": "Três meses antes do segundo turno; os EUA dizem ter negociado desde abril de 2025. O governo Lula culpou 'a família Bolsonaro' pelo 'enredo' da investigação."
+  },
+  {
+   "id": "br-024",
+   "data": "2026-07-24",
+   "tipo": "tarifa",
+   "direcao": "sobe",
+   "descricao": "Ação global de 12,5% (Seção 301, trabalho forçado) sobre cerca de 60 economias, incluindo o Brasil, no dia em que a tarifa global temporária da Seção 122 vence; soma 37,5% com os 25% do Brasil em parte dos produtos.",
+   "efeito_reportado": "O MDIC calcula cerca de US$ 6,6 bi em exportações atingidas; o Brasil pediu consultas na OMC e os EUA aceitaram.",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://uhy-us.com/insights/news/2026/july/tariff-reset-section-122-expires-as-section-301-duties-expand",
+     "trecho": "Effective July 24, USTR is imposing new Section 301 tariffs on 60 economies following investigations into their treatment of goods produced with forced labor."
+    },
+    {
+     "url": "https://argents.com/section-301-tariffs-2026-guide/",
+     "trecho": "12.5 percent for most others including China, Vietnam, Thailand, and Brazil."
+    },
+    {
+     "url": "https://uhy-us.com/insights/news/2026/july/tariff-reset-section-122-expires-as-section-301-duties-expand",
+     "trecho": "Combined with the additional 12.5%, the two Section 301 tariffs add up to a total tariff barrier of 37.5%."
+    },
+    {
+     "url": "https://www.portaltela.com/politica/2026/08/31/brasil-e-eua-retomam-negociacao-sobre-tarifaco-nesta-segunda/",
+     "trecho": "De acordo com levantamento do MDIC, as tarifas em vigor atingem cerca de US$ 6,6 bilhões em exportações brasileiras para o mercado norte-americano."
+    }
+   ],
+   "veio_junto": "Não é medida dirigida ao Brasil: Canadá e México ficam em 10%. Cai sobre um país já na campanha do segundo turno."
+  },
+  {
+   "id": "br-025",
+   "data": "2026-07-25",
+   "tipo": "visto",
+   "direcao": "sobe",
+   "descricao": "Medida do Brasil: o governo nega vistos a dois funcionários do Departamento de Estado (Riley Barnes e Samuel Samson) que visitariam o país para tratar de 'integridade eleitoral'.",
+   "efeito_reportado": "Os EUA citaram a negativa ao revogar o visto da embaixadora brasileira (br-026).",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.swissinfo.ch/por/eua-revoga-visto-de-embaixadora-do-brasil-por-disputa-diplom%c3%a1tica/91847513",
+     "trecho": "Em 25 de julho, o Brasil negou vistos a dois funcionários americanos que pretendiam se reunir com autoridades eleitorais a menos de três meses das eleições presidenciais."
+    },
+    {
+     "url": "https://www.band.com.br/politica/noticias/governo-repudia-alteracao-de-visto-de-embaixadora-nos-eua-medidas-hostis-202608042017",
+     "trecho": "planejavam visitar o país para colocar em dúvida a integridade do sistema eleitoral brasileiro, em tentativa inaceitável de interferir no processo político nacional."
+    },
+    {
+     "url": "https://www.opovo.com.br/noticias/politica/2026/08/04/governo-trump-cancela-visto-de-embaixadora-do-brasil-nos-eua.html",
+     "trecho": "O impasse se intensificou após o Brasil negar vistos a dois diplomatas americanos"
+    }
+   ],
+   "veio_junto": "A menos de três meses do 1º turno; o Planalto diz que a visita buscava 'colocar em dúvida a integridade do sistema eleitoral'. Os EUA disseram que a visita era sobre liberdade religiosa e de expressão."
+  },
+  {
+   "id": "br-026",
+   "data": "2026-08-04",
+   "tipo": "visto",
+   "direcao": "sobe",
+   "descricao": "O Departamento de Estado revoga o visto da embaixadora do Brasil em Washington, Maria Luiza Viotti, como 'ação recíproca' pela demora do agrément de Perez e pela negativa de vistos; ela não foi expulsa.",
+   "efeito_reportado": "Secom: 'escalada deliberada de medidas hostis' e 'interesse descabido de interferir na próxima eleição'. Os EUA dizem que outras opções diplomáticas seguem abertas.",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.band.com.br/politica/noticias/governo-repudia-alteracao-de-visto-de-embaixadora-nos-eua-medidas-hostis-202608042017",
+     "trecho": "O Governo brasileiro repudiou oficialmente, nesta terça-feira (4), a decisão do Departamento de Estado dos Estados Unidos de alterar o visto da embaixadora do Brasil em Washington, Maria Luiza Ribeiro Viotti"
+    },
+    {
+     "url": "https://www.metropoles.com/mundo/eua-alega-acao-reciproca-ao-cancelar-visto-de-embaixadora-do-brasil",
+     "trecho": "a medida foi tomada como “ação recíproca”, em virtude da demora do governo brasileiro em conceder o aval para Daniel Perez assumir como embaixador do governo Trump em Brasília."
+    },
+    {
+     "url": "https://www.opovo.com.br/noticias/politica/2026/08/04/governo-trump-cancela-visto-de-embaixadora-do-brasil-nos-eua.html",
+     "trecho": "Isso não é o mesmo que expulsar a pessoa do país. Significa que ela pode permanecer aqui, mas sem visto"
+    }
+   ],
+   "veio_junto": "O Itamaraty devia liberar o agrément só depois das eleições; o Planalto diz que os EUA descumpriram a Convenção de Viena ao anunciar o nome antes do pedido."
+  },
+  {
+   "id": "br-027",
+   "data": "2026-08-07",
+   "tipo": "diplomatica",
+   "direcao": "sobe",
+   "descricao": "O Senado dos EUA confirma Daniel Perez como embaixador no Brasil (51 a 47), em votação em bloco; falta o agrément do governo Lula.",
+   "efeito_reportado": "Sem efeito prático até aqui: Perez não assumiu, e a embaixada segue sem embaixador.",
+   "central": false,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://sbtnews.sbt.com.br/noticia/mundo/senado-dos-eua-aprova-daniel-perez-para-embaixador-no-brasil",
+     "trecho": "O Senado dos Estados Unidos aprovou, nesta sexta-feira (7), a indicação de Daniel Perez para representar o país como novo embaixador no Brasil."
+    },
+    {
+     "url": "https://apublica.org/nota/daniel-perez-e-aprovado-como-embaixador-por-senado-dos-eua/",
+     "trecho": "o Senado norte-americano votou e aprovou, nesta sexta-feira (7), a indicação de Donald Trump à embaixada estadunidense no Brasil."
+    }
+   ],
+   "veio_junto": "O Brasil segue sem conceder o aval, ligado ao calendário eleitoral."
+  },
+  {
+   "id": "br-028",
+   "data": "2026-08-13",
+   "tipo": "diplomatica",
+   "direcao": "sobe",
+   "descricao": "Resposta do Brasil: o governo inicia o exame de pedido de enquadramento na Lei da Reciprocidade Econômica (Lei 15.122/2025) das medidas da Seção 301 e pede consultas diplomáticas; já havia pedido consultas na OMC no fim de julho.",
+   "efeito_reportado": "Os EUA aceitaram as consultas na OMC.",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.correiodamanha.com.br/politica/2026/08/310996-governo-lula-inicia-processo-de-reciprocidade-contra-tarifaco-de-trump.html",
+     "trecho": "O governo brasileiro informa que deu início à análise de pleito ordinário de enquadramento, sob a Lei da Reciprocidade Econômica (Lei nº 15.122/2025), das medidas unilaterais adotadas pelo governo dos Estados Unidos da América no âmbito da Seção 301"
+    },
+    {
+     "url": "https://www.portaltela.com/politica/2026/08/31/brasil-e-eua-retomam-negociacao-sobre-tarifaco-nesta-segunda/",
+     "trecho": "O governo brasileiro também apresentou um pedido de consultas à Organização Mundial do Comércio (OMC) , sob o argumento de que as tarifas são incompatíveis com as regras da entidade."
+    }
+   ],
+   "veio_junto": "Lula diz preferir negociar; a lei prevê análise da Camex e processo longo."
+  },
+  {
+   "id": "br-029",
+   "data": "2026-08-21",
+   "tipo": "diplomatica",
+   "direcao": "desce",
+   "descricao": "Lula e Trump conversam por telefone; em 31/08 os ministros Márcio Elias Rosa (MDIC) e Jamieson Greer (USTR) retomam a negociação sobre as tarifas.",
+   "efeito_reportado": "Nenhuma redução de tarifa aparece nas fontes lidas até 02/nov.",
+   "central": false,
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://www.portaltela.com/politica/2026/08/31/brasil-e-eua-retomam-negociacao-sobre-tarifaco-nesta-segunda/",
+     "trecho": "A reunião ocorre dez dias após uma conversa telefônica entre o presidente Luiz Inácio Lula da Silva e Donald Trump, realizada em 21 de agosto."
+    }
+   ],
+   "veio_junto": "Antes do 1º turno, de 4 de outubro."
+  },
+  {
+   "id": "br-030",
+   "data": "2026-10-24",
+   "tipo": "diplomatica",
+   "direcao": "sobe",
+   "descricao": "A Reuters, com 10 fontes atuais e antigas do governo, relata que dois assessores do Departamento de Estado, Darren Beattie e Ricardo Pita, lideraram uma campanha para devolver os Bolsonaro ao poder, incluindo sanções e a designação de PCC e CV.",
+   "efeito_reportado": "A Reuters diz que analistas veem várias das medidas como contraproducentes. Lula já acusava Washington de conluio com os Bolsonaro.",
+   "central": false,
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://www.thestar.com.my/news/world/2026/10/25/inside-the-trump-administration-campaign-to-return-brazils-bolsonaro-clan-to-power",
+     "trecho": "The two officials were Darren Beattie, a Senior Advisor for Western Hemisphere Affairs who oversees Brazil policy, and Ricardo Pita, another senior advisor promoted this year to Deputy Assistant Secretary for North America."
+    },
+    {
+     "url": "https://www.nbcnews.com/world/brazil/flavio-bolsonaro-flees-us-losing-brazil-election-sources-say-rcna605992",
+     "trecho": "Lula has accused Washington of colluding with the Bolsonaros to put them back in power, and Reuters reported ahead of Sunday’s election on a State Department campaign to restore them to office."
+    }
+   ],
+   "veio_junto": "Véspera do 2º turno (25/10). Não se soube de ordem superior; o Departamento de Estado disse defender liberdade de expressão e eleições livres."
+  },
+  {
+   "id": "br-031",
+   "data": "2026-10-27",
+   "tipo": "visto",
+   "direcao": "sobe",
+   "descricao": "Um alto funcionário do Departamento de Estado diz à NBC que os EUA emitirão vistos a Flávio Bolsonaro e família; depois o registro mostra que a entrada se deu por parole (ver br-032), e o Terra afirma que os vistos ainda não tinham sido emitidos.",
+   "efeito_reportado": "Lula chamou a saída de 'vergonhosa'. Não é medida contra o Brasil como tal: é decisão sobre a entrada de um opositor sob ordem do STF.",
+   "central": true,
+   "incerto": true,
+   "fontes": [
+    {
+     "url": "https://www.nbcnews.com/world/brazil/flavio-bolsonaro-flees-us-losing-brazil-election-sources-say-rcna605992",
+     "trecho": "The State Department will issue visas to Bolsonaro and his family and allow them entry into the U.S., a senior State Department official confirmed to NBC News on Tuesday afternoon."
+    },
+    {
+     "url": "https://www.terra.com.br/noticias/eleicoes/flavio-recebe-autorizacao-humanitaria-de-1-ano-de-permanencia-nos-eua,1977465b0c6da684eff956297bc0334593tj5h76.html",
+     "trecho": "Ao contrário do que foi reportado inicialmente, os EUA ainda não emitiram vistos para o senador e sua família."
+    },
+    {
+     "url": "https://www.poder360.com.br/poder-internacional/leia-o-que-trump-disse-ate-agora-sobre-as-eleicoes-no-brasil/",
+     "trecho": "logo depois de o Departamento de Estado dos EUA confirmar a concessão de vistos ao senador e a toda a sua família."
+    },
+    {
+     "url": "https://www.nbcnews.com/world/brazil/flavio-bolsonaro-flees-us-losing-brazil-election-sources-say-rcna605992",
+     "trecho": "Lula, speaking in Brasilia, said he had just heard that Flavio had left the country, and called it shameful"
+    }
+   ],
+   "veio_junto": "Lula venceu em 25/10; Flávio saiu do país depois de se recusar a cumprir ordem do STF de entregar os passaportes (NBC). Trump disse que 'aprovaria' a vinda."
+  },
+  {
+   "id": "br-032",
+   "data": "2026-10-28",
+   "tipo": "diplomatica",
+   "direcao": "sobe",
+   "descricao": "Flávio Bolsonaro e a família chegam a Miami com 'parole' humanitária (admissão 'DT') até 27/10/2027, e com passaporte diplomático que a Polícia Federal havia cancelado; o governo americano pode encerrar a permissão.",
+   "efeito_reportado": "Rubio diz que Trump decidiu que ele seria admitido pela fronteira. 25 deputados democratas pediram explicações (prazo 13/11).",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.terra.com.br/noticias/eleicoes/flavio-recebe-autorizacao-humanitaria-de-1-ano-de-permanencia-nos-eua,1977465b0c6da684eff956297bc0334593tj5h76.html",
+     "trecho": "O registro, emitido em 28 de outubro de 2026, autoriza Flávio a ficar nos EUA durante um ano, até 27 de outubro de 2027."
+    },
+    {
+     "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-a-press-availability-2/",
+     "trecho": "But the President made clear that if he arrived in the United States in a port of entry, that he would be paroled into the country, and he was."
+    },
+    {
+     "url": "https://www.yahoo.com/news/articles/rubio-brazils-foreign-minister-meet-151229759.html",
+     "trecho": "He was admitted to the United States under humanitarian parole, Reuters has previously reported, a status that typically only lasts for one year."
+    },
+    {
+     "url": "https://www.terra.com.br/noticias/eleicoes/flavio-recebe-autorizacao-humanitaria-de-1-ano-de-permanencia-nos-eua,1977465b0c6da684eff956297bc0334593tj5h76.html",
+     "trecho": "Os passaportes do senador foram cancelados na terça-feira, 27, após determinação do ministro Alexandre de Moraes"
+    },
+    {
+     "url": "https://www.cnnbrasil.com.br/politica/flavio-recua-em-carta-com-teor-golpista-e-se-diz-lider-do-brasil/",
+     "trecho": "divulgou nesta quarta-feira (28) uma carta em que se apresentava como \"o verdadeiro presidente eleito do Brasil\". Minutos depois, o senador republicou o texto nas redes sociais sem essa frase."
+    },
+    {
+     "url": "https://www.riotimesonline.com/brazil-house-democrats-question-rubio-flavio-bolsonaro-visa/",
+     "trecho": "The letter is dated Thursday 29 October 2026, and its 15 questions come with a request for written answers and a staff briefing by 13 November 2026."
+    }
+   ],
+   "veio_junto": "Não é asilo nem visto: é permissão temporária. Os passaportes dele foram cancelados em 27/10 por ordem de Moraes; ele apresentou nos EUA o passaporte diplomático. Na carta de 28/10 se apresentou como 'verdadeiro presidente eleito' e minutos depois republicou sem a frase."
+  },
+  {
+   "id": "br-033",
+   "data": "2026-10-31",
+   "tipo": "diplomatica",
+   "direcao": "sobe",
+   "descricao": "Rubio, em Atlanta (G20 de chanceleres), diz 'não facilitamos nada'; Trump diz que Flávio 'pode ficar aqui o tempo que quiser'. Rubio e o chanceler Vieira conversaram e devem se ver no G7 na França, em novembro.",
+   "efeito_reportado": "Observadores independentes descrevem a eleição como livre e justa (Reuters). A conversa Rubio-Vieira foi vista como sinal possível de reaproximação.",
+   "central": true,
+   "incerto": false,
+   "fontes": [
+    {
+     "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-a-press-availability-2/",
+     "trecho": "At least the U.S. Government was not involved directly in any of the moves that were made."
+    },
+    {
+     "url": "https://www.theglobeandmail.com/world/article-trump-administration-did-not-facilitate-bolsonaros-departure-to-us/",
+     "trecho": "the president made a decision to allow him to enter the country,” Rubio said, adding that the U.S. government was not “involved directly in any of the moves that were made.”"
+    },
+    {
+     "url": "https://www.yahoo.com/news/articles/rubio-brazils-foreign-minister-meet-151229759.html",
+     "trecho": "have told Reuters that Trump has no current plans to support the political ambitions of Bolsonaro"
+    },
+    {
+     "url": "https://www.poder360.com.br/poder-internacional/leia-o-que-trump-disse-ate-agora-sobre-as-eleicoes-no-brasil/",
+     "trecho": "basta olhar para o mercado. O mercado despencou."
+    }
+   ],
+   "veio_junto": "Trump chamou a eleição brasileira de 'vergonhosa' e disse que o mercado 'despencou', sem prova; Reuters: sem planos atuais de apoiar as ambições políticas de Flávio."
+  }
+ ],
+ "comparacao": {
+  "colombia": [
+   {
+    "id": "co-001",
+    "data": "2025-01-26",
+    "tipo": "tarifa",
+    "direcao": "sobe",
+    "descricao": "Trump anuncia tarifa de 25% sobre tudo que a Colômbia exporta aos EUA (subiria a 50% em uma semana), proibição de viagem e revogação de vistos de autoridades e sanções financeiras de emergência, depois de Petro barrar dois voos militares de deportados. Rubio autoriza restrições de visto a autoridades colombianas e suspende vistos na embaixada em Bogotá.",
+    "veio_junto": "Disputa de Petro com Trump sobre voos de deportação (dignidade dos migrantes); primeira briga pública do segundo mandato. Petro anunciou em resposta alta de 25% nas tarifas colombianas sobre produtos dos EUA.",
+    "efeito_reportado": "Colômbia recuou no mesmo dia (ver co-002). Petro ordenou tarifa recíproca de 25% (PBS). Obs.: a Al Jazeera cita 30% em vez de 25%; Reuters e AP citam 25%.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.thejakartapost.com/world/2025/01/27/trump-imposes-tariffs-sanctions-on-colombia-after-it-refuses-deportation-flights",
+      "trecho": "The retaliatory measures include imposing 25 percent tariffs on all Colombian goods coming into the US, which will go up to 50 percent in one week; a travel ban and visa revocations on Colombian government officials;"
+     },
+     {
+      "url": "https://www.csmonitor.com/USA/2025/0127/trump-colombia-migrant-deportation-flights-tariffs",
+      "trecho": "Earlier, the U.S. president had ordered visa restrictions, 25% tariffs on all Colombian incoming goods, which would be raised to 50% in one week, and other retaliatory measures sparked by"
+     },
+     {
+      "url": "https://www.pbs.org/newshour/politics/trump-and-colombias-president-clash-over-deportation-flights-raising-tariffs-in-retribution",
+      "trecho": "Petro said in a post on X that he had ordered the \"foreign trade minister to raise import tariffs from the U.S. by 25%.\""
+     }
+    ]
+   },
+   {
+    "id": "co-002",
+    "data": "2025-01-26",
+    "tipo": "tarifa",
+    "direcao": "desce",
+    "descricao": "Horas depois, a Casa Branca diz que as tarifas e sanções 'totalmente redigidas' ficam em reserva, sem assinar, porque a Colômbia aceitou receber deportados, inclusive em aviões militares dos EUA. As restrições de visto e as inspeções reforçadas continuam até o primeiro voo de deportados chegar.",
+    "veio_junto": "Petro cedeu sobre os voos de deportados; ficou a ameaça de aplicar as medidas se a Colômbia não cumprisse o acordo.",
+    "efeito_reportado": "Guerra comercial evitada em menos de um dia; a Casa Branca apresentou o episódio como aviso a outros países (CSMonitor/AP).",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://newson6.com/story/6797f4f17749e97245248b04/trump-holding-off-on-tariffs-after-colombia-agrees-to-accept-deported-migrants-on-military-planes-white-house-says",
+      "trecho": "The Government of Colombia has agreed to all of President Trump’s terms, including the unrestricted acceptance of all illegal aliens from Colombia returned from the United States, including on U.S. military aircraft, without limitation"
+     },
+     {
+      "url": "https://arynews.tv/colombia-caves-on-deportations-trump-threats",
+      "trecho": "Colombia on Sunday backed down and agreed to accept deported citizens sent on US military aircraft, hours after President Donald Trump threatened painful tariffs to"
+     }
+    ]
+   },
+   {
+    "id": "co-003",
+    "data": "2025-09-15",
+    "tipo": "designacao",
+    "direcao": "sobe",
+    "descricao": "Trump determina que a Colômbia 'falhou de forma demonstrável' no combate às drogas (descertificação), a primeira vez desde 1997, mas concede dispensa por interesse nacional que preserva a ajuda e a cooperação de segurança.",
+    "veio_junto": "Memorando ao Congresso culpa a 'liderança política' de Petro e sua política de 'paz total'; Petro respondeu acusando a Casa Branca de mentir e citou a demanda nos EUA e na Europa.",
+    "efeito_reportado": "Sem sanções efetivas por causa da dispensa; analistas citam golpe simbólico e riscos políticos e diplomáticos.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.npr.org/2025/09/16/nx-s1-5543055/colombia-drugs-u-s-trump-petro",
+      "trecho": "The United States has decertified Colombia as a drug control partner for the first time since 1997."
+     },
+     {
+      "url": "https://www.everycrsreport.com/reports/IN12610.html",
+      "trecho": "Although the United States has issued a waiver from foreign aid restrictions, Colombia's decertification may, nonetheless, have political and diplomatic ramifications. Colombia has been a"
+     },
+     {
+      "url": "https://www.newstribune.com/news/2025/sep/17/colombias-president-lashes-out-at-trump/",
+      "trecho": "Even as the U.S determined that Colombia has failed to comply with international anti-narcotics obligations, the Trump administration issued a waiver of sanctions that would have triggered major aid cuts."
+     }
+    ]
+   },
+   {
+    "id": "co-004",
+    "data": "2025-09-27",
+    "tipo": "visto",
+    "direcao": "sobe",
+    "descricao": "O Departamento de Estado anuncia a revogação do visto de Petro depois que ele, em ato pró-Palestina em Nova York durante a Assembleia Geral da ONU, pediu a soldados americanos que desobedecessem às ordens de Trump.",
+    "veio_junto": "Discurso de Petro na ONU e no ato de rua sobre Gaza; críticas aos ataques dos EUA a barcos no Caribe.",
+    "efeito_reportado": "Petro respondeu que tem imunidade para ir à ONU (relatos de imprensa).",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.pbs.org/newshour/amp/world/u-s-revokes-visa-for-colombian-president-petro-after-he-urges-american-soldiers-to-disobey-trump",
+      "trecho": "The department said on social media that \"we will revoke Petro's visa due to his reckless and incendiary actions.\" Petro was visiting"
+     },
+     {
+      "url": "https://www.deccanherald.com/amp/story/world%2Fus-says-it-will-revoke-colombian-presidents-visa-3745589",
+      "trecho": "The State Department said on social media that it would revoke Petro’s visa because of “his reckless and incendiary actions,” adding that he had stood on a New"
+     }
+    ]
+   },
+   {
+    "id": "co-005",
+    "data": "2025-10-19",
+    "tipo": "ajuda",
+    "direcao": "sobe",
+    "descricao": "Trump chama Petro de 'illegal drug leader', anuncia o fim de toda a ajuda financeira dos EUA à Colômbia e diz que elevará tarifas (detalhes não esclarecidos). A Colômbia chama de volta o embaixador em Washington no dia seguinte.",
+    "veio_junto": "Troca de ameaças após ataques militares dos EUA a barcos suspeitos de levar drogas no Caribe; Petro acusava os EUA de matar pescadores e violar a soberania.",
+    "efeito_reportado": "Peso colombiano caiu 1,4% para 3.889 por dólar na abertura de 20/10 (Reuters via Dawn). Embaixador Daniel García-Peña chamado a Bogotá para consultas. A tarifa nova anunciada não está confirmada nas fontes lidas.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.dawn.com/news/1950313",
+      "trecho": "Trump said US financial aid to Colombia would be cut off and details about the new tariffs would be unveiled on Monday, but it was not clear what funding Trump"
+     },
+     {
+      "url": "https://www.dawn.com/news/1950313",
+      "trecho": "Colombia’s currency fell 1.4 per cent to 3,889 pesos per US dollar in early"
+     },
+     {
+      "url": "https://www.aljazeera.com/news/2025/10/20/colombia-recalls-ambassador-to-united-states-amid-diplomatic-spat",
+      "trecho": "Colombia has said it has recalled its ambassador to the United States, after US President Donald Trump threatened to cut off aid and made disparaging remarks about the"
+     },
+     {
+      "url": "https://www.spokesman.com/stories/2025/oct/24/us-treasury-sanctions-colombian-president-over-all",
+      "trecho": "Calling Petro “an illegal drug leader,” Trump announced Sunday the end of all U.S. aid to the South American country."
+     }
+    ]
+   },
+   {
+    "id": "co-006",
+    "data": "2025-10-24",
+    "tipo": "sancao",
+    "direcao": "sobe",
+    "descricao": "O Tesouro (OFAC) inclui Gustavo Petro, a esposa Verónica Alcocer, o filho Nicolás Petro e o ministro do Interior Armando Benedetti na lista SDN, pela ordem executiva 14059 (tráfico de drogas). É a primeira vez que um presidente colombiano em exercício é designado.",
+    "veio_junto": "Escalada depois da descertificação, do visto revogado, da ameaça de tarifas e do corte de ajuda; Tesouro cita 'paz total', recorde de coca e a suspensão da unidade de inteligência financeira colombiana do grupo Egmont.",
+    "efeito_reportado": "Petro reagiu dizendo 'Not one step back and never on my knees' e sugeriu contestar nos tribunais dos EUA (Al Jazeera). Congela ativos nos EUA e bloqueia transações com entidades americanas.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://home.treasury.gov/news/press-releases/sb0292",
+      "trecho": "Today, the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) is designating Gustavo Francisco Petro Urrego (Gustavo"
+     },
+     {
+      "url": "https://www.sullcrom.com/insights/memo/2025/October/United-States-Sanctions-Colombia-President-Certain-Supporters",
+      "trecho": "OFAC designated Petro under E.O. 14059 for having engaged in, or attempting to engage in, activities or transactions that have materially contributed to, or pose a significant risk of materially"
+     },
+     {
+      "url": "https://www.aljazeera.com/news/2025/10/24/us-sanctions-colombias-president-gustavo-petro-escalating-trump-feud",
+      "trecho": "“Not one step back and never on my knees,” Petro wrote,"
+     }
+    ]
+   },
+   {
+    "id": "co-007",
+    "data": "2026-02-03",
+    "tipo": "diplomatica",
+    "direcao": "desce",
+    "descricao": "Petro e Trump se reúnem a portas fechadas na Casa Branca por cerca de duas horas, depois de Trump ameaçar a Colômbia em janeiro ('watch his ass', após a captura de Maduro) e de uma ligação em 7/01 em que convidou Petro. Trump diz que trabalham em 'sanções' e em medidas antidrogas, sem detalhes.",
+    "veio_junto": "Captura de Maduro na Venezuela; Petro disse temer ação militar; a pauta incluiu narcotráfico, Venezuela e mediação com o Equador.",
+    "efeito_reportado": "Ambos descreveram o encontro como cordial; sem acordos concretos anunciados. A OFAC manteve Petro na lista (ver co-011).",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://kuwaittimes.com/article/39417/world/america/trump-colombias-petro-make-amends-at-white-house/",
+      "trecho": "US President Donald Trump and Colombian President Gustavo Petro said on Tuesday that they had a cordial meeting in their"
+     },
+     {
+      "url": "https://en.mercopress.com/2026/02/03/petro-and-trump-signal-thaw-after-closed-door-white-house-meeting-amid-talks-on-drugs-sanctions-and-venezuela",
+      "trecho": "Trump later called the meeting “very good,” saying the two sides reached understandings on counter-narcotics measures and were also “working on other issues, including"
+     },
+     {
+      "url": "https://tribune.net.ph/2026/01/08/trump-invites-colombia-president-to-white-house-after-threats",
+      "trecho": "Trump had warned Petro on January 3 to \"watch his ass\" following US forces' ousting of leader Nicolas Maduro in neighboring Venezuela. On Wednesday, following the first phone call between the leaders since Trump"
+     }
+    ]
+   },
+   {
+    "id": "co-008",
+    "data": "2026-06-21",
+    "tipo": "diplomatica",
+    "direcao": "desce",
+    "descricao": "Eleição presidencial colombiana: o advogado de direita Abelardo de la Espriella vence o segundo turno (cerca de 49,7% a 48,7% contra Iván Cepeda, do partido de Petro, na contagem preliminar). Trump o apoiou oficialmente após o 1º turno (31/05) e celebrou o resultado ('won BIG'). Posse em 7/08.",
+    "veio_junto": "Candidato do governo (Pacto Histórico) perdeu; Trump chamou o rival de 'radical leftist Marxist' e disse que a eleição era 'very important' para a relação com os EUA.",
+    "efeito_reportado": "A relação EUA-Colômbia passou a ser descrita como de aproximação sob o novo governo (Vanguardia, 12/10). Resultado preliminar; certificação final não verificada nas fontes lidas.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.goodmorningamerica.com/news/story/trump-backed-wing-lawyer-appears-win-colombias-presidential-134082409",
+      "trecho": "Abelardo De la Espriella, a right-wing lawyer with no prior elected political experience, appears to be Colombia’s next president, according to preliminary results"
+     },
+     {
+      "url": "https://en.cibercuba.com/noticias/2026-06-03-u1-e135253-s27061-nid331052-trump-respalda-al-colombiano-abelardo-espriella",
+      "trecho": "The president Donald Trump officially endorsed the Colombian presidential candidate Abelardo de la Espriella"
+     }
+    ]
+   },
+   {
+    "id": "co-009",
+    "data": "2026-07-24",
+    "tipo": "tarifa",
+    "direcao": "sobe",
+    "descricao": "Entra em vigor tarifa adicional de 12,5% da Seção 301 (investigação de trabalho forçado, 60 economias) sobre produtos colombianos não excluídos. Café, petróleo, ouro, banano, abacate e cacau em grão ficam fora; flores, confecções e alimentos processados pagam.",
+    "veio_junto": "Medida geral (60 economias, não específica da Colômbia) decidida em 23/07, ainda no governo Petro cessante e semanas antes da posse de De la Espriella; Colômbia ficou sem anexo próprio de exclusões.",
+    "efeito_reportado": "Flores, confecções, confeitaria e alimentos processados são os mais expostos; a USTR indica que uma proibição formal de importação de bens de trabalho forçado é o caminho para reduzir a tarifa (Portafolio).",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/actions-by-the-united-states-in-the-investigations-under-section-301-of-the-trade-act-of-1974-of-the-acts-policies-and-practices-of-60-economies-related-to-the-failure-of-each-economy-to-impose-and/",
+      "trecho": "(iii) 12.5 percent tariff rate: For goods of all other investigated economies, the Trade Representative shall impose a tariff rate of 12.5 percent."
+     },
+     {
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/actions-by-the-united-states-in-the-investigations-under-section-301-of-the-trade-act-of-1974-of-the-acts-policies-and-practices-of-60-economies-related-to-the-failure-of-each-economy-to-impose-and/",
+      "trecho": "13. Colombia 14. Costa Rica 15. Dominican Republic"
+     },
+     {
+      "url": "https://www.portafolio.co/negocios/comercio/por-que-estados-unidos-impuso-un-arancel-de-12-5-a-colombia-y-cuales-sectores-seran-los-mas-golpeados-498849",
+      "trecho": "Colombia quedó dentro del grupo de países sujetos a una tarifa de 12,5 %, mientras otras economías recibieron un recargo de 10"
+     },
+     {
+      "url": "https://www.portafolio.co/negocios/comercio/por-que-estados-unidos-impuso-un-arancel-de-12-5-a-colombia-y-cuales-sectores-seran-los-mas-golpeados-498849",
+      "trecho": "Café, petróleo, oro, banano, aguacate, cacao y ciertos azúcares dentro de cuota quedaron excluidos."
+     }
+    ]
+   },
+   {
+    "id": "co-010",
+    "data": "2026-09-16",
+    "tipo": "designacao",
+    "direcao": "sobe",
+    "descricao": "Trump mantém a Colômbia descertificada pelo segundo ano, mas diz confiar no governo De la Espriella, mantém a assistência (interesse nacional) e afirma que considerará retirar a classificação se houver avanços na erradicação de coca no próximo ano.",
+    "veio_junto": "Novo presidente aliado de Trump (posse 7/08); no mesmo comunicado Venezuela saiu da lista de países que falham.",
+    "efeito_reportado": "Sem corte de ajuda; sinal de que a descertificação deixa de ser instrumento contra o governo e vira cobrança de resultados. Só uma fonte (EFE) lida: incerto.",
+    "central": false,
+    "incerto": true,
+    "fontes": [
+     {
+      "url": "https://www.laprensa.hn/mundo/trump-mantiene-descertificacion-colombia-expresa-confianza-espriella-MF32048114",
+      "trecho": "anunció este miércoles que mantendrá a Colombia en la lista de países que, a su juicio, han incumplido sus obligaciones en la lucha contra el narcotráfico"
+     }
+    ]
+   },
+   {
+    "id": "co-011",
+    "data": "2026-10-06",
+    "tipo": "sancao",
+    "direcao": "desce",
+    "descricao": "O Tesouro retira das sanções 73 pessoas e empresas colombianas, mas Petro (já ex-presidente), a ex-esposa Verónica Alcocer, o filho Nicolás Petro e Armando Benedetti continuam na lista SDN. Em 16/07 um funcionário do Departamento de Estado disse que não havia ordem para tirar Petro.",
+    "veio_junto": "Petro disse, após ligação com Trump em 3/07, ter pedido o fim das sanções contra ele e a família; só a versão de Petro sustenta uma promessa de Trump.",
+    "efeito_reportado": "Alívio parcial para terceiros colombianos; os alvos principais seguem sancionados. O motivo da retirada dos 73 não aparece nas fontes lidas.",
+    "central": false,
+    "incerto": true,
+    "fontes": [
+     {
+      "url": "https://www.ntn24.com//noticias-actualidad/gustavo-petro-veronica-alcocer-armando-benedetti-y-nicolas-petro-continuan-en-la-lista-ofac-la-informacion-fue-confirmada-por-el-departamento-del-tesoro-656429",
+      "trecho": "No hacen parte del grupo de 73 personas naturales y empresas colombianas que hoy fueron excluidas de las sanciones"
+     },
+     {
+      "url": "https://www.noticiasrcn.com/internacional/petro-sigue-en-la-lista-ofac-de-ee-uu-tampoco-fueron-excluidos-alcocer-benedetti-y-nicolas-petro-1069161",
+      "trecho": "no fueron incluidos en el reciente proceso de exclusión que benefició a 73 personas y empresas colombianas."
+     },
+     {
+      "url": "https://www.publimetro.co/noticias/2026/07/16/alto-funcionario-de-ee-uu-revelo-que-aun-no-hay-ordenes-de-sacar-a-petro-de-la-lista-ofac-pese-a-dialogo-con-trump/",
+      "trecho": "Ante ello, Mendez respondió que desconoce si la salida del presidente colombiano de dicha lista está en los planes de Washington: “Por el momento no,"
+     }
+    ]
+   },
+   {
+    "id": "co-012",
+    "data": "2026-10-12",
+    "tipo": "tarifa",
+    "direcao": "desce",
+    "descricao": "Trump diz que 'puede que lo haga' ao ser perguntado sobre retirar a tarifa de 12,5% sobre produtos colombianos, citando a amizade com De la Espriella ('El Tigre'). Não há decisão formal.",
+    "veio_junto": "Governo De la Espriella pediu a suspensão temporária das tarifas após o terremoto de agosto e conversou com Rubio.",
+    "efeito_reportado": "Só sinalização; nenhuma tarifa retirada nas fontes lidas.",
+    "central": false,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.bluradio.com/mundo/trump-abre-la-puerta-a-eliminar-aranceles-a-productos-colombianos-rg10",
+      "trecho": "consideró posible este lunes la retirada de los aranceles que pesan sobre las importaciones de Colombia dada la"
+     },
+     {
+      "url": "https://www.portafolio.co/negocios/comercio/atencion-trump-sugiere-que-podria-desmontar-aranceles-a-productos-colombianos-504341",
+      "trecho": "Las posibilidades de que Estados Unidos elimine parte de los aranceles sobre bienes colombianos volvieron a abrirse este lunes, luego de que"
+     }
+    ]
+   }
+  ],
+  "mexico": [
+   {
+    "id": "mx-001",
+    "data": "2025-02-01",
+    "tipo": "tarifa",
+    "direcao": "sobe",
+    "descricao": "Ordem executiva impõe tarifa adicional de 25% sobre produtos do México (e do Canadá), com base na lei de emergência IEEPA e na justificativa de fentanil e migração; vigência prevista para 4 de fevereiro de 2025.",
+    "veio_junto": "Justificativa oficial: fentanil, migração e uma suposta 'aliança intolerável' entre cartéis e o governo mexicano; Sheinbaum estava no 4º mês de mandato e a revisão do T-MEC ainda estava a um ano e meio.",
+    "efeito_reportado": "Dois dias depois, Sheinbaum fechou pausa de um mês em troca de 10 mil soldados na fronteira (ver mx-002).",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-situation-at-our-southern-border/",
+      "trecho": "shall be, consistent with law, subject to an additional 25 percent ad valorem rate of duty. Such rate of duty shall apply with respect to goods"
+     },
+     {
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-situation-at-our-southern-border/",
+      "trecho": "The Mexican DTOs have an intolerable alliance with the government of Mexico."
+     },
+     {
+      "url": "https://www.cnbc.com/2025/02/03/trump-tariffs-mexico-canada-china-sheinbaum-responds.html",
+      "trecho": "The announcement came two days after Trump slapped 25% tariffs on goods from Mexico and Canada, as well as a 10% tariff on goods imported from China."
+     }
+    ]
+   },
+   {
+    "id": "mx-002",
+    "data": "2025-02-03",
+    "tipo": "diplomatica",
+    "direcao": "desce",
+    "descricao": "Após telefonema, Trump suspende por um mês a tarifa de 25% sobre o México; Sheinbaum se compromete a mandar 10 mil soldados da Guarda Nacional à fronteira norte.",
+    "veio_junto": "Troca explícita segurança-fronteira por pausa tarifária; Sheinbaum também pediu que os EUA reduzam o tráfico de armas pesadas para o México e enfatizou 'respeito à soberania'.",
+    "efeito_reportado": "Tarifa não entrou em vigor em 4 de fev.; a pausa durou até 4 de março de 2025, quando as tarifas voltaram (ver mx-004).",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.cnbc.com/2025/02/03/trump-tariffs-mexico-canada-china-sheinbaum-responds.html",
+      "trecho": "Mexican President Claudia Sheinbaum agreed to immediately send 10,000 soldiers to her country's border to prevent the trafficking of fentanyl and other drugs."
+     },
+     {
+      "url": "https://mexiconewsdaily.com/news/sheinbaum-trump-reach-deal-tariffs/",
+      "trecho": "The tariffs are placed on pause for one month as of now"
+     }
+    ]
+   },
+   {
+    "id": "mx-003",
+    "data": "2025-02-20",
+    "tipo": "designacao",
+    "direcao": "sobe",
+    "descricao": "Departamento de Estado designa Cártel de Sinaloa, CJNG, Cártel do Nordeste, Família Michoacana, Cártel do Golfo e Cárteles Unidos (além de Tren de Aragua e MS-13) como organizações terroristas estrangeiras.",
+    "veio_junto": "Debate sobre ação militar contra cartéis: Hegseth disse que 'todas as opções estarão na mesa'; Sheinbaum reagiu enviando ao Congresso uma emenda constitucional contra intervenção estrangeira.",
+    "efeito_reportado": "Sheinbaum disse que o México não foi consultado e que a designação 'não deve ser usada como oportunidade para invadir nossa soberania'.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.state.gov/designation-of-international-cartels",
+      "trecho": "Today, the Department of State announces the designation of Tren de Aragua (TdA), Mara Salvatrucha (MS-13), Cártel de Sinaloa, Cártel de Jalisco Nueva Generación (CJNG)"
+     },
+     {
+      "url": "https://www.mainepublic.org/npr-news/2025-02-20/mexico-warns-the-us-not-to-invade-our-sovereignty-in-fight-against-cartels",
+      "trecho": "During her morning press briefing Mexican President Claudia Sheinbaum said the U.S. made the decision to designate the cartels as terrorist groups unilaterally, without consulting Mexico."
+     },
+     {
+      "url": "https://www.mainepublic.org/npr-news/2025-02-20/mexico-warns-the-us-not-to-invade-our-sovereignty-in-fight-against-cartels",
+      "trecho": "she sent a proposed constitutional amendment to Congress that explicitly says the Mexican people reject foreign interventions."
+     }
+    ]
+   },
+   {
+    "id": "mx-004",
+    "data": "2025-03-06",
+    "tipo": "tarifa",
+    "direcao": "desce",
+    "descricao": "As tarifas de 25% entram em vigor em 4 de março e, dois dias depois, Trump isenta os produtos cobertos pelo T-MEC/USMCA (pausa até 2 de abril).",
+    "veio_junto": "Nova conversa Trump-Sheinbaum; Trump disse que a isenção foi dada 'por respeito' a ela e pela cooperação em fentanil e migração.",
+    "efeito_reportado": "Mercados globais caíram no dia 4; a isenção alcança cerca de 49% das exportações mexicanas aos EUA (base 2024, Al Jazeera). Mais tarde o ministro Ebrard disse que 84% do comércio bilateral cumpre o T-MEC.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.aljazeera.com/economy/2025/3/4/how-will-trumps-tariffs-impact-mexico-and-canadas-exports",
+      "trecho": "The tariffs on the US’s biggest trading partners took effect at 00:00 Eastern Time (05:00 GMT), causing markets across the globe to tumble."
+     },
+     {
+      "url": "https://www.aljazeera.com/news/2025/3/7/trump-pauses-some-mexico-canada-tariffs-whats-exempt-and-whats-next",
+      "trecho": "After speaking with President Claudia Sheinbaum of Mexico, I have agreed that Mexico will not be required to pay Tariffs on anything that falls under the USMCA Agreement."
+     },
+     {
+      "url": "https://www.aljazeera.com/news/2025/3/7/trump-pauses-some-mexico-canada-tariffs-whats-exempt-and-whats-next",
+      "trecho": "This means Trump’s reprieve will apply to about 49 percent of Mexico’s exports to the US."
+     },
+     {
+      "url": "https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-adjusts-tariffs-on-canada-and-mexico-to-minimize-disruption-to-the-automotive-industry/",
+      "trecho": "No tariffs on those goods from Canada and Mexico that claim and qualify for USMCA preference."
+     }
+    ]
+   },
+   {
+    "id": "mx-005",
+    "data": "2025-06-04",
+    "tipo": "tarifa",
+    "direcao": "sobe",
+    "descricao": "Tarifa de aço e alumínio (Seção 232) sobe de 25% para 50% para todos os países, inclusive o México; tarifa de 25% sobre carros (também Seção 232) já estava em vigor.",
+    "veio_junto": "Medida setorial por 'segurança nacional', separada da tarifa de fentanil; não é suspensa pelas pausas de Sheinbaum; a revisão do T-MEC ainda estava em preparação.",
+    "efeito_reportado": "Ebrard disse que o conteúdo americano é isento da tarifa de 25% sobre carros, reduzindo a tarifa efetiva média sobre carros mexicanos para 15%. Em out/2026 México ainda pede redução dessas tarifas.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/06/adjusting-imports-of-aluminum-and-steel-into-the-united-states/",
+      "trecho": "from 25 percent ad valorem to 50 percent ad valorem effective as of 12:01 a.m. eastern daylight time on June 4, 2025"
+     },
+     {
+      "url": "https://mexiconewsdaily.com/business/mexico-us-tariff-extension-trump-sheinbaum",
+      "trecho": "that Mexico will continue to pay a 25% Fentanyl Tariff, 25% Tariff on Cars, and 50% Tariff on Steel, Aluminum, and Copper"
+     },
+     {
+      "url": "https://mexiconewsdaily.com/business/mexico-us-tariff-extension-trump-sheinbaum",
+      "trecho": "U.S. content in vehicles made in Mexico is exempt from the United States’ 25% auto tariff, lowering the effective duty on Mexican cars to 15% on average, according to Ebrard"
+     }
+    ]
+   },
+   {
+    "id": "mx-006",
+    "data": "2025-07-31",
+    "tipo": "tarifa",
+    "direcao": "desce",
+    "descricao": "Em 12/jul Trump ameaça tarifa de 30% sobre o México a partir de 1º de agosto; em 31/jul, após telefonema, adia por 90 dias (mantidos 25% fentanil, 25% carros, 50% aço/alumínio/cobre). Em 27/out/2025 o prazo é prorrogado por 'mais algumas semanas'.",
+    "veio_junto": "Carta publicada no Truth Social alegando que o México 'não faz o suficiente' contra fentanil; negociação de 54 barreiras não tarifárias; Trump disse que o México encerraria imediatamente suas barreiras não tarifárias.",
+    "efeito_reportado": "Peso mexicano se valorizou 0,29% para 18,38 por dólar após a prorrogação de outubro (Al Jazeera/Reuters).",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.spokesman.com/stories/2025/jul/12/trump-says-hell-slap-30-tariffs-on-mexico-european/",
+      "trecho": "President Donald Trump threatened Saturday morning to impose 30% tariffs on imports from Mexico and the European Union starting Aug. 1, raising the stakes for ongoing negotiations with two crucial trading partners."
+     },
+     {
+      "url": "https://mexiconewsdaily.com/business/mexico-us-tariff-extension-trump-sheinbaum",
+      "trecho": "We avoided the tariff increase announced for tomorrow and secured 90 days to build a long-term agreement through dialogue"
+     },
+     {
+      "url": "https://www.kjzz.org/fronteras-desk/2025-07-31/trump-and-sheinbaum-announce-90-day-pause-for-30-tariff-on-mexican-goods",
+      "trecho": "A 25% tariff on Mexican goods that don’t fall under the trade agreement between Canada, the United States and Mexico remains, as do separate tariffs on autos, steel and aluminum."
+     },
+     {
+      "url": "https://www.aljazeera.com/economy/2025/10/27/mexicos-sheinbaum-says-she-and-trump-agreed-to-extend-trade-deadline",
+      "trecho": "Mexico’s peso strengthened 0.29 percent to 18.38 per US dollar following Sheinbaum’s comments."
+     },
+     {
+      "url": "https://www.aljazeera.com/economy/2025/10/27/mexicos-sheinbaum-says-she-and-trump-agreed-to-extend-trade-deadline",
+      "trecho": "have agreed to extend a looming trade deadline for “a few more weeks” to discuss pending issues with Washington."
+     }
+    ]
+   },
+   {
+    "id": "mx-007",
+    "data": "2026-02-20",
+    "tipo": "tarifa",
+    "direcao": "desce",
+    "descricao": "A Suprema Corte dos EUA decide que a lei IEEPA não autoriza o presidente a impor tarifas, derrubando as tarifas de fentanil de 25% sobre México e Canadá; Trump responde com tarifa global de 10% (Seção 122) que exclui bens em conformidade com o T-MEC.",
+    "veio_junto": "Decisão sobre separação de poderes (Congresso é quem tributa); Trump atacou os juízes e prometeu investigações da Seção 301; tarifas setoriais (aço, alumínio, carros) seguem de pé.",
+    "efeito_reportado": "Para o México, o efeito prático foi pequeno porque a maior parte dos bens já escapava das tarifas de fentanil pelo T-MEC; as tarifas setoriais não mudaram.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://globalnews.ca/news/11675702/donald-trump-tariffs-us-supreme-court-ruling",
+      "trecho": "A vast majority of goods from Canada and Mexico were already bypassing the fentanyl-related tariffs due to CUSMA."
+     },
+     {
+      "url": "https://www.torys.com/our-latest-thinking/publications/2026/02/united-states-supreme-court-strikes-down-emergency-tariffs",
+      "trecho": "As a result, two broad categories of tariffs imposed by President Trump are now invalid: 25% tariffs on goods from Canada and Mexico (subsequently raised to 35% for Canada), and 20% on goods from China"
+     },
+     {
+      "url": "https://globalnews.ca/news/11675702/donald-trump-tariffs-us-supreme-court-ruling",
+      "trecho": "The new tariff, which lasts 150 days, starts Tuesday and does not apply to goods compliant with the Canada-U.S.-Mexico Agreement on free trade (CUSMA), which is due to be reviewed this summer."
+     }
+    ]
+   },
+   {
+    "id": "mx-008",
+    "data": "2026-07-01",
+    "tipo": "diplomatica",
+    "direcao": "sobe",
+    "descricao": "Na revisão conjunta do T-MEC/USMCA, os EUA recusam renovar o acordo 'na forma atual', o que ativa revisões anuais; o tratado segue em vigor até 2036 e a tarifa zero para bens em conformidade permanece.",
+    "veio_junto": "Negociações bilaterais EUA-México (rodada oficial em maio, na Cidade do México) correram em separado do Canadá; no mesmo mês, o chefe da DEA disse que governo mexicano e cartéis são 'uma coisa só', e Sheinbaum chamou a fala de política; o Tesouro designou mais dois grupos mexicanos como terroristas.",
+    "efeito_reportado": "México e Canadá declararam apoio à extensão de 16 anos; incerteza de investimento por causa das revisões anuais.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.bakertilly.com/insights/usmca-joint-review-guide",
+      "trecho": "Although the agreement was not renewed, USMCA does not immediately expire. Instead, it remains effective through July 1, 2036, while annual joint reviews provide opportunities for the three countries to negotiate revisions before that date."
+     },
+     {
+      "url": "https://www.hklaw.com/en/insights/publications/2026/07/mexico-ante-una-nueva-etapa-continuidad-del-tmec",
+      "trecho": "The Office of the United States Trade Representative (USTR) stated that the U.S. did not agree to renew the USMCA in its current form."
+     },
+     {
+      "url": "https://mexiconewsdaily.com/business/us-mexico-official-usmca-talks/",
+      "trecho": "also agreed to hold a first official bilateral negotiating round for the USMCA Review the week of May 25, 2026, in Mexico City."
+     },
+     {
+      "url": "https://www.aljazeera.com/news/2026/7/15/sheinbaum-rejects-us-claim-that-mexicos-government-is-linked-to-cartels",
+      "trecho": "Sheinbaum has repeatedly faced accusations under US President Donald Trump that her country is “run” by cartels."
+     }
+    ]
+   },
+   {
+    "id": "mx-009",
+    "data": "2026-07-23",
+    "tipo": "tarifa",
+    "direcao": "sobe",
+    "descricao": "USTR impõe, pela Seção 301 (trabalho forçado), tarifa de 10% sobre 60 economias; o México recebe 10%, em vigor desde 24 de julho, mas bens do T-MEC e bens de Seção 232 ficam de fora.",
+    "veio_junto": "Substitui a tarifa global de 10% da Seção 122, que expirava; USTR reconhece que o México proíbe a importação de bens de trabalho forçado, mas diz que não aplica a norma o suficiente.",
+    "efeito_reportado": "Segundo o governo mexicano, a tarifa substitui o mesmo 10% anterior sobre bens fora do T-MEC e, por isso, não é acúmulo; Sheinbaum disse que o país mantém basicamente as mesmas condições.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.hklaw.com/en/insights/publications/2026/07/mexico-mantiene-acceso-preferencial-bajo-el-tmec",
+      "trecho": "Mexico was assigned a rate of 10 percent. However, the measure does not constitute an additional blanket tariff on all Mexican exports destined for the U.S. market."
+     },
+     {
+      "url": "https://www.hklaw.com/en/insights/publications/2026/07/mexico-mantiene-acceso-preferencial-bajo-el-tmec",
+      "trecho": "According to the Mexican government, the 10 percent tariff applicable to products that do not receive preferential treatment under the USMCA replaces the additional 10 percent duty that the U.S. had previously imposed on those goods under Section 122."
+     },
+     {
+      "url": "https://www.razon.com.mx/negocios/2026/07/23/eu-impone-arancel-de-10-a-mexico-por-investigacion-sobre-trabajo-forzoso/",
+      "trecho": "Estados Unidos colocó a México dentro del grupo de 60 economías sujetas a nuevos aranceles"
+     }
+    ]
+   },
+   {
+    "id": "mx-010",
+    "data": "2026-10-23",
+    "tipo": "diplomatica",
+    "direcao": "desce",
+    "descricao": "Trump diz que os EUA estão 'muito perto' de um acordo tarifário com o México; Sheinbaum dá a mesma sinalização, mas diz que não há acordo nas prioridades (redução de tarifas de aço, alumínio e carros).",
+    "veio_junto": "Negociação conduzida por Ebrard com Greer e Lutnick antes das eleições legislativas dos EUA de 3/nov; Canadá fora da mesa desde 22/ago, deixando o México como único país negociando a revisão do T-MEC.",
+    "efeito_reportado": "Nenhuma redução ainda: 25% sobre carros e 50% sobre aço e alumínio seguem como desde o verão de 2025; Ebrard diz que há avanços em barreiras não tarifárias.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.riotimesonline.com/mexico-tariff-deal-trump-close-2026/",
+      "trecho": "President Donald Trump said on Friday 23 October 2026 that the United States is “very close” to a Mexico tariff deal, after Sheinbaum said the same on Tuesday."
+     },
+     {
+      "url": "https://english.news.cn/20261029/babe908ad806494c9e0474fd32d91c33/c.html",
+      "trecho": "Sheinbaum said that while important progress has been made, no agreement has been reached on priority issues for Mexico, including the reduction of tariffs applied under Section 232 of U.S. trade law on steel, aluminum and the automotive industry."
+     },
+     {
+      "url": "https://www.latintimes.com/mexico-us-trade-talks-move-forward-steel-autos-canada-complicate-deal-599955",
+      "trecho": "Tariffs of 25% on Mexican automobiles and 50% on steel and aluminum have not budged since the trade arrangement brokered in the summer of 2025."
+     }
+    ]
+   }
+  ],
+  "canada": [
+   {
+    "id": "ca-001",
+    "data": "2025-02-01",
+    "tipo": "tarifa",
+    "direcao": "sobe",
+    "descricao": "Ordem executiva impõe tarifa adicional de 25% sobre produtos do Canadá (10% para energia, minerais críticos e potássio), com base na IEEPA e na justificativa de fentanil.",
+    "veio_junto": "Trudeau ainda era primeiro-ministro; pano de fundo: retórica de Trump sobre o Canadá como '51º estado'; Canadá já havia apresentado um plano de fronteira de C$ 1,3 bilhão em dezembro de 2024.",
+    "efeito_reportado": "Trudeau avisou que o Canadá aplicaria tarifa de 25% sobre C$ 155 bilhões em bens americanos em retaliação; a medida foi pausada dois dias depois (ver ca-002).",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-flow-of-illicit-drugs-across-our-national-border/",
+      "trecho": "shall be, consistent with law, subject to an additional 25 percent ad valorem rate of duty. Such rate of duty shall apply with respect to goods"
+     },
+     {
+      "url": "https://www.cbc.ca/news/politics/trump-tariffs-canada-timeline-1.7598349",
+      "trecho": "Trump signs an executive order levying tariffs on Canadian exports to the U.S. at 25 per cent on all products, except energy, critical minerals and potash, which are hit with a rate of 10 per cent."
+     },
+     {
+      "url": "https://www.cnbc.com/2025/02/03/trump-canada-tariffs-trudeau.html?__source=OTS%7Cfinance%7Cinline%7Cstory%7C&amp=&par=OTS&amp=&doc=108097884",
+      "trecho": "Trudeau on Saturday warned that his country would implement a 25% tariff against $155 billion in U.S. goods in retaliation for Trump's tariffs."
+     }
+    ]
+   },
+   {
+    "id": "ca-002",
+    "data": "2025-02-03",
+    "tipo": "diplomatica",
+    "direcao": "desce",
+    "descricao": "Trump concorda em pausar por pelo menos 30 dias a tarifa sobre o Canadá, depois de Trudeau prometer um 'czar do fentanil' e reforço da fronteira.",
+    "veio_junto": "Mesma troca segurança-fronteira por pausa que o México fechou no mesmo dia; Canadá apresentou plano de fronteira de C$ 1,3 bilhão.",
+    "efeito_reportado": "Tarifas não entraram em vigor em 4 de fev.; voltaram em 4 de março (ver ca-003).",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.cnbc.com/2025/02/03/trump-canada-tariffs-trudeau.html?__source=OTS%7Cfinance%7Cinline%7Cstory%7C&amp=&par=OTS&amp=&doc=108097884",
+      "trecho": "President Donald Trump on Monday agreed to pause the implementation of planned U.S. tariffs on imports from Canada for at least 30 days, Canadian Prime Minister Justin Trudeau said."
+     },
+     {
+      "url": "https://www.cnbc.com/2025/02/03/trump-canada-tariffs-trudeau.html?__source=OTS%7Cfinance%7Cinline%7Cstory%7C&amp=&par=OTS&amp=&doc=108097884",
+      "trecho": "Proposed tariffs will be paused for at least 30 days while we work together"
+     },
+     {
+      "url": "https://www.aljazeera.com/economy/2025/3/4/how-will-trumps-tariffs-impact-mexico-and-canadas-exports",
+      "trecho": "Mexican President Claudia Sheinbaum and Canadian Prime Minister Justin Trudeau agreed to boost border security to prevent the trafficking of drugs and flow of migrants into the US in last-minute deals to postpone tariffs"
+     }
+    ]
+   },
+   {
+    "id": "ca-003",
+    "data": "2025-03-06",
+    "tipo": "tarifa",
+    "direcao": "desce",
+    "descricao": "Tarifas de 25% entram em vigor em 4 de março; dois dias depois, Trump isenta os bens em conformidade com o CUSMA/USMCA (pausa até 2 de abril); energia e potássio fora do acordo ficam com 10%.",
+    "veio_junto": "A Casa Branca apresentou o ajuste como medida para minimizar a perturbação na indústria automotiva, cuja cadeia atravessa a fronteira.",
+    "efeito_reportado": "Percentual de exportações cobertas diverge: Al Jazeera diz 38% (base 2024, bens que reivindicaram o T-MEC), CBC diz 'quase 90%' (bens em conformidade).",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.cbc.ca/news/politics/trump-tariffs-canada-timeline-1.7598349",
+      "trecho": "Just two days after Trump's tariffs on Canada come into force, Trump amends his executive order , giving an exemption for products that comply with the terms of the Canada-U.S.-Mexico Agreement (CUSMA)."
+     },
+     {
+      "url": "https://www.aljazeera.com/news/2025/3/7/trump-pauses-some-mexico-canada-tariffs-whats-exempt-and-whats-next",
+      "trecho": "Hence, Trump’s pause applies to 38 percent of Canada’s exports to the US."
+     },
+     {
+      "url": "https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-adjusts-tariffs-on-canada-and-mexico-to-minimize-disruption-to-the-automotive-industry/",
+      "trecho": "A lower 10% tariff on those energy products imported from Canada that fall outside the USMCA preference."
+     }
+    ]
+   },
+   {
+    "id": "ca-004",
+    "data": "2025-06-04",
+    "tipo": "tarifa",
+    "direcao": "sobe",
+    "descricao": "Tarifa de aço e alumínio (Seção 232) sobe de 25% para 50% para todos os países; o Canadá é o principal fornecedor dos dois produtos aos EUA.",
+    "veio_junto": "Medida setorial, separada da tarifa de fentanil; Carney (eleito em abril) já havia se reunido com Trump em maio e o presidente respondeu 'nunca diga nunca' sobre o Canadá virar 51º estado.",
+    "efeito_reportado": "A entidade canadense de siderúrgicas disse que a medida era 'completamente injustificada' e pediu contratarifas imediatas.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/06/adjusting-imports-of-aluminum-and-steel-into-the-united-states/",
+      "trecho": "from 25 percent ad valorem to 50 percent ad valorem effective as of 12:01 a.m. eastern daylight time on June 4, 2025"
+     },
+     {
+      "url": "https://www.cbc.ca/news/politics/trump-tariffs-canada-timeline-1.7598349",
+      "trecho": "Separately from the tariffs on Canadian goods, Trump doubles his tariff on steel and aluminum imports from all countries, to 50 per cent. Canada is the top supplier of both products to the U.S."
+     }
+    ]
+   },
+   {
+    "id": "ca-005",
+    "data": "2025-08-01",
+    "tipo": "tarifa",
+    "direcao": "sobe",
+    "descricao": "Ordem de 31 de julho eleva a tarifa de fentanil sobre o Canadá de 25% para 35% (vigência 1º de agosto), com bens do USMCA ainda isentos; tarifa de 40% para transbordo.",
+    "veio_junto": "Carta de Trump de 10 de julho; um dia antes, o Canadá anunciou que reconheceria o Estado palestino e Trump disse que isso dificultaria o acordo; Casa Branca citou também retaliação do Canadá.",
+    "efeito_reportado": "No fim de agosto o Canadá recuou parcialmente e retirou contratarifas sobre bens do CUSMA a partir de 1º de setembro (sinal de alívio de tensão).",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-amends-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border/",
+      "trecho": "Today, President Donald J. Trump signed an Executive Order increasing the tariff on Canada from 25% to 35%, with the higher tariff set to go into effect on August 1, 2025."
+     },
+     {
+      "url": "https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-amends-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border/",
+      "trecho": "Goods qualifying for preferential tariff treatment under the United States-Mexico-Canada Agreement (USMCA) continue to remain not subject to the IEEPA Canada tariffs."
+     },
+     {
+      "url": "https://www.cbc.ca/news/politics/trump-tariffs-canada-timeline-1.7598349",
+      "trecho": "Canada has just announced that it is backing statehood for Palestine. That will make it very hard for us to make a Trade Deal with them."
+     },
+     {
+      "url": "https://www.cbc.ca/news/politics/trump-tariffs-canada-timeline-1.7598349",
+      "trecho": "Tensions seem to ease toward the end of the month when Canada announces plans to drop some retaliatory tariffs to match U.S. tariff exemptions on goods covered under CUSMA, effective Sept 1."
+     }
+    ]
+   },
+   {
+    "id": "ca-006",
+    "data": "2025-10-23",
+    "tipo": "diplomatica",
+    "direcao": "sobe",
+    "descricao": "Trump encerra as negociações comerciais com o Canadá por causa de um anúncio do governo de Ontário que usa Ronald Reagan criticando tarifas; anuncia 10% adicionais (implementação não confirmada nas fontes lidas); em 31/out diz que as conversas não serão retomadas, apesar do pedido de desculpas de Carney.",
+    "veio_junto": "Disputa nascida de política provincial (Doug Ford) em meio a reunião positiva Trump-Carney na Casa Branca.",
+    "efeito_reportado": "Ford pausou o anúncio para que as negociações pudessem avançar; Carney disse que o Canadá estaria pronto para voltar à mesa.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.aljazeera.com/amp/economy/2025/10/31/trump-says-us-canada-will-not-restart-trade-talks",
+      "trecho": "United States President Donald Trump has said the US and Canada will not restart trade talks on account of an Ontario political advertisement using former President Ronald Reagan saying tariffs spell disaster."
+     },
+     {
+      "url": "https://www.aljazeera.com/amp/economy/2025/10/31/trump-says-us-canada-will-not-restart-trade-talks",
+      "trecho": "Ford has since paused the advertisements so that trade talks between the two countries could move forward."
+     },
+     {
+      "url": "https://www.cbc.ca/news/politics/trump-tariffs-canada-timeline-1.7598349",
+      "trecho": "It didn't go over well with Trump, who vowed to end trade talks with Canada in response — despite the fact that matters seemed somewhat more hopeful following a meeting between Trump and Carney at the White House."
+     }
+    ]
+   },
+   {
+    "id": "ca-007",
+    "data": "2026-02-20",
+    "tipo": "tarifa",
+    "direcao": "desce",
+    "descricao": "A Suprema Corte dos EUA derruba as tarifas de fentanil sobre Canadá e México (25%, depois 35% no caso canadense); Trump impõe tarifa global de 10% pela Seção 122 que exclui bens em conformidade com o CUSMA.",
+    "veio_junto": "Julgamento sobre os limites da lei IEEPA; Trump prometeu novas investigações pela Seção 301 e manteve as tarifas setoriais (aço, alumínio, carros, madeira).",
+    "efeito_reportado": "Alívio apenas para bens canadenses que não cumpriam as regras de origem do CUSMA; tarifas setoriais, que atingem o Canadá mais, ficaram intactas.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.torys.com/our-latest-thinking/publications/2026/02/united-states-supreme-court-strikes-down-emergency-tariffs",
+      "trecho": "This decision will bring tariff relief to Canadian goods exported to the United States that do not comply with CUSMA rules of origin or have not been certified as compliant."
+     },
+     {
+      "url": "https://globalnews.ca/news/11675702/donald-trump-tariffs-us-supreme-court-ruling",
+      "trecho": "Trump also pointed out that other tariffs he has imposed on various industries — including steel, aluminum, autos and lumber — remain in place despite the Supreme Court’s ruling."
+     },
+     {
+      "url": "https://www.cbc.ca/news/politics/trump-tariffs-canada-timeline-1.7598349",
+      "trecho": "The U.S. Supreme Court concluded it was not legal for Trump to use the International Emergency Economic Powers Act, better known as IEEPA, for his \"Liberation Day\" tariffs and fentanyl-related duties on Canada, Mexico and China."
+     }
+    ]
+   },
+   {
+    "id": "ca-008",
+    "data": "2026-07-20",
+    "tipo": "tarifa",
+    "direcao": "sobe",
+    "descricao": "Trump invoca a Seção 338 da Lei Tarifária de 1930 (nunca usada antes) e anuncia tarifa de 50% sobre uma lista de produtos canadenses (de mel a tacos de hóquei), sem isenção para bens do CUSMA; vigência prevista para 19 de agosto.",
+    "veio_junto": "Alegação de que o Canadá discrimina exportações dos EUA de carros, álcool e queijo; resposta às contratarifas canadenses e ao boicote de bebidas americanas por províncias; revisão do USMCA em curso e eleições legislativas dos EUA a 3/nov.",
+    "efeito_reportado": "Estimativa da Capital Economics: atinge cerca de US$ 20 bilhões em bens canadenses, com efeito 'administrável' no Canadá; advogados de comércio dizem que a base legal é 'completamente não testada'.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://wtop.com/business-finance/2026/07/what-to-know-about-the-50-tariffs-trump-is-imposing-on-canada/",
+      "trecho": "Trump invoked Section 338 of the Tariff Act of 1930 to impose 50% tariffs on Canadian products ranging from hockey sticks to beer."
+     },
+     {
+      "url": "https://wtop.com/business-finance/2026/07/what-to-know-about-the-50-tariffs-trump-is-imposing-on-canada/",
+      "trecho": "In proclamations issued Monday, Trump claimed that Canada discriminates against American exports of autos, alcohol and cheese."
+     },
+     {
+      "url": "https://www.cbc.ca/news/politics/trump-tariffs-canada-timeline-1.7598349",
+      "trecho": "Unlike with the fentanyl tariffs, this new round has no exception for CUSMA-compliant goods."
+     },
+     {
+      "url": "https://wtop.com/business-finance/2026/07/what-to-know-about-the-50-tariffs-trump-is-imposing-on-canada/",
+      "trecho": "Stephen Brown, chief North America economist at Capital Economics, calculates that the Section 338 tariffs will hit only $20 billion worth of Canadian imports."
+     }
+    ]
+   },
+   {
+    "id": "ca-009",
+    "data": "2026-08-22",
+    "tipo": "tarifa",
+    "direcao": "sobe",
+    "descricao": "Em 18/ago Trump pausa por três dias as tarifas de 50% e fala em acordo; em 21/ago Carney suspende as negociações e, à meia-noite, os 50% entram em vigor sobre cerca de US$ 20 bilhões; o Canadá anuncia contratarifas de 15% a 50% sobre C$ 27,6 bilhões de bens dos EUA, a partir de 8 de setembro.",
+    "veio_junto": "Impasse sobre a exclusão de caminhonetes médias e pesadas do alívio tarifário, restrição à capacidade do Canadá de fechar acordos com terceiros e regras de conteúdo; Vance acusou o Canadá de 'exigências irrazoáveis de última hora'. Trump falou em renomear o Lago Ontário como 'Lago América' e, em 24/ago, em dobrar a tarifa sobre carros canadenses para 50% a partir de 1º de janeiro (única fonte).",
+    "efeito_reportado": "Carney disse que o Canadá estava 'em guerra' porque foi 'atacado'; pacote de apoio de C$ 7,5 bilhões; Ford (Ontário) elogiou Carney por rejeitar o 'acordo ruim'. Antes da ruptura, o framework previa tarifa de aço/alumínio de 50% para 25% e de carros de 25% para 15%.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.nbcnews.com/business/economy/trump-canada-tariffs-carney-rcna593510",
+      "trecho": "The 50% duties went into effect at the stroke of midnight."
+     },
+     {
+      "url": "https://www.nbcnews.com/business/economy/trump-canada-tariffs-carney-rcna593510",
+      "trecho": "It was also a dramatic reversal from Tuesday, when President Donald Trump paused the tariffs for three days, writing on social media that the two sides “have a DEAL!”"
+     },
+     {
+      "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+      "trecho": "Canada on Tuesday announced retaliatory tariffs against the United States, matching \"dollar for dollar\" the 50% duties that President Donald Trump imposed over the weekend after a breakdown in trade talks"
+     },
+     {
+      "url": "https://www.cbc.ca/news/politics/canada-us-trade-talks-tariffs-9.7312405",
+      "trecho": "a source with knowledge of the forthcoming agreement said U.S. tariffs on Canadian steel and aluminum are being lowered from 50 per cent to 25 per cent."
+     },
+     {
+      "url": "https://www.cbc.ca/news/politics/carney-trump-trade-talks-broke-down-9.7318903",
+      "trecho": "American negotiators had initially agreed to drop the headline tariff on Canadian autos from 25 to 15 per cent, Volpe said."
+     },
+     {
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+      "trecho": "Carney likened the U.S. actions against Canada to a conflict."
+     },
+     {
+      "url": "https://www.legal500.com/intelligence/canada/international-law/canada-announces-new-counter-tariffs-and-support-measures-following-us-tariff-actions",
+      "trecho": "Effective September 8, 2026, Canada will impose counter-tariffs of 15%, 25%, and 50% on approximately C$27.6 billion of imports from the United States."
+     },
+     {
+      "url": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products",
+      "trecho": "On Monday, Trump announced new tariffs on Canadian autos , which would double existing tariffs to 50 percent from January 1."
+     }
+    ]
+   },
+   {
+    "id": "ca-010",
+    "data": "2026-10-26",
+    "tipo": "diplomatica",
+    "direcao": "desce",
+    "descricao": "Carney diz haver 'leve intensificação' das conversas com os EUA; Trump e o assessor Kevin Hassett dizem que um acordo está 'perto', e os EUA modificam algumas tarifas em benefício de empresas do Maine. Nenhum acordo anunciado até 2/nov.",
+    "veio_junto": "Casa Branca busca um avanço antes das eleições legislativas de 3/nov para mostrar queda do custo de vida; conversas entre Lutnick e LeBlanc focadas nas tarifas de Seção 232 (carros, aço, alumínio); Carney mantém 'linhas vermelhas' e diz não saber se a assinatura dos EUA seria 'a caneta'.",
+    "efeito_reportado": "Tarifas de 50% (Seção 338) e as contratarifas canadenses seguem em vigor; um alto funcionário dos EUA disse que as perspectivas são incertas porque o Canadá não ofereceria o suficiente.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-canada-trade-talks-picking-212917008.html",
+      "trecho": "Speaking to reporters in Ottawa on Monday, Carney said \"there's a slight intensification\" in trade discussions."
+     },
+     {
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-canada-trade-talks-picking-212917008.html",
+      "trecho": "two days after the US modified some of its tariffs on imports from Canada to benefit Maine businesses following lobbying by Senator Susan Collins."
+     },
+     {
+      "url": "https://www.theglobeandmail.com/world/us-politics/article-us-trade-talks-unclear-auto-parts-lobby-group-flavio-volpe-oct-26/",
+      "trecho": "Ottawa and Washington have ramped up talks for a deal to obtain relief from U.S. tariffs as the White House seeks some kind of breakthrough ahead of midterm elections, six sources familiar with negotiations say."
+     }
+    ]
+   }
+  ],
+  "africa_do_sul": [
+   {
+    "id": "za-001",
+    "data": "2025-02-07",
+    "tipo": "ajuda",
+    "direcao": "sobe",
+    "descricao": "Ordem executiva 14204 ('Addressing Egregious Actions of the Republic of South Africa'): suspende ajuda e assistência dos EUA à África do Sul e manda priorizar o reassentamento de refugiados afrikaners, citando a Lei de Expropriação 13/2024.",
+    "veio_junto": "Lei de Expropriação sul-africana, política de ação afirmativa, acusação de Israel de genocídio na Corte Internacional de Justiça e aproximação com o Irã (ambos citados no texto da ordem).",
+    "efeito_reportado": "Ramaphosa rejeitou a premissa ('devoid of all truth' segundo o Daily Maverick); o governo sul-africano disse que buscaria soluções diplomáticas (SAnews).",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500239/html/DCPD-202500239.htm",
+      "trecho": "It is the policy of the United States that, as long as South Africa continues these unjust and immoral practices that harm our Nation: the United States shall not provide aid or assistance to South"
+     },
+     {
+      "url": "https://www.dailymaverick.co.za/article/2025-02-09-ramaphosa-fires-back-at-trumps-executive-order.md",
+      "trecho": "President Cyril Ramaphosa has denounced US President Donald Trump’s claims of ‘race-based discrimination’ against Afrikaners in South Africa, saying the assertion is"
+     }
+    ]
+   },
+   {
+    "id": "za-002",
+    "data": "2025-03-14",
+    "tipo": "diplomatica",
+    "direcao": "sobe",
+    "descricao": "Rubio declara o embaixador sul-africano Ebrahim Rasool persona non grata ('race-baiting politician who hates America').",
+    "veio_junto": "Fala de Rasool em think tank de Joanesburgo, citada pelo Breitbart, dizendo que Trump mobilizava supremacia branca; disputa sobre a ordem executiva de fevereiro.",
+    "efeito_reportado": "Nem Rubio nem o Departamento de Estado deram explicação imediata; Rubio ligou a decisão a uma matéria do Breitbart sobre a fala de Rasool (AP).",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.ewn.co.za/2025/03/15/us-secretary-of-state-marco-rubio-says-sa-ambassador-no-longer-welcome",
+      "trecho": "US secretary of state Marco Rubio has announced that South Africa’s ambassador to the states is no longer welcome in"
+     },
+     {
+      "url": "https://www.marshallindependent.com/news/national-news-apwire/2025/03/rubio-says-south-africas-ambassador-to-the-us-is-no-longer-welcome-in-the-country/",
+      "trecho": "Secretary of State Marco Rubio said Friday that South Africa's ambassador to the United States \"is no longer welcome\" in the country, in the"
+     }
+    ]
+   },
+   {
+    "id": "za-003",
+    "data": "2025-05-21",
+    "tipo": "diplomatica",
+    "direcao": "sobe",
+    "descricao": "Reunião Ramaphosa-Trump no Salão Oval: Trump exibe vídeo e recortes de imprensa para sustentar a alegação de 'genocídio branco' de afrikaners, rejeitada por Ramaphosa. Sem medida nova na reunião.",
+    "veio_junto": "Ordem executiva de fevereiro e chegada dos primeiros refugiados afrikaners; Ramaphosa tentava um 'reset' e um acordo comercial.",
+    "efeito_reportado": "Sem acordo; poucas semanas depois veio a carta com tarifa de 30% (ver za-004).",
+    "central": false,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.aljazeera.com/news/2025/5/22/trumps-ramaphosa-ambush-key-takeaways-from-heated-white-house-meeting",
+      "trecho": "US President Donald Trump ambushed South African President Cyril Ramaphosa during a meeting at the White House in"
+     },
+     {
+      "url": "https://www.sanews.gov.za/south-africa/president-ramaphosa-rejects-white-genocide-claims-oval-office-meeting",
+      "trecho": "President Cyril Ramaphosa has firmly rejected claims of a white genocide in South Africa,"
+     }
+    ]
+   },
+   {
+    "id": "za-004",
+    "data": "2025-08-07",
+    "tipo": "tarifa",
+    "direcao": "sobe",
+    "descricao": "Tarifa 'recíproca' de 30% sobre as exportações sul-africanas aos EUA (carta de Trump em 7/07; ordem de 31/07; vigência em 7 dias), depois de falhar o acordo comercial. Metais preciosos ficaram de fora.",
+    "veio_junto": "África do Sul ofereceu comprar GNL dos EUA e investir US$ 3,3 bi, sem sucesso; negociações misturadas com ação afirmativa, terras, o caso em Haia contra Israel e o BRICS.",
+    "efeito_reportado": "Rand caiu 0,7% e voltou a quase estável (IOL, 8/07); governo estimou impacto de -0,4% no crescimento e 30 mil empregos (M&G).",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.news24.com/business/economy/trump-pushes-ahead-with-30-tariffs-on-sa-20250801-0259",
+      "trecho": "On Thursday, the White House confirmed that South Africa’s new “reciprocal” tariff rate will be 30%. This will come into effect in seven days."
+     },
+     {
+      "url": "https://www.freemalaysiatoday.com/category/business/2025/08/01/south-africa-faces-30-us-tariff-after-failing-to-reach-trade-deal",
+      "trecho": "South Africa faces a 30% tariff on its exports to the US starting next week, a move expected to cost tens of thousands of jobs after the country failed to"
+     },
+     {
+      "url": "https://iol.co.za/business/economy/2025-07-08-rand-fairly-stable-after-trump-tariff-shock-in-early-morning-trade-tuesday/",
+      "trecho": "The rand weakened marginally overnight after US President Donald Trump slapped South Africa with 30% tariffs on goods exported to America, based on an alleged"
+     },
+     {
+      "url": "https://mg.co.za/news/international/2026-02-20-updated-us-supreme-court-strikes-down-trump-s-tariffs-offering-hope-to-countries-such-as-south-africa/",
+      "trecho": "When the tariffs kicked in last August, Pretoria said they would effectively shave 0.4% off South Africa’s economic growth and eradicate 30 000 jobs. As a response,"
+     }
+    ]
+   },
+   {
+    "id": "za-005",
+    "data": "2025-10-30",
+    "tipo": "diplomatica",
+    "direcao": "sobe",
+    "descricao": "Teto de refugiados do ano fiscal 2026 fixado em 7.500 (o menor da história), 'primariamente' para afrikaners da África do Sul, conforme a ordem executiva 14204.",
+    "veio_junto": "Suspensão do programa de refugiados em janeiro de 2025 com exceção aberta para afrikaners em fevereiro.",
+    "efeito_reportado": "Governo sul-africano rejeita as alegações de discriminação; democratas criticaram o teto (Yahoo/CBS). Número real de chegadas varia entre fontes e não foi confirmado.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://aa.com.tr/en/americas/trump-administration-sets-record-low-refugee-cap-prioritizing-white-south-africans/3731346",
+      "trecho": "the admissions numbers shall primarily be allocated among Afrikaners from South Africa pursuant to Executive Order 14204,"
+     },
+     {
+      "url": "https://www.yahoo.com/news/articles/trump-sets-lowest-refugee-cap-181054642.html",
+      "trecho": "The Trump administration on Thursday announced it would set the lowest refugee admissions cap in U.S. history, allocating just 7,500 spots for this fiscal year, mostly for Afrikaners who it"
+     }
+    ]
+   },
+   {
+    "id": "za-006",
+    "data": "2025-11-26",
+    "tipo": "diplomatica",
+    "direcao": "sobe",
+    "descricao": "Depois de os EUA boicotarem a cúpula do G20 em Joanesburgo (novembro), Trump diz que a África do Sul não receberá convite para o G20 de 2026, em Miami (Doral), e que cortará 'todos os pagamentos e subsídios', alegando que o país recusou entregar a presidência a um representante júnior da embaixada.",
+    "veio_junto": "Alegações de abusos contra afrikaners; disputa sobre o protocolo de passagem da presidência do G20; EUA assumem a presidência do G20 em 1/12/2025.",
+    "efeito_reportado": "Ramaphosa disse que a África do Sul continuaria a participar 'as a full, active and constructive member' e chamou as medidas de punitivas e baseadas em desinformação; o governo disse que esperaria a presidência do Reino Unido.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://african.business/2025/11/politics/trump-says-south-africa-will-be-barred-from-next-years-g20",
+      "trecho": "At the conclusion of the G20, South Africa refused to hand off the G20 Presidency to a Senior Representative from our U.S. Embassy, who attended the Closing Ceremony. Therefore, at my direction, South Africa will NOT be receiving"
+     },
+     {
+      "url": "https://african.business/2025/11/politics/trump-says-south-africa-will-be-barred-from-next-years-g20",
+      "trecho": "Trump’s administration boycotted this month’s Summit following the president’s discredited allegations of the mass killing of white South Africans, making"
+     },
+     {
+      "url": "https://www.dtnext.in/news/world/s-africa-not-to-receive-invitation-to-g20-summit-to-be-hosted-in-miami-in-2026-trump-854647",
+      "trecho": "South Africa will not receive an invitation to attend the G20 Summit to be hosted under the US Presidency in Florida next year, President Donald"
+     }
+    ]
+   },
+   {
+    "id": "za-008",
+    "data": "2026-02",
+    "tipo": "ajuda",
+    "direcao": "desce",
+    "descricao": "O Congresso renova a AGOA (acesso sem tarifa ao mercado dos EUA), que tinha expirado em 30/09/2025, retroativamente até 31/12/2026; a África do Sul segue elegível por ora, mas sua permanência é questionada em Washington.",
+    "veio_junto": "A Câmara aprovou em 13/01 versão de 3 anos (340 a 54); o Senado reduziu para 1 ano.",
+    "efeito_reportado": "Dtic (governo sul-africano) disse que a renovação dá alívio às empresas no contexto das tarifas. Só uma fonte confirma o texto final: incerto.",
+    "central": false,
+    "incerto": true,
+    "fontes": [
+     {
+      "url": "https://globalimportblog.bakermckenzie.com/2026/02/06/south-africa-and-us-agoas-one-year-extension-the-road-to-renewal/",
+      "trecho": "AGOA, a central pillar of U.S.–Africa trade relations since 2000, has been retroactively extended from 30 September 2025 to 31 December 2026."
+     },
+     {
+      "url": "https://www.dailymaverick.co.za/article/2026-01-14-us-house-backs-agoa-extension-but-sas-continued-participation-remains-uncertain/",
+      "trecho": "it’s uncertain whether South Africa will continue to qualify for Agoa after the Bill passes the Senate. The"
+     }
+    ]
+   },
+   {
+    "id": "za-007",
+    "data": "2026-02-20",
+    "tipo": "tarifa",
+    "direcao": "desce",
+    "descricao": "A Suprema Corte decide que a lei IEEPA não autoriza tarifas, derrubando a tarifa de 30% sobre a África do Sul (vigente de agosto de 2025 a fevereiro de 2026). Trump anuncia tarifa global substituta de 10% (Seção 122, por 150 dias).",
+    "veio_junto": "Decisão judicial que atingiu todos os países, não uma negociação bilateral; a administração migrou para as Seções 122, 232 e 301.",
+    "efeito_reportado": "Alívio parcial: a tarifa de 30% acabou, mas foi substituída por tarifa global e depois pela da Seção 301 (ver za-010). Empresas esperam disputa sobre reembolsos (Andersen/Mondaq).",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://mg.co.za/news/international/2026-02-20-updated-us-supreme-court-strikes-down-trump-s-tariffs-offering-hope-to-countries-such-as-south-africa/",
+      "trecho": "The judgement offered a hint of relief for countries like South Africa, which Washington slapped with a 30% import tariff from last August. But in"
+     },
+     {
+      "url": "https://www.news24.com/business/economy/tau-commits-to-taking-action-on-forced-labour-imports-following-higher-us-tariffs-20260725-0662",
+      "trecho": "significantly better than the 30% that applied from August 2025 to February 2026, until they were"
+     },
+     {
+      "url": "https://www.mondaq.com/southafrica/international-trade-investment/1750470/us-supreme-court-tariff-ruling-customs-and-trade-implications-for-south-africa-and-africa",
+      "trecho": "the administration moved to impose a temporary 10% global import tariff for 150 days under Section 122 of"
+     }
+    ]
+   },
+   {
+    "id": "za-009",
+    "data": "2026-04",
+    "tipo": "diplomatica",
+    "direcao": "sobe",
+    "descricao": "Os EUA não credenciam a delegação sul-africana (ministro Godongwana e o presidente do Banco Central, Kganyago) para as reuniões do G20 de 17 a 19/04 em Washington; a África do Sul fica fora do G20 em 2026, algo inédito na história do grupo.",
+    "veio_junto": "Cumprimento do veto anunciado em novembro de 2025 (za-006); presidência americana do G20 em 2026.",
+    "efeito_reportado": "Godongwana chamou de 'pausa temporária'; o governo planeja voltar com a presidência britânica em novembro.",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.zawya.com/en/economy/africa/g20-rift-widens-as-south-africa-excluded-from-key-finance-discussions-iw9g5b8z",
+      "trecho": "SA Finance Minister Enoch Godongwana has confirmed that South Africa has not been accredited for key Group of 20 (G20) meetings due to begin"
+     },
+     {
+      "url": "https://www.africaninsider.com/business/godongwana-shut-out-of-g20-meeting-as-us-tensions-escalate",
+      "trecho": "However, the USA has not accredited us, which means that South Africa will not be part of the G20 for the whole of this year.”"
+     }
+    ]
+   },
+   {
+    "id": "za-010",
+    "data": "2026-07-24",
+    "tipo": "tarifa",
+    "direcao": "sobe",
+    "descricao": "Entra em vigor a tarifa de 12,5% da Seção 301 (trabalho forçado) sobre produtos sul-africanos não isentos; automóveis, aço e alumínio (Seção 232), platina e metais preciosos, entre outros, ficam fora. Substitui na prática a tarifa de 30% derrubada em fevereiro.",
+    "veio_junto": "Medida geral sobre 60 economias (41 a 12,5%, 19 a 10%); a África do Sul apresentou argumentos em audiência e o ministro Tau se comprometeu a agir contra importações de bens de trabalho forçado (News24).",
+    "efeito_reportado": "Ministro Parks Tau prometeu seguir negociando para eliminar ou reduzir a tarifa; a entidade BUSA disse que o impacto não gerou 'novas ansiedades', pois é muito melhor que os 30% (News24).",
+    "central": true,
+    "incerto": false,
+    "fontes": [
+     {
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/actions-by-the-united-states-in-the-investigations-under-section-301-of-the-trade-act-of-1974-of-the-acts-policies-and-practices-of-60-economies-related-to-the-failure-of-each-economy-to-impose-and/",
+      "trecho": "(iii) 12.5 percent tariff rate: For goods of all other investigated economies, the Trade Representative shall impose a tariff rate of 12.5 percent."
+     },
+     {
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/actions-by-the-united-states-in-the-investigations-under-section-301-of-the-trade-act-of-1974-of-the-acts-policies-and-practices-of-60-economies-related-to-the-failure-of-each-economy-to-impose-and/",
+      "trecho": "48. South Africa 49. South Korea 50. Sri Lanka"
+     },
+     {
+      "url": "https://www.sanews.gov.za/south-africa/sa-continue-engagement-us-tariffs",
+      "trecho": "South Africa is among the 41 economies that the USTR claims do not impose and effectively enforce forced labour practices. As a result, South Africa will be subjected to a tariff of"
+     },
+     {
+      "url": "https://www.news24.com/business/economy/tau-commits-to-taking-action-on-forced-labour-imports-following-higher-us-tariffs-20260725-0662",
+      "trecho": "South Africa “will continue to engage” with the US with a view to “either eliminate or reduce” the 12.5% tariff imposed on SA exports to"
+     }
+    ]
+   }
+  ]
+ }
+}
