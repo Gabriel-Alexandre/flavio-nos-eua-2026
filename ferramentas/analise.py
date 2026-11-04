@@ -203,7 +203,7 @@ def citacoes():
 
 def main():
     conc = {l["campo"]: l for l in csv.DictReader(open(RES / "e2_concordancia.csv", encoding="utf-8"))}
-    resumo = {"lido_ate": "2026-11-02", "e2": e2(), "e2_concordancia": conc, "e3": e3(), "e4": e4(), "e5": e5(), "e6": e6(), "citacoes": citacoes()}
+    resumo = {"lido_ate": "2026-11-04", "e2": e2(), "e2_concordancia": conc, "e3": e3(), "e4": e4(), "e5": e5(), "e6": e6(), "citacoes": citacoes()}
     p = RES / "previsoes_final.json"
     if p.exists():
         resumo["e7"] = json.load(open(p, encoding="utf-8"))

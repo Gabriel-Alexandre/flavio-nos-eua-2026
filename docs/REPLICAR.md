@@ -14,4 +14,4 @@ python ferramentas/graficos.py
 python ferramentas/conferir_linguagem.py
 ```
 
-As previsões são respostas de modelos, gravadas em `dados/previsoes/rodada1/` e `rodada2/`. Refazer dá números parecidos, e não iguais: o que vale para cobrar é o que entrou em commit. Página da internet muda; o texto capturado com hash fica em `dados/capturas/` e `dados/MANIFESTO.json`.
+As previsões são respostas de modelos, gravadas em `dados/previsoes/rodada1/`, `rodada2/` e `rodada3/` (04/nov, com `texto_A_r3.md`, `texto_B_r3.md` e as mesmas 24 perguntas em `perguntas_r3.csv`; `agregar_previsoes.py` usa a rodada 3 e compara com a 2). Refazer dá números parecidos, e não iguais: o que vale para cobrar é o que entrou em commit. Página da internet muda; o texto capturado com hash fica em `dados/capturas/` e `dados/MANIFESTO.json`.

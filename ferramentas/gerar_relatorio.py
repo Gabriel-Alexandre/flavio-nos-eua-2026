@@ -58,7 +58,7 @@ val_ok = sum(l["passou"] == "True" for l in VAL)
 
 RELATORIO = f"""# Flávio nos EUA: o que esperar
 
-**Lido até {R['lido_ate']}.** Análise feita pelo Claude (Anthropic), a pedido de Gabriel Alexandre. As previsões entraram em commit em 02/nov/2026, antes das eleições americanas de 03/nov. A rodada 1 fica congelada em `dados/previsoes/rodada1/`; este relatório usa a rodada 2, feita depois da revisão adversarial, com o texto corrigido.
+**Lido até {R['lido_ate']}.** Análise feita pelo Claude (Anthropic), a pedido de Gabriel Alexandre. Este relatório usa a rodada 3 das previsões, de 04/nov/2026, feita com os fatos até essa data, já com o resultado das eleições americanas de 03/nov. A rodada 1 e a rodada 2 (02/nov, antes das eleições americanas, depois da revisão adversarial) ficam congeladas em `dados/previsoes/` e são cobradas pela data delas.
 
 ## O que este projeto não consegue dizer
 
@@ -208,7 +208,7 @@ Concordância entre as duas codificações: {br(E6['concordancia_segunda_codific
 
 ## 9. O que esperar
 
-**Como ler:** são modelos da mesma empresa, com o mesmo texto, e a concordância entre eles não é confirmação independente. Abaixo de 5%, o número é mais o piso que eles usam do que uma medida: a invasão fica entre 1% e 2% com ou sem a história. A condição "com a história" é a mesma IA depois de ler o levantamento, e não um segundo olhar.
+**Como ler:** são modelos da mesma empresa, com o mesmo texto, e a concordância entre eles não é confirmação independente. Abaixo de 5%, o número é mais o piso que eles usam do que uma medida: a invasão fica abaixo de 3% em todas as rodadas, com ou sem a história. A condição "com a história" é a mesma IA depois de ler o levantamento, e não um segundo olhar.
 
 **Cenários até o fim de 2027** (mediana de {len(E7['modelos'])} modelos, depois de ver a história; somados a 100):
 
@@ -222,21 +222,21 @@ Concordância entre as duas codificações: {br(E6['concordancia_segunda_codific
 |---|---|---|---|---|---|
 {tabela_prev}
 
-**O que a história mudou nas IAs:** em média, {br(E7['mudanca_media_absoluta'])} pontos. Nova medida contra o Brasil: de {br(PQ['P08']['sem_historia'])}% para {br(PQ['P08']['com_historia'])}%. Na invasão: de {br(PQ['P01']['sem_historia'])}% para {br(PQ['P01']['com_historia'])}%. Discordância média entre modelos: {br(E7['discordancia_media_entre_modelos'])} pontos. Da rodada 1 para a 2, com o texto corrigido: {E7['mudancas_rodada1'].strip()}.
+**O que a história mudou nas IAs:** em média, {br(E7['mudanca_media_absoluta'])} pontos. Nova medida contra o Brasil: de {br(PQ['P08']['sem_historia'])}% para {br(PQ['P08']['com_historia'])}%. Na invasão: de {br(PQ['P01']['sem_historia'])}% para {br(PQ['P01']['com_historia'])}%. Discordância média entre modelos: {br(E7['discordancia_media_entre_modelos'])} pontos. Da rodada 1 para a 2, com o texto corrigido: {E7['mudancas_rodada1'].strip()}. Da rodada 2 (02/nov) para a 3 (04/nov), com os fatos novos: {E7['mudancas_rodada2'].strip()}; nos cenários, a pressão longa foi de {br(CE['C1']['rodada2_normalizado'])}% para {br(CE['C1']['com_historia_normalizado'])}%, dentro da discordância entre modelos.
 
-**Datas:** 03/nov midterms · 13/nov prazo de Rubio · nov G7 · 14 e 15/dez G20 · até 18/dez diplomação · 05/jan posse · 31/jan fim do mandato · 27/out/2027 fim da parole.
+**Datas:** ~~03/nov midterms~~ (democratas nas duas casas, pelas projeções) · 13/nov prazo de Rubio · nov G7 · 14 e 15/dez G20 · até 18/dez diplomação · 05/jan posse · 31/jan fim do mandato · 27/out/2027 fim da parole.
 
 ## 10. O que circula
 
 {chr(10).join(f"- **{l['afirmacao']}** ({l['canal']}): {l['o_que_e_real']}." for l in csv.DictReader((RAIZ / 'dados' / 'e9_o_que_circula.csv').open(encoding='utf-8')))}
 
-## 11. Depois das previsões
+## 11. O que mudou de 02 a 04/nov
 
-As previsões foram gravadas em 02/nov e ficam como estão. O que saiu depois, conferido em 04/nov (`dados/depois_das_previsoes.csv`):
+A rodada 2 foi gravada em 02/nov e fica como está. A rodada 3, que este relatório usa, já leu estes fatos, conferidos em 04/nov (`dados/depois_das_previsoes.csv`):
 
 {chr(10).join(f"- **{l['data'][8:10]}/{l['data'][5:7]}:** {l['fato']}. Fontes: {l['fontes']}. {l['o_que_muda']}." for l in csv.DictReader((RAIZ / 'dados' / 'depois_das_previsoes.csv').open(encoding='utf-8')))}
 
-**Leitura:** nada disso derruba as conclusões. O Congresso americano fica mais caro para a Casa Branca no caso, e a ida do Lula ao G20 é o sinal esperado na pressão longa.
+**Leitura:** nada disso derruba as conclusões. O Congresso americano fica mais caro para a Casa Branca no caso, e a ida do Lula ao G20 é o sinal esperado na pressão longa. Na rodada 3, a ida do Lula ao G20 foi de {br(PQ['P06']['rodada2'])}% para {br(PQ['P06']['com_historia'])}%, e uma audiência sobre o caso na Câmara de {br(PQ['P18']['rodada2'])}% para {br(PQ['P18']['com_historia'])}%.
 
 ## 12. Validação
 

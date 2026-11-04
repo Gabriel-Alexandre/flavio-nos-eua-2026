@@ -35,7 +35,26 @@ A leitura frase a frase do roteiro (`VIDEO_022/CONFERENCIA_DO_ROTEIRO.md`, na do
 
 ## Atualização de 04/nov, sem previsão nova
 
-Busca dos fatos de 02 a 04/nov, guardada em `dados/depois_das_previsoes.csv` e no §11 do relatório: os democratas ganham a Câmara e o Senado (projeção de 04/nov), o deputado Robert Garcia pede a Rubio que devolva o Flávio, o Flávio registra presença no Senado de Miami, o Lula confirma o G20. Nenhuma conclusão mudou e as previsões de 02/nov não foram refeitas, porque o valor delas é ter data antes desses fatos.
+Busca dos fatos de 02 a 04/nov, guardada em `dados/depois_das_previsoes.csv` e no §11 do relatório: os democratas ganham a Câmara e o Senado (projeção de 04/nov), o deputado Robert Garcia pede a Rubio que devolva o Flávio, o Flávio registra presença no Senado de Miami, o Lula confirma o G20. Nenhuma conclusão mudou. As previsões de 02/nov ficam como estão; a rodada 3, abaixo, refaz as mesmas perguntas com esses fatos.
+
+## Rodada 3: as previsões refeitas com os fatos de hoje (04/nov)
+
+Pedido dele, para o vídeo falar do dia de hoje: as mesmas 24 perguntas e os mesmos 4 cenários, os mesmos 4 modelos, com e sem a história, agora com o texto `texto_A_r3.md` (fatos até 04/nov: democratas nas duas casas pelas projeções, a carta do Garcia pedindo a devolução, a presença do Flávio no Senado de Miami, o Lula confirmado no G20, a primeira aparição dele). Gravada em `dados/previsoes/rodada3/`; a 1 e a 2 ficam congeladas e são cobradas pela data delas.
+
+| | Rodada 2 (02/nov) | Rodada 3 (04/nov) |
+|---|---|---|
+| Pressão longa | 56,6% | 51,7% |
+| Acordo | 18,7% | 20,4% |
+| Escalada | 21,7% | 23,4% |
+| Força | 3,0% | 4,5% |
+| Lula vai ao G20 (P06) | 56% | 80,5% |
+| Audiência na Câmara americana (P18) | 28,5% | 46,5% |
+| STF contra americano (P24) | 78,5% | 57,5% |
+| Prisão do Flávio decretada (P12) | 39% | 25,5% (de 6% a 50% entre modelos) |
+| Tropa sem autorização até 2030 (P01) | 1,75% | 2,75% |
+| Ataque contra facção até jan/2029 (P20) | 4% | 6% |
+
+**Leitura:** a ordem dos cenários não mudou e a pressão longa segue a mais provável. As mudanças grandes são as que o fato novo explica (o G20 confirmado, o Congresso democrata); as outras, como a prisão e o STF, estão dentro da discordância entre modelos (16,9 pontos em média) e não devem ser lidas como efeito dos fatos. A invasão segue abaixo de 3%.
 
 ## O que falta olhar
 

@@ -1,6 +1,6 @@
 # Flávio nos EUA: o que esperar
 
-**Lido até 2026-11-02.** Análise feita pelo Claude (Anthropic), a pedido de Gabriel Alexandre. As previsões entraram em commit em 02/nov/2026, antes das eleições americanas de 03/nov. A rodada 1 fica congelada em `dados/previsoes/rodada1/`; este relatório usa a rodada 2, feita depois da revisão adversarial, com o texto corrigido.
+**Lido até 2026-11-04.** Análise feita pelo Claude (Anthropic), a pedido de Gabriel Alexandre. Este relatório usa a rodada 3 das previsões, de 04/nov/2026, feita com os fatos até essa data, já com o resultado das eleições americanas de 03/nov. A rodada 1 e a rodada 2 (02/nov, antes das eleições americanas, depois da revisão adversarial) ficam congeladas em `dados/previsoes/` e são cobradas pela data delas.
 
 ## O que este projeto não consegue dizer
 
@@ -19,8 +19,8 @@
 | Trump apoia? | Abriu a porta e disse *"I won't get involved"*. Sem planos de encontrá-lo, e a Reuters diz que sem planos de apoiar a pretensão dele |
 | Trump falou em fraude de novo? | Sim, várias vezes até 31/10, sem apresentar prova |
 | Volta ao poder por esse caminho? | Dos 22 abrigados nos EUA, 3 chegaram ao poder: um com tropas americanas, um nomeado com apoio americano e um eleito depois de 15 anos. Em até 12 anos, 2 de 25 entre todos, e nenhum por eleição. Flávio fala em voltar antes de 2030 |
-| Os EUA vão invadir? | Tropas sem autorização até 2030: 1,75%. Ataque contra PCC ou CV sem aval: 2,5% até 2027 e 4% até o fim do governo Trump. Dos 16 tipos de sinal que vieram antes da captura de Maduro, 3 existem hoje, 5 em parte e 8 não, e, do começo da sequência, o Brasil tem a designação |
-| O que é mais provável? | **A pressão longa** (57%), e alguma medida americana nova até junho de 2027 (70%); sanção nominal a autoridade, 14,5%; banco brasileiro atingido, 11% |
+| Os EUA vão invadir? | Tropas sem autorização até 2030: 2,75%. Ataque contra PCC ou CV sem aval: 3,75% até 2027 e 6% até o fim do governo Trump. Dos 16 tipos de sinal que vieram antes da captura de Maduro, 3 existem hoje, 5 em parte e 8 não, e, do começo da sequência, o Brasil tem a designação |
+| O que é mais provável? | **A pressão longa** (52%), e alguma medida americana nova até junho de 2027 (66%); sanção nominal a autoridade, 20%; banco brasileiro atingido, 13% |
 
 ## 2. As 72 horas
 
@@ -94,7 +94,7 @@ Só entre quem saiu até 2016, que já teve 10 anos: 6 de 27 no total e 3 de 15 
 
 33 registros de jan/2025 a nov/2026. Medidas do governo americano dirigidas ao Brasil, para cima: **11**, e a última é de 04/08/2026. Para baixo: **7**. Militares: 0. Os outros registros que subiam a tensão ficam fora dessa conta: 3 medidas globais, 4 atos do próprio Brasil, 2 nomeações, 5 falas ou relatos e 1 repetida. A comparação com outros países não usa essa mesma regra e por isso não entra aqui.
 
-**A conta da nova medida.** Em 250 períodos de 240 dias desde jul/2025, 97,2% tiveram ao menos uma medida dirigida; mas houve 248 dias seguidos sem nenhuma, de set/2025 a mai/2026, e elas vêm em surtos. A pergunta P08 é a mesma janela. Os modelos deram 70%.
+**A conta da nova medida.** Em 250 períodos de 240 dias desde jul/2025, 97,2% tiveram ao menos uma medida dirigida; mas houve 248 dias seguidos sem nenhuma, de set/2025 a mai/2026, e elas vêm em surtos. A pergunta P08 é a mesma janela. Os modelos deram 66%.
 
 - **Sobe e desce:** a Magnitsky de Moraes durou de 30/07 a 12/12/2025. A tarifa de 40% caiu em 20/02/2026 pela Suprema Corte americana, e não por acordo.
 - **Hoje:** 25% pela Seção 301 desde 22/07/2026, mais 12,5% da ação global sobre cerca de 60 economias. Dos US$ 39,6 bi que os EUA compraram do Brasil em 2024, US$ 8,5 bi pagam os 25% cheios, pelas medidas lidas.
@@ -197,49 +197,49 @@ Concordância entre as duas codificações: 85,7% das células, a maioria delas 
 
 ## 9. O que esperar
 
-**Como ler:** são modelos da mesma empresa, com o mesmo texto, e a concordância entre eles não é confirmação independente. Abaixo de 5%, o número é mais o piso que eles usam do que uma medida: a invasão fica entre 1% e 2% com ou sem a história. A condição "com a história" é a mesma IA depois de ler o levantamento, e não um segundo olhar.
+**Como ler:** são modelos da mesma empresa, com o mesmo texto, e a concordância entre eles não é confirmação independente. Abaixo de 5%, o número é mais o piso que eles usam do que uma medida: a invasão fica abaixo de 3% em todas as rodadas, com ou sem a história. A condição "com a história" é a mesma IA depois de ler o levantamento, e não um segundo olhar.
 
 **Cenários até o fim de 2027** (mediana de 4 modelos, depois de ver a história; somados a 100):
 
 | Cenário | O que é | Chance | Menor a maior |
 |---|---|---|---|
-| **A pressão longa** | Flávio nos EUA sem poder; posse normal; tarifa e visto como moeda; conversa intermitente; sem ruptura e sem acordo amplo até o fim de 2027 | **57%** | 48 a 60 |
-| **O acordo** | Trump e Lula negociam: tarifa e minerais em troca do embaixador e de cooperação; Flávio perde importância para Washington | **19%** | 18 a 25 |
-| **A escalada** | Nova sanção forte, bancos atingidos pela designação ou ação sobre o Pix na linha da Seção 301, autoridades de volta à lista, prisão decretada com recusa americana; sem ação militar | **22%** | 20 a 24 |
-| **A força** | Ação militar americana em território brasileiro sem aval do Brasil | **3%** | 2 a 5 |
+| **A pressão longa** | Flávio nos EUA sem poder; posse normal; tarifa e visto como moeda; conversa intermitente; sem ruptura e sem acordo amplo até o fim de 2027 | **52%** | 48 a 58 |
+| **O acordo** | Trump e Lula negociam: tarifa e minerais em troca do embaixador e de cooperação; Flávio perde importância para Washington | **20%** | 18 a 22 |
+| **A escalada** | Nova sanção forte, bancos atingidos pela designação ou ação sobre o Pix na linha da Seção 301, autoridades de volta à lista, prisão decretada com recusa americana; sem ação militar | **23%** | 18 a 27 |
+| **A força** | Ação militar americana em território brasileiro sem aval do Brasil | **4%** | 2 a 6 |
 
 **As perguntas, para conferir na data** (`dados/previsoes/`):
 
 | # | Pergunta | Prazo | Com a história | Entre modelos | Sem a história |
 |---|---|---|---|---|---|
-| P24 | O STF toma medida nova contra cidadão, empresa ou plataforma americana | 2027-06-30 | **78,5%** (provável) | 50 a 88 | 66% |
-| P07 | Lula toma posse e os EUA mandam representante à cerimônia | 2027-01-05 | **76,5%** (provável) | 55 a 78 | 70% |
-| P08 | O governo dos EUA anuncia nova medida contra autoridade setor ou economia do Brasil | 2027-06-30 | **70%** (provável) | 62 a 80 | 62,5% |
-| P15 | Flávio segue nos EUA com autorização renovada residência ou asilo depois da parole | 2027-10-27 | **64%** (provável) | 45 a 72 | 65% |
-| P06 | Lula participa presencialmente da cúpula do G20 em Doral | 2026-12-15 | **56%** (provável) | 45 a 65 | 55% |
-| P05 | Trump e Lula conversam por telefone ou se encontram | 2026-12-15 | **44%** (improvável) | 25 a 50 | 40% |
-| P17 | Flávio lidera entre os nomes da direita numa pesquisa nacional para 2030 | 2027-12-31 | **40%** (improvável) | 17 a 55 | 39% |
-| P12 | O STF decreta a prisão de Flávio Bolsonaro | 2027-06-30 | **39%** (improvável) | 25 a 55 | 37,5% |
-| P10 | O Brasil concede agrément a Danny Perez como embaixador dos EUA | 2027-06-30 | **34%** (improvável) | 30 a 35 | 32,5% |
-| P18 | Câmara dos EUA faz audiência pública com o caso Flávio Bolsonaro entre os temas | 2027-06-30 | **28,5%** (improvável) | 22 a 45 | 18,5% |
-| P13 | O Brasil pede formalmente a extradição de Flávio Bolsonaro | 2027-12-31 | **26%** (improvável) | 20 a 35 | 19,5% |
-| P09 | Os EUA reduzem a tarifa de 25% da Seção 301 contra o Brasil | 2027-06-30 | **22,5%** (improvável) | 18 a 30 | 26% |
-| P16 | Flávio volta ao Brasil | 2028-12-31 | **16%** (muito improvável) | 6 a 30 | 18,5% |
-| P11 | Brasil e EUA assinam acordo governamental sobre minerais críticos | 2027-12-31 | **15%** (muito improvável) | 13 a 17 | 17% |
-| P21 | Os EUA aplicam sanção nominal nova (Magnitsky ou parecida) a autoridade brasileira | 2027-06-30 | **14,5%** (muito improvável) | 12 a 30 | 17% |
-| P22 | Banco brasileiro é sancionado pelos EUA ou punido por ligação com PCC ou CV | 2027-06-30 | **11%** (muito improvável) | 7 a 25 | 9% |
-| P04 | Trump se reúne em público com Flávio Bolsonaro | 2027-03-31 | **10%** (muito improvável) | 6 a 22 | 15% |
-| P19 | Departamento de Estado responde publicamente às 15 perguntas dos 25 democratas | 2026-12-31 | **9,5%** (muito improvável) | 6 a 25 | 11% |
-| P23 | O Brasil aplica medida concreta com base na Lei da Reciprocidade contra os EUA | 2027-06-30 | **7%** (muito improvável) | 6 a 15 | 7,5% |
-| P20 | Os EUA fazem ataque militar em solo ou águas territoriais brasileiras contra PCC ou Comando Vermelho sem aval do Brasil | 2029-01-20 | **4%** (quase nenhuma chance) | 3 a 8 | 5% |
-| P02 | Os EUA fazem ataque militar em solo ou águas territoriais brasileiras contra PCC ou Comando Vermelho sem aval do Brasil | 2027-12-31 | **2,5%** (quase nenhuma chance) | 1,5 a 5 | 2,75% |
-| P01 | Tropas americanas entram em território brasileiro sem autorização do governo do Brasil | 2030-12-31 | **1,75%** (quase nenhuma chance) | 1 a 3,5 | 1% |
-| P03 | O governo dos EUA reconhece Flávio Bolsonaro como presidente ou líder legítimo do Brasil | 2027-01-05 | **1,5%** (quase nenhuma chance) | 0,7 a 4 | 1,5% |
-| P14 | Os EUA entregam Flávio Bolsonaro ao Brasil | 2027-12-31 | **1,25%** (quase nenhuma chance) | 0,6 a 2 | 1% |
+| P06 | Lula participa presencialmente da cúpula do G20 em Doral | 2026-12-15 | **80,5%** (muito provável) | 72 a 85 | 85% |
+| P07 | Lula toma posse e os EUA mandam representante à cerimônia | 2027-01-05 | **66,5%** (provável) | 50 a 85 | 70% |
+| P08 | O governo dos EUA anuncia nova medida contra autoridade setor ou economia do Brasil | 2027-06-30 | **66%** (provável) | 62 a 75 | 53,5% |
+| P15 | Flávio segue nos EUA com autorização renovada residência ou asilo depois da parole | 2027-10-27 | **65%** (provável) | 55 a 75 | 56,5% |
+| P24 | O STF toma medida nova contra cidadão, empresa ou plataforma americana | 2027-06-30 | **57,5%** (provável) | 28 a 78 | 47,5% |
+| P05 | Trump e Lula conversam por telefone ou se encontram | 2026-12-15 | **51%** (chance parecida) | 30 a 70 | 63,5% |
+| P18 | Câmara dos EUA faz audiência pública com o caso Flávio Bolsonaro entre os temas | 2027-06-30 | **46,5%** (chance parecida) | 22 a 60 | 36% |
+| P17 | Flávio lidera entre os nomes da direita numa pesquisa nacional para 2030 | 2027-12-31 | **37,5%** (improvável) | 30 a 50 | 36% |
+| P10 | O Brasil concede agrément a Danny Perez como embaixador dos EUA | 2027-06-30 | **31,5%** (improvável) | 22 a 35 | 35% |
+| P12 | O STF decreta a prisão de Flávio Bolsonaro | 2027-06-30 | **25,5%** (improvável) | 6 a 50 | 29% |
+| P13 | O Brasil pede formalmente a extradição de Flávio Bolsonaro | 2027-12-31 | **24%** (improvável) | 12 a 30 | 18,5% |
+| P21 | Os EUA aplicam sanção nominal nova (Magnitsky ou parecida) a autoridade brasileira | 2027-06-30 | **20%** (muito improvável) | 13 a 25 | 16,5% |
+| P09 | Os EUA reduzem a tarifa de 25% da Seção 301 contra o Brasil | 2027-06-30 | **19%** (muito improvável) | 10 a 25 | 20% |
+| P11 | Brasil e EUA assinam acordo governamental sobre minerais críticos | 2027-12-31 | **18%** (muito improvável) | 9 a 20 | 17,5% |
+| P16 | Flávio volta ao Brasil | 2028-12-31 | **18%** (muito improvável) | 15 a 18 | 28,5% |
+| P19 | Departamento de Estado responde publicamente às 15 perguntas dos 25 democratas | 2026-12-31 | **17,5%** (muito improvável) | 7 a 22 | 13,5% |
+| P04 | Trump se reúne em público com Flávio Bolsonaro | 2027-03-31 | **13%** (muito improvável) | 6 a 25 | 12% |
+| P22 | Banco brasileiro é sancionado pelos EUA ou punido por ligação com PCC ou CV | 2027-06-30 | **13%** (muito improvável) | 9 a 15 | 9,5% |
+| P23 | O Brasil aplica medida concreta com base na Lei da Reciprocidade contra os EUA | 2027-06-30 | **9%** (muito improvável) | 6 a 15 | 8,5% |
+| P20 | Os EUA fazem ataque militar em solo ou águas territoriais brasileiras contra PCC ou Comando Vermelho sem aval do Brasil | 2029-01-20 | **6%** (muito improvável) | 3,5 a 9 | 7% |
+| P02 | Os EUA fazem ataque militar em solo ou águas territoriais brasileiras contra PCC ou Comando Vermelho sem aval do Brasil | 2027-12-31 | **3,75%** (quase nenhuma chance) | 2 a 5 | 4% |
+| P01 | Tropas americanas entram em território brasileiro sem autorização do governo do Brasil | 2030-12-31 | **2,75%** (quase nenhuma chance) | 1,5 a 3 | 1,75% |
+| P14 | Os EUA entregam Flávio Bolsonaro ao Brasil | 2027-12-31 | **1,75%** (quase nenhuma chance) | 1,5 a 2 | 2,75% |
+| P03 | O governo dos EUA reconhece Flávio Bolsonaro como presidente ou líder legítimo do Brasil | 2027-01-05 | **1,5%** (quase nenhuma chance) | 1 a 3 | 1,25% |
 
-**O que a história mudou nas IAs:** em média, 3,1 pontos. Nova medida contra o Brasil: de 62,5% para 70%. Na invasão: de 1% para 1,75%. Discordância média entre modelos: 16,6 pontos. Da rodada 1 para a 2, com o texto corrigido: P07 de 66,5% para 76,5%, P19 de 16% para 9,5%, P05 de 50% para 44%.
+**O que a história mudou nas IAs:** em média, 4,3 pontos. Nova medida contra o Brasil: de 53,5% para 66%. Na invasão: de 1,75% para 2,75%. Discordância média entre modelos: 16,9 pontos. Da rodada 1 para a 2, com o texto corrigido: P07 de 66,5% para 76,5%, P19 de 16% para 9,5%, P05 de 50% para 44%. Da rodada 2 (02/nov) para a 3 (04/nov), com os fatos novos: P06 de 56% para 80,5%, P24 de 78,5% para 57,5%, P18 de 28,5% para 46,5%; nos cenários, a pressão longa foi de 56,6% para 51,7%, dentro da discordância entre modelos.
 
-**Datas:** 03/nov midterms · 13/nov prazo de Rubio · nov G7 · 14 e 15/dez G20 · até 18/dez diplomação · 05/jan posse · 31/jan fim do mandato · 27/out/2027 fim da parole.
+**Datas:** ~~03/nov midterms~~ (democratas nas duas casas, pelas projeções) · 13/nov prazo de Rubio · nov G7 · 14 e 15/dez G20 · até 18/dez diplomação · 05/jan posse · 31/jan fim do mandato · 27/out/2027 fim da parole.
 
 ## 10. O que circula
 
@@ -251,9 +251,9 @@ Concordância entre as duas codificações: 85,7% das células, a maioria delas 
 - **Os números do TSE são matematicamente impossíveis** (Cartas e falas do Flávio): Alegação sem prova apresentada até aqui; a contagem foi testada nos vídeos da Investigação Aberta.
 - **Saiu porque é perseguido pelo Judiciário** (Cartas e falas do Flávio): A entrevista é dele e a acusação de perseguição é opinião; há inquéritos e ele nega; art. 53 e ADI 5526 dão base para questionar a medida, sem decisão sobre isso.
 
-## 11. Depois das previsões
+## 11. O que mudou de 02 a 04/nov
 
-As previsões foram gravadas em 02/nov e ficam como estão. O que saiu depois, conferido em 04/nov (`dados/depois_das_previsoes.csv`):
+A rodada 2 foi gravada em 02/nov e fica como está. A rodada 3, que este relatório usa, já leu estes fatos, conferidos em 04/nov (`dados/depois_das_previsoes.csv`):
 
 - **03/11:** Democratas ganham a Câmara e o Senado nas eleições de meio de mandato, pelas projeções (Decision Desk HQ: 258 cadeiras na Câmara e 55 no Senado); o novo Congresso começa em 03/01/2027. Fontes: CBS News (cbs-midterms), The Hill (thehill-midterms), CNN. A partir de janeiro, os democratas presidem as comissões e podem intimar; a audiência sobre o caso (P18) fica mais provável. As previsões ficam como foram gravadas.
 - **02/11:** O deputado Robert Garcia, líder democrata da Comissão de Supervisão, pede a Rubio que devolva o Flávio ao Brasil e quer respostas e documentos até 13/11, incluindo os papéis da parole. Fontes: Oversight Democrats (oversight-garcia-rubio), Rio Times (riotimes-garcia-devolver). É uma 2ª carta com o mesmo prazo da carta dos 25; enquanto ele é minoria, é pedido sem força de intimação.
@@ -264,7 +264,7 @@ As previsões foram gravadas em 02/nov e ficam como estão. O que saiu depois, c
 - **13/08:** A fala de Hegseth no Panamá, que circula como "PCC e CV são alvos legítimos": ele falou de organizações terroristas designadas em geral, sem anunciar operação no Brasil. Fontes: Revista Oeste (oeste-hegseth-alvos), Rondonotícias (rondo-hegseth-alvos), Correio da Mata. Nenhuma; o sinal "declaração do Departamento de Defesa sobre o Brasil" segue como não.
 - **04/11:** Nenhuma fala nova de Trump sobre o Brasil, nenhuma resposta do Departamento de Estado às cartas, nenhuma decisão nova do STF sobre o Flávio e nenhuma medida americana nova contra o Brasil foram achadas. Fontes: buscas de 04/nov. Nenhuma.
 
-**Leitura:** nada disso derruba as conclusões. O Congresso americano fica mais caro para a Casa Branca no caso, e a ida do Lula ao G20 é o sinal esperado na pressão longa.
+**Leitura:** nada disso derruba as conclusões. O Congresso americano fica mais caro para a Casa Branca no caso, e a ida do Lula ao G20 é o sinal esperado na pressão longa. Na rodada 3, a ida do Lula ao G20 foi de 56% para 80,5%, e uma audiência sobre o caso na Câmara de 28,5% para 46,5%.
 
 ## 12. Validação
 

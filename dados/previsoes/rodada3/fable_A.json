@@ -1,0 +1,36 @@
+{
+  "modelo": "fable",
+  "condicao": "A",
+  "perguntas": {
+    "P01": {"p": 3, "porque": "Invasão terrestre de um país grande com governo reconhecido pela OEA quase não acontece, e Trump disse que não vai se envolver; sobra só o risco de um governo imprevisível ao longo de 4 anos."},
+    "P02": {"p": 5, "porque": "A designação do PCC e do CV como terroristas abre a porta jurídica, mas ataques americanos sem aval se concentraram em barcos no Caribe e no Pacífico, longe do Atlântico Sul, e o Departamento de Estado negou a opção militar."},
+    "P03": {"p": 3, "porque": "Reconhecer um candidato derrotado numa eleição validada pela OEA e pelo Carter Center, com o próprio partido dele reconhecendo o resultado, não tem precedente nos EUA, e Trump já disse que não tem planos de apoiar a pretensão."},
+    "P04": {"p": 25, "porque": "Trump disse que não planeja encontrá-lo, mas Flávio está em Miami, perto de Mar-a-Lago, com Eduardo e Jason Miller no círculo, e uma foto informal em 5 meses é fácil de acontecer se o clima mudar."},
+    "P05": {"p": 72, "porque": "Com Lula confirmado no G20 que Trump sedia em Doral, algum contato presencial confirmado por um dos governos é o desfecho mais provável, mesmo sem bilateral marcada; o risco é Lula desistir da viagem."},
+    "P06": {"p": 78, "porque": "Presidente que confirma presença em cúpula costuma ir, mas a tensão em torno de Flávio e a saúde de Lula aos 81 anos tiram alguns pontos."},
+    "P07": {"p": 75, "porque": "Mandar ao menos o encarregado de negócios à posse é o padrão americano mesmo com governos hostis, e Trump disse que gosta do Lula; o risco é um boicote deliberado como gesto a Flávio."},
+    "P08": {"p": 62, "porque": "Este governo tomou medida nova contra o Brasil a cada poucos meses em 2025 e 2026, e a pergunta aceita qualquer tipo, então 8 meses sem nada seria a exceção."},
+    "P09": {"p": 22, "porque": "Tarifa de Seção 301 raramente recua sem acordo fechado, e o Brasil nem aprovou o embaixador; só um entendimento no G20 ou depois da posse mudaria isso."},
+    "P10": {"p": 35, "porque": "O agrément é a moeda barata de um degelo depois da posse, mas o Brasil está segurando há 3 meses de propósito e a saída de Flávio para Miami deixou o gesto mais caro politicamente."},
+    "P11": {"p": 22, "porque": "Os EUA assinam memorandos de minerais com muitos países, mas o governo Lula é protetor nesse tema e o inquérito sobre terras raras em troca de apoio torna qualquer acordo tóxico por um tempo."},
+    "P12": {"p": 48, "porque": "Ele violou uma ordem judicial ao sair, tem 3 inquéritos e perde a imunidade em 31/01/2027, e Moraes tem histórico de agir; o freio é o custo diplomático de prender alguém abrigado por Trump."},
+    "P13": {"p": 38, "porque": "O pedido de extradição depende de prisão decretada antes e de o governo aceitar o atrito com Washington; o tratado existe, então se a prisão sair, o pedido tende a seguir."},
+    "P14": {"p": 3, "porque": "Trump disse que ele pode ficar quanto quiser e o deu parole por decisão própria; entrega em 2027 exigiria uma virada completa."},
+    "P15": {"p": 62, "porque": "Com parole até 10/2027 e pedido de green card ou asilo no caminho, o caminho normal é alguma autorização confirmada antes do vencimento; o risco é ele mudar para outro país ou o governo só renovar sem anunciar."},
+    "P16": {"p": 15, "porque": "Quem sai com prisão à vista raramente volta em 2 anos, e Eduardo não voltou; só uma anistia ampla ou um acordo mudaria o cálculo."},
+    "P17": {"p": 52, "porque": "Quem acabou de ter 48% dos votos costuma liderar as primeiras pesquisas do próprio campo, mas Tarcísio reconheceu o resultado e tende a crescer enquanto Flávio fica fora do país."},
+    "P18": {"p": 62, "porque": "Os democratas assumem as comissões em janeiro e Robert Garcia já cobra o caso na Supervisão, então uma audiência que toque no tema em 6 meses é mais provável que não."},
+    "P19": {"p": 22, "porque": "Governos costumam ignorar cartas da minoria, e o Departamento de Estado de Rubio tem sido hostil a essa cobrança; a resposta pública vira mais provável só quando a intimação for possível em 2027."},
+    "P20": {"p": 9, "porque": "Até o fim do mandato de Trump, com PCC e CV designados e um governo que já atacou alvos sem aval em outros países, o risco acumula, mas o Brasil é maior e mais distante que os casos anteriores."},
+    "P21": {"p": 30, "porque": "Há precedente de Magnitsky contra autoridade brasileira e uma prisão decretada contra Flávio seria o gatilho natural, mas Trump sinalizou distância do caso."},
+    "P22": {"p": 20, "porque": "A designação terrorista permite punir bancos, e houve ordens do FinCEN contra bancos mexicanos depois de designação parecida, mas até aqui não surgiu nenhum alvo brasileiro nomeado."},
+    "P23": {"p": 18, "porque": "O Brasil evitou retaliar em todo o ciclo de tarifas e prefere abrir exames; a reeleição dá mais folga a Lula, mas o custo de escalar segue alto."},
+    "P24": {"p": 65, "porque": "O STF tem rotina de multar e bloquear plataformas americanas e agora tem americanos ligados ao jato e ao abrigo de Flávio no horizonte, então 8 meses sem uma ordem nova seria incomum."}
+  },
+  "cenarios": {
+    "C1": 58,
+    "C2": 18,
+    "C3": 19,
+    "C4": 5
+  }
+}

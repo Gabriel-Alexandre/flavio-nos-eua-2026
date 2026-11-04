@@ -239,7 +239,7 @@ def g10_cenarios():
     ax.get_xaxis().set_visible(False)
     ax.spines["bottom"].set_visible(False)
     ax.spines["left"].set_visible(False)
-    salvar(fig, "g10_cenarios", "previsões registradas em commit em 02/nov/2026; são estimativas, e não fatos")
+    salvar(fig, "g10_cenarios", "previsões da rodada 3, registradas em commit em 04/nov/2026; são estimativas, e não fatos")
 
 
 def g11_previsoes():

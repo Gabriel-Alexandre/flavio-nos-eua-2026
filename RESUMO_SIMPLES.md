@@ -8,9 +8,9 @@
 
 **O que a história diz:** dos 22 abrigados nos EUA, 3 chegaram ao poder. Em até 12 anos, só Diem e Aristide, um nomeado com apoio americano e outro com tropas. Por eleição, contando uma saída por pessoa, levou de 13 a 18 anos, e Benazir Bhutto, em 1984 a 1988, fica fora dessa conta. A frase "abrigo não leva ao poder" caiu pela regra escrita antes: Kim Dae-jung foi eleito. O que fica: a porta aberta não é caminho rápido, e o grupo político pode seguir sem a pessoa.
 
-**Vão invadir?** Tropas sem autorização: 1,75% até 2030. Ataque contra facção sem aval: 4% até o fim do governo Trump. Dos 16 tipos de sinal que vieram antes de Maduro, 8 não aparecem hoje, e do começo da fila o Brasil tem a designação. O risco mais próximo é econômico: tarifa, visto e banco.
+**Vão invadir?** Tropas sem autorização: 2,75% até 2030. Ataque contra facção sem aval: 6% até o fim do governo Trump. Dos 16 tipos de sinal que vieram antes de Maduro, 8 não aparecem hoje, e do começo da fila o Brasil tem a designação. O risco mais próximo é econômico: tarifa, visto e banco.
 
-**O que esperar:** a pressão longa (57%), o acordo (19%), a escalada (22%), a força (3%).
+**O que esperar:** a pressão longa (52%), o acordo (20%), a escalada (23%), a força (4%).
 
 **O limite:** amostra pequena; Trump muda de ideia; as IAs são todas da mesma empresa. As previsões ficaram registradas para serem cobradas.
 
