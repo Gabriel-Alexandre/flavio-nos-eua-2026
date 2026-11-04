@@ -230,7 +230,15 @@ Concordância entre as duas codificações: {br(E6['concordancia_segunda_codific
 
 {chr(10).join(f"- **{l['afirmacao']}** ({l['canal']}): {l['o_que_e_real']}." for l in csv.DictReader((RAIZ / 'dados' / 'e9_o_que_circula.csv').open(encoding='utf-8')))}
 
-## 11. Validação
+## 11. Depois das previsões
+
+As previsões foram gravadas em 02/nov e ficam como estão. O que saiu depois, conferido em 04/nov (`dados/depois_das_previsoes.csv`):
+
+{chr(10).join(f"- **{l['data'][8:10]}/{l['data'][5:7]}:** {l['fato']}. Fontes: {l['fontes']}. {l['o_que_muda']}." for l in csv.DictReader((RAIZ / 'dados' / 'depois_das_previsoes.csv').open(encoding='utf-8')))}
+
+**Leitura:** nada disso derruba as conclusões. O Congresso americano fica mais caro para a Casa Branca no caso, e a ida do Lula ao G20 é o sinal esperado na pressão longa.
+
+## 12. Validação
 
 - Citações: {cit}.
 - Aritmética: {val_ok} de {len(VAL)} contas refeitas por outro caminho, em `resultados/validacao_independente.csv`, com os exilados recontados sobre a 2ª passada. Isso confere a conta, e não o julgamento de quem entrou em cada grupo.

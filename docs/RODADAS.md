@@ -33,6 +33,10 @@ Da rodada 1 para a 2, os cenários foram para 56,6 / 18,7 / 21,7 / 3,0 e os núm
 
 A leitura frase a frase do roteiro (`VIDEO_022/CONFERENCIA_DO_ROTEIRO.md`, na documentação) voltou para cá: Benazir Bhutto fica fora da conta de uma saída por pessoa e isso passa a ser dito; o relógio da Venezuela vale só para a designação; a Reuters relata contato com funcionários americanos no caminho. As previsões não mudaram.
 
+## Atualização de 04/nov, sem previsão nova
+
+Busca dos fatos de 02 a 04/nov, guardada em `dados/depois_das_previsoes.csv` e no §11 do relatório: os democratas ganham a Câmara e o Senado (projeção de 04/nov), o deputado Robert Garcia pede a Rubio que devolva o Flávio, o Flávio registra presença no Senado de Miami, o Lula confirma o G20. Nenhuma conclusão mudou e as previsões de 02/nov não foram refeitas, porque o valor delas é ter data antes desses fatos.
+
 ## O que falta olhar
 
-03/nov midterms · 13/nov prazo de Rubio · G7 · 14 e 15/dez G20 · 18/dez diplomação · 05/jan posse · 31/jan fim do mandato · 27/out/2027 fim da parole.
+~~03/nov midterms~~ (democratas na frente nas duas casas) · 13/nov prazo de Rubio · G7 · 14 e 15/dez G20 · 18/dez diplomação · 05/jan posse · 31/jan fim do mandato · 27/out/2027 fim da parole.

@@ -251,7 +251,22 @@ Concordância entre as duas codificações: 85,7% das células, a maioria delas 
 - **Os números do TSE são matematicamente impossíveis** (Cartas e falas do Flávio): Alegação sem prova apresentada até aqui; a contagem foi testada nos vídeos da Investigação Aberta.
 - **Saiu porque é perseguido pelo Judiciário** (Cartas e falas do Flávio): A entrevista é dele e a acusação de perseguição é opinião; há inquéritos e ele nega; art. 53 e ADI 5526 dão base para questionar a medida, sem decisão sobre isso.
 
-## 11. Validação
+## 11. Depois das previsões
+
+As previsões foram gravadas em 02/nov e ficam como estão. O que saiu depois, conferido em 04/nov (`dados/depois_das_previsoes.csv`):
+
+- **03/11:** Democratas ganham a Câmara e o Senado nas eleições de meio de mandato, pelas projeções (Decision Desk HQ: 258 cadeiras na Câmara e 55 no Senado); o novo Congresso começa em 03/01/2027. Fontes: CBS News (cbs-midterms), The Hill (thehill-midterms), CNN. A partir de janeiro, os democratas presidem as comissões e podem intimar; a audiência sobre o caso (P18) fica mais provável. As previsões ficam como foram gravadas.
+- **02/11:** O deputado Robert Garcia, líder democrata da Comissão de Supervisão, pede a Rubio que devolva o Flávio ao Brasil e quer respostas e documentos até 13/11, incluindo os papéis da parole. Fontes: Oversight Democrats (oversight-garcia-rubio), Rio Times (riotimes-garcia-devolver). É uma 2ª carta com o mesmo prazo da carta dos 25; enquanto ele é minoria, é pedido sem força de intimação.
+- **03/11:** Flávio registra presença à distância, de Miami, na sessão do Senado que aprovou em 1º turno a PEC da Segurança (73 a 0), depois de Alcolumbre habilitar o celular novo; se chegou a votar tem versões diferentes. Fontes: Jornal de Brasília (jbr-flavio-vota-remoto), 96 FM (96fm-flavio-presenca). Ele segue exercendo o mandato de fora, o que afasta a perda do mandato por faltas; nada muda na data de 31/01/2027.
+- **01/11:** Lula confirma a ida ao G20 de Doral, em 14 e 15/12, sem reunião bilateral com Trump prevista. Fontes: Correio da Manhã (correio-lula-g20), TVT (tvt-lula-g20). A favor do sim na P06 (56%); a P05, conversa Trump e Lula até 15/12, segue sem sinal.
+- **01/11:** Primeira aparição pública do Flávio nos EUA, num culto com Eduardo; à Jovem Pan disse que vai dar entrevista depois das eleições americanas, primeiro a um veículo internacional. Fontes: Metrópoles (metropoles-culto), O Povo (opovo-culto), Jovem Pan (jovempan-flavio-fala). Nenhuma; a entrevista anunciada é o próximo fato a conferir antes de gravar.
+- **03/11:** Parlamentares do PL planejam visitar o Flávio em Miami depois de 15/11, em viagem descrita como pessoal. Fontes: CNN Brasil (cnnbrasil-visitas). Nenhuma.
+- **13/08:** A fala de Hegseth no Panamá, que circula como "PCC e CV são alvos legítimos": ele falou de organizações terroristas designadas em geral, sem anunciar operação no Brasil. Fontes: Revista Oeste (oeste-hegseth-alvos), Rondonotícias (rondo-hegseth-alvos), Correio da Mata. Nenhuma; o sinal "declaração do Departamento de Defesa sobre o Brasil" segue como não.
+- **04/11:** Nenhuma fala nova de Trump sobre o Brasil, nenhuma resposta do Departamento de Estado às cartas, nenhuma decisão nova do STF sobre o Flávio e nenhuma medida americana nova contra o Brasil foram achadas. Fontes: buscas de 04/nov. Nenhuma.
+
+**Leitura:** nada disso derruba as conclusões. O Congresso americano fica mais caro para a Casa Branca no caso, e a ida do Lula ao G20 é o sinal esperado na pressão longa.
+
+## 12. Validação
 
 - Citações: 850 trechos: 766 achados na página capturada, 19 com diferença pequena de redação, 23 são respostas de API, 38 em páginas que recusam o robô (quase todas da Britannica, usada na 2ª passada) e 4 não achados, listados em `resultados/citacoes.csv`.
 - Aritmética: 38 de 38 contas refeitas por outro caminho, em `resultados/validacao_independente.csv`, com os exilados recontados sobre a 2ª passada. Isso confere a conta, e não o julgamento de quem entrou em cada grupo.
